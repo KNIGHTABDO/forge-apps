@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>FORGE | Advanced Task Manager</title>
+    <title>FORGE | Todo Manager</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
         :root {
@@ -29,16 +29,16 @@
 <body>
 
 <div class="container">
-    <h1>Task Manager</h1>
+    <h1>Todo Manager</h1>
     
     <div class="card">
-        <input type="text" id="taskInput" placeholder="New task name...">
+        <input type="text" id="taskInput" placeholder="What needs to be done?">
         <select id="priorityInput">
             <option value="high">High Priority</option>
             <option value="med" selected>Medium Priority</option>
             <option value="low">Low Priority</option>
         </select>
-        <button onclick="addTask()">Add Task</button>
+        <button onclick="addTask()">Add Todo</button>
     </div>
 
     <div class="card" id="taskList">
@@ -62,11 +62,11 @@
     function addTask() {
         const input = document.getElementById('taskInput');
         const prio = document.getElementById('priorityInput');
-        if (!input.value) return;
+        if (!input.value.trim()) return;
         
         tasks.push({
             id: Date.now(),
-            text: input.value,
+            text: input.value.trim(),
             priority: prio.value,
             done: false
         });
@@ -87,12 +87,12 @@
     function render() {
         const list = document.getElementById('taskList');
         if (tasks.length === 0) {
-            list.innerHTML = '<div class="empty">No tasks yet. Get productive!</div>';
+            list.innerHTML = '<div class="empty">No todos yet. Add one above!</div>';
             return;
         }
         list.innerHTML = tasks.map(t => `
             <div class="task-item priority-${t.priority}">
-                <input type="checkbox" ${t.done ? 'checked' : ''} onchange="toggleTask(${t.id})" style="width:auto">
+                <input type="checkbox" ${t.done ? 'checked' : ''} onchange="toggleTask(${t.id})" style="width:auto; cursor:pointer">
                 <span style="flex:1" class="${t.done ? 'done' : ''}">${t.text}</span>
                 <button onclick="deleteTask(${t.id})" style="width:auto;padding:5px 10px;background:var(--danger)">×</button>
             </div>
@@ -100,12 +100,13 @@
     }
 
     function exportCSV() {
-        const csv = "ID,Text,Priority,Status\n" + tasks.map(t => `${t.id},"${t.text}",${t.priority},${t.done}`).join('\n');
-        const blob = new Blob([csv], { type: 'text/csv' });
+        const header = "ID,Text,Priority,Status\n";
+        const rows = tasks.map(t => `${t.id},"${t.text.replace(/"/g, '""')}",${t.priority},${t.done}`).join('\n');
+        const blob = new Blob([header + rows], { type: 'text/csv' });
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
-        a.download = 'tasks.csv';
+        a.download = 'my-todos.csv';
         a.click();
     }
 
