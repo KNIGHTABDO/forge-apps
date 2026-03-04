@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Forge Pomodoro</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        .container { width: 100%; max-width: 400px; background: var(--s1); padding: 2rem; border-radius: 12px; border: 1px solid var(--border); }
+        .timer-display { font-size: 5rem; font-weight: 600; text-align: center; margin: 1rem 0; font-variant-numeric: tabular-nums; }
+        .controls { display: flex; gap: 10px; justify-content: center; margin-bottom: 2rem; }
+        button { cursor: pointer; padding: 10px 20px; border-radius: 6px; border: none; font-weight: 600; transition: 0.15s; background: var(--s3); color: white; }
+        button:hover { background: var(--border); }
+        button.primary { background: var(--accent); }
+        button.primary:hover { background: var(--accent-h); }
+        .settings { border-top: 1px solid var(--border); padding-top: 1rem; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        .setting-field { display: flex; flex-direction: column; gap: 5px; }
+        input { background: var(--s2); border: 1px solid var(--border); color: white; padding: 8px; border-radius: 4px; }
+        label { font-size: 0.8rem; color: var(--muted); }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div id="status" style="text-align:center; color:var(--muted); text-transform:uppercase; letter-spacing:1px; font-size:0.8rem">Work</div>
+    <div class="timer-display" id="display">25:00</div>
+    <div class="controls">
+        <button id="startBtn" class="primary">Start</button>
+        <button id="resetBtn">Reset</button>
+    </div>
+    <div class="settings">
+        <div class="setting-field">
+            <label>Work (min)</label>
+            <input type="number" id="workInput" value="25">
+        </div>
+        <div class="setting-field">
+            <label>Break (min)</label>
+            <input type="number" id="breakInput" value="5">
+        </div>
+    </div>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px">Built with <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-pomodoro-v1';
+    let timeLeft, timerId = null, isWork = true;
+    
+    const display = document.getElementById('display');
+    const startBtn = document.getElementById('startBtn');
+    const resetBtn = document.getElementById('resetBtn');
+    const workInput = document.getElementById('workInput');
+    const breakInput = document.getElementById('breakInput');
+    const status = document.getElementById('status');
+
+    const load = () => JSON.parse(localStorage.getItem(KEY)) || { work: 25, break: 5 };
+    const save = () => localStorage.setItem(KEY, JSON.stringify({ work: parseInt(workInput.value), break: parseInt(breakInput.value) }));
+
+    function updateDisplay() {
+        const m = Math.floor(timeLeft / 60);
+        const s = timeLeft % 60;
+        display.textContent = `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+    }
+
+    function toggleTimer() {
+        if (timerId) {
+            clearInterval(timerId);
+            timerId = null;
+            startBtn.textContent = 'Start';
+        } else {
+            startBtn.textContent = 'Pause';
+            timerId = setInterval(() => {
+                timeLeft--;
+                updateDisplay();
+                if (timeLeft <= 0) {
+                    clearInterval(timerId);
+                    timerId = null;
+                    alert(isWork ? "Work complete! Take a break." : "Break over! Back to work.");
+                    isWork = !isWork;
+                    reset();
+                }
+            }, 1000);
+        }
+    }
+
+    function reset() {
+        clearInterval(timerId);
+        timerId = null;
+        startBtn.textContent = 'Start';
+        const settings = load();
+        timeLeft = (isWork ? settings.work : settings.break) * 60;
+        status.textContent = isWork ? "Work" : "Break";
+        updateDisplay();
+    }
+
+    startBtn.addEventListener('click', toggleTimer);
+    resetBtn.addEventListener('click', () => { isWork = true; reset(); });
+    workInput.addEventListener('change', () => { save(); reset(); });
+    breakInput.addEventListener('change', () => { save(); reset(); });
+
+    const settings = load();
+    workInput.value = settings.work;
+    breakInput.value = settings.break;
+    reset();
+</script>
+</body>
+</html>
