@@ -2,8 +2,8 @@
   "title": "Advanced todo list",
   "description": "",
   "tags": [],
-  "created": "2026-03-04T19:05:53.049Z",
-  "updated": "2026-03-04T19:05:53.049Z",
+  "created": "2026-03-04T19:06:25.943Z",
+  "updated": "2026-03-04T19:06:25.943Z",
   "promptHistory": [
     {
       "role": "user",
@@ -14,6 +14,17 @@
       "role": "assistant",
       "content": "Tool built ✓",
       "at": "2026-03-04T19:05:41.141Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "Chane it to todo manager",
+      "at": "2026-03-04T19:06:13.329Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-04T19:06:13.330Z",
       "isGenerating": false
     }
   ]
