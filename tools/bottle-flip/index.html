@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bottle Flip Challenge</title>
+    <style>
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e; --warning:#f59e0b;
+        }
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container { width: 100%; max-width: 400px; text-align: center; }
+        .counter-box {
+            background: var(--s1);
+            padding: 2rem;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            margin-bottom: 20px;
+        }
+        .count-display { font-size: 4rem; font-weight: bold; margin: 10px 0; color: var(--accent); }
+        .controls { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        button {
+            padding: 15px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 150ms;
+        }
+        .btn-success { background: var(--success); color: white; }
+        .btn-success:hover { background: #16a34a; }
+        .btn-danger { background: var(--danger); color: white; }
+        .btn-danger:hover { background: #dc2626; }
+        .btn-reset { background: var(--s3); color: var(--text); grid-column: span 2; }
+        .stats { margin-top: 20px; color: var(--muted); font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Bottle Flip</h1>
+    
+    <div class="counter-box">
+        <div>LANDED</div>
+        <div id="landed" class="count-display">0</div>
+        <div class="controls">
+            <button class="btn-success" onclick="update(1)">Landed (+1)</button>
+            <button class="btn-danger" onclick="update(-1)">Missed (-1)</button>
+            <button class="btn-reset" onclick="reset()">Reset Counter</button>
+        </div>
+    </div>
+
+    <div class="stats">
+        Total Attempts: <span id="total">0</span>
+    </div>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px">Built with <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-bottle-flip-v1';
+    
+    let data = JSON.parse(localStorage.getItem(KEY)) || { landed: 0, total: 0 };
+
+    function update(val) {
+        data.landed = Math.max(0, data.landed + (val > 0 ? 1 : 0));
+        data.total = Math.max(0, data.total + 1);
+        save();
+        render();
+    }
+
+    function reset() {
+        if(confirm('Reset all progress?')) {
+            data = { landed: 0, total: 0 };
+            save();
+            render();
+        }
+    }
+
+    function save() { localStorage.setItem(KEY, JSON.stringify(data)); }
+
+    function render() {
+        document.getElementById('landed').textContent = data.landed;
+        document.getElementById('total').textContent = data.total;
+    }
+
+    // Initialize
+    render();
+</script>
+
+</body>
+</html>
