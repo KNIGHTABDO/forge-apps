@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SecurePass Generator</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e; --warning:#f59e0b;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; justify-content: center; }
+        .card { background: var(--s1); padding: 2rem; border-radius: 12px; border: 1px solid var(--border); width: 100%; max-width: 400px; }
+        h1 { font-size: 1.25rem; margin-top: 0; }
+        .output-box { background: var(--s2); padding: 1rem; border-radius: 8px; border: 1px solid var(--border); font-family: monospace; font-size: 1.2rem; margin: 1rem 0; word-break: break-all; text-align: center; color: var(--accent); }
+        .meter { height: 6px; border-radius: 3px; background: var(--s3); margin: 10px 0; overflow: hidden; }
+        .meter-fill { height: 100%; width: 0%; transition: width 0.3s, background 0.3s; }
+        .controls { display: grid; gap: 1rem; }
+        label { font-size: 0.85rem; color: var(--muted); display: block; margin-bottom: 5px; }
+        input[type="range"] { width: 100%; }
+        button { background: var(--accent); color: white; border: none; padding: 12px; border-radius: 6px; cursor: pointer; font-weight: 600; width: 100%; margin-top: 10px; }
+        button:hover { background: var(--accent-h); }
+        .checkbox-group { display: flex; justify-content: space-between; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>Password Generator</h1>
+    <div id="output" class="output-box">Generate password</div>
+    <div class="meter"><div id="strengthMeter" class="meter-fill"></div></div>
+    <div id="strengthText" style="font-size: 0.75rem; color: var(--muted); text-align: center;">Strength: None</div>
+
+    <div class="controls" style="margin-top: 20px;">
+        <div>
+            <label>Length: <span id="lenVal">16</span></label>
+            <input type="range" id="length" min="8" max="64" value="16">
+        </div>
+        <div class="checkbox-group">
+            <label><input type="checkbox" id="upper" checked> Uppercase</label>
+            <label><input type="checkbox" id="lower" checked> Lowercase</label>
+        </div>
+        <div class="checkbox-group">
+            <label><input type="checkbox" id="numbers" checked> Numbers</label>
+            <label><input type="checkbox" id="symbols" checked> Symbols</label>
+        </div>
+        <button id="generate">Generate Password</button>
+        <button id="copy" style="background: var(--s3);">Copy to Clipboard</button>
+    </div>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px">Built with <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-passgen-v1';
+    const output = document.getElementById('output');
+    const lengthInput = document.getElementById('length');
+    const lenVal = document.getElementById('lenVal');
+    const strengthMeter = document.getElementById('strengthMeter');
+    const strengthText = document.getElementById('strengthText');
+
+    const generate = () => {
+        const len = parseInt(lengthInput.value);
+        const chars = {
+            upper: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+            lower: "abcdefghijklmnopqrstuvwxyz",
+            numbers: "0123456789",
+            symbols: "!@#$%^&*()_+~`|}{[]:;?><,./-="
+        };
+        let pool = "";
+        if(document.getElementById('upper').checked) pool += chars.upper;
+        if(document.getElementById('lower').checked) pool += chars.lower;
+        if(document.getElementById('numbers').checked) pool += chars.numbers;
+        if(document.getElementById('symbols').checked) pool += chars.symbols;
+
+        if(!pool) return alert("Select at least one character type");
+
+        let pass = "";
+        for(let i = 0; i < len; i++) {
+            pass += pool.charAt(Math.floor(Math.random() * pool.length));
+        }
+        output.textContent = pass;
+        updateStrength(pass);
+        localStorage.setItem(KEY, JSON.stringify({last: pass}));
+    };
+
+    const updateStrength = (pass) => {
+        let score = 0;
+        if(pass.length > 12) score += 25;
+        if(/[A-Z]/.test(pass)) score += 25;
+        if(/[0-9]/.test(pass)) score += 25;
+        if(/[^A-Za-z0-9]/.test(pass)) score += 25;
+        
+        strengthMeter.style.width = score + "%";
+        if(score < 50) { strengthMeter.style.background = 'var(--danger)'; strengthText.textContent = 'Weak'; }
+        else if(score < 75) { strengthMeter.style.background = 'var(--warning)'; strengthText.textContent = 'Medium'; }
+        else { strengthMeter.style.background = 'var(--success)'; strengthText.textContent = 'Strong'; }
+    };
+
+    document.getElementById('generate').addEventListener('click', generate);
+    lengthInput.addEventListener('input', () => { lenVal.textContent = lengthInput.value; });
+    document.getElementById('copy').addEventListener('click', () => {
+        navigator.clipboard.writeText(output.textContent);
+    });
+
+    const saved = JSON.parse(localStorage.getItem(KEY));
+    if(saved && saved.last) {
+        output.textContent = saved.last;
+        updateStrength(saved.last);
+    }
+</script>
+</body>
+</html>
