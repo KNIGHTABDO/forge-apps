@@ -11,21 +11,28 @@
             --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
             --danger:#ef4444; --success:#22c55e;
         }
-        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
-        .container { width: 100%; max-width: 400px; background: var(--s1); padding: 2rem; border-radius: 12px; border: 1px solid var(--border); }
+        [data-theme='light'] {
+            --bg:#f8fafc; --s1:#ffffff; --s2:#f1f5f9; --s3:#e2e8f0; --border:#cbd5e1;
+            --text:#0f172a; --muted:#64748b; --accent:#2563eb; --accent-h:#1d4ed8;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; min-height: 100vh; transition: background 0.3s; }
+        .container { width: 100%; max-width: 400px; background: var(--s1); padding: 2rem; border-radius: 12px; border: 1px solid var(--border); transition: background 0.3s; }
         .timer-display { font-size: 5rem; font-weight: 600; text-align: center; margin: 1rem 0; font-variant-numeric: tabular-nums; }
         .controls { display: flex; gap: 10px; justify-content: center; margin-bottom: 2rem; }
-        button { cursor: pointer; padding: 10px 20px; border-radius: 6px; border: none; font-weight: 600; transition: 0.15s; background: var(--s3); color: white; }
+        button { cursor: pointer; padding: 10px 20px; border-radius: 6px; border: none; font-weight: 600; transition: 0.15s; background: var(--s3); color: var(--text); }
         button:hover { background: var(--border); }
-        button.primary { background: var(--accent); }
+        button.primary { background: var(--accent); color: white; }
         button.primary:hover { background: var(--accent-h); }
         .settings { border-top: 1px solid var(--border); padding-top: 1rem; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
         .setting-field { display: flex; flex-direction: column; gap: 5px; }
-        input { background: var(--s2); border: 1px solid var(--border); color: white; padding: 8px; border-radius: 4px; }
+        input { background: var(--s2); border: 1px solid var(--border); color: var(--text); padding: 8px; border-radius: 4px; }
         label { font-size: 0.8rem; color: var(--muted); }
+        .theme-toggle { position: absolute; top: 20px; right: 20px; padding: 8px; }
     </style>
 </head>
 <body>
+
+<button id="themeBtn" class="theme-toggle">Toggle Mode</button>
 
 <div class="container">
     <div id="status" style="text-align:center; color:var(--muted); text-transform:uppercase; letter-spacing:1px; font-size:0.8rem">Work</div>
@@ -58,9 +65,14 @@
     const workInput = document.getElementById('workInput');
     const breakInput = document.getElementById('breakInput');
     const status = document.getElementById('status');
+    const themeBtn = document.getElementById('themeBtn');
 
-    const load = () => JSON.parse(localStorage.getItem(KEY)) || { work: 25, break: 5 };
-    const save = () => localStorage.setItem(KEY, JSON.stringify({ work: parseInt(workInput.value), break: parseInt(breakInput.value) }));
+    const load = () => JSON.parse(localStorage.getItem(KEY)) || { work: 25, break: 5, theme: 'dark' };
+    const save = () => localStorage.setItem(KEY, JSON.stringify({ 
+        work: parseInt(workInput.value), 
+        break: parseInt(breakInput.value),
+        theme: document.body.dataset.theme || 'dark'
+    }));
 
     function updateDisplay() {
         const m = Math.floor(timeLeft / 60);
@@ -99,6 +111,12 @@
         updateDisplay();
     }
 
+    themeBtn.addEventListener('click', () => {
+        const newTheme = document.body.dataset.theme === 'light' ? 'dark' : 'light';
+        document.body.dataset.theme = newTheme;
+        save();
+    });
+
     startBtn.addEventListener('click', toggleTimer);
     resetBtn.addEventListener('click', () => { isWork = true; reset(); });
     workInput.addEventListener('change', () => { save(); reset(); });
@@ -107,6 +125,7 @@
     const settings = load();
     workInput.value = settings.work;
     breakInput.value = settings.break;
+    document.body.dataset.theme = settings.theme;
     reset();
 </script>
 </body>
