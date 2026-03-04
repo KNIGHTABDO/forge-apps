@@ -1,0 +1,20 @@
+{
+  "title": "X O game",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-04T19:13:46.536Z",
+  "updated": "2026-03-04T19:13:46.536Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "X O game",
+      "at": "2026-03-04T19:13:27.739Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tool built ✓",
+      "at": "2026-03-04T19:13:27.740Z",
+      "isGenerating": false
+    }
+  ]
+}
