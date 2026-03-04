@@ -1,0 +1,64 @@
+{
+  "title": "Snake game",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-04T19:13:11.371Z",
+  "updated": "2026-03-04T19:13:11.371Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "Snake game",
+      "at": "2026-03-04T19:07:52.307Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tool built ✓",
+      "at": "2026-03-04T19:07:52.308Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "Add levels",
+      "at": "2026-03-04T19:09:02.762Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-04T19:09:02.763Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "Prevent the target to be in hard places in beginning levels",
+      "at": "2026-03-04T19:09:51.293Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-04T19:09:51.293Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "Have a problem , when i go right i cant directly go left after that and vise versa , i need to go up or down to have it working , fix that",
+      "at": "2026-03-04T19:11:04.506Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-04T19:11:04.507Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "Ability to go to opposite direction after going to on a direction is not working , i need to go up or down before i go left after i went right ,same for up and down etc so fix this",
+      "at": "2026-03-04T19:12:32.977Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-04T19:12:32.978Z",
+      "isGenerating": false
+    }
+  ]
+}
