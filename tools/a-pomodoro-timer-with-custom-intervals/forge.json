@@ -1,9 +1,9 @@
 {
-  "title": "A Pomodoro timer with custom intervals",
+  "title": "Pomodoro timer",
   "description": "",
   "tags": [],
-  "created": "2026-03-04T18:07:02.587Z",
-  "updated": "2026-03-04T18:07:02.587Z",
+  "created": "2026-03-04T18:17:14.571Z",
+  "updated": "2026-03-04T18:17:14.571Z",
   "promptHistory": [
     {
       "role": "user",
@@ -25,6 +25,17 @@
       "role": "assistant",
       "content": "Updated ✓",
       "at": "2026-03-04T18:06:53.168Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "the <div> saying \"Break (min)\" →  make it in seconds",
+      "at": "2026-03-04T18:15:58.250Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-04T18:15:58.251Z",
       "isGenerating": false
     }
   ]
