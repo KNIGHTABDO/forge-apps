@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Forge // Password Generator</title>
+    <style>
+        :root { --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b; --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb; --danger:#ef4444; --success:#22c55e; --warning:#f59e0b; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; display: flex; flex-direction: column; align-items: center; min-height: 100vh; padding: 20px; }
+        .card { background: var(--s1); border: 1px solid var(--border); border-radius: 12px; padding: 24px; width: 100%; max-width: 400px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.5); }
+        h1 { font-size: 1.25rem; margin-top: 0; color: var(--accent); }
+        .output-box { background: var(--s2); padding: 16px; border-radius: 8px; border: 1px solid var(--border); font-family: monospace; font-size: 1.2rem; word-break: break-all; margin-bottom: 16px; min-height: 1.5em; text-align: center; }
+        .controls { display: grid; gap: 12px; margin-bottom: 20px; }
+        label { display: block; font-size: 0.85rem; color: var(--muted); margin-bottom: 4px; }
+        input[type="range"] { width: 100%; }
+        button { background: var(--accent); color: white; border: none; padding: 12px; border-radius: 6px; cursor: pointer; font-weight: 600; transition: background 150ms; }
+        button:hover { background: var(--accent-h); }
+        .meter { height: 6px; background: var(--s3); border-radius: 3px; overflow: hidden; margin-top: 8px; }
+        .meter-fill { height: 100%; width: 0%; transition: width 300ms, background 300ms; }
+        .checkbox-group { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+        .checkbox-group label { display: flex; align-items: center; cursor: pointer; color: var(--text); }
+        input[type="checkbox"] { margin-right: 8px; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>Password Generator</h1>
+    
+    <div id="output" class="output-box">Click Generate</div>
+    
+    <label>Length: <span id="len-val">16</span></label>
+    <input type="range" id="length" min="4" max="64" value="16">
+    
+    <div class="checkbox-group">
+        <label><input type="checkbox" id="upper" checked> Uppercase</label>
+        <label><input type="checkbox" id="lower" checked> Lowercase</label>
+        <label><input type="checkbox" id="nums" checked> Numbers</label>
+        <label><input type="checkbox" id="syms" checked> Symbols</label>
+    </div>
+
+    <div class="meter"><div id="meter" class="meter-fill"></div></div>
+    
+    <button id="generate" style="width: 100%; margin-top: 20px;">Generate Password</button>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px">Built with <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-passgen-v1';
+    const output = document.getElementById('output');
+    const lengthInp = document.getElementById('length');
+    const lenVal = document.getElementById('len-val');
+    const meter = document.getElementById('meter');
+    const btn = document.getElementById('generate');
+    
+    const chars = {
+        upper: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',
+        lower: 'abcdefghijklmnopqrstuvwxyz',
+        nums: '0123456789',
+        syms: '!@#$%^&*()_+-=[]{}|;:,.<>?'
+    };
+
+    const loadSettings = () => {
+        const saved = JSON.parse(localStorage.getItem(KEY));
+        if (saved) {
+            lengthInp.value = saved.len;
+            lenVal.textContent = saved.len;
+            document.getElementById('upper').checked = saved.upper;
+            document.getElementById('lower').checked = saved.lower;
+            document.getElementById('nums').checked = saved.nums;
+            document.getElementById('syms').checked = saved.syms;
+        }
+    };
+
+    const saveSettings = () => {
+        localStorage.setItem(KEY, JSON.stringify({
+            len: lengthInp.value,
+            upper: document.getElementById('upper').checked,
+            lower: document.getElementById('lower').checked,
+            nums: document.getElementById('nums').checked,
+            syms: document.getElementById('syms').checked
+        }));
+    };
+
+    function generate() {
+        let pool = '';
+        if (document.getElementById('upper').checked) pool += chars.upper;
+        if (document.getElementById('lower').checked) pool += chars.lower;
+        if (document.getElementById('nums').checked) pool += chars.nums;
+        if (document.getElementById('syms').checked) pool += chars.syms;
+        
+        if (!pool) { output.textContent = 'Select at least one option'; return; }
+        
+        let pwd = '';
+        for (let i = 0; i < lengthInp.value; i++) {
+            pwd += pool.charAt(Math.floor(Math.random() * pool.length));
+        }
+        output.textContent = pwd;
+        calculateStrength(pwd);
+        saveSettings();
+    }
+
+    function calculateStrength(p) {
+        let score = 0;
+        if (p.length > 8) score += 25;
+        if (p.length > 16) score += 25;
+        if (/[A-Z]/.test(p)) score += 15;
+        if (/[0-9]/.test(p)) score += 15;
+        if (/[^A-Za-z0-9]/.test(p)) score += 20;
+        
+        score = Math.min(score, 100);
+        meter.style.width = score + '%';
+        meter.style.backgroundColor = score < 50 ? 'var(--danger)' : (score < 80 ? 'var(--warning)' : 'var(--success)');
+    }
+
+    lengthInp.oninput = () => { lenVal.textContent = lengthInp.value; };
+    btn.onclick = generate;
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        loadSettings();
+        generate();
+    });
+</script>
+</body>
+</html>
