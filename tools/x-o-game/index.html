@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe | FORGE</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        .container { width: 100%; max-width: 400px; padding: 20px; text-align: center; }
+        h1 { margin-bottom: 20px; font-weight: 700; }
+        .board { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 20px; }
+        .cell { aspect-ratio: 1; background: var(--s2); border: 2px solid var(--border); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 2rem; font-weight: 700; cursor: pointer; transition: 150ms; }
+        .cell:hover { background: var(--s3); }
+        .cell.x { color: var(--accent); }
+        .cell.o { color: var(--success); }
+        .stats { display: flex; justify-content: space-around; background: var(--s1); padding: 15px; border-radius: 8px; margin-bottom: 20px; border: 1px solid var(--border); }
+        button { background: var(--accent); color: white; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-weight: 600; }
+        button:hover { background: var(--accent-h); }
+        .status { margin-bottom: 10px; font-size: 1.2rem; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Tic-Tac-Toe</h1>
+    <div class="stats">
+        <div>X: <span id="x-wins">0</span></div>
+        <div>O: <span id="o-wins">0</span></div>
+        <div>Draws: <span id="draws">0</span></div>
+    </div>
+    <div class="status" id="status">Player X's Turn</div>
+    <div class="board" id="board">
+        <div class="cell" data-idx="0"></div>
+        <div class="cell" data-idx="1"></div>
+        <div class="cell" data-idx="2"></div>
+        <div class="cell" data-idx="3"></div>
+        <div class="cell" data-idx="4"></div>
+        <div class="cell" data-idx="5"></div>
+        <div class="cell" data-idx="6"></div>
+        <div class="cell" data-idx="7"></div>
+        <div class="cell" data-idx="8"></div>
+    </div>
+    <button onclick="resetGame()">Reset Board</button>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px">Built with <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-tictactoe-v1';
+    const load = () => JSON.parse(localStorage.getItem(KEY)) || { x: 0, o: 0, draws: 0 };
+    const save = (d) => localStorage.setItem(KEY, JSON.stringify(d));
+    
+    let boardState = Array(9).fill(null);
+    let currentPlayer = 'X';
+    let gameActive = true;
+    let scores = load();
+
+    const cells = document.querySelectorAll('.cell');
+    const statusText = document.getElementById('status');
+
+    function updateUI() {
+        document.getElementById('x-wins').innerText = scores.x;
+        document.getElementById('o-wins').innerText = scores.o;
+        document.getElementById('draws').innerText = scores.draws;
+    }
+
+    const wins = [[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]];
+
+    function checkWinner() {
+        for (let [a,b,c] of wins) {
+            if (boardState[a] && boardState[a] === boardState[b] && boardState[a] === boardState[c]) {
+                return boardState[a];
+            }
+        }
+        return boardState.includes(null) ? null : 'Draw';
+    }
+
+    cells.forEach(cell => {
+        cell.addEventListener('click', () => {
+            const idx = cell.getAttribute('data-idx');
+            if (!boardState[idx] && gameActive) {
+                boardState[idx] = currentPlayer;
+                cell.innerText = currentPlayer;
+                cell.classList.add(currentPlayer.toLowerCase());
+                
+                const winner = checkWinner();
+                if (winner) {
+                    gameActive = false;
+                    if (winner === 'Draw') {
+                        statusText.innerText = "It's a Draw!";
+                        scores.draws++;
+                    } else {
+                        statusText.innerText = `Player ${winner} Wins!`;
+                        scores[winner.toLowerCase()]++;
+                    }
+                    save(scores);
+                    updateUI();
+                } else {
+                    currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
+                    statusText.innerText = `Player ${currentPlayer}'s Turn`;
+                }
+            }
+        });
+    });
+
+    function resetGame() {
+        boardState = Array(9).fill(null);
+        currentPlayer = 'X';
+        gameActive = true;
+        cells.forEach(c => { c.innerText = ''; c.className = 'cell'; });
+        statusText.innerText = "Player X's Turn";
+    }
+
+    updateUI();
+</script>
+</body>
+</html>
