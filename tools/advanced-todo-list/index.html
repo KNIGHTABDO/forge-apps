@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FORGE | Advanced Task Manager</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e; --warning:#f59e0b;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; line-height: 1.5; }
+        .container { max-width: 600px; margin: 0 auto; }
+        .card { background: var(--s1); border: 1px solid var(--border); padding: 20px; border-radius: 8px; margin-bottom: 20px; }
+        input, select, button { width: 100%; padding: 12px; margin: 8px 0; border-radius: 4px; border: 1px solid var(--border); background: var(--s2); color: white; box-sizing: border-box; }
+        button { background: var(--accent); cursor: pointer; font-weight: 600; transition: 0.15s; }
+        button:hover { background: var(--accent-h); }
+        button.secondary { background: var(--s3); }
+        .task-item { display: flex; align-items: center; gap: 10px; padding: 10px; border-bottom: 1px solid var(--border); }
+        .priority-high { border-left: 4px solid var(--danger); }
+        .priority-med { border-left: 4px solid var(--warning); }
+        .priority-low { border-left: 4px solid var(--success); }
+        .done { text-decoration: line-through; opacity: 0.5; }
+        .empty { text-align: center; color: var(--muted); padding: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Task Manager</h1>
+    
+    <div class="card">
+        <input type="text" id="taskInput" placeholder="New task name...">
+        <select id="priorityInput">
+            <option value="high">High Priority</option>
+            <option value="med" selected>Medium Priority</option>
+            <option value="low">Low Priority</option>
+        </select>
+        <button onclick="addTask()">Add Task</button>
+    </div>
+
+    <div class="card" id="taskList">
+        <!-- Tasks injected here -->
+    </div>
+
+    <button class="secondary" onclick="exportCSV()">Export CSV</button>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px">Built with <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-todo-v1';
+    let tasks = JSON.parse(localStorage.getItem(KEY) || '[]');
+
+    function save() {
+        localStorage.setItem(KEY, JSON.stringify(tasks));
+        render();
+    }
+
+    function addTask() {
+        const input = document.getElementById('taskInput');
+        const prio = document.getElementById('priorityInput');
+        if (!input.value) return;
+        
+        tasks.push({
+            id: Date.now(),
+            text: input.value,
+            priority: prio.value,
+            done: false
+        });
+        input.value = '';
+        save();
+    }
+
+    function toggleTask(id) {
+        tasks = tasks.map(t => t.id === id ? {...t, done: !t.done} : t);
+        save();
+    }
+
+    function deleteTask(id) {
+        tasks = tasks.filter(t => t.id !== id);
+        save();
+    }
+
+    function render() {
+        const list = document.getElementById('taskList');
+        if (tasks.length === 0) {
+            list.innerHTML = '<div class="empty">No tasks yet. Get productive!</div>';
+            return;
+        }
+        list.innerHTML = tasks.map(t => `
+            <div class="task-item priority-${t.priority}">
+                <input type="checkbox" ${t.done ? 'checked' : ''} onchange="toggleTask(${t.id})" style="width:auto">
+                <span style="flex:1" class="${t.done ? 'done' : ''}">${t.text}</span>
+                <button onclick="deleteTask(${t.id})" style="width:auto;padding:5px 10px;background:var(--danger)">×</button>
+            </div>
+        `).join('');
+    }
+
+    function exportCSV() {
+        const csv = "ID,Text,Priority,Status\n" + tasks.map(t => `${t.id},"${t.text}",${t.priority},${t.done}`).join('\n');
+        const blob = new Blob([csv], { type: 'text/csv' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'tasks.csv';
+        a.click();
+    }
+
+    render();
+</script>
+</body>
+</html>
