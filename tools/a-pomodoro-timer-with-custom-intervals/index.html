@@ -47,8 +47,8 @@
             <input type="number" id="workInput" value="25">
         </div>
         <div class="setting-field">
-            <label>Break (min)</label>
-            <input type="number" id="breakInput" value="5">
+            <label>Break (sec)</label>
+            <input type="number" id="breakInput" value="300">
         </div>
     </div>
 </div>
@@ -67,10 +67,10 @@
     const status = document.getElementById('status');
     const themeBtn = document.getElementById('themeBtn');
 
-    const load = () => JSON.parse(localStorage.getItem(KEY)) || { work: 25, break: 5, theme: 'dark' };
+    const load = () => JSON.parse(localStorage.getItem(KEY)) || { work: 25, breakSec: 300, theme: 'dark' };
     const save = () => localStorage.setItem(KEY, JSON.stringify({ 
         work: parseInt(workInput.value), 
-        break: parseInt(breakInput.value),
+        breakSec: parseInt(breakInput.value),
         theme: document.body.dataset.theme || 'dark'
     }));
 
@@ -106,7 +106,7 @@
         timerId = null;
         startBtn.textContent = 'Start';
         const settings = load();
-        timeLeft = (isWork ? settings.work : settings.break) * 60;
+        timeLeft = isWork ? (settings.work * 60) : settings.breakSec;
         status.textContent = isWork ? "Work" : "Break";
         updateDisplay();
     }
@@ -124,7 +124,7 @@
 
     const settings = load();
     workInput.value = settings.work;
-    breakInput.value = settings.break;
+    breakInput.value = settings.breakSec;
     document.body.dataset.theme = settings.theme;
     reset();
 </script>
