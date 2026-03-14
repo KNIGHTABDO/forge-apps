@@ -15,13 +15,15 @@
     {
       "role": "user",
       "content": "add light mode toggle",
-      "at": "2026-03-14T14:07:14.117Z"
+      "at": "2026-03-14T14:07:14.117Z",
+      "checkpointId": "cp_1773497239895"
     },
     {
       "role": "assistant",
       "content": "✓ Updated",
       "at": "2026-03-14T14:07:14.117Z",
-      "isGenerating": false
+      "isGenerating": false,
+      "checkpointId": "cp_1773497239895"
     }
   ],
   "planContent": "",
