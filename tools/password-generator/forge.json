@@ -1,0 +1,35 @@
+{
+  "title": "Password generator ",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-14T14:29:30.728Z",
+  "updated": "2026-03-14T14:29:30.728Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "Password generator ",
+      "at": "2026-03-14T14:28:41.185Z",
+      "checkpointId": "cp_1773498526577"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-14T14:28:41.185Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773498526577"
+    },
+    {
+      "role": "user",
+      "content": "The plan is excellent. Please start the build now.",
+      "at": "2026-03-14T14:28:59.415Z",
+      "checkpointId": "cp_1773498546444"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-14T14:28:59.415Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773498546444"
+    }
+  ]
+}
