@@ -50,6 +50,19 @@
       "at": "2026-03-14T14:12:21.611Z",
       "isGenerating": false,
       "checkpointId": "cp_1773497549338"
+    },
+    {
+      "role": "user",
+      "content": "ok bye",
+      "at": "2026-03-14T14:15:38.789Z",
+      "checkpointId": "cp_1773497739949"
+    },
+    {
+      "role": "assistant",
+      "content": "Please switch to **Chat mode** for conversation. In Fast mode, I only build and edit code.",
+      "at": "2026-03-14T14:15:38.789Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773497739949"
     }
   ],
   "planContent": "",
