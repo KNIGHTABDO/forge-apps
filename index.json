@@ -1,5 +1,13 @@
 [
   {
+    "slug": "password-generator",
+    "title": "Password generator ",
+    "description": "",
+    "tags": [],
+    "created": "2026-03-14T14:29:30.728Z",
+    "updated": "2026-03-14T14:29:31.672Z"
+  },
+  {
     "slug": "a-calculator",
     "title": "A calculator",
     "description": "",
