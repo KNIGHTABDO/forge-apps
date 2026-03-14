@@ -1,0 +1,75 @@
+{
+  "title": " A pdf clipper tool with downloable butt",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-14T10:01:03.677Z",
+  "updated": "2026-03-14T10:01:03.677Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": " A pdf clipper tool with downloable button etc",
+      "at": "2026-03-14T09:57:32.699Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tool built ✓",
+      "at": "2026-03-14T09:57:32.700Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "After uploading pdf it only shows first page i can select pages i want to clip and download as pdf",
+      "at": "2026-03-14T09:58:32.048Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-14T09:58:32.049Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "I wanna be able to select multiple pages and download them in order as pdf",
+      "at": "2026-03-14T09:59:00.464Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-14T09:59:00.465Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "Preview of pages not showing anything",
+      "at": "2026-03-14T09:59:25.346Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-14T09:59:25.347Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "Still previews show only blank page fix it to handle pdf pages",
+      "at": "2026-03-14T09:59:55.158Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-14T09:59:55.158Z",
+      "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "It atill not able to show any preview of pages , make sure we use best handle for pdf viewer of pages ",
+      "at": "2026-03-14T10:00:35.331Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated ✓",
+      "at": "2026-03-14T10:00:35.331Z",
+      "isGenerating": false
+    }
+  ]
+}
