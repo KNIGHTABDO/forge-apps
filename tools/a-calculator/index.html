@@ -32,7 +32,7 @@
             padding: 20px;
             border-radius: 12px;
             width: 100%;
-            max-width: 320px;
+            max-width: 360px;
             transition: background 0.3s, border 0.3s;
         }
         #display {
@@ -41,32 +41,35 @@
             background: var(--s2);
             border: 1px solid var(--border);
             color: var(--text);
-            font-size: 24px;
+            font-size: 20px;
             text-align: right;
-            padding: 10px;
+            padding: 15px;
             margin-bottom: 20px;
             border-radius: 8px;
             box-sizing: border-box;
+            overflow-x: auto;
+            white-space: nowrap;
         }
         .buttons {
             display: grid;
             grid-template-columns: repeat(4, 1fr);
-            gap: 10px;
+            gap: 8px;
         }
         button {
-            padding: 15px;
+            padding: 12px 5px;
             background: var(--s3);
             border: none;
             color: var(--text);
-            border-radius: 8px;
+            border-radius: 6px;
             cursor: pointer;
             font-weight: 600;
+            font-size: 14px;
             transition: background 0.15s;
         }
         button:hover { background: var(--border); }
         button.op { background: var(--accent); color: white; }
         button.op:hover { background: var(--accent-h); }
-        button.span-2 { grid-column: span 2; }
+        button.func { background: var(--s2); color: var(--accent); border: 1px solid var(--border); }
         .theme-toggle {
             margin-bottom: 20px;
             background: var(--s2);
@@ -85,25 +88,34 @@
 <div class="calc-container">
     <div id="display">0</div>
     <div class="buttons">
+        <button class="func" onclick="appendFunc('sin')">sin</button>
+        <button class="func" onclick="appendFunc('cos')">cos</button>
+        <button class="func" onclick="appendFunc('tan')">tan</button>
         <button onclick="clearCalc()">C</button>
+        
         <button onclick="append('(')">(</button>
         <button onclick="append(')')">)</button>
+        <button onclick="append('Math.PI')">π</button>
         <button class="op" onclick="append('/')">/</button>
+
         <button onclick="append('7')">7</button>
         <button onclick="append('8')">8</button>
         <button onclick="append('9')">9</button>
         <button class="op" onclick="append('*')">×</button>
+
         <button onclick="append('4')">4</button>
         <button onclick="append('5')">5</button>
         <button onclick="append('6')">6</button>
         <button class="op" onclick="append('-')">-</button>
+
         <button onclick="append('1')">1</button>
         <button onclick="append('2')">2</button>
         <button onclick="append('3')">3</button>
         <button class="op" onclick="append('+')">+</button>
+
         <button onclick="append('0')">0</button>
         <button onclick="append('.')">.</button>
-        <button class="span-2 op" onclick="calculate()">=</button>
+        <button class="op" onclick="calculate()" style="grid-column: span 2;">=</button>
     </div>
 </div>
 
@@ -114,12 +126,11 @@
 </footer>
 
 <script>
-    const KEY = 'forge-calculator-v1';
+    const KEY = 'forge-calculator-v2';
     const THEME_KEY = 'forge-calculator-theme';
     const display = document.getElementById('display');
     let current = localStorage.getItem(KEY) || '0';
     
-    // Theme Init
     const savedTheme = localStorage.getItem(THEME_KEY) || 'dark';
     document.documentElement.setAttribute('data-theme', savedTheme);
 
@@ -147,6 +158,12 @@
         updateDisplay();
     }
 
+    function appendFunc(f) {
+        if (current === '0') current = `Math.${f}(`;
+        else current += `Math.${f}(`;
+        updateDisplay();
+    }
+
     function clearCalc() {
         current = '0';
         updateDisplay();
@@ -154,7 +171,9 @@
 
     function calculate() {
         try {
-            current = eval(current).toString();
+            // Replace display symbols with JS syntax
+            let expression = current.replace(/×/g, '*');
+            current = eval(expression).toString();
         } catch (e) {
             current = 'Error';
             setTimeout(() => { current = '0'; updateDisplay(); }, 1000);
