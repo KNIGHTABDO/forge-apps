@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORGE Calculator</title>
+    <style>
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e; --warning:#f59e0b;
+        }
+        [data-theme='light'] {
+            --bg:#f8fafc; --s1:#ffffff; --s2:#f1f5f9; --s3:#e2e8f0; --border:#cbd5e1;
+            --text:#0f172a; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+        }
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+            transition: background 0.3s, color 0.3s;
+        }
+        .calc-container {
+            background: var(--s1);
+            border: 1px solid var(--border);
+            padding: 20px;
+            border-radius: 12px;
+            width: 100%;
+            max-width: 320px;
+            transition: background 0.3s, border 0.3s;
+        }
+        #display {
+            width: 100%;
+            height: 60px;
+            background: var(--s2);
+            border: 1px solid var(--border);
+            color: var(--text);
+            font-size: 24px;
+            text-align: right;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-sizing: border-box;
+        }
+        .buttons {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+        }
+        button {
+            padding: 15px;
+            background: var(--s3);
+            border: none;
+            color: var(--text);
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.15s;
+        }
+        button:hover { background: var(--border); }
+        button.op { background: var(--accent); color: white; }
+        button.op:hover { background: var(--accent-h); }
+        button.span-2 { grid-column: span 2; }
+        .theme-toggle {
+            margin-bottom: 20px;
+            background: var(--s2);
+            border: 1px solid var(--border);
+            padding: 8px 16px;
+            cursor: pointer;
+            border-radius: 20px;
+            color: var(--text);
+        }
+    </style>
+</head>
+<body>
+
+<button class="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
+
+<div class="calc-container">
+    <div id="display">0</div>
+    <div class="buttons">
+        <button onclick="clearCalc()">C</button>
+        <button onclick="append('(')">(</button>
+        <button onclick="append(')')">)</button>
+        <button class="op" onclick="append('/')">/</button>
+        <button onclick="append('7')">7</button>
+        <button onclick="append('8')">8</button>
+        <button onclick="append('9')">9</button>
+        <button class="op" onclick="append('*')">×</button>
+        <button onclick="append('4')">4</button>
+        <button onclick="append('5')">5</button>
+        <button onclick="append('6')">6</button>
+        <button class="op" onclick="append('-')">-</button>
+        <button onclick="append('1')">1</button>
+        <button onclick="append('2')">2</button>
+        <button onclick="append('3')">3</button>
+        <button class="op" onclick="append('+')">+</button>
+        <button onclick="append('0')">0</button>
+        <button onclick="append('.')">.</button>
+        <button class="span-2 op" onclick="calculate()">=</button>
+    </div>
+</div>
+
+<footer style="margin-top:auto;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px">
+    <span>Built with</span> 
+    <img src="http://localhost:3000/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> 
+    <a href="http://localhost:3000" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a>
+</footer>
+
+<script>
+    const KEY = 'forge-calculator-v1';
+    const THEME_KEY = 'forge-calculator-theme';
+    const display = document.getElementById('display');
+    let current = localStorage.getItem(KEY) || '0';
+    
+    // Theme Init
+    const savedTheme = localStorage.getItem(THEME_KEY) || 'dark';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+
+    function toggleTheme() {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem(THEME_KEY, newTheme);
+    }
+
+    display.innerText = current;
+
+    function save() {
+        localStorage.setItem(KEY, current);
+    }
+
+    function updateDisplay() {
+        display.innerText = current;
+        save();
+    }
+
+    function append(val) {
+        if (current === '0' && val !== '.') current = val;
+        else current += val;
+        updateDisplay();
+    }
+
+    function clearCalc() {
+        current = '0';
+        updateDisplay();
+    }
+
+    function calculate() {
+        try {
+            current = eval(current).toString();
+        } catch (e) {
+            current = 'Error';
+            setTimeout(() => { current = '0'; updateDisplay(); }, 1000);
+        }
+        updateDisplay();
+    }
+</script>
+</body>
+</html>
