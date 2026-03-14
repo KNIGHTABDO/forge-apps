@@ -21,6 +21,17 @@
       "content": "If you want to keep things simple but still build something useful and impressive, I recommend focusing on \"Single-Purpose Tools.\" These are great because they allow you to master the basics without getting bogged down in complex database schemas or massive state management.\n\nHere are three \"low-overhead\" ideas that still have great utility:\n\n### 1. JSON to TypeScript Interface Converter\n*   **The Idea:** A tool where a developer pastes a JSON blob and it automatically generates the corresponding TypeScript `interface` or `type` definition.\n*   **Why it’s great:** It’s a classic utility. It involves string parsing, schema validation, and potentially recursion (for nested objects). You can build the whole thing in the browser using basic JavaScript.\n\n### 2. Markdown-to-PDF Resume Generator\n*   **The Idea:** A simple form where users type their resume in Markdown on the left and see a formatted, professional PDF preview on the right.\n*   **Why it’s great:** It teaches you about DOM manipulation, handling print styles, and using libraries like `jspdf` or `html2pdf`. It's a very satisfying tool to use yourself.\n\n### 3. \"Timezone Ninja\" (World Clock Overlay)\n*   **The Idea:** A minimalist dashboard where you add 3–4 colleagues/offices in different timezones. It shows a synced horizontal timeline so you can see at a glance when everyone is online simultaneously.\n*   **Why it’s great:** It deals with date manipulation (one of the trickiest parts of programming) and responsive UI design.\n\n---\n\n**Which one sounds most interesting to you?** \n\nIf you pick one, we can start by listing the **MVP features** (the bare minimum to make it work) and talk about the best tech stack to build it quickly.",
       "at": "2026-03-14T14:25:11.947Z",
       "isGenerating": false
+    },
+    {
+      "role": "user",
+      "content": "JSON to TypeScript Interface Converter",
+      "at": "2026-03-14T14:25:41.479Z"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ No plan exists. Please switch to Plan mode first and create a blueprint.",
+      "at": "2026-03-14T14:25:41.479Z",
+      "error": true
     }
   ],
   "planContent": "",
