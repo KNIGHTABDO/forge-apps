@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PDF Multi-Clipper - FORGE</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; line-height: 1.5; }
+        .container { max-width: 900px; margin: 0 auto; background: var(--s1); padding: 2rem; border-radius: 8px; border: 1px solid var(--border); }
+        h1 { margin-top: 0; font-size: 1.5rem; }
+        .drop-zone { border: 2px dashed var(--border); padding: 40px; text-align: center; color: var(--muted); cursor: pointer; transition: 0.3s; margin: 20px 0; border-radius: 4px; }
+        .drop-zone:hover { border-color: var(--accent); }
+        .btn { background: var(--accent); color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; font-weight: 600; }
+        .btn:hover { background: var(--accent-h); }
+        .page-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 20px; margin-top: 20px; }
+        .page-item { border: 1px solid var(--border); padding: 8px; background: var(--s2); text-align: center; cursor: pointer; border-radius: 4px; transition: 0.2s; position: relative; }
+        .page-item:hover { border-color: var(--muted); }
+        .page-item.selected { border-color: var(--accent); background: var(--s3); outline: 2px solid var(--accent); }
+        canvas { max-width: 100%; display: block; margin: 0 auto; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.5); }
+        .actions { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border); text-align: center; }
+        .page-label { margin-top: 8px; font-size: 12px; color: var(--muted); }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Multi-Page PDF Extractor</h1>
+    <p style="color:var(--muted)">Upload, select pages, and generate a new document.</p>
+    
+    <input type="file" id="pdf-upload" accept="application/pdf" style="display:none">
+    <div class="drop-zone" onclick="document.getElementById('pdf-upload').click()">
+        Click to upload PDF document
+    </div>
+
+    <div id="pages-container" class="page-grid"></div>
+
+    <div id="action-bar" class="actions" style="display:none">
+        <button class="btn" onclick="downloadSelected()">Download Selected Pages (PDF)</button>
+    </div>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px">Built with <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none">FORGE</a></footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
+<script>
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+    const container = document.getElementById('pages-container');
+    const input = document.getElementById('pdf-upload');
+    const actionbar = document.getElementById('action-bar');
+    let currentPdf = null;
+    let selectedPages = new Set();
+    let originalFile = null;
+
+    input.addEventListener('change', async (e) => {
+        originalFile = e.target.files[0];
+        if(!originalFile) return;
+        
+        container.innerHTML = '<div style="grid-column:1/-1; text-align:center; padding:20px;">Rendering preview...</div>';
+        
+        try {
+            const arrayBuffer = await originalFile.arrayBuffer();
+            currentPdf = await pdfjsLib.getDocument({data: arrayBuffer}).promise;
+            container.innerHTML = '';
+            selectedPages.clear();
+            actionbar.style.display = 'block';
+            
+            for(let i = 1; i <= currentPdf.numPages; i++) {
+                renderPageThumb(i);
+            }
+        } catch(err) {
+            container.innerHTML = 'Error loading PDF: ' + err.message;
+        }
+    });
+
+    async function renderPageThumb(num) {
+        const page = await currentPdf.getPage(num);
+        const viewport = page.getViewport({scale: 0.5});
+        
+        const div = document.createElement('div');
+        div.className = 'page-item';
+        
+        const canvas = document.createElement('canvas');
+        const context = canvas.getContext('2d');
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
+        
+        div.onclick = () => {
+            if(selectedPages.has(num)) {
+                selectedPages.delete(num);
+                div.classList.remove('selected');
+            } else {
+                selectedPages.add(num);
+                div.classList.add('selected');
+            }
+        };
+        
+        div.appendChild(canvas);
+        div.innerHTML += `<div class="page-label">Page ${num}</div>`;
+        container.appendChild(div);
+        
+        await page.render({canvasContext: context, viewport: viewport}).promise;
+    }
+
+    async function downloadSelected() {
+        if(selectedPages.size === 0) return alert("Please select at least one page.");
+        
+        const sorted = Array.from(selectedPages).sort((a,b) => a-b);
+        const originalBytes = await originalFile.arrayBuffer();
+        const pdfDoc = await PDFLib.PDFDocument.load(originalBytes);
+        const newPdf = await PDFLib.PDFDocument.create();
+        
+        const indices = sorted.map(i => i - 1);
+        const copiedPages = await newPdf.copyPages(pdfDoc, indices);
+        copiedPages.forEach(p => newPdf.addPage(p));
+        
+        const pdfBytes = await newPdf.save();
+        const blob = new Blob([pdfBytes], {type: 'application/pdf'});
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = 'extracted_pages.pdf';
+        link.click();
+    }
+</script>
+</body>
+</html>
