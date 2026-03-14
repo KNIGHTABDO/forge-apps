@@ -1,0 +1,20 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "What do you think i should build",
+      "at": "2026-03-14T14:24:25.596Z"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a great question! To help you choose a project, I usually look for the intersection of **technical growth**, **market utility**, and **personal interest**.\n\nHere are three distinct directions we could take, depending on what you want to achieve:\n\n### 1. The \"Productivity Utility\" (Best for SaaS/MVP experience)\nBuild a **Context-Aware Documentation Assistant**.\n*   **The Idea:** A tool that indexes a local codebase or a set of technical PDFs and allows developers to query them using natural language.\n*   **Why build it:** It touches on RAG (Retrieval-Augmented Generation), vector databases, and API integration. It’s highly useful and teaches you how to manage data pipelines.\n\n### 2. The \"Real-Time Dashboard\" (Best for Engineering proficiency)\nBuild a **Live Market/Activity Monitor**.\n*   **The Idea:** A dashboard that visualizes real-time streams (e.g., crypto prices, GitHub webhook activity, or system health metrics) using WebSockets.\n*   **Why build it:** It forces you to handle concurrency, data serialization, and frontend state management. It’s great for showcasing performance-oriented architecture.\n\n### 3. The \"Micro-SaaS Tool\" (Best for Product focus)\nBuild a **Content Repurposing Engine**.\n*   **The Idea:** A tool where users input a link to a blog post, and the app generates social media snippets, a summary tweet, and a LinkedIn post using an LLM.\n*   **Why build it:** It focuses on product-market fit. You’ll deal with form handling, content generation workflows, and user experience design.\n\n---\n\n**How to decide:**\n*   **What is your current tech stack?** (e.g., Python, React, Go, Node?)\n*   **What is your goal?** (Learning a new framework, building a portfolio piece, or trying to solve a specific problem you have?)\n\nOnce you pick a lane, we can refine the requirements. Just a heads up: if you choose something complex, I’ll suggest we move over to **Plan mode** to map out the architecture! What are you leaning toward?",
+      "at": "2026-03-14T14:24:25.597Z",
+      "isGenerating": false
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "chat",
+  "toolName": "What do you think i should build",
+  "planApproved": false
+}
