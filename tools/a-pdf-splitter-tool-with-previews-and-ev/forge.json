@@ -1,0 +1,35 @@
+{
+  "title": "A pdf splitter tool with previews and ev",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-19T10:07:11.440Z",
+  "updated": "2026-03-19T10:07:11.440Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "a pdf splitter tool with previews and everything and dark mode too",
+      "at": "2026-03-19T10:06:12.012Z",
+      "checkpointId": "cp_1773914779194"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-19T10:06:12.012Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773914779194"
+    },
+    {
+      "role": "user",
+      "content": "The plan is excellent. Please start the build now.",
+      "at": "2026-03-19T10:06:23.642Z",
+      "checkpointId": "cp_1773914795030"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-19T10:06:23.642Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773914795030"
+    }
+  ]
+}
