@@ -54,7 +54,7 @@
   ],
   "planContent": "",
   "currentHTML": "",
-  "mode": "chat",
+  "mode": "plan",
   "toolName": "What do you think we should build",
   "planApproved": false
 }
