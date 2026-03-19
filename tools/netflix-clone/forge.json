@@ -1,0 +1,22 @@
+{
+  "title": " Netflix clone",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-19T09:43:25.696Z",
+  "updated": "2026-03-19T09:43:25.696Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": " Netflix clone",
+      "at": "2026-03-19T09:42:53.433Z",
+      "checkpointId": "cp_1773913380829"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-19T09:42:53.433Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773913380829"
+    }
+  ]
+}
