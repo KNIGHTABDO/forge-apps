@@ -22,7 +22,8 @@
       "role": "assistant",
       "content": "✓ Updated",
       "at": "2026-03-20T11:14:42.763Z",
-      "isGenerating": false
+      "isGenerating": false,
+      "checkpointId": "cp_1774005289801_6pyf3"
     }
   ],
   "planContent": "",
