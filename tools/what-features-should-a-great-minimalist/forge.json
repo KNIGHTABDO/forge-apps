@@ -1,0 +1,35 @@
+{
+  "title": "What features should a great minimalist ",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-20T09:52:16.631Z",
+  "updated": "2026-03-20T09:52:16.631Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "What features should a great minimalist to-do list have?",
+      "at": "2026-03-20T09:51:13.088Z",
+      "checkpointId": "cp_1774000278147"
+    },
+    {
+      "role": "assistant",
+      "content": "A great minimalist to-do list follows the \"cognitive load reduction\" principle: it should help you capture tasks quickly without burying you in administrative overhead.\n\nTo keep it minimalist but functional, I recommend focusing on these core pillars:\n\n### 1. The \"Quick Capture\" Input\nThe primary friction point in any to-do app is the time it takes to add a task. \n*   **Single Input Field:** A persistent, always-visible text box at the top.\n*   **Natural Language Processing (NLP):** Allow users to type \"Buy milk at 5pm\" and have the system automatically set the reminder.\n\n### 2. Intelligent Prioritization\nMinimalism isn't just about removing features; it’s about surfacing the *right* information.\n*   **The \"Today\" View:** Only show tasks due today. Avoid overwhelming the user with a massive \"Overdue\" or \"Backlog\" list.\n*   **Simple Priority Levels:** Stick to 3 levels (e.g., High, Medium, Low) or a \"Star/Flag\" system. Avoid complex numbering or matrix systems.\n\n### 3. Contextual Organization\n*   **Tags/Labels:** Use these instead of rigid folders. They allow one task to belong to multiple contexts (e.g., `#work`, `#errands`, `#urgent`).\n*   **No Nested Subtasks:** Keep it flat. If a task requires subtasks, it’s a project—not a to-do list item.\n\n### 4. Frictionless Completion\n*   **Satisfying Interaction:** A simple tap-to-complete or a swipe-to-delete action.\n*   **Archive Behavior:** Once finished, tasks should vanish immediately from the active view but remain accessible in a \"Completed\" log for peace of mind.\n\n### 5. Essential Friction (The \"Anti-Feature\")\nTo remain minimalist, you must purposefully exclude:\n*   **No Social/Collaborative features:** Keep it a personal tool.\n*   **No Granular Metrics:** Avoid graphs, productivity scores, or charts. They create a \"gamification\" distraction that often adds stress.\n*   **No Heavy Rich-Text:** Tasks should be plain text. If the user needs to write a document, they should link out to a notes app.\n\n***\n\n**Pro-Tip:** If you are planning to build this, focus heavily on **keyboard shortcuts** (like `Cmd/Ctrl + N` for new task). It is the hallmark of a high-quality minimalist tool.\n\nAre you looking to build this yourself? This sounds like a complex tool! I recommend switching to **Plan mode** so we can architect the features first for a more reliable build.",
+      "at": "2026-03-20T09:51:13.088Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774000278147"
+    },
+    {
+      "role": "user",
+      "content": "Build a tool based on our brainstorming.",
+      "at": "2026-03-20T09:51:39.270Z",
+      "checkpointId": "cp_1774000306102"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-20T09:51:39.270Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774000306102"
+    }
+  ]
+}
