@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORGE Converter</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+        body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        .card { background: var(--s1); border: 1px solid var(--border); border-radius: 12px; padding: 24px; width: 100%; max-width: 480px; box-shadow: 0 10px 25px rgba(0,0,0,0.3); }
+        .tabs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 24px; }
+        .tab { background: var(--s2); border: none; color: var(--muted); padding: 8px; border-radius: 6px; cursor: pointer; transition: 0.2s; font-size: 13px; font-weight: 600; }
+        .tab.active { background: var(--accent); color: white; }
+        .row { display: flex; flex-direction: column; gap: 10px; margin-bottom: 16px; }
+        input, select { background: var(--s2); border: 1px solid var(--border); color: var(--text); padding: 12px; border-radius: 8px; font-size: 16px; width: 100%; box-sizing: border-box; }
+        .swap-btn { display: flex; justify-content: center; margin: 10px 0; cursor: pointer; color: var(--accent); font-weight: bold; }
+        .history { margin-top: 24px; border-top: 1px solid var(--border); padding-top: 16px; }
+        .history-item { font-size: 13px; color: var(--muted); padding: 8px 0; border-bottom: 1px solid var(--s2); display: flex; justify-content: space-between; }
+        h1 { margin: 0 0 4px 0; font-size: 20px; }
+        .subtitle { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+        button#clear-hist { background: transparent; border: 1px solid var(--danger); color: var(--danger); padding: 4px 8px; border-radius: 4px; font-size: 11px; cursor: pointer; margin-top: 10px; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>FORGE Converter</h1>
+    <div class="subtitle" id="cat-label">Length Converter</div>
+    
+    <div class="tabs" id="tabs">
+        <button class="tab active" onclick="setCategory('length')">Length</button>
+        <button class="tab" onclick="setCategory('weight')">Weight</button>
+        <button class="tab" onclick="setCategory('temp')">Temp</button>
+    </div>
+
+    <div class="row">
+        <input type="number" id="fromVal" value="1" oninput="runConversion()">
+        <select id="fromUnit" onchange="runConversion()"></select>
+    </div>
+    
+    <div class="swap-btn" onclick="swapUnits()">⇅</div>
+    
+    <div class="row">
+        <input type="number" id="toVal" readonly>
+        <select id="toUnit" onchange="runConversion()"></select>
+    </div>
+
+    <div class="history" id="history-list">
+        <div style="color:var(--muted); font-size:12px; text-align:center">No recent conversions</div>
+    </div>
+    <button id="clear-hist" onclick="clearHistory()">Clear History</button>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-converter-v1';
+    const units = {
+        length: { meters: 1, feet: 3.28084, inches: 39.3701, km: 0.001 },
+        weight: { kg: 1, lbs: 2.20462, grams: 1000, ounces: 35.274 },
+        temp: ['celsius', 'fahrenheit', 'kelvin']
+    };
+    
+    let state = { category: 'length', from: 'meters', to: 'feet', history: [] };
+    const loadData = () => { try { state = JSON.parse(localStorage.getItem(KEY)) || state; } catch(e) {} };
+    const saveData = () => localStorage.setItem(KEY, JSON.stringify(state));
+
+    function setCategory(cat) {
+        state.category = cat;
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        event.target.classList.add('active');
+        document.getElementById('cat-label').innerText = cat.charAt(0).toUpperCase() + cat.slice(1) + " Converter";
+        
+        const fromSelect = document.getElementById('fromUnit');
+        const toSelect = document.getElementById('toUnit');
+        fromSelect.innerHTML = toSelect.innerHTML = '';
+        
+        const list = cat === 'temp' ? units.temp : Object.keys(units[cat]);
+        list.forEach(u => {
+            fromSelect.add(new Option(u, u));
+            toSelect.add(new Option(u, u));
+        });
+        fromSelect.value = list[0];
+        toSelect.value = list[1] || list[0];
+        runConversion();
+    }
+
+    function runConversion() {
+        const val = parseFloat(document.getElementById('fromVal').value);
+        const from = document.getElementById('fromUnit').value;
+        const to = document.getElementById('toUnit').value;
+        let res = 0;
+
+        if (isNaN(val)) return;
+
+        if (state.category === 'temp') {
+            let c = from === 'celsius' ? val : from === 'fahrenheit' ? (val-32)*5/9 : val-273.15;
+            res = to === 'celsius' ? c : to === 'fahrenheit' ? (c*9/5)+32 : c+273.15;
+        } else {
+            res = val * (units[state.category][to] / units[state.category][from]);
+        }
+
+        const formatted = Number.isInteger(res) ? res : parseFloat(res.toFixed(6));
+        document.getElementById('toVal').value = formatted;
+        
+        updateHistory(val, from, to, formatted);
+    }
+
+    function updateHistory(f, u1, u2, res) {
+        if (!f) return;
+        const entry = `${f}${u1} → ${res}${u2}`;
+        if (state.history[0] === entry) return;
+        state.history.unshift(entry);
+        if (state.history.length > 5) state.history.pop();
+        renderHistory();
+        saveData();
+    }
+
+    function renderHistory() {
+        const container = document.getElementById('history-list');
+        container.innerHTML = state.history.length ? '' : '<div style="color:var(--muted); font-size:12px; text-align:center">No recent conversions</div>';
+        state.history.forEach(h => {
+            const div = document.createElement('div');
+            div.className = 'history-item';
+            div.innerText = h;
+            container.appendChild(div);
+        });
+    }
+
+    function swapUnits() {
+        const from = document.getElementById('fromUnit');
+        const to = document.getElementById('toUnit');
+        const temp = from.value;
+        from.value = to.value;
+        to.value = temp;
+        runConversion();
+    }
+
+    function clearHistory() {
+        state.history = [];
+        renderHistory();
+        saveData();
+    }
+
+    loadData();
+    setCategory(state.category);
+</script>
+</body>
+</html>
