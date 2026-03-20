@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BMI Calculator | FORGE</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e; --warning:#f59e0b;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+        .card { background: var(--s1); padding: 2rem; border-radius: 12px; border: 1px solid var(--border); width: 100%; max-width: 400px; }
+        h1 { margin: 0 0 1.5rem 0; font-size: 1.5rem; text-align: center; }
+        .input-group { margin-bottom: 1rem; }
+        label { display: block; font-size: 0.8rem; color: var(--muted); margin-bottom: 0.4rem; }
+        input, select { width: 100%; padding: 0.8rem; background: var(--s2); border: 1px solid var(--border); color: white; border-radius: 6px; box-sizing: border-box; outline: none; }
+        input:focus { border-color: var(--accent); }
+        .result-box { margin-top: 2rem; text-align: center; padding: 1rem; background: var(--s2); border-radius: 8px; }
+        .bmi-value { font-size: 3rem; font-weight: 600; margin: 0.5rem 0; }
+        .meter { height: 12px; background: var(--s3); border-radius: 6px; margin-top: 1rem; overflow: hidden; display: flex; }
+        .segment { flex: 1; height: 100%; opacity: 0.3; }
+        #indicator { width: 100%; height: 100%; background: white; border-radius: 6px; transform: translateX(0%); transition: transform 0.3s ease; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>BMI Calculator</h1>
+    
+    <div class="input-group">
+        <label>System</label>
+        <select id="unitSystem" onchange="calculate()">
+            <option value="metric">Metric (kg/cm)</option>
+            <option value="imperial">Imperial (lb/in)</option>
+        </select>
+    </div>
+
+    <div class="input-group">
+        <label id="lblWeight">Weight (kg)</label>
+        <input type="number" id="weight" oninput="calculate()" placeholder="0.0">
+    </div>
+
+    <div class="input-group">
+        <label id="lblHeight">Height (cm)</label>
+        <input type="number" id="height" oninput="calculate()" placeholder="0.0">
+    </div>
+
+    <div class="result-box">
+        <div id="category" style="font-weight: 600; color: var(--muted)">Enter data to begin</div>
+        <div class="bmi-value" id="bmiOutput">-</div>
+        <div class="meter">
+            <div style="background:var(--accent); flex:1" class="segment"></div>
+            <div style="background:var(--success); flex:1" class="segment"></div>
+            <div style="background:var(--warning); flex:1" class="segment"></div>
+            <div style="background:var(--danger); flex:1" class="segment"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const KEY = 'forge-bmi-v1';
+    
+    function calculate() {
+        const system = document.getElementById('unitSystem').value;
+        const weight = parseFloat(document.getElementById('weight').value);
+        const height = parseFloat(document.getElementById('height').value);
+        
+        document.getElementById('lblWeight').innerText = system === 'metric' ? 'Weight (kg)' : 'Weight (lb)';
+        document.getElementById('lblHeight').innerText = system === 'metric' ? 'Height (cm)' : 'Height (in)';
+
+        if (!weight || !height || height <= 0) {
+            document.getElementById('bmiOutput').innerText = '-';
+            document.getElementById('category').innerText = 'Enter valid data';
+            return;
+        }
+
+        let bmi;
+        if (system === 'metric') {
+            bmi = weight / ((height / 100) ** 2);
+        } else {
+            bmi = (weight / (height ** 2)) * 703;
+        }
+
+        const val = bmi.toFixed(1);
+        document.getElementById('bmiOutput').innerText = val;
+        
+        let cat = '';
+        if (bmi < 18.5) cat = 'Underweight';
+        else if (bmi < 25) cat = 'Healthy Weight';
+        else if (bmi < 30) cat = 'Overweight';
+        else cat = 'Obese';
+        
+        document.getElementById('category').innerText = cat;
+        
+        localStorage.setItem(KEY, JSON.stringify({system, weight, height}));
+    }
+
+    window.onload = () => {
+        const saved = JSON.parse(localStorage.getItem(KEY));
+        if (saved) {
+            document.getElementById('unitSystem').value = saved.system;
+            document.getElementById('weight').value = saved.weight;
+            document.getElementById('height').value = saved.height;
+            calculate();
+        }
+    };
+</script>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+</body>
+</html>
