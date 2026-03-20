@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Minimalist Task List</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        .container { width: 100%; max-width: 500px; padding: 2rem; box-sizing: border-box; }
+        h1 { font-size: 1.5rem; margin-bottom: 2rem; color: var(--muted); }
+        .input-group { display: flex; gap: 8px; margin-bottom: 2rem; }
+        input { flex: 1; background: var(--s1); border: 1px solid var(--border); color: var(--text); padding: 12px 16px; border-radius: 8px; outline: none; }
+        input:focus { border-color: var(--accent); }
+        button { background: var(--accent); color: white; border: none; padding: 0 20px; border-radius: 8px; cursor: pointer; font-weight: 600; }
+        button:hover { background: var(--accent-h); }
+        .task-list { display: flex; flex-direction: column; gap: 8px; }
+        .task-item { background: var(--s1); padding: 12px 16px; border-radius: 8px; border: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; animation: fadeIn 0.2s ease; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+        .delete-btn { color: var(--danger); background: none; border: none; padding: 4px; cursor: pointer; }
+        .empty { text-align: center; color: var(--muted); padding: 2rem; }
+        .actions { margin-top: 2rem; display: flex; justify-content: space-between; }
+        .export-btn { background: none; border: 1px solid var(--border); color: var(--muted); font-size: 12px; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Focus.</h1>
+    <form id="task-form" class="input-group">
+        <input type="text" id="task-input" placeholder="What needs to be done?" required autofocus>
+        <button type="submit">Add</button>
+    </form>
+
+    <div id="task-list" class="task-list"></div>
+    
+    <div class="actions">
+        <button class="export-btn" onclick="exportCSV()">Export CSV</button>
+        <button class="export-btn" onclick="clearCompleted()">Clear Finished</button>
+    </div>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-todo-v1';
+    const form = document.getElementById('task-form');
+    const input = document.getElementById('task-input');
+    const list = document.getElementById('task-list');
+
+    let tasks = JSON.parse(localStorage.getItem(KEY) || '[]');
+
+    const save = () => {
+        localStorage.setItem(KEY, JSON.stringify(tasks));
+        render();
+    };
+
+    const render = () => {
+        list.innerHTML = '';
+        if (tasks.length === 0) {
+            list.innerHTML = '<div class="empty">No active tasks. Good job.</div>';
+            return;
+        }
+        tasks.forEach((t, i) => {
+            const div = document.createElement('div');
+            div.className = 'task-item';
+            div.innerHTML = `
+                <span>${t.text}</span>
+                <button class="delete-btn" onclick="removeTask(${i})">✕</button>
+            `;
+            list.appendChild(div);
+        });
+    };
+
+    form.onsubmit = (e) => {
+        e.preventDefault();
+        if (!input.value.trim()) return;
+        tasks.push({ text: input.value.trim(), date: new Date().toISOString() });
+        input.value = '';
+        save();
+    };
+
+    const removeTask = (i) => {
+        tasks.splice(i, 1);
+        save();
+    };
+
+    const clearCompleted = () => {
+        tasks = [];
+        save();
+    };
+
+    const exportCSV = () => {
+        const csv = 'Task,Date\n' + tasks.map(t => `"${t.text}","${t.date}"`).join('\n');
+        const blob = new Blob([csv], { type: 'text/csv' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'tasks.csv';
+        a.click();
+    };
+
+    document.addEventListener('keydown', (e) => {
+        if ((e.metaKey || e.ctrlKey) && e.key === 'n') {
+            e.preventDefault();
+            input.focus();
+        }
+    });
+
+    render();
+</script>
+</body>
+</html>
