@@ -1,0 +1,22 @@
+{
+  "title": "A modern glassmorphism user profile card",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-20T10:17:18.700Z",
+  "updated": "2026-03-20T10:17:18.700Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "A modern glassmorphism user profile card with user details, a Lucide user icon and a settings icon. Use strong styling dropshadows, backdrop-filter: blur, and make it look premium.",
+      "at": "2026-03-20T10:16:35.161Z",
+      "checkpointId": "cp_1774001803054"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-20T10:16:35.161Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774001803054"
+    }
+  ]
+}
