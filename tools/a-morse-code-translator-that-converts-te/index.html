@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Morse Translator | FORGE</title>
+    <style>
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        .container { width: 100%; max-width: 600px; background: var(--s1); padding: 24px; border-radius: 12px; border: 1px solid var(--border); }
+        textarea { width: 100%; height: 120px; background: var(--s2); border: 1px solid var(--border); color: var(--text); padding: 12px; border-radius: 8px; margin-bottom: 16px; box-sizing: border-box; resize: vertical; }
+        .controls { display: flex; gap: 10px; margin-bottom: 20px; }
+        button { background: var(--accent); color: white; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-weight: 600; }
+        button:hover { background: var(--accent-h); }
+        #light { width: 60px; height: 60px; border-radius: 50%; background: var(--s3); margin: 20px auto; transition: background 0.1s; border: 4px solid var(--border); }
+        .lit { background: #fbbf24 !important; box-shadow: 0 0 20px #fbbf24; }
+        label { display: block; margin-bottom: 8px; color: var(--muted); font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2 style="margin-top:0">Morse Translator</h2>
+    
+    <label>Input Text / Morse</label>
+    <textarea id="input" placeholder="Type here..."></textarea>
+    
+    <div class="controls">
+        <button onclick="translate('text')">To Morse</button>
+        <button onclick="translate('morse')">To Text</button>
+        <button onclick="playMorse()" style="background:var(--success)">Play (Flash)</button>
+    </div>
+
+    <label>Output</label>
+    <textarea id="output" readonly></textarea>
+
+    <div id="light"></div>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+<script>
+    const morseMap = { 'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.', 'G': '--.', 'H': '....', 'I': '..', 'J': '.---', 'K': '-.-', 'L': '.-..', 'M': '--', 'N': '-.', 'O': '---', 'P': '.--.', 'Q': '--.-', 'R': '.-.', 'S': '...', 'T': '-', 'U': '..-', 'V': '...-', 'W': '.--', 'X': '-..-', 'Y': '-.--', 'Z': '--..', '1': '.----', '2': '..---', '3': '...--', '4': '....-', '5': '.....', '6': '-....', '7': '--...', '8': '---..', '9': '----.', '0': '-----', ' ': '/' };
+    const revMap = Object.fromEntries(Object.entries(morseMap).map(([k, v]) => [v, k]));
+
+    function translate(mode) {
+        const input = document.getElementById('input').value.toUpperCase();
+        const output = document.getElementById('output');
+        if (mode === 'text') {
+            output.value = input.split('').map(char => morseMap[char] || '').join(' ');
+        } else {
+            output.value = input.split(' ').map(code => revMap[code] || '').join('');
+        }
+    }
+
+    async function playMorse() {
+        const morse = document.getElementById('output').value;
+        const light = document.getElementById('light');
+        for (const char of morse) {
+            if (char === '.') {
+                light.className = 'lit';
+                await new Promise(r => setTimeout(r, 200));
+                light.className = '';
+            } else if (char === '-') {
+                light.className = 'lit';
+                await new Promise(r => setTimeout(r, 600));
+                light.className = '';
+            }
+            await new Promise(r => setTimeout(r, 200));
+        }
+    }
+</script>
+</body>
+</html>
