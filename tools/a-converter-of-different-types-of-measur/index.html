@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORGE Convert</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+        body { font-family: 'Inter', sans-serif; background-color: var(--bg); color: var(--text); }
+        .card { background: var(--s1); border: 1px solid var(--border); border-radius: 12px; }
+        input, select { background: var(--s2) !important; border: 1px solid var(--border) !important; color: white !important; }
+        input:focus, select:focus { border-color: var(--accent) !important; outline: none; }
+        .tab-btn.active { background: var(--accent); color: white; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col items-center p-4 md:p-8">
+
+    <div class="w-full max-w-lg">
+        <h1 class="text-2xl font-bold text-center mb-6">FORGE Convert</h1>
+        
+        <div id="categoryTabs" class="flex gap-2 mb-6 overflow-x-auto pb-2"></div>
+
+        <div class="card p-6 shadow-xl">
+            <div class="space-y-4">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <input type="number" id="fromVal" class="w-full p-3 rounded-lg" value="1">
+                    <select id="fromUnit" class="w-full p-3 rounded-lg"></select>
+                </div>
+
+                <div class="flex justify-center">
+                    <button id="swapBtn" class="p-2 rounded-full hover:bg-zinc-800 transition-colors">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 16V4M7 4L3 8M7 4L11 8M17 8v12M17 20l4-4M17 20l-4-4"/></svg>
+                    </button>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="relative">
+                        <input type="number" id="toVal" class="w-full p-3 rounded-lg" readonly>
+                        <button id="copyBtn" class="absolute right-2 top-2 text-xs bg-zinc-700 px-2 py-1 rounded hover:bg-zinc-600">Copy</button>
+                    </div>
+                    <select id="toUnit" class="w-full p-3 rounded-lg"></select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer style="margin-top:auto;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app-peach.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app-peach.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+    <script>
+        const KEY = 'forge-converter-v1';
+        const UNIT_DATA = {
+            length: { meters: 1, feet: 3.28084, inches: 39.3701, kilometers: 0.001, miles: 0.000621371 },
+            weight: { kilograms: 1, grams: 1000, pounds: 2.20462, ounces: 35.274 },
+            volume: { liters: 1, milliliters: 1000, gallons: 0.264172, cups: 4.22675 },
+            temperature: { celsius: 'C', fahrenheit: 'F', kelvin: 'K' }
+        };
+
+        let state = JSON.parse(localStorage.getItem(KEY)) || {
+            category: 'length', fromUnit: 'meters', toUnit: 'feet', val: 1
+        };
+
+        const save = () => localStorage.setItem(KEY, JSON.stringify(state));
+
+        function calculate(isFrom = true) {
+            const from = document.getElementById('fromVal');
+            const to = document.getElementById('toVal');
+            let val = parseFloat(isFrom ? from.value : to.value);
+            
+            if (isNaN(val)) { isFrom ? to.value = 0 : from.value = 0; return; }
+
+            const cat = state.category;
+            const fU = state.fromUnit;
+            const tU = state.toUnit;
+
+            let result;
+            if (cat === 'temperature') {
+                let celsius = (fU === 'celsius') ? val : (fU === 'fahrenheit') ? (val - 32) * 5/9 : val - 273.15;
+                result = (tU === 'celsius') ? celsius : (tU === 'fahrenheit') ? (celsius * 9/5) + 32 : celsius + 273.15;
+            } else {
+                const base = val / UNIT_DATA[cat][fU];
+                result = base * UNIT_DATA[cat][tU];
+            }
+
+            const final = parseFloat(result.toFixed(6));
+            isFrom ? to.value = final : from.value = final;
+            state.val = isFrom ? val : from.value;
+            save();
+        }
+
+        function renderUI() {
+            const tabs = document.getElementById('categoryTabs');
+            tabs.innerHTML = Object.keys(UNIT_DATA).map(cat => 
+                `<button onclick="setCategory('${cat}')" class="tab-btn px-4 py-2 rounded-lg ${state.category === cat ? 'active' : 'bg-zinc-800'}">${cat.toUpperCase()}</button>`
+            ).join('');
+
+            const fU = document.getElementById('fromUnit');
+            const tU = document.getElementById('toUnit');
+            fU.innerHTML = tU.innerHTML = Object.keys(UNIT_DATA[state.category]).map(u => `<option value="${u}" ${state.fromUnit === u ? 'selected':''}>${u}</option>`).join('');
+            tU.value = state.toUnit;
+            
+            document.getElementById('fromVal').value = state.val;
+            calculate(true);
+        }
+
+        function setCategory(cat) {
+            state.category = cat;
+            state.fromUnit = Object.keys(UNIT_DATA[cat])[0];
+            state.toUnit = Object.keys(UNIT_DATA[cat])[1];
+            renderUI();
+        }
+
+        document.getElementById('fromVal').addEventListener('input', () => calculate(true));
+        document.getElementById('fromUnit').addEventListener('change', (e) => { state.fromUnit = e.target.value; calculate(); });
+        document.getElementById('toUnit').addEventListener('change', (e) => { state.toUnit = e.target.value; calculate(); });
+        document.getElementById('swapBtn').onclick = () => {
+            [state.fromUnit, state.toUnit] = [state.toUnit, state.fromUnit];
+            renderUI();
+        };
+        document.getElementById('copyBtn').onclick = () => {
+            navigator.clipboard.writeText(document.getElementById('toVal').value);
+        };
+
+        renderUI();
+    </script>
+</body>
+</html>
