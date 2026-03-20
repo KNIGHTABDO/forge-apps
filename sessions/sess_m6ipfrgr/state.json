@@ -16,13 +16,15 @@
     {
       "role": "user",
       "content": "Build a tool based on our brainstorming.",
-      "at": "2026-03-20T09:51:39.270Z"
+      "at": "2026-03-20T09:51:39.270Z",
+      "checkpointId": "cp_1774000306102"
     },
     {
       "role": "assistant",
       "content": "✓ Tool built",
       "at": "2026-03-20T09:51:39.270Z",
-      "isGenerating": false
+      "isGenerating": false,
+      "checkpointId": "cp_1774000306102"
     }
   ],
   "planContent": "",
