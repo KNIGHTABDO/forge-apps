@@ -1,0 +1,48 @@
+{
+  "title": "A sleek, dark theme calorie tracker with",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-20T11:39:14.271Z",
+  "updated": "2026-03-20T11:39:14.271Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "A sleek, dark theme calorie tracker with a glassmorphism UI",
+      "at": "2026-03-20T11:33:14.569Z",
+      "checkpointId": "cp_1774006401624_e8lal"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-20T11:33:14.569Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774006401624_e8lal"
+    },
+    {
+      "role": "user",
+      "content": "The plan is excellent. Please start the build now.",
+      "at": "2026-03-20T11:34:11.213Z",
+      "checkpointId": "cp_1774006458339_zbprb"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-20T11:34:11.213Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774006458339_zbprb"
+    },
+    {
+      "role": "user",
+      "content": "the <button> → change color to green",
+      "at": "2026-03-20T11:38:35.267Z",
+      "checkpointId": "cp_1774006722614_c2v6n"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Updated",
+      "at": "2026-03-20T11:38:35.267Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774006722614_c2v6n"
+    }
+  ]
+}
