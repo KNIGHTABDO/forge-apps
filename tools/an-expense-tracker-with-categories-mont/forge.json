@@ -1,0 +1,35 @@
+{
+  "title": "An expense tracker with categories, mont",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-20T09:42:50.733Z",
+  "updated": "2026-03-20T09:42:50.733Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "An expense tracker with categories, monthly summaries (using ECharts), and CSV export.",
+      "at": "2026-03-20T09:40:38.482Z",
+      "checkpointId": "cp_1773999643451"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-20T09:40:38.482Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773999643451"
+    },
+    {
+      "role": "user",
+      "content": "The plan is excellent. Please start the build now.",
+      "at": "2026-03-20T09:41:27.588Z",
+      "checkpointId": "cp_1773999695553"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-20T09:41:27.588Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773999695553"
+    }
+  ]
+}
