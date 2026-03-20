@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Kanban Board</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; min-height: 100vh; }
+        
+        header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; }
+        
+        .board { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: start; }
+        
+        .column { background: var(--s1); border: 1px solid var(--border); border-radius: 12px; padding: 16px; min-height: 400px; display: flex; flex-direction: column; gap: 12px; }
+        .column h2 { font-size: 14px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 10px 0; }
+
+        .card { background: var(--s2); padding: 16px; border-radius: 8px; border: 1px solid var(--border); cursor: grab; transition: all 0.2s ease; position: relative; }
+        .card:hover { border-color: var(--accent); transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3); }
+        .card button { position: absolute; top: 8px; right: 8px; background: none; border: none; color: var(--muted); cursor: pointer; }
+        .card button:hover { color: var(--danger); }
+
+        .btn { background: var(--accent); color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; display: flex; align-items: center; gap: 8px; font-weight: 500; }
+        .btn:hover { background: var(--accent-h); }
+
+        .modal { position: fixed; inset: 0; background: rgba(0,0,0,0.7); backdrop-filter: blur(4px); display: none; align-items: center; justify-content: center; }
+        .modal-content { background: var(--s2); padding: 24px; border-radius: 12px; border: 1px solid var(--border); width: 300px; display: flex; flex-direction: column; gap: 12px; }
+        input { background: var(--s1); border: 1px solid var(--border); color: white; padding: 10px; border-radius: 6px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Kanban Board</h1>
+        <button class="btn" onclick="openModal()"><i data-lucide="plus"></i> Add Task</button>
+    </header>
+
+    <div class="board" id="board">
+        <div class="column" data-status="todo" ondrop="drop(event)" ondragover="allowDrop(event)">
+            <h2>To Do</h2>
+            <div class="cards-container"></div>
+        </div>
+        <div class="column" data-status="progress" ondrop="drop(event)" ondragover="allowDrop(event)">
+            <h2>In Progress</h2>
+            <div class="cards-container"></div>
+        </div>
+        <div class="column" data-status="done" ondrop="drop(event)" ondragover="allowDrop(event)">
+            <h2>Done</h2>
+            <div class="cards-container"></div>
+        </div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <input type="text" id="taskInput" placeholder="Task name...">
+            <button class="btn" onclick="addTask()">Save Task</button>
+        </div>
+    </div>
+
+    <footer style="margin-top:40px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+        const KEY = 'forge-kanban-v1';
+        let tasks = JSON.parse(localStorage.getItem(KEY)) || [];
+
+        function save() { localStorage.setItem(KEY, JSON.stringify(tasks)); render(); }
+
+        function render() {
+            document.querySelectorAll('.cards-container').forEach(c => c.innerHTML = '');
+            tasks.forEach((t, i) => {
+                const col = document.querySelector(`.column[data-status="${t.status}"] .cards-container`);
+                const el = document.createElement('div');
+                el.className = 'card';
+                el.draggable = true;
+                el.id = `task-${i}`;
+                el.ondragstart = (e) => e.dataTransfer.setData('text', i);
+                el.innerHTML = `${t.text}<button onclick="deleteTask(${i})"><i data-lucide="trash-2" size="14"></i></button>`;
+                col.appendChild(el);
+            });
+            lucide.createIcons();
+        }
+
+        function openModal() { document.getElementById('modal').style.display = 'flex'; }
+        function addTask() {
+            const val = document.getElementById('taskInput').value;
+            if(!val) return;
+            tasks.push({ text: val, status: 'todo' });
+            document.getElementById('taskInput').value = '';
+            document.getElementById('modal').style.display = 'none';
+            save();
+        }
+
+        function deleteTask(i) { tasks.splice(i, 1); save(); }
+
+        function allowDrop(e) { e.preventDefault(); }
+        function drop(e) {
+            e.preventDefault();
+            const id = e.dataTransfer.getData('text');
+            const status = e.target.closest('.column').dataset.status;
+            tasks[id].status = status;
+            save();
+        }
+
+        window.onclick = (e) => { if(e.target.id === 'modal') e.target.style.display = 'none'; }
+        
+        document.addEventListener('DOMContentLoaded', () => { render(); lucide.createIcons(); });
+    </script>
+</body>
+</html>
