@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfolio | Google Software Engineer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="/forge.js"></script>
+    <style>
+        [x-cloak] { display: none !important; }
+        .glass { background: rgba(10, 10, 10, 0.8); backdrop-filter: blur(12px); border: 1px solid rgba(38, 38, 38, 0.5); }
+        .gradient-text { background: linear-gradient(to right, #3b82f6, #60a5fa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    </style>
+</head>
+<body class="bg-neutral-950 text-neutral-100 font-sans selection:bg-blue-600/30" x-data="{ activeSection: 'hero', showContact: false }">
+
+    <header class="fixed w-full top-0 z-50 glass border-b border-neutral-800">
+        <nav class="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="text-xl font-bold tracking-tight">DEV<span class="text-blue-500">.</span></div>
+            <div class="hidden md:flex gap-8 text-sm text-neutral-400">
+                <a href="#about" class="hover:text-white transition-colors">About</a>
+                <a href="#projects" class="hover:text-white transition-colors">Projects</a>
+                <a href="#experience" class="hover:text-white transition-colors">Experience</a>
+            </div>
+            <button @click="showContact = true" class="bg-blue-600 hover:bg-blue-500 px-5 py-2 rounded-lg text-sm font-medium transition-all min-h-[44px] min-w-[100px]">Connect</button>
+        </nav>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-6 pt-32 space-y-32 pb-20">
+        
+        <section id="hero" class="space-y-6">
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-blue-500/30 bg-blue-500/10 text-blue-400 text-xs font-semibold">
+                <span class="w-2 h-2 rounded-full bg-blue-500 animate-pulse"></span>
+                GOOGLE SOFTWARE ENGINEER
+            </div>
+            <h1 class="text-6xl md:text-8xl font-bold tracking-tighter">Building scalable<br><span class="gradient-text">infrastructure.</span></h1>
+            <p class="text-lg text-neutral-400 max-w-xl leading-relaxed">Solving complex distributed systems challenges at Google. Passionate about performance, clean architecture, and developer productivity.</p>
+        </section>
+
+        <section id="about" class="space-y-8">
+            <h2 class="text-2xl font-bold">Technical Proficiency</h2>
+            <div class="flex flex-wrap gap-3">
+                <span class="px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-sm font-medium text-neutral-300">Go</span>
+                <span class="px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-sm font-medium text-neutral-300">C++</span>
+                <span class="px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-sm font-medium text-neutral-300">Java</span>
+                <span class="px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-sm font-medium text-neutral-300">Kubernetes</span>
+                <span class="px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-sm font-medium text-neutral-300">GCP</span>
+                <span class="px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-sm font-medium text-neutral-300">Distributed Systems</span>
+                <span class="px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-sm font-medium text-neutral-300">gRPC</span>
+                <span class="px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-sm font-medium text-neutral-300">Protocol Buffers</span>
+            </div>
+        </section>
+
+        <section id="projects" class="space-y-8">
+            <h2 class="text-2xl font-bold">Featured Projects</h2>
+            <div class="grid md:grid-cols-2 gap-6">
+                <article class="p-6 rounded-xl bg-neutral-900 border border-neutral-800 hover:border-blue-500/50 transition-all hover:translate-y-[-4px]">
+                    <div class="w-12 h-12 rounded-lg bg-neutral-800 flex items-center justify-center mb-6">
+                        <i data-lucide="code" class="text-blue-500"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-2">Service Mesh Optimization</h3>
+                    <p class="text-sm text-neutral-400 mb-4">Reduced latency by 40% across global microservices using custom sidecar proxies and optimized serialization.</p>
+                    <a href="#" class="text-blue-500 text-sm font-semibold inline-flex items-center gap-1">View Case Study →</a>
+                </article>
+                <article class="p-6 rounded-xl bg-neutral-900 border border-neutral-800 hover:border-blue-500/50 transition-all hover:translate-y-[-4px]">
+                    <div class="w-12 h-12 rounded-lg bg-neutral-800 flex items-center justify-center mb-6">
+                        <i data-lucide="database" class="text-blue-500"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-2">Storage Scaling Engine</h3>
+                    <p class="text-sm text-neutral-400 mb-4">Architected a multi-region consistent storage layer supporting 10M+ operations per second with sub-millisecond tail latency.</p>
+                    <a href="#" class="text-blue-500 text-sm font-semibold inline-flex items-center gap-1">View Case Study →</a>
+                </article>
+            </div>
+        </section>
+
+        <section id="experience" class="space-y-8">
+            <h2 class="text-2xl font-bold">Career Timeline</h2>
+            <div class="border-l border-neutral-800 ml-2 space-y-12">
+                <div class="pl-8 relative">
+                    <div class="absolute -left-1.5 top-1.5 w-3 h-3 bg-blue-600 rounded-full shadow-[0_0_10px_rgba(37,99,235,0.5)]"></div>
+                    <h3 class="font-bold text-lg">Google | L5 Software Engineer</h3>
+                    <p class="text-sm text-neutral-400">2021 — Present</p>
+                </div>
+                <div class="pl-8 relative">
+                    <div class="absolute -left-1.5 top-1.5 w-3 h-3 bg-neutral-700 rounded-full"></div>
+                    <h3 class="font-bold text-lg">Startup Inc. | Lead Backend</h3>
+                    <p class="text-sm text-neutral-400">2018 — 2021</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div x-show="showContact" x-cloak class="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" @keydown.escape.window="showContact = false">
+        <div class="bg-neutral-900 border border-neutral-800 w-full max-w-md p-8 rounded-2xl shadow-2xl" @click.away="showContact = false">
+            <h2 class="text-2xl font-bold mb-4">Connect</h2>
+            <p class="text-neutral-400 mb-6">Let's discuss distributed systems, engineering culture, or collaborative opportunities.</p>
+            <div class="space-y-4">
+                <div class="p-3 bg-neutral-950 rounded-lg flex items-center justify-between border border-neutral-800">
+                    <span class="text-sm text-neutral-400">me@google.com</span>
+                    <i data-lucide="mail" class="w-4 h-4 text-blue-500"></i>
+                </div>
+            </div>
+            <button @click="showContact = false" class="mt-8 w-full py-3 bg-neutral-800 rounded-lg hover:bg-neutral-700 transition-colors">Close</button>
+        </div>
+    </div>
+
+    <footer class="text-center p-4 text-neutral-400 text-xs opacity-80 flex justify-center items-center gap-1.5 mt-auto border-t border-neutral-900">
+        <span>Built with</span> 
+        <img src="https://forge-app-peach.vercel.app/logo.png" alt="Forge" class="w-3.5 h-3.5 rounded-sm object-cover"> 
+        <a href="https://forge-app-peach.vercel.app" class="text-blue-500 font-semibold tracking-wide no-underline">FORGE</a>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            lucide.createIcons();
+            
+            // Initialization for db if needed
+            if(window.forge) {
+                const init = async () => {
+                    const data = await window.forge.db.get('portfolio', 'default');
+                    if(!data) await window.forge.db.set('portfolio', 'default', { views: 1 });
+                };
+                init();
+            }
+        });
+    </script>
+</body>
+</html>
