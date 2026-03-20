@@ -1,0 +1,22 @@
+{
+  "title": "A modern Kanban board with 3 columns (To",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-20T10:13:55.290Z",
+  "updated": "2026-03-20T10:13:55.290Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "A modern Kanban board with 3 columns (To Do, In Progress, Done). Ensure there is a header with a Lucide Plus icon to add new tasks. Make it look beautiful with frosted glass effects and smooth hover animations.",
+      "at": "2026-03-20T10:13:02.903Z",
+      "checkpointId": "cp_1774001590875"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-20T10:13:02.903Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774001590875"
+    }
+  ]
+}
