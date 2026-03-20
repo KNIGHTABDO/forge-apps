@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pomodoro Focus Timer</title>
+    <style>
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e;
+        }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        .container { width: 100%; max-width: 400px; }
+        .timer-display { font-size: 5rem; font-weight: 800; text-align: center; margin: 2rem 0; font-variant-numeric: tabular-nums; }
+        .controls { display: flex; gap: 10px; justify-content: center; }
+        button { padding: 12px 24px; border-radius: 8px; border: none; cursor: pointer; font-weight: 600; transition: 0.15s; background: var(--s3); color: white; }
+        button:hover { background: var(--border); }
+        button.primary { background: var(--accent); }
+        button.primary:hover { background: var(--accent-h); }
+        .log-section { margin-top: 3rem; width: 100%; }
+        .log-item { background: var(--s1); padding: 12px; margin-bottom: 8px; border-radius: 8px; display: flex; justify-content: space-between; font-size: 0.9rem; border: 1px solid var(--border); }
+        h2 { font-size: 1.2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1 style="text-align: center; font-size: 1.5rem;">Focus Timer</h1>
+    <div class="timer-display" id="display">25:00</div>
+    
+    <div class="controls">
+        <button id="startBtn" class="primary">Start</button>
+        <button id="resetBtn">Reset</button>
+    </div>
+
+    <div class="log-section">
+        <h2>Session Log</h2>
+        <div id="logList"></div>
+        <button id="exportBtn" style="margin-top:10px; width:100%; background:transparent; border:1px solid var(--border)">Export CSV</button>
+    </div>
+</div>
+
+<footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+<script>
+    const KEY = 'forge-pomodoro-v1';
+    let timeLeft = 1500;
+    let timerId = null;
+    let isRunning = false;
+
+    const display = document.getElementById('display');
+    const startBtn = document.getElementById('startBtn');
+    const resetBtn = document.getElementById('resetBtn');
+    const logList = document.getElementById('logList');
+    const exportBtn = document.getElementById('exportBtn');
+
+    const loadLog = () => JSON.parse(localStorage.getItem(KEY) || '[]');
+    const saveLog = (log) => localStorage.setItem(KEY, JSON.stringify(log));
+
+    function updateDisplay() {
+        const m = Math.floor(timeLeft / 60);
+        const s = timeLeft % 60;
+        display.textContent = `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+    }
+
+    function renderLog() {
+        const log = loadLog();
+        logList.innerHTML = log.length ? '' : '<div style="color:var(--muted); text-align:center; padding:20px;">No sessions yet</div>';
+        log.slice().reverse().forEach(entry => {
+            const div = document.createElement('div');
+            div.className = 'log-item';
+            div.innerHTML = `<span>Completed</span> <span>${new Date(entry).toLocaleTimeString()}</span>`;
+            logList.appendChild(div);
+        });
+    }
+
+    startBtn.addEventListener('click', () => {
+        if (isRunning) {
+            clearInterval(timerId);
+            startBtn.textContent = 'Start';
+            isRunning = false;
+        } else {
+            isRunning = true;
+            startBtn.textContent = 'Pause';
+            timerId = setInterval(() => {
+                timeLeft--;
+                updateDisplay();
+                if (timeLeft <= 0) {
+                    clearInterval(timerId);
+                    alert("Focus session complete!");
+                    const log = loadLog();
+                    log.push(Date.now());
+                    saveLog(log);
+                    renderLog();
+                    timeLeft = 1500;
+                    updateDisplay();
+                    startBtn.textContent = 'Start';
+                    isRunning = false;
+                }
+            }, 1000);
+        }
+    });
+
+    resetBtn.addEventListener('click', () => {
+        clearInterval(timerId);
+        timeLeft = 1500;
+        isRunning = false;
+        startBtn.textContent = 'Start';
+        updateDisplay();
+    });
+
+    exportBtn.addEventListener('click', () => {
+        const log = loadLog();
+        const csv = "data:text/csv;charset=utf-8," + log.map(d => new Date(d).toISOString()).join("\n");
+        const encoded = encodeURI(csv);
+        const link = document.createElement("a");
+        link.setAttribute("href", encoded);
+        link.setAttribute("download", "pomodoro_log.csv");
+        document.body.appendChild(link);
+        link.click();
+    });
+
+    renderLog();
+    updateDisplay();
+</script>
+</body>
+</html>
