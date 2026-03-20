@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORGE Expense Ledger</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0a0a0a; --s1: #111111; --s2: #1a1a1a; --s3: #242424; --border: #1e293b;
+            --text: #f1f5f9; --muted: #64748b; --accent: #3b82f6; --accent-h: #2563eb;
+            --danger: #ef4444; --success: #22c55e;
+        }
+        body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; }
+        .card { background: var(--s1); border: 1px solid var(--border); border-radius: 8px; }
+        input, select { background: var(--s2) !important; border: 1px solid var(--border) !important; color: white !important; }
+        button { transition: 150ms; }
+        button:hover { opacity: 0.9; }
+        .scroll-list::-webkit-scrollbar { width: 6px; }
+        .scroll-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+    </style>
+</head>
+<body class="min-h-screen p-4 md:p-8">
+    <header class="max-w-6xl mx-auto mb-8 flex justify-between items-center">
+        <div>
+            <h1 class="text-2xl font-bold">FORGE <span class="text-accent">Expense Ledger</span></h1>
+            <p class="text-muted text-sm">Track your financial footprint</p>
+        </div>
+        <div class="text-right">
+            <div class="text-xs text-muted uppercase tracking-widest">Monthly Total</div>
+            <div id="total-val" class="text-2xl font-semibold">$0.00</div>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-12 gap-8">
+        <!-- Left: Form & History -->
+        <div class="md:col-span-5 space-y-6">
+            <div class="card p-6">
+                <form id="expense-form" class="space-y-4">
+                    <input type="date" id="date" required class="w-full p-2 rounded">
+                    <input type="text" id="desc" placeholder="Description" required class="w-full p-2 rounded">
+                    <input type="number" id="amount" placeholder="Amount ($)" step="0.01" required class="w-full p-2 rounded">
+                    <select id="category" class="w-full p-2 rounded">
+                        <option value="Food">Food</option>
+                        <option value="Housing">Housing</option>
+                        <option value="Transport">Transport</option>
+                        <option value="Entertainment">Entertainment</option>
+                        <option value="Utilities">Utilities</option>
+                        <option value="Other">Other</option>
+                    </select>
+                    <button type="submit" class="w-full py-2 bg-accent hover:bg-accent-h rounded font-medium">Add Expense</button>
+                </form>
+            </div>
+
+            <div class="card p-6">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="font-semibold">Transactions</h2>
+                    <button onclick="exportCSV()" class="text-xs bg-s3 px-3 py-1 rounded border border-border">Export CSV</button>
+                </div>
+                <div id="list" class="scroll-list overflow-y-auto max-h-[400px] space-y-2"></div>
+            </div>
+        </div>
+
+        <!-- Right: Dashboard -->
+        <div class="md:col-span-7 space-y-6">
+            <div class="card p-6">
+                <div class="flex justify-between mb-4">
+                    <h2 class="font-semibold">Analysis</h2>
+                    <select id="filter" onchange="render()" class="text-sm p-1 rounded">
+                        <!-- Populated by JS -->
+                    </select>
+                </div>
+                <div id="chart" style="height: 300px;"></div>
+            </div>
+        </div>
+    </main>
+
+    <footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+    <script>
+        const KEY = 'forge-expense-tracker-v1';
+        let transactions = JSON.parse(localStorage.getItem(KEY)) || [];
+        let chart = echarts.init(document.getElementById('chart'));
+
+        const form = document.getElementById('expense-form');
+        document.getElementById('date').valueAsDate = new Date();
+
+        function save() { localStorage.setItem(KEY, JSON.stringify(transactions)); render(); }
+
+        function exportCSV() {
+            const data = [['Date', 'Description', 'Category', 'Amount'], ...transactions.map(t => [t.date, t.desc, t.category, t.amount])];
+            const csv = data.map(e => e.join(",")).join("\n");
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url; a.download = 'expenses.csv'; a.click();
+        }
+
+        form.onsubmit = (e) => {
+            e.preventDefault();
+            const t = {
+                id: Date.now(),
+                date: document.getElementById('date').value,
+                desc: document.getElementById('desc').value,
+                amount: parseFloat(document.getElementById('amount').value),
+                category: document.getElementById('category').value
+            };
+            if(t.amount <= 0) return;
+            transactions.push(t);
+            save();
+            form.reset();
+            document.getElementById('date').valueAsDate = new Date();
+        };
+
+        function deleteEntry(id) {
+            transactions = transactions.filter(t => t.id !== id);
+            save();
+        }
+
+        function render() {
+            const now = new Date();
+            const filterVal = document.getElementById('filter').value || `${now.getFullYear()}-${now.getMonth()+1}`;
+            
+            // Populate filter if empty
+            const months = [...new Set(transactions.map(t => t.date.slice(0, 7)))].sort().reverse();
+            if(!document.getElementById('filter').innerHTML) {
+                months.forEach(m => document.getElementById('filter').innerHTML += `<option value="${m}">${m}</option>`);
+            }
+
+            const filtered = transactions.filter(t => t.date.startsWith(filterVal));
+            const list = document.getElementById('list');
+            list.innerHTML = filtered.length ? '' : '<div class="text-center text-muted py-10">No expenses found</div>';
+            
+            let total = 0;
+            const stats = {};
+            filtered.forEach(t => {
+                total += t.amount;
+                stats[t.category] = (stats[t.category] || 0) + t.amount;
+                list.insertAdjacentHTML('afterbegin', `
+                    <div class="card p-3 flex justify-between items-center text-sm">
+                        <div><div class="font-bold">${t.desc}</div><div class="text-xs text-muted">${t.date} • ${t.category}</div></div>
+                        <div class="flex items-center gap-3"><span>$${t.amount.toFixed(2)}</span><button onclick="deleteEntry(${t.id})" class="text-danger">✕</button></div>
+                    </div>
+                `);
+            });
+
+            document.getElementById('total-val').innerText = `$${total.toFixed(2)}`;
+
+            chart.setOption({
+                tooltip: { trigger: 'item' },
+                series: [{
+                    type: 'pie', radius: '70%',
+                    data: Object.keys(stats).map(k => ({ name: k, value: stats[k] }))
+                }]
+            });
+        }
+
+        window.onresize = () => chart.resize();
+        render();
+    </script>
+</body>
+</html>
