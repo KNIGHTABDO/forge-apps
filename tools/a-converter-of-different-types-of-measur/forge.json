@@ -1,0 +1,35 @@
+{
+  "title": "A converter of different types of measur",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-20T06:50:29.644Z",
+  "updated": "2026-03-20T06:50:29.644Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "A converter of different types of measures ",
+      "at": "2026-03-20T06:49:15.150Z",
+      "checkpointId": "cp_1773989360861"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-20T06:49:15.150Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773989360861"
+    },
+    {
+      "role": "user",
+      "content": "The plan is excellent. Please start the build now.",
+      "at": "2026-03-20T06:49:47.684Z",
+      "checkpointId": "cp_1773989409132"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-20T06:49:47.684Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773989409132"
+    }
+  ]
+}
