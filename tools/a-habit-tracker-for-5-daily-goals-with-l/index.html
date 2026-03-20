@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Forge Habit Tracker</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+        :root { --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b; --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb; --danger:#ef4444; --success:#22c55e; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; line-height: 1.5; }
+        .container { max-width: 600px; margin: 0 auto; }
+        h1 { font-size: 1.5rem; text-align: center; margin-bottom: 2rem; }
+        .card { background: var(--s1); border: 1px solid var(--border); border-radius: 8px; padding: 20px; margin-bottom: 20px; }
+        .habit-row { display: flex; align-items: center; gap: 10px; margin-bottom: 15px; }
+        input[type="text"] { background: var(--s2); border: 1px solid var(--border); color: white; padding: 8px 12px; border-radius: 4px; flex-grow: 1; }
+        button { cursor: pointer; border: none; border-radius: 4px; padding: 8px 16px; transition: 0.15s; font-weight: 600; }
+        .btn-check { background: var(--s3); color: var(--text); width: 40px; height: 40px; border-radius: 50%; }
+        .btn-check.active { background: var(--success); }
+        .btn-export { background: var(--accent); color: white; width: 100%; margin-top: 10px; }
+        .btn-export:hover { background: var(--accent-h); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Daily Habits</h1>
+        <div id="app" class="card">
+            <div id="habit-list"></div>
+            <button class="btn-export" onclick="exportCSV()">Export Data to CSV</button>
+        </div>
+        <footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+    </div>
+
+    <script>
+        const KEY = 'forge-habits-v1';
+        let state = JSON.parse(localStorage.getItem(KEY)) || {
+            names: ["Habit 1", "Habit 2", "Habit 3", "Habit 4", "Habit 5"],
+            history: {} // date: [bool, bool, bool, bool, bool]
+        };
+
+        function getTodayStr() { return new Date().toISOString().split('T')[0]; }
+
+        function render() {
+            const list = document.getElementById('habit-list');
+            list.innerHTML = '';
+            const today = getTodayStr();
+            if (!state.history[today]) state.history[today] = [false, false, false, false, false];
+
+            state.names.forEach((name, i) => {
+                const row = document.createElement('div');
+                row.className = 'habit-row';
+                row.innerHTML = `
+                    <input type="text" value="${name}" onchange="updateName(${i}, this.value)">
+                    <button class="btn-check ${state.history[today][i] ? 'active' : ''}" onclick="toggleHabit(${i})">✓</button>
+                `;
+                list.appendChild(row);
+            });
+        }
+
+        function updateName(i, val) { state.names[i] = val; save(); }
+        function toggleHabit(i) {
+            const today = getTodayStr();
+            state.history[today][i] = !state.history[today][i];
+            save();
+            render();
+        }
+
+        function save() { localStorage.setItem(KEY, JSON.stringify(state)); }
+
+        function exportCSV() {
+            let csv = "Date,Habit 1,Habit 2,Habit 3,Habit 4,Habit 5\n";
+            Object.keys(state.history).sort().forEach(date => {
+                csv += `${date},${state.history[date].map(b => b ? 1 : 0).join(',')}\n`;
+            });
+            const blob = new Blob([csv], {type: 'text/csv'});
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.setAttribute('href', url);
+            a.setAttribute('download', 'habits.csv');
+            a.click();
+        }
+
+        render();
+    </script>
+</body>
+</html>
