@@ -1,0 +1,48 @@
+{
+  "title": " A landing page for a portfolio of a pro",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-20T12:45:08.080Z",
+  "updated": "2026-03-20T12:45:08.080Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": " A landing page for a portfolio of a programmer in Google",
+      "at": "2026-03-20T12:43:17.346Z",
+      "checkpointId": "cp_1774010604699_grhla"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-20T12:43:17.346Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774010604699_grhla"
+    },
+    {
+      "role": "user",
+      "content": "The plan is excellent. Please start the build now.",
+      "at": "2026-03-20T12:43:39.851Z",
+      "checkpointId": "cp_1774010628528_a1ra7"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-20T12:43:39.851Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774010628528_a1ra7"
+    },
+    {
+      "role": "user",
+      "content": "the <div> saying \"{['Go', 'C++', 'Java', 'Kubernetes', 'GCP', 'Distributed Sys\"  → this looks bad please ensure everything looks perfect",
+      "at": "2026-03-20T12:44:40.090Z",
+      "checkpointId": "cp_1774010689375_no777"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Updated",
+      "at": "2026-03-20T12:44:40.090Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1774010689375_no777"
+    }
+  ]
+}
