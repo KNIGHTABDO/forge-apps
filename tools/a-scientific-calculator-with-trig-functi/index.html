@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORGE Scientific</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+        :root {
+            --bg:#0a0a0a; --s1:#111111; --s2:#1a1a1a; --s3:#242424; --border:#1e293b;
+            --text:#f1f5f9; --muted:#64748b; --accent:#3b82f6; --accent-h:#2563eb;
+            --danger:#ef4444; --success:#22c55e; --warning:#f59e0b;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; display: flex; flex-direction: column; }
+        header { padding: 1rem 2rem; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
+        main { display: grid; grid-template-columns: 1fr 300px; gap: 2rem; padding: 2rem; max-width: 1000px; margin: 0 auto; width: 100%; flex-grow: 1; }
+        
+        .calc-body { background: var(--s1); padding: 1.5rem; border-radius: 12px; border: 1px solid var(--border); }
+        #display { width: 100%; height: 60px; background: var(--bg); border: 1px solid var(--border); margin-bottom: 1rem; color: var(--text); padding: 0 1rem; font-size: 1.5rem; border-radius: 8px; text-align: right; display: flex; align-items: center; justify-content: flex-end; }
+        .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+        button { background: var(--s2); border: 1px solid var(--border); color: var(--text); padding: 1rem; border-radius: 8px; cursor: pointer; transition: all 0.15s; font-weight: 600; }
+        button:hover { background: var(--s3); transform: translateY(-2px); }
+        button.op { color: var(--accent); }
+        button.equals { background: var(--accent); color: white; grid-column: span 2; }
+        button.equals:hover { background: var(--accent-h); }
+        
+        .history { background: var(--s1); padding: 1.5rem; border-radius: 12px; border: 1px solid var(--border); max-height: 500px; overflow-y: auto; }
+        .hist-item { padding: 0.75rem; border-bottom: 1px solid var(--border); font-size: 0.9rem; }
+        .hist-item div { color: var(--muted); font-size: 0.75rem; }
+        
+        @media (max-width: 768px) { main { grid-template-columns: 1fr; } .history { display: none; } }
+    </style>
+</head>
+<body>
+    <header>
+        <h2>FORGE Scientific</h2>
+        <button id="modeToggle" onclick="toggleMode()">DEG</button>
+    </header>
+    <main>
+        <section class="calc-body">
+            <div id="display">0</div>
+            <div class="grid">
+                <button onclick="clearDisplay()">C</button><button onclick="backspace()">DEL</button><button onclick="append('(')">(</button><button onclick="append(')')">)</button>
+                <button onclick="append('sin(')">sin</button><button onclick="append('cos(')">cos</button><button onclick="append('tan(')">tan</button><button class="op" onclick="append('/')">/</button>
+                <button onclick="append('log(')">log</button><button onclick="append('ln(')">ln</button><button onclick="append('sqrt(')">√</button><button class="op" onclick="append('*')">*</button>
+                <button onclick="append('7')">7</button><button onclick="append('8')">8</button><button onclick="append('9')">9</button><button class="op" onclick="append('-')">-</button>
+                <button onclick="append('4')">4</button><button onclick="append('5')">5</button><button onclick="append('6')">6</button><button class="op" onclick="append('+')">+</button>
+                <button onclick="append('1')">1</button><button onclick="append('2')">2</button><button onclick="append('3')">3</button><button onclick="append('^')">^</button>
+                <button onclick="append('0')">0</button><button onclick="append('.')">.</button><button onclick="append('Math.PI')">π</button><button onclick="append('Math.E')">e</button>
+                <button class="equals" onclick="calculate()">=</button>
+            </div>
+        </section>
+        <aside class="history" id="historyList">
+            <h3>History</h3>
+        </aside>
+    </main>
+    <footer style="text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+    <script>
+        const KEY = 'forge-scientific-calc-v1';
+        let currentExpr = "";
+        let history = JSON.parse(localStorage.getItem(KEY) || '[]');
+        let isDegrees = true;
+
+        const display = document.getElementById('display');
+        const historyList = document.getElementById('historyList');
+
+        function updateDisplay() { display.innerText = currentExpr || "0"; }
+        function append(val) { currentExpr += val; updateDisplay(); }
+        function clearDisplay() { currentExpr = ""; updateDisplay(); }
+        function backspace() { currentExpr = currentExpr.slice(0, -1); updateDisplay(); }
+        function toggleMode() { isDegrees = !isDegrees; document.getElementById('modeToggle').innerText = isDegrees ? 'DEG' : 'RAD'; }
+
+        function calculate() {
+            try {
+                let sanitized = currentExpr
+                    .replace(/sin\(/g, isDegrees ? 'Math.sin((Math.PI/180)*' : 'Math.sin(')
+                    .replace(/cos\(/g, isDegrees ? 'Math.cos((Math.PI/180)*' : 'Math.cos(')
+                    .replace(/tan\(/g, isDegrees ? 'Math.tan((Math.PI/180)*' : 'Math.tan(')
+                    .replace(/log\(/g, 'Math.log10(')
+                    .replace(/ln\(/g, 'Math.log(')
+                    .replace(/sqrt\(/g, 'Math.sqrt(')
+                    .replace(/\^/g, '**');
+
+                let result = eval(sanitized);
+                if (!isFinite(result)) throw new Error();
+                
+                addHistory(currentExpr, result);
+                currentExpr = result.toString();
+                updateDisplay();
+            } catch (e) {
+                display.innerText = "Error";
+                setTimeout(clearDisplay, 1000);
+            }
+        }
+
+        function addHistory(expr, res) {
+            history.unshift({ expr, res, time: new Date().toLocaleTimeString() });
+            if (history.length > 10) history.pop();
+            localStorage.setItem(KEY, JSON.stringify(history));
+            renderHistory();
+        }
+
+        function renderHistory() {
+            historyList.innerHTML = '<h3>History</h3>';
+            if (history.length === 0) historyList.innerHTML += '<p style="color:var(--muted);font-size:0.8rem;margin-top:1rem;">No history yet</p>';
+            history.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'hist-item';
+                div.innerHTML = `<div>${item.time}</div><strong>${item.expr}</strong> = ${item.res}`;
+                historyList.appendChild(div);
+            });
+        }
+        renderHistory();
+    </script>
+</body>
+</html>
