@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Premium Profile Card</title>
+    <script src="https://cdn.jsdelivr.net/npm/lucide@latest/dist/umd/lucide.min.js"></script>
+    <style>
+        :root {
+            --bg: #0a0a0a;
+            --s1: #111111;
+            --s2: #1a1a1a;
+            --s3: #242424;
+            --border: rgba(255, 255, 255, 0.1);
+            --text: #f1f5f9;
+            --muted: #64748b;
+            --accent: #3b82f6;
+            --accent-h: #2563eb;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { 
+            font-family: 'Inter', sans-serif; 
+            background: radial-gradient(circle at top right, #1e293b, #0a0a0a);
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .card {
+            width: 100%;
+            max-width: 380px;
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border);
+            border-radius: 24px;
+            padding: 32px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .card:hover { transform: translateY(-5px); border-color: rgba(59, 130, 246, 0.3); }
+
+        .header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 24px; }
+        .icon-box { background: var(--s2); padding: 12px; border-radius: 16px; color: var(--accent); }
+        .settings-btn { 
+            background: var(--s2); 
+            border: 1px solid var(--border); 
+            color: var(--muted); 
+            padding: 8px; 
+            border-radius: 12px; 
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .settings-btn:hover { color: var(--text); border-color: var(--accent); }
+
+        .avatar { 
+            width: 80px; 
+            height: 80px; 
+            background: linear-gradient(135deg, var(--accent), #8b5cf6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+            font-size: 32px;
+        }
+
+        h2 { font-size: 24px; margin-bottom: 4px; }
+        .handle { color: var(--muted); margin-bottom: 24px; font-size: 14px; }
+
+        .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 24px; }
+        .stat-item { background: var(--s1); padding: 16px; border-radius: 16px; text-align: center; border: 1px solid var(--border); }
+        .stat-val { font-weight: 700; font-size: 18px; display: block; }
+        .stat-lbl { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+
+        .btn-main {
+            width: 100%;
+            margin-top: 24px;
+            padding: 14px;
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .btn-main:hover { background: var(--accent-h); }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <div class="header">
+            <div class="icon-box"><i data-lucide="user"></i></div>
+            <button class="settings-btn" aria-label="Settings"><i data-lucide="settings"></i></button>
+        </div>
+        
+        <div class="avatar"><i data-lucide="star" color="white"></i></div>
+        <h2>Alex Rivera</h2>
+        <p class="handle">@alex_designer</p>
+
+        <div class="stats">
+            <div class="stat-item"><span class="stat-val">128</span><span class="stat-lbl">Projects</span></div>
+            <div class="stat-item"><span class="stat-val">4.9</span><span class="stat-lbl">Rating</span></div>
+        </div>
+
+        <button class="btn-main">Edit Profile</button>
+    </div>
+
+    <footer style="margin-top:40px;text-align:center;padding:16px;color:var(--muted);font-size:12px;opacity:0.8;display:flex;justify-content:center;align-items:center;gap:6px"><span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" style="width:14px;height:14px;border-radius:3px;object-fit:cover;"> <a href="https://forge-app.vercel.app" style="color:var(--accent);text-decoration:none;font-weight:600;letter-spacing:0.05em">FORGE</a></footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            lucide.createIcons();
+        });
+    </script>
+</body>
+</html>
