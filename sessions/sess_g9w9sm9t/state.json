@@ -9,7 +9,8 @@
       "role": "assistant",
       "content": "✓ Tool built",
       "at": "2026-03-20T09:30:54.927Z",
-      "isGenerating": false
+      "isGenerating": false,
+      "checkpointId": "cp_1773999061170"
     }
   ],
   "planContent": "",
