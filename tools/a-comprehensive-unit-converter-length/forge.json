@@ -1,0 +1,35 @@
+{
+  "title": "A comprehensive unit converter (length, ",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-20T09:37:31.416Z",
+  "updated": "2026-03-20T09:37:31.416Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "A comprehensive unit converter (length, weight, temperature) with a clean UI.",
+      "at": "2026-03-20T09:35:44.702Z",
+      "checkpointId": "cp_1773999349296"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-20T09:35:44.702Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773999349296"
+    },
+    {
+      "role": "user",
+      "content": "The plan is excellent. Please start the build now.",
+      "at": "2026-03-20T09:36:35.797Z",
+      "checkpointId": "cp_1773999405770"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-20T09:36:35.797Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773999405770"
+    }
+  ]
+}
