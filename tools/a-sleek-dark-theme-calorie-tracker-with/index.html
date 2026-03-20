@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forge Calorie Tracker</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script src="/forge.js"></script>
+</head>
+<body class="bg-neutral-950 text-neutral-100 min-h-screen flex flex-col font-sans">
+
+    <header class="sticky top-0 z-50 backdrop-blur-md bg-neutral-900/50 border-b border-neutral-800 p-4">
+        <div class="max-w-2xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold text-blue-500">CalorieTracker</h1>
+            <div id="date-display" class="text-xs text-neutral-400 font-medium"></div>
+        </div>
+    </header>
+
+    <main class="max-w-2xl mx-auto w-full p-4 flex-grow flex flex-col gap-6">
+        <!-- Chart Section -->
+        <div class="bg-neutral-900/50 p-6 rounded-xl border border-neutral-800 backdrop-blur-md shadow-lg">
+            <div id="chart" class="w-full h-64"></div>
+            <div class="flex justify-around mt-4 text-center">
+                <div><p class="text-xs text-neutral-400">Total Kcal</p><p id="total-kcal" class="text-lg font-bold">0</p></div>
+                <div><p class="text-xs text-neutral-400">Target</p><input type="number" id="goal-input" value="2000" class="bg-transparent text-center font-bold w-16 focus:outline-none focus:text-blue-500"></div>
+            </div>
+        </div>
+
+        <!-- Input Form -->
+        <form id="log-form" class="bg-neutral-900/50 p-6 rounded-xl border border-neutral-800 backdrop-blur-md grid grid-cols-2 sm:grid-cols-5 gap-3">
+            <input type="text" id="item-name" placeholder="Food Name" class="col-span-2 sm:col-span-2 bg-neutral-950 border border-neutral-800 p-2 rounded-lg text-sm focus:ring-2 focus:ring-blue-600 outline-none">
+            <input type="number" id="item-kcal" placeholder="Kcal" class="bg-neutral-950 border border-neutral-800 p-2 rounded-lg text-sm focus:ring-2 focus:ring-blue-600 outline-none">
+            <input type="number" id="item-p" placeholder="P" class="bg-neutral-950 border border-neutral-800 p-2 rounded-lg text-sm focus:ring-2 focus:ring-blue-600 outline-none">
+            <button type="submit" class="bg-blue-600 hover:bg-blue-500 rounded-lg p-2 flex items-center justify-center transition-all">
+                <i data-lucide="plus"></i>
+            </button>
+        </form>
+
+        <!-- History -->
+        <div class="bg-neutral-900/50 rounded-xl border border-neutral-800 overflow-hidden backdrop-blur-md flex-grow">
+            <div class="p-4 border-b border-neutral-800 font-semibold text-sm">Today's Entries</div>
+            <div id="history-list" class="divide-y divide-neutral-800 max-h-96 overflow-y-auto"></div>
+        </div>
+    </main>
+
+    <footer class="text-center p-4 text-neutral-400 text-xs opacity-80 flex justify-center items-center gap-1.5 mt-auto">
+        <span>Built with</span> <img src="https://forge-app.vercel.app/logo.png" alt="Forge" class="w-3.5 h-3.5 rounded-sm object-cover"> 
+        <a href="https://forge-app.vercel.app" class="text-blue-500 font-semibold tracking-wide no-underline">FORGE</a>
+    </footer>
+
+    <script>
+        let logs = [];
+        let target = 2000;
+        const chart = echarts.init(document.getElementById('chart'));
+
+        const init = async () => {
+            const saved = await window.forge.db.get('calories', 'data');
+            logs = Array.isArray(saved) ? saved : [];
+            render();
+            lucide.createIcons();
+        };
+
+        const render = () => {
+            const historyEl = document.getElementById('history-list');
+            historyEl.innerHTML = logs.length === 0 ? '<p class="p-8 text-center text-neutral-500 italic">No entries yet. Start tracking your meals!</p>' : '';
+            
+            let totalKcal = 0;
+            let totalP = 0;
+
+            logs.forEach((log, index) => {
+                totalKcal += parseInt(log.kcal);
+                totalP += parseInt(log.p);
+                const row = document.createElement('div');
+                row.className = 'p-4 flex items-center justify-between hover:bg-neutral-800/50 transition-colors';
+                row.innerHTML = `<div><p class="text-sm font-bold">${log.name}</p><p class="text-xs text-neutral-400">${log.kcal} Kcal | ${log.p}g Protein</p></div>
+                                 <button onclick="deleteEntry(${index})" class="text-neutral-500 hover:text-red-500"><i data-lucide="trash-2" class="w-4 h-4"></i></button>`;
+                historyEl.appendChild(row);
+            });
+
+            document.getElementById('total-kcal').innerText = totalKcal;
+            document.getElementById('date-display').innerText = new Date().toLocaleDateString(undefined, {weekday: 'long', month: 'short', day: 'numeric'});
+            
+            updateChart(totalKcal, target);
+            lucide.createIcons();
+            window.forge.db.set('calories', 'data', logs);
+        };
+
+        const updateChart = (total, goal) => {
+            chart.setOption({
+                series: [{
+                    type: 'gauge',
+                    startAngle: 180, endAngle: 0,
+                    itemStyle: { color: '#2563eb' },
+                    progress: { show: true, width: 15 },
+                    axisLine: { lineStyle: { width: 15, color: [[1, '#262626']] } },
+                    detail: { valueAnimation: true, formatter: '{value}', fontSize: 24, color: '#fff' },
+                    data: [{ value: total }]
+                }]
+            });
+        };
+
+        const deleteEntry = (index) => {
+            logs.splice(index, 1);
+            render();
+        };
+
+        document.getElementById('log-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const name = document.getElementById('item-name').value;
+            const kcal = parseInt(document.getElementById('item-kcal').value);
+            const p = parseInt(document.getElementById('item-p').value);
+            
+            if(name && !isNaN(kcal) && kcal >= 0 && !isNaN(p) && p >= 0) {
+                logs.push({name, kcal, p, timestamp: Date.now()});
+                document.getElementById('log-form').reset();
+                render();
+            }
+        });
+
+        document.getElementById('goal-input').addEventListener('change', (e) => {
+            target = parseInt(e.target.value) || 2000;
+            render();
+        });
+
+        window.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
