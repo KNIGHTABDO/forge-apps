@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "at": "2026-03-20T06:46:43.579Z",
+      "checkpointId": "cp_1773989205675"
+    },
+    {
+      "role": "assistant",
+      "content": "Please switch to **Chat mode** for conversation. In Fast mode, I only build and edit code.",
+      "at": "2026-03-20T06:46:43.579Z",
+      "isGenerating": false,
+      "checkpointId": "cp_1773989205675"
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "Hello",
+  "planApproved": false
+}
