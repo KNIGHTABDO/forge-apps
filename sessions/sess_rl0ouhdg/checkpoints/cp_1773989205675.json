@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Please switch to **Chat mode** for conversation. In Fast mode, I only build and edit code.",
+      "at": "2026-03-20T06:46:43.579Z",
+      "isGenerating": false
+    },
+    {
+      "role": "assistant",
+      "content": "Please switch to **Chat mode** for conversation. In Fast mode, I only build and edit code.",
+      "at": "2026-03-20T06:46:43.579Z",
+      "isGenerating": false
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "Hello",
+  "planApproved": false,
+  "sessionId": "sess_rl0ouhdg"
+}
