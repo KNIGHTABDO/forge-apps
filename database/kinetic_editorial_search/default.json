@@ -1,0 +1,42 @@
+{
+  "history": [
+    "Kinetic Motion Design 2024",
+    "Minimalism in Digital Media",
+    "Best Cinematic Cameras under $2000",
+    "Future of AI Editorial"
+  ],
+  "trending": [
+    {
+      "icon": "music_note",
+      "label": "Music"
+    },
+    {
+      "icon": "sports_esports",
+      "label": "Gaming"
+    },
+    {
+      "icon": "newspaper",
+      "label": "News"
+    },
+    {
+      "icon": "movie",
+      "label": "Movies"
+    },
+    {
+      "icon": "palette",
+      "label": "Fashion"
+    }
+  ],
+  "curated": [
+    {
+      "title": "Electronic Resonance",
+      "category": "Editor's Pick",
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-D6Vr441o_TlnaHp6K4tbKORYn_EW8yBaLX986x7PoFAeK5xpoNGoH_dbo0ljsfxiciWFh8kQQYX7xOrtOBxs1i4kyExbGSUJQsCT_9Tyf01xefLo8Y8ZNZ-HASZ_2-hFeXXbM0I493pWfeM6wutW5MZPEI2PCrDsDkF56Qee9vfgXgUbbTPlpV7nQ9GUKc8A1LiVw-ysgR6diBfIorrLRpLYkjrQNWoXMPBa5X93tjFJmhag_bV-VLOkSFmJuWITbjFxin7m9hY"
+    },
+    {
+      "title": "The Competitive Edge",
+      "category": "Trending",
+      "img": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRI4tji38gC0hcyrFn-M4Di60Tb4b9bGvY2Am998Bszfd-qVRM44P5Mv8wsmlJX8i7di0r8iIzOfDReW-dR5KPS-_9bBKJIavcMVNmaRRgXWbs3cBQ7IJ7taT4cUjcVw2iiKNLCz7MQOcuS9P8JazjpYaeLVZCZDE4I4OLJHHjGdMKMmL18rJl_SDIlJovqZm2thptFNpXPH6tB3CtIq0WaEuGJT2v8H1Ips5pI51-9OOb6TNuGbjD8t_60o9IASSb_HzYr1czZRE"
+    }
+  ]
+}
