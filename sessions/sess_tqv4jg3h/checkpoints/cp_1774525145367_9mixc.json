@@ -1,0 +1,50 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "A landin page about morocco",
+      "at": "2026-03-26T11:37:32.458Z",
+      "checkpointId": "cp_1774525069478_eefwy"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tech Blueprint ready. Now building your app...",
+      "at": "2026-03-26T11:37:32.458Z",
+      "isGenerating": false,
+      "mode": "fast",
+      "checkpointId": "cp_1774525069478_eefwy"
+    },
+    {
+      "role": "user",
+      "content": "A landin page about morocco",
+      "at": "2026-03-26T11:37:50.088Z"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ No plan exists. Please switch to Plan mode first and create a blueprint.",
+      "at": "2026-03-26T11:37:50.088Z",
+      "error": true
+    },
+    {
+      "role": "user",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-26T11:38:21.084Z",
+      "isGenerating": false
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-26T11:38:21.084Z",
+      "isGenerating": false,
+      "mode": "plan"
+    }
+  ],
+  "planContent": "# 🏗️ Architecture Blueprint\n\n## App Overview\nA visually immersive, single-file landing page dedicated to Morocco, serving as a high-impact digital brochure. The app features a hero section, an interactive destination explorer, a culture showcase, and a travel inquiry modal, utilizing the FORGE dark theme to create a premium, atmospheric travel experience.\n\n## Core Features\n- Hero Section: Full-viewport atmospheric landing with a main heading, sub-heading, and call-to-action button.\n- Sticky Header: Persistent navigation that changes from transparent to backdrop-blurred on scroll.\n- Destination Grid: Responsive cards showcasing Marrakech, Fez, Chefchaouen, and Sahara with hover-zoom effects.\n- Cultural Highlights: Alternating content blocks (image-left/text-right and text-left/image-right) highlighting architecture, food, and souks.\n- Inquiry Modal: A functional modal form to collect user travel interest (Name, Email, Destination preference).\n- Scroll-Spy Navigation: Smooth-scrolling links to anchor sections.\n\n## UI & Layout Strategy\n- **Layout type**: Single-page vertical scroll.\n- **Header**: Fixed, `w-full`, `backdrop-blur-sm`, `z-50`. Includes Logo (left) and \"Book Trip\" button (right).\n- **Main content area**: Sections wrapped in `py-20` padding. Grid for destinations uses `grid-cols-1 md:grid-cols-2 lg:grid-cols-4`.\n- **Controls**: Primary buttons with `bg-blue-600` and `hover:bg-blue-700`. Modal triggers and close buttons.\n- **Footer**: Centered text with \"Powered by FORGE\" branding.\n- **Design System**: Strict Tailwind utility classes (e.g., `text-neutral-100`, `bg-neutral-950`, `rounded-xl`).\n- **Color scheme**: Base `bg-neutral-950`, accents `blue-600`, text `neutral-100` and `neutral-400`.\n- **Responsive strategy**: Mobile (375px): 1-column stack. Desktop (1440px): 4-column destination grid, centered content max-width 1200px.\n- **Animations & UX**: `transition-all duration-300`, `hover:scale-105` for cards, `animate-fade-in` for section reveals.\n- **Touch Targets**: All interactive elements (buttons/inputs) set to min 44px height.\n- **Accessibility**: ARIA labels on navigation and buttons, `focus:ring-2` on all interactive fields.\n\n## Data Model & State\n| Variable | Type | Default | Description |\n|----------|------|---------|-------------|\n| isModalOpen | Boolean | false | Controls display of Inquiry Modal |\n| destinations | Array | Object[] | Data for cards (title, desc, imageRef) |\n| formData | Object | {name: '', email: ''} | State for the booking form |\n\n- **Persistence Strategy**: Use `window.forge.db.set('morocco_inquiries', 'latest', formData)` upon submission. Load existing data on `init`.\n\n## Technical Stack & Libraries\n- **Required CDNs**: Tailwind CSS (via CDN), Lucide Icons (via CDN).\n- **Allowed**: Tailwind CSS, Lucide Icons.\n- **APIs**: None (100% offline).\n\n## Implementation Steps\n1. Step 1: Set up HTML structure with viewport meta tag and Tailwind CSS CDN.\n2. Step 2: Apply `bg-neutral-950` and `text-neutral-100` globally to the `body`.\n3. Step 3: Develop the sticky header with `backdrop-blur-md` and flexbox alignment.\n4. Step 4: Create the Hero section with a dark overlay and centered headline.\n5. Step 5: Initialize the `destinations` array constant in JavaScript.\n6. Step 6: Render destination cards dynamically using a template literal or DOM manipulation.\n7. Step 7: Build alternating content sections for Cultural Highlights.\n8. Step 8: Create the hidden-by-default Modal container using `fixed inset-0` and `z-50`.\n9. Step 9: Bind \"Book Trip\" buttons to toggle `isModalOpen` state.\n10. Step 10: Implement `handleFormSubmit` function",
+  "currentHTML": "",
+  "mode": "plan",
+  "toolName": "A landin page about morocco",
+  "planApproved": true,
+  "projectFiles": [],
+  "flashNavEnabled": false,
+  "sessionId": "sess_tqv4jg3h"
+}
