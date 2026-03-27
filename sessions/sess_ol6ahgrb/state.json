@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "A Pomodoro timer with custom intervals",
+      "at": "2026-03-27T14:24:38.574Z",
+      "checkpointId": "cp_1774621499491_5708t"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ API Error: ",
+      "at": "2026-03-27T14:24:38.574Z",
+      "isGenerating": false,
+      "mode": "fast",
+      "error": true,
+      "checkpointId": "cp_1774621499491_5708t"
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "A Pomodoro timer with custom intervals",
+  "planApproved": false,
+  "projectFiles": []
+}
