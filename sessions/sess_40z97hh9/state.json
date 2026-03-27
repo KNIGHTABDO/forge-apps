@@ -16,17 +16,16 @@
     },
     {
       "role": "user",
-      "content": "The user clicked on a link or button pointing to \"link: javascript:void(0)\". Please generate the content or page for this section, integrate it smoothly into the application, and ensure the navigation works.",
+      "content": "✓ Updated",
       "at": "2026-03-27T16:17:25.867Z",
-      "checkpointId": "cp_1774628256694_bvoj5"
+      "isGenerating": false
     },
     {
       "role": "assistant",
       "content": "✓ Updated",
       "at": "2026-03-27T16:17:25.867Z",
       "isGenerating": false,
-      "mode": "fast",
-      "checkpointId": "cp_1774628256694_bvoj5"
+      "mode": "fast"
     }
   ],
   "planContent": "",
@@ -35,5 +34,6 @@
   "toolName": "Orchestr",
   "planApproved": false,
   "projectFiles": [],
-  "flashNavEnabled": true
+  "flashNavEnabled": true,
+  "sessionId": "sess_40z97hh9"
 }
