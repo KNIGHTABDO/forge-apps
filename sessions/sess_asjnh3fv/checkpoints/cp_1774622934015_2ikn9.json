@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "build me a landing page of a cool company management saas",
+      "at": "2026-03-27T14:48:52.743Z"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-27T14:48:52.744Z",
+      "isGenerating": false,
+      "mode": "fast"
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "Build me a landing page of a cool compan",
+  "planApproved": false,
+  "projectFiles": [],
+  "flashNavEnabled": false,
+  "sessionId": "sess_asjnh3fv"
+}
