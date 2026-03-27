@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "✓ Tool built",
+      "at": "2026-03-27T14:24:38.574Z",
+      "isGenerating": false
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-27T14:24:38.574Z",
+      "isGenerating": false,
+      "mode": "fast"
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "A Pomodoro timer with custom intervals",
+  "planApproved": false,
+  "projectFiles": [],
+  "sessionId": "sess_ol6ahgrb"
+}
