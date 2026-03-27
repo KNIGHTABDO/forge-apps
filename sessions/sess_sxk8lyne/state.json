@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "build me a landing page of a cool company management saas",
+      "at": "2026-03-27T14:46:56.123Z",
+      "checkpointId": "cp_1774622817909_ykl7j"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ API Error: Internal Server Error",
+      "at": "2026-03-27T14:46:56.123Z",
+      "isGenerating": false,
+      "mode": "fast",
+      "error": true,
+      "checkpointId": "cp_1774622817909_ykl7j"
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "Build me a landing page of a cool compan",
+  "planApproved": false,
+  "projectFiles": [],
+  "flashNavEnabled": false
+}
