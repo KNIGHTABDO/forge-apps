@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "build me a landing page of a cool company management saas",
+      "at": "2026-03-27T14:55:51.676Z",
+      "checkpointId": "cp_1774623358861_ffvtu"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ All 5 attempts failed. Last error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:streamGenerateContent?alt=sse: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "at": "2026-03-27T14:55:51.676Z",
+      "isGenerating": false,
+      "mode": "fast",
+      "error": true,
+      "checkpointId": "cp_1774623358861_ffvtu"
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "Build me a landing page of a cool compan",
+  "planApproved": false,
+  "projectFiles": [],
+  "flashNavEnabled": false
+}
