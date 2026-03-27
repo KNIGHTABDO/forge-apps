@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "✓ Tool built",
+      "at": "2026-03-27T14:55:51.676Z",
+      "isGenerating": false
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-27T14:55:51.676Z",
+      "isGenerating": false,
+      "mode": "fast"
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "Build me a landing page of a cool compan",
+  "planApproved": false,
+  "projectFiles": [],
+  "flashNavEnabled": false,
+  "sessionId": "sess_4i2mj5zj"
+}
