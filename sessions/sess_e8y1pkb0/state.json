@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "build me a landing page of a cool company management saas",
+      "at": "2026-03-27T14:57:36.493Z"
+    },
+    {
+      "role": "assistant",
+      "content": "❌ All 10 available keys failed. Last error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:streamGenerateContent?alt=sse: [403 Forbidden] Permission denied: Consumer 'api_key:AIzaSyC8i6dMRrISuRqLLzk0lxLcnWdLK6vJNwY' has been suspended. [{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"CONSUMER_SUSPENDED\",\"domain\":\"googleapis.com\",\"metadata\":{\"containerInfo\":\"api_key:AIzaSyC8i6dMRrISuRqLLzk0lxLcnWdLK6vJNwY\",\"service\":\"generativelanguage.googleapis.com\",\"consumer\":\"projects/387007576887\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"Permission denied: Consumer 'api_key:AIzaSyC8i6dMRrISuRqLLzk0lxLcnWdLK6vJNwY' has been suspended.\"}]",
+      "at": "2026-03-27T14:57:36.494Z",
+      "isGenerating": false,
+      "mode": "fast",
+      "error": true,
+      "checkpointId": "cp_1774623475323_wznpc"
+    }
+  ],
+  "planContent": "",
+  "currentHTML": "",
+  "mode": "fast",
+  "toolName": "Build me a landing page of a cool compan",
+  "planApproved": false,
+  "projectFiles": [],
+  "flashNavEnabled": false
+}
