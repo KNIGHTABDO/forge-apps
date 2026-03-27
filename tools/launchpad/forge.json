@@ -1,0 +1,37 @@
+{
+  "title": "Launchpad",
+  "description": "",
+  "tags": [],
+  "created": "2026-03-27T16:38:07.120Z",
+  "updated": "2026-03-27T16:38:07.120Z",
+  "promptHistory": [
+    {
+      "role": "user",
+      "content": "build me this iphone landing page",
+      "at": "2026-03-27T16:34:46.764Z",
+      "checkpointId": "cp_1774629354316_b0air"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Plan created! Review it on the right and approve to continue.",
+      "at": "2026-03-27T16:34:46.764Z",
+      "isGenerating": false,
+      "mode": "plan",
+      "checkpointId": "cp_1774629354316_b0air"
+    },
+    {
+      "role": "user",
+      "content": "The plan is excellent. Please start the build now.",
+      "at": "2026-03-27T16:36:09.883Z",
+      "checkpointId": "cp_1774629449874_ffa0n"
+    },
+    {
+      "role": "assistant",
+      "content": "✓ Tool built",
+      "at": "2026-03-27T16:36:09.883Z",
+      "isGenerating": false,
+      "mode": "build",
+      "checkpointId": "cp_1774629449874_ffa0n"
+    }
+  ]
+}
