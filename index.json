@@ -1,5 +1,16 @@
 [
   {
+    "slug": "task-manager-update",
+    "title": "Task Manager Update",
+    "description": "",
+    "tags": [
+      "react",
+      "sandpack"
+    ],
+    "created": "2026-03-28T22:07:53.224Z",
+    "updated": "2026-03-28T22:07:55.103Z"
+  },
+  {
     "slug": "zentask-pro",
     "title": "ZenTask Pro",
     "description": "",
