@@ -1,5 +1,16 @@
 [
   {
+    "slug": "zentask-pro",
+    "title": "ZenTask Pro",
+    "description": "",
+    "tags": [
+      "react",
+      "sandpack"
+    ],
+    "created": "2026-03-28T21:43:09.043Z",
+    "updated": "2026-03-28T21:43:10.845Z"
+  },
+  {
     "slug": "launchpad",
     "title": "Launchpad",
     "description": "",
