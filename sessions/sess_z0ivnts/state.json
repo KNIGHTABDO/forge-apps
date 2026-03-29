@@ -1,0 +1,21 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "A habit tracker for 5 daily goals"
+    },
+    {
+      "role": "assistant",
+      "content": "I've built a sleek, dark-themed habit tracker that allows you to manage up to 5 daily goals with local persistence.\n\n\n\n\n\nTry adding a feature to customize the habit names next!",
+      "isGenerating": false
+    }
+  ],
+  "projectFiles": [
+    {
+      "path": "App.js",
+      "content": "\nimport React, { useState, useEffect } from 'react';\nimport { Check, Plus, Trash2, Trophy, RotateCcw } from 'lucide-react';\n\nexport default function App() {\n  const [habits, setHabits] = useState(() => {\n    const saved = localStorage.getItem('daily-habits');\n    return saved ? JSON.parse(saved) : [\n      { id: 1, text: 'Morning Meditation', completed: false },\n      { id: 2, text: 'Drink 2L Water', completed: false },\n      { id: 3, text: 'Read 30 Minutes', completed: false },\n      { id: 4, text: 'Workout', completed: false },\n      { id: 5, text: 'Journaling', completed: false },\n    ];\n  });\n\n  useEffect(() => {\n    localStorage.setItem('daily-habits', JSON.stringify(habits));\n  }, [habits]);\n\n  const toggleHabit = (id) => {\n    setHabits(habits.map(h => h.id === id ? { ...h, completed: !h.completed } : h));\n  };\n\n  const progress = Math.round((habits.filter(h => h.completed).length / habits.length) * 100);\n\n  return (\n    <div className=\"min-h-screen bg-slate-950 text-slate-100 p-4 md:p-8 font-sans\">\n      <div className=\"max-w-md mx-auto\">\n        <header className=\"mb-8 text-center\">\n          <h1 className=\"text-3xl font-bold bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent\">HabitFlow</h1>\n          <p className=\"text-slate-400 mt-2\">Daily progress tracker</p>\n        </header>\n\n        <div className=\"bg-slate-900 border border-slate-800 rounded-2xl p-6 mb-8 shadow-2xl\">\n          <div className=\"flex justify-between items-end mb-2\">\n            <span className=\"text-sm font-medium text-slate-400\">Daily Goal</span>\n            <span className=\"text-2xl font-bold text-indigo-400\">{progress}%</span>\n          </div>\n          <div className=\"w-full bg-slate-800 h-3 rounded-full overflow-hidden\">\n            <div \n              className=\"h-full bg-gradient-to-r from-indigo-500 to-cyan-500 transition-all duration-500\" \n              style={{ width: `${progress}%` }}\n            />\n          </div>\n        </div>\n\n        <div className=\"space-y-3\">\n          {habits.map((habit) => (\n            <div \n              key={habit.id}\n              onClick={() => toggleHabit(habit.id)}\n              className={`group flex items-center p-4 rounded-xl border transition-all duration-200 cursor-pointer ${\n                habit.completed \n                  ? 'bg-indigo-900/20 border-indigo-500/50' \n                  : 'bg-slate-900 border-slate-800 hover:border-slate-700'\n              }`}\n            >\n              <div className={`w-6 h-6 rounded-md border flex items-center justify-center transition-colors ${\n                habit.completed ? 'bg-indigo-500 border-indigo-500' : 'border-slate-600'\n              }`}>\n                {habit.completed && <Check size={14} className=\"text-white\" />}\n              </div>\n              <span className={`ml-4 font-medium ${habit.completed ? 'text-slate-300 line-through' : 'text-slate-100'}`}>\n                {habit.text}\n              </span>\n            </div>\n          ))}\n        </div>\n\n        <button \n          onClick={() => setHabits(habits.map(h => ({ ...h, completed: false })))}\n          className=\"w-full mt-8 py-3 flex items-center justify-center gap-2 text-slate-400 hover:text-white transition-colors\"\n        >\n          <RotateCcw size={18} />\n          Reset for Tomorrow\n        </button>\n      </div>\n    </div>\n  );\n}\n"
+    }
+  ],
+  "toolName": "Untitled Tool",
+  "mode": "build"
+}
