@@ -3,19 +3,405 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how to learn anatomy by heart",
   "createdAt": "2026-03-30T19:31:31.668Z",
-  "updatedAt": "2026-03-30T19:31:39.017Z",
-  "lastAdvancedAt": "2026-03-30T19:31:39.017Z",
-  "phase": "awaiting_plan",
-  "progress": 4,
-  "etaMinutes": 45,
+  "updatedAt": "2026-03-30T19:32:26.852Z",
+  "lastAdvancedAt": "2026-03-30T19:32:13.239Z",
+  "phase": "analyzing",
+  "progress": 12,
+  "etaMinutes": 36,
   "planDraft": "1. Define Scope and Learning Frameworks: Establish the cognitive parameters of anatomical mastery, distinguishing between memorization (rote learning), conceptual understanding (functional anatomy), and spatial visualization. Identify established pedagogical models such as Bloom’s Taxonomy applied to medical education, and categorize anatomical study into hierarchical levels: gross, microscopic, developmental, and clinical/topographical anatomy.\n\n2. Execute Broad Search and Resource Mapping: Conduct a multi-channel search to aggregate high-efficacy learning methodologies. Query academic databases (PubMed, ERIC) and professional medical education forums for evidence-based techniques, including active recall, spaced repetition, the Method of Loci (memory palaces), and multi-modal visualization (3D atlases vs. cadaveric dissection). Identify top-tier resources such as Gray’s Anatomy, Netter’s, and institutional medical curricula guidelines.\n\n3. Comparative Analysis of Techniques: Evaluate the gathered methodologies based on their efficiency, long-term retention rates, and applicability to different anatomical domains. Contrast the efficacy of traditional drawing and labeling with modern digital integration tools (VR/AR simulation) and mnemonics. Assess which techniques best bridge the gap between abstract textbook terminology and clinical spatial reasoning.\n\n4. Identify Evidence Gaps and Practical Limitations: Critically examine where existing literature fails to address individual learning styles or the \"plateau effect\" in anatomical memorization. Investigate the limitations of rote memorization in the context of high-stakes clinical diagnostic accuracy. Determine if there is a consensus on the optimal sequence of study—whether one should prioritize systemic over regional anatomy for superior mental mapping.\n\n5. Synthesize a Structured Implementation Strategy: Consolidate findings into a coherent, step-by-step roadmap for a learner. Structure this synthesis as a progressive curriculum: beginning with foundational terminology, transitioning to regional spatial modeling using multi-modal tools, implementing a spaced-repetition schedule for retention, and culminating in clinical application exercises. Provide a final summary of recommended resources and psychological strategies to sustain focus and mastery.",
-  "planApproved": false,
-  "pendingQueries": [],
-  "processedQueries": [],
-  "websites": [],
-  "citations": [],
-  "notes": [],
+  "planApproved": true,
+  "pendingQueries": [
+    "how to learn anatomy by heart industry analysis 2025 2026",
+    "how to learn anatomy by heart benchmark comparison",
+    "how to learn anatomy by heart limitations and risks",
+    "how to learn anatomy by heart case study",
+    "how to learn anatomy by heart expert interview",
+    "how to learn anatomy by heart economics and costs",
+    "how to learn anatomy by heart timeline and adoption",
+    "how to learn anatomy by heart open source tools",
+    "how to learn anatomy by heart enterprise usage",
+    "how to learn anatomy by heart \"case study\"",
+    "how to learn anatomy by heart metrics",
+    "how to learn anatomy by heart review",
+    "how to learn anatomy by heart \"pdf\"",
+    "how to learn anatomy by heart site:edu",
+    "how to learn anatomy by heart site:gov",
+    "how to learn anatomy by heart \"analysis\"",
+    "how to learn anatomy by heart opinion",
+    "how to learn anatomy by heart official documentation \"case study\"",
+    "how to learn anatomy by heart official documentation metrics",
+    "how to learn anatomy by heart official documentation review",
+    "how to learn anatomy by heart official documentation \"pdf\""
+  ],
+  "processedQueries": [
+    "how to learn anatomy by heart",
+    "how to learn anatomy by heart official documentation",
+    "how to learn anatomy by heart latest research paper"
+  ],
+  "websites": [
+    {
+      "id": "site_1774899146334_gcq25",
+      "url": "https://www.tiktok.com/@medschoolbro/video/7594054381964758279",
+      "domain": "tiktok.com",
+      "title": "TikTok - Make Your Day",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=64",
+      "snippet": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133769256420872\",\"webIdCreatedTime\":\"1774899148\",\"odinId\":\"7623133664754287624\",\"nonce\":\"qBq5TrGYoDsC9sTO_oWns\",\"botType\":\"others\",\"requestId\":\"63523766774899148108\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720540,75294820,75331215,75381398,75383830,75583894,75615157,75616570,75617761,75",
+      "checkedAt": "2026-03-30T19:32:26.852Z"
+    },
+    {
+      "id": "site_1774899145704_05od4",
+      "url": "https://www.instagram.com/reel/DNMcWXhBZZi/",
+      "domain": "instagram.com",
+      "title": "instagram.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=instagram.com&sz=64",
+      "snippet": "theaestheticimmersion on August 10, 2025: \"Anatomy is key to being a safe provider + delivering the best results possible &#x2728; The best way to really learn anatomy when it comes to injecting? Cadaver education! And w",
+      "checkedAt": "2026-03-30T19:32:26.334Z"
+    },
+    {
+      "id": "site_1774899145024_goq1n",
+      "url": "https://www.instagram.com/p/DVRQysSETd_/",
+      "domain": "instagram.com",
+      "title": "instagram.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=instagram.com&sz=64",
+      "snippet": "82 likes, 11 comments - bespokemedicalacademy on February 27, 2026: \"&#064;confidencebylamija&#x2019;s session, Topographic Translation &#x2014; an overview of anatomy with patient case studies and clinical application, ",
+      "checkedAt": "2026-03-30T19:32:25.704Z"
+    },
+    {
+      "id": "site_1774899144306_d3g3b",
+      "url": "https://www.tiktok.com/@atomedgeanatomy/video/7530263230028188950",
+      "domain": "tiktok.com",
+      "title": "TikTok - Make Your Day",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=64",
+      "snippet": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133765448336916\",\"webIdCreatedTime\":\"1774899146\",\"odinId\":\"7623133638439404552\",\"nonce\":\"9xBd2JBmoLkkYrdOhNsjV\",\"botType\":\"others\",\"requestId\":\"63660154774899146144\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720540,75294820,75331215,75381398,75383832,75583895,75589609,75615157,75616570,75",
+      "checkedAt": "2026-03-30T19:32:25.024Z"
+    },
+    {
+      "id": "site_1774899143550_gu585",
+      "url": "https://www.linkedin.com/posts/sarah-boyle-b83a23275_anatomy-medicaleducation-brachialplexus-activity-7424483648164442112-JR3J",
+      "domain": "linkedin.com",
+      "title": "Understanding Brachial Plexus Anatomy with Mnemonics | Sarah Boyle posted on the topic | LinkedIn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
+      "snippet": "🧠 Brachial Plexus: From “Scary Topic” to “I Get It!” I used to hear medical students talk about the brachial plexus as if it were one of the most difficult anatomy topics out there. Honestly, that reputation alone made ",
+      "checkedAt": "2026-03-30T19:32:24.306Z"
+    },
+    {
+      "id": "site_1774899132881_amcee",
+      "url": "https://learn.lboro.ac.uk/course/index.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Module categories | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Module categories | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Lear",
+      "checkedAt": "2026-03-30T19:32:13.239Z"
+    },
+    {
+      "id": "site_1774899132611_4hahp",
+      "url": "https://learn.lboro.ac.uk/mod/forum/discuss.php?d=494667",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Learn: Learn Rollover completed | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Learn: Learn Rollover completed | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search inp",
+      "checkedAt": "2026-03-30T19:32:12.881Z"
+    },
+    {
+      "id": "site_1774899132069_bxnwl",
+      "url": "https://learn.lboro.ac.uk/",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Learn | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Loughborough University Virtual Learning Environment.",
+      "checkedAt": "2026-03-30T19:32:12.611Z"
+    },
+    {
+      "id": "site_1774899131553_4eiv2",
+      "url": "https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/",
+      "domain": "texasheart.org",
+      "title": "Heart Anatomy | The Texas Heart Institute®",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=texasheart.org&sz=64",
+      "snippet": "Heart Anatomy: Your heart is located between your lungs in the middle of your chest, behind and slightly to the left of your breastbone.",
+      "checkedAt": "2026-03-30T19:32:12.069Z"
+    },
+    {
+      "id": "site_1774899131553_lu3tf",
+      "url": "https://gsbs.uth.edu/files/outreach/Anatomy%20of%20the%20Heart.pdf",
+      "domain": "gsbs.uth.edu",
+      "title": "gsbs.uth.edu",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=gsbs.uth.edu&sz=64",
+      "checkedAt": "2026-03-30T19:32:11.553Z"
+    },
+    {
+      "id": "site_1774899130372_j7bqw",
+      "url": "https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy/",
+      "domain": "courses.lumenlearning.com",
+      "title": "Heart Anatomy | Anatomy and Physiology II",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=courses.lumenlearning.com&sz=64",
+      "snippet": "Heart Anatomy | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 3: The Cardiovascular System: The Heart Search for: Heart Anatomy Learning Objectives By the end of this section, you will be able to: Describe the location and position of the heart within the body cavity Describe the internal and external anatomy of the heart Identify the tissue layers of the heart Relate the structure of the heart to its function as",
+      "checkedAt": "2026-03-30T19:32:11.552Z"
+    },
+    {
+      "id": "site_1774899119586_fljvb",
+      "url": "https://voka.io/how-to-memorize-anatomy-and-physiology/",
+      "domain": "voka.io",
+      "title": "Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
+      "snippet": "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
+      "checkedAt": "2026-03-30T19:31:59.747Z"
+    },
+    {
+      "id": "site_1774899119531_bk6cb",
+      "url": "https://www.kenhub.com/en/library/learning-strategies/4-steps-to-memorize-anatomical-terms",
+      "domain": "kenhub.com",
+      "title": "Anatomical terms: How to memorize them in 4 steps | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "Anatomical terms: How to memorize them in 4 steps | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
+      "checkedAt": "2026-03-30T19:31:59.586Z"
+    },
+    {
+      "id": "site_1774899119469_a189u",
+      "url": "https://www.magneticmemorymethod.com/how-to-memorize-anatomy/",
+      "domain": "magneticmemorymethod.com",
+      "title": "How to Memorize Anatomy for Med School (Without Flashcards)",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=magneticmemorymethod.com&sz=64",
+      "snippet": "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
+      "checkedAt": "2026-03-30T19:31:59.531Z"
+    },
+    {
+      "id": "site_1774899119408_z51ic",
+      "url": "https://www.kenhub.com/en/library/anatomy/heart",
+      "domain": "kenhub.com",
+      "title": "Heart anatomy: Structure, valves, coronary vessels | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "Heart anatomy: Structure, valves, coronary vessels | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-s",
+      "checkedAt": "2026-03-30T19:31:59.469Z"
+    },
+    {
+      "id": "site_1774899118238_ky1l9",
+      "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
+      "domain": "anatomy.app",
+      "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=anatomy.app&sz=64",
+      "snippet": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
+      "checkedAt": "2026-03-30T19:31:59.408Z"
+    }
+  ],
+  "citations": [
+    {
+      "id": 1,
+      "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
+      "domain": "anatomy.app",
+      "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app"
+    },
+    {
+      "id": 2,
+      "url": "https://www.kenhub.com/en/library/anatomy/heart",
+      "domain": "kenhub.com",
+      "title": "Heart anatomy: Structure, valves, coronary vessels | Kenhub"
+    },
+    {
+      "id": 3,
+      "url": "https://www.magneticmemorymethod.com/how-to-memorize-anatomy/",
+      "domain": "magneticmemorymethod.com",
+      "title": "How to Memorize Anatomy for Med School (Without Flashcards)"
+    },
+    {
+      "id": 4,
+      "url": "https://www.kenhub.com/en/library/learning-strategies/4-steps-to-memorize-anatomical-terms",
+      "domain": "kenhub.com",
+      "title": "Anatomical terms: How to memorize them in 4 steps | Kenhub"
+    },
+    {
+      "id": 5,
+      "url": "https://voka.io/how-to-memorize-anatomy-and-physiology/",
+      "domain": "voka.io",
+      "title": "Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan"
+    },
+    {
+      "id": 6,
+      "url": "https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy/",
+      "domain": "courses.lumenlearning.com",
+      "title": "Heart Anatomy | Anatomy and Physiology II"
+    },
+    {
+      "id": 7,
+      "url": "https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/",
+      "domain": "texasheart.org",
+      "title": "Heart Anatomy | The Texas Heart Institute®"
+    },
+    {
+      "id": 8,
+      "url": "https://learn.lboro.ac.uk/",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Learn | Learn"
+    },
+    {
+      "id": 9,
+      "url": "https://learn.lboro.ac.uk/mod/forum/discuss.php?d=494667",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Learn: Learn Rollover completed | Learn"
+    },
+    {
+      "id": 10,
+      "url": "https://learn.lboro.ac.uk/course/index.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Module categories | Learn"
+    },
+    {
+      "id": 11,
+      "url": "https://www.linkedin.com/posts/sarah-boyle-b83a23275_anatomy-medicaleducation-brachialplexus-activity-7424483648164442112-JR3J",
+      "domain": "linkedin.com",
+      "title": "Understanding Brachial Plexus Anatomy with Mnemonics | Sarah Boyle posted on the topic | LinkedIn"
+    },
+    {
+      "id": 12,
+      "url": "https://www.tiktok.com/@atomedgeanatomy/video/7530263230028188950",
+      "domain": "tiktok.com",
+      "title": "TikTok - Make Your Day"
+    },
+    {
+      "id": 13,
+      "url": "https://www.instagram.com/p/DVRQysSETd_/",
+      "domain": "instagram.com",
+      "title": "instagram.com"
+    },
+    {
+      "id": 14,
+      "url": "https://www.instagram.com/reel/DNMcWXhBZZi/",
+      "domain": "instagram.com",
+      "title": "instagram.com"
+    },
+    {
+      "id": 15,
+      "url": "https://www.tiktok.com/@medschoolbro/video/7594054381964758279",
+      "domain": "tiktok.com",
+      "title": "TikTok - Make Your Day"
+    }
+  ],
+  "notes": [
+    {
+      "citationId": 15,
+      "summary": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133769256420872\",\"webIdCreatedTime\":\"1774899148\",\"odinId\":\"7623133664754287624\",\"nonce\":\"qBq5TrGYoDsC9sTO_oWns\",\"botType\":\"others\",\"requestId\":\"63523766774899148108\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720540,75294820,75331215,75381398,75383830,75583894,75615157,75616570,75617761,75"
+    },
+    {
+      "citationId": 14,
+      "summary": "theaestheticimmersion on August 10, 2025: \"Anatomy is key to being a safe provider + delivering the best results possible &#x2728; The best way to really learn anatomy when it comes to injecting? Cadaver education! And w"
+    },
+    {
+      "citationId": 13,
+      "summary": "82 likes, 11 comments - bespokemedicalacademy on February 27, 2026: \"&#064;confidencebylamija&#x2019;s session, Topographic Translation &#x2014; an overview of anatomy with patient case studies and clinical application, "
+    },
+    {
+      "citationId": 12,
+      "summary": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133765448336916\",\"webIdCreatedTime\":\"1774899146\",\"odinId\":\"7623133638439404552\",\"nonce\":\"9xBd2JBmoLkkYrdOhNsjV\",\"botType\":\"others\",\"requestId\":\"63660154774899146144\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720540,75294820,75331215,75381398,75383832,75583895,75589609,75615157,75616570,75"
+    },
+    {
+      "citationId": 11,
+      "summary": "🧠 Brachial Plexus: From “Scary Topic” to “I Get It!” I used to hear medical students talk about the brachial plexus as if it were one of the most difficult anatomy topics out there. Honestly, that reputation alone made "
+    },
+    {
+      "citationId": 10,
+      "summary": "Module categories | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Lear"
+    },
+    {
+      "citationId": 9,
+      "summary": "Learn: Learn Rollover completed | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search inp"
+    },
+    {
+      "citationId": 8,
+      "summary": "Loughborough University Virtual Learning Environment."
+    },
+    {
+      "citationId": 7,
+      "summary": "Heart Anatomy: Your heart is located between your lungs in the middle of your chest, behind and slightly to the left of your breastbone."
+    },
+    {
+      "citationId": 6,
+      "summary": "Heart Anatomy | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 3: The Cardiovascular System: The Heart Search for: Heart Anatomy Learning Objectives By the end of this section, you will be able to: Describe the location and position of the heart within the body cavity Describe the internal and external anatomy of the heart Identify the tissue layers of the heart Relate the structure of the heart to its function as"
+    },
+    {
+      "citationId": 5,
+      "summary": "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies."
+    },
+    {
+      "citationId": 4,
+      "summary": "Anatomical terms: How to memorize them in 4 steps | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st"
+    },
+    {
+      "citationId": 3,
+      "summary": "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students."
+    },
+    {
+      "citationId": 2,
+      "summary": "Heart anatomy: Structure, valves, coronary vessels | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-s"
+    },
+    {
+      "citationId": 1,
+      "summary": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease."
+    }
+  ],
   "events": [
+    {
+      "id": "ev_1774899146852_ce2um",
+      "at": "2026-03-30T19:32:26.852Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 15."
+    },
+    {
+      "id": "ev_1774899133239_zfa4z",
+      "at": "2026-03-30T19:32:13.239Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart latest research paper"
+    },
+    {
+      "id": "ev_1774899133239_3hhvf",
+      "at": "2026-03-30T19:32:13.239Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 10."
+    },
+    {
+      "id": "ev_1774899119748_cowlh",
+      "at": "2026-03-30T19:31:59.748Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart official documentation"
+    },
+    {
+      "id": "ev_1774899119747_8wdhp",
+      "at": "2026-03-30T19:31:59.747Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774899108015_moaha",
+      "at": "2026-03-30T19:31:48.015Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart"
+    },
+    {
+      "id": "ev_1774899108015_gsa5a",
+      "at": "2026-03-30T19:31:48.015Z",
+      "phase": "query_fanout",
+      "message": "Generated 24 additional search vectors."
+    },
+    {
+      "id": "ev_1774899100697",
+      "at": "2026-03-30T19:31:40.697Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
     {
       "id": "ev_1774899095715_begxd",
       "at": "2026-03-30T19:31:35.715Z",
@@ -23,17 +409,34 @@
       "message": "Research session created. Plan draft is ready for review."
     }
   ],
-  "learnedSoFar": [],
+  "learnedSoFar": [
+    "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133769256420872\",\"webIdCreatedTime\":\"1774899148\",\"odinId\":\"7623133664754287624\",\"nonce\":\"qBq5TrGYoDsC9sTO_oWns\",\"botType\":\"others\",\"requestId\":\"63523766774899148108\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720540,75294820,75331215,75381398,75383830,75583894,75615157,75616570,75617761,75",
+    "theaestheticimmersion on August 10, 2025: \"Anatomy is key to being a safe provider + delivering the best results possible &#x2728; The best way to really learn anatomy when it comes to injecting? Cadaver education! And w",
+    "82 likes, 11 comments - bespokemedicalacademy on February 27, 2026: \"&#064;confidencebylamija&#x2019;s session, Topographic Translation &#x2014; an overview of anatomy with patient case studies and clinical application, ",
+    "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133765448336916\",\"webIdCreatedTime\":\"1774899146\",\"odinId\":\"7623133638439404552\",\"nonce\":\"9xBd2JBmoLkkYrdOhNsjV\",\"botType\":\"others\",\"requestId\":\"63660154774899146144\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720540,75294820,75331215,75381398,75383832,75583895,75589609,75615157,75616570,75",
+    "🧠 Brachial Plexus: From “Scary Topic” to “I Get It!” I used to hear medical students talk about the brachial plexus as if it were one of the most difficult anatomy topics out there. Honestly, that reputation alone made ",
+    "Module categories | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Lear",
+    "Learn: Learn Rollover completed | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search inp",
+    "Loughborough University Virtual Learning Environment.",
+    "Heart Anatomy: Your heart is located between your lungs in the middle of your chest, behind and slightly to the left of your breastbone.",
+    "Heart Anatomy | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 3: The Cardiovascular System: The Heart Search for: Heart Anatomy Learning Objectives By the end of this section, you will be able to: Describe the location and position of the heart within the body cavity Describe the internal and external anatomy of the heart Identify the tissue layers of the heart Relate the structure of the heart to its function as",
+    "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
+    "Anatomical terms: How to memorize them in 4 steps | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
+    "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
+    "Heart anatomy: Structure, valves, coronary vessels | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-s",
+    "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease."
+  ],
   "stats": {
-    "sourcesAnalyzed": 0,
-    "tokensUsedEstimate": 0,
-    "depthScore": 0,
-    "queriesGenerated": 0,
-    "iterations": 0,
-    "uniqueDomains": 0
+    "sourcesAnalyzed": 15,
+    "tokensUsedEstimate": 1269,
+    "depthScore": 10,
+    "queriesGenerated": 24,
+    "iterations": 3,
+    "uniqueDomains": 10
   },
   "control": {
     "paused": false,
     "stopped": false
-  }
+  },
+  "planFinal": "1. Define Scope and Learning Frameworks: Establish the cognitive parameters of anatomical mastery, distinguishing between memorization (rote learning), conceptual understanding (functional anatomy), and spatial visualization. Identify established pedagogical models such as Bloom’s Taxonomy applied to medical education, and categorize anatomical study into hierarchical levels: gross, microscopic, developmental, and clinical/topographical anatomy.\n\n2. Execute Broad Search and Resource Mapping: Conduct a multi-channel search to aggregate high-efficacy learning methodologies. Query academic databases (PubMed, ERIC) and professional medical education forums for evidence-based techniques, including active recall, spaced repetition, the Method of Loci (memory palaces), and multi-modal visualization (3D atlases vs. cadaveric dissection). Identify top-tier resources such as Gray’s Anatomy, Netter’s, and institutional medical curricula guidelines.\n\n3. Comparative Analysis of Techniques: Evaluate the gathered methodologies based on their efficiency, long-term retention rates, and applicability to different anatomical domains. Contrast the efficacy of traditional drawing and labeling with modern digital integration tools (VR/AR simulation) and mnemonics. Assess which techniques best bridge the gap between abstract textbook terminology and clinical spatial reasoning.\n\n4. Identify Evidence Gaps and Practical Limitations: Critically examine where existing literature fails to address individual learning styles or the \"plateau effect\" in anatomical memorization. Investigate the limitations of rote memorization in the context of high-stakes clinical diagnostic accuracy. Determine if there is a consensus on the optimal sequence of study—whether one should prioritize systemic over regional anatomy for superior mental mapping.\n\n5. Synthesize a Structured Implementation Strategy: Consolidate findings into a coherent, step-by-step roadmap for a learner. Structure this synthesis as a progressive curriculum: beginning with foundational terminology, transitioning to regional spatial modeling using multi-modal tools, implementing a spaced-repetition schedule for retention, and culminating in clinical application exercises. Provide a final summary of recommended resources and psychological strategies to sustain focus and mastery."
 }
