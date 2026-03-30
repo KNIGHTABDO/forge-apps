@@ -1,0 +1,39 @@
+{
+  "id": "rs_mndl3c2bdvkiy",
+  "sessionId": "sess_dc5sdf6",
+  "query": "how to learn anatomy by heart",
+  "createdAt": "2026-03-30T19:31:31.668Z",
+  "updatedAt": "2026-03-30T19:31:39.017Z",
+  "lastAdvancedAt": "2026-03-30T19:31:39.017Z",
+  "phase": "awaiting_plan",
+  "progress": 4,
+  "etaMinutes": 45,
+  "planDraft": "1. Define Scope and Learning Frameworks: Establish the cognitive parameters of anatomical mastery, distinguishing between memorization (rote learning), conceptual understanding (functional anatomy), and spatial visualization. Identify established pedagogical models such as Bloom’s Taxonomy applied to medical education, and categorize anatomical study into hierarchical levels: gross, microscopic, developmental, and clinical/topographical anatomy.\n\n2. Execute Broad Search and Resource Mapping: Conduct a multi-channel search to aggregate high-efficacy learning methodologies. Query academic databases (PubMed, ERIC) and professional medical education forums for evidence-based techniques, including active recall, spaced repetition, the Method of Loci (memory palaces), and multi-modal visualization (3D atlases vs. cadaveric dissection). Identify top-tier resources such as Gray’s Anatomy, Netter’s, and institutional medical curricula guidelines.\n\n3. Comparative Analysis of Techniques: Evaluate the gathered methodologies based on their efficiency, long-term retention rates, and applicability to different anatomical domains. Contrast the efficacy of traditional drawing and labeling with modern digital integration tools (VR/AR simulation) and mnemonics. Assess which techniques best bridge the gap between abstract textbook terminology and clinical spatial reasoning.\n\n4. Identify Evidence Gaps and Practical Limitations: Critically examine where existing literature fails to address individual learning styles or the \"plateau effect\" in anatomical memorization. Investigate the limitations of rote memorization in the context of high-stakes clinical diagnostic accuracy. Determine if there is a consensus on the optimal sequence of study—whether one should prioritize systemic over regional anatomy for superior mental mapping.\n\n5. Synthesize a Structured Implementation Strategy: Consolidate findings into a coherent, step-by-step roadmap for a learner. Structure this synthesis as a progressive curriculum: beginning with foundational terminology, transitioning to regional spatial modeling using multi-modal tools, implementing a spaced-repetition schedule for retention, and culminating in clinical application exercises. Provide a final summary of recommended resources and psychological strategies to sustain focus and mastery.",
+  "planApproved": false,
+  "pendingQueries": [],
+  "processedQueries": [],
+  "websites": [],
+  "citations": [],
+  "notes": [],
+  "events": [
+    {
+      "id": "ev_1774899095715_begxd",
+      "at": "2026-03-30T19:31:35.715Z",
+      "phase": "awaiting_plan",
+      "message": "Research session created. Plan draft is ready for review."
+    }
+  ],
+  "learnedSoFar": [],
+  "stats": {
+    "sourcesAnalyzed": 0,
+    "tokensUsedEstimate": 0,
+    "depthScore": 0,
+    "queriesGenerated": 0,
+    "iterations": 0,
+    "uniqueDomains": 0
+  },
+  "control": {
+    "paused": false,
+    "stopped": false
+  }
+}
