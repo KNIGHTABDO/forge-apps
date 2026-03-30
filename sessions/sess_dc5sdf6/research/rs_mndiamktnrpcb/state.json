@@ -3,16 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T18:13:13.037Z",
-  "updatedAt": "2026-03-30T18:13:30.614Z",
-  "lastAdvancedAt": "2026-03-30T18:13:27.108Z",
+  "updatedAt": "2026-03-30T18:13:37.036Z",
+  "lastAdvancedAt": "2026-03-30T18:13:34.351Z",
   "phase": "analyzing",
   "progress": 18,
   "etaMinutes": 5,
   "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 latest research paper",
-    "ai in 2026 industry analysis 2025 2026",
     "ai in 2026 benchmark comparison",
     "ai in 2026 limitations and risks",
     "ai in 2026 case study",
@@ -24,80 +22,82 @@
   ],
   "processedQueries": [
     "ai in 2026",
-    "ai in 2026 official documentation"
+    "ai in 2026 official documentation",
+    "ai in 2026 latest research paper",
+    "ai in 2026 industry analysis 2025 2026"
   ],
   "websites": [
     {
-      "id": "site_1774894410317_q3qql",
+      "id": "site_1774894416741_9js9a",
       "url": "https://www.zhihu.com/question/2006370013720897348",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:30.614Z"
+      "checkedAt": "2026-03-30T18:13:37.035Z"
     },
     {
-      "id": "site_1774894410004_56a9m",
+      "id": "site_1774894416459_rcbjy",
       "url": "https://www.zhihu.com/question/14173371100",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:30.317Z"
+      "checkedAt": "2026-03-30T18:13:36.741Z"
     },
     {
-      "id": "site_1774894409721_8zkzs",
+      "id": "site_1774894416177_dnn2s",
       "url": "https://www.zhihu.com/question/571427849",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:30.004Z"
+      "checkedAt": "2026-03-30T18:13:36.459Z"
     },
     {
-      "id": "site_1774894409246_zqy3h",
+      "id": "site_1774894415899_3dzxp",
       "url": "https://www.zhihu.com/question/13918010999",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:29.720Z"
+      "checkedAt": "2026-03-30T18:13:36.177Z"
     },
     {
-      "id": "site_1774894408955_u4sse",
+      "id": "site_1774894415617_sdt45",
       "url": "https://www.zhihu.com/question/4023337465",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:29.246Z"
+      "checkedAt": "2026-03-30T18:13:35.898Z"
     },
     {
-      "id": "site_1774894408672_w3hgl",
+      "id": "site_1774894415326_1ie9j",
       "url": "https://www.zhihu.com/question/1943070667252670985",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:28.955Z"
+      "checkedAt": "2026-03-30T18:13:35.617Z"
     },
     {
-      "id": "site_1774894408247_pslhz",
+      "id": "site_1774894415025_09wry",
       "url": "https://www.zhihu.com/question/591009674",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:28.672Z"
+      "checkedAt": "2026-03-30T18:13:35.326Z"
     },
     {
-      "id": "site_1774894407731_zowff",
+      "id": "site_1774894414687_5jnsz",
       "url": "https://www.zhihu.com/question/1903860201389548284",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:28.247Z"
+      "checkedAt": "2026-03-30T18:13:35.025Z"
     },
     {
       "id": "site_1774894407033_429p6",
@@ -215,6 +215,30 @@
   ],
   "events": [
     {
+      "id": "ev_1774894417035_6frzq",
+      "at": "2026-03-30T18:13:37.035Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774894414351_y2j0d",
+      "at": "2026-03-30T18:13:34.351Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 industry analysis 2025 2026"
+    },
+    {
+      "id": "ev_1774894414105_vjceu",
+      "at": "2026-03-30T18:13:34.105Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774894411314_dz9x2",
+      "at": "2026-03-30T18:13:31.314Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 latest research paper"
+    },
+    {
       "id": "ev_1774894410614_wa745",
       "at": "2026-03-30T18:13:30.614Z",
       "phase": "analyzing",
@@ -267,9 +291,9 @@
   "stats": {
     "sourcesAnalyzed": 5,
     "tokensUsedEstimate": 301,
-    "depthScore": 12,
+    "depthScore": 14,
     "queriesGenerated": 12,
-    "iterations": 2,
+    "iterations": 4,
     "uniqueDomains": 5
   },
   "control": {
