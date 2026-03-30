@@ -3,8 +3,8 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how to learn anatomy by heart",
   "createdAt": "2026-03-30T19:31:31.668Z",
-  "updatedAt": "2026-03-30T19:36:57.859Z",
-  "lastAdvancedAt": "2026-03-30T19:36:33.249Z",
+  "updatedAt": "2026-03-30T19:37:02.186Z",
+  "lastAdvancedAt": "2026-03-30T19:37:02.186Z",
   "phase": "complete",
   "progress": 100,
   "etaMinutes": 0,
@@ -39,676 +39,658 @@
   ],
   "websites": [
     {
-      "id": "site_1774899404015_2f721",
-      "url": "https://en.wikipedia.org/wiki/Ram_Janmabhoomi",
-      "domain": "en.wikipedia.org",
-      "title": "Ram Janmabhoomi - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Ram Janmabhoomi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Historical significance Toggle Historical significance",
-      "checkedAt": "2026-03-30T19:36:44.156Z"
-    },
-    {
-      "id": "site_1774899403932_m8jmg",
+      "id": "site_1774899405354_ceuj6",
       "url": "https://en.wikipedia.org/wiki/Medieval_medicine_of_Western_Europe",
       "domain": "en.wikipedia.org",
       "title": "Medieval medicine of Western Europe - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Medieval medicine of Western Europe - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Influences Toggle Influences subse",
-      "checkedAt": "2026-03-30T19:36:44.015Z"
+      "checkedAt": "2026-03-30T19:36:45.434Z"
     },
     {
-      "id": "site_1774899403820_d285w",
+      "id": "site_1774899405283_rhzi1",
       "url": "https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles",
       "domain": "en.wikipedia.org",
       "title": "Université libre de Bruxelles - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Université libre de Bruxelles - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name 2 History Toggle History subsection",
-      "checkedAt": "2026-03-30T19:36:43.932Z"
+      "checkedAt": "2026-03-30T19:36:45.354Z"
     },
     {
-      "id": "site_1774899403746_n2364",
+      "id": "site_1774899405220_3jmkk",
       "url": "https://en.wikipedia.org/wiki/University_of_Campania_Luigi_Vanvitelli",
       "domain": "en.wikipedia.org",
       "title": "University of Campania Luigi Vanvitelli - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "University of Campania Luigi Vanvitelli - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsect",
-      "checkedAt": "2026-03-30T19:36:43.819Z"
+      "checkedAt": "2026-03-30T19:36:45.283Z"
     },
     {
-      "id": "site_1774899403473_m7ukj",
+      "id": "site_1774899405149_zveoe",
       "url": "https://en.wikipedia.org/wiki/Medical_education",
       "domain": "en.wikipedia.org",
       "title": "Medical education - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Medical education - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Common techniques and evidence base 2 Entry-level ed",
-      "checkedAt": "2026-03-30T19:36:43.746Z"
+      "checkedAt": "2026-03-30T19:36:45.220Z"
     },
     {
-      "id": "site_1774899403473_v8rq6",
-      "url": "https://sdmiramar.edu/sites/default/files/2024-04/%2310%20Cardiovasc%20Anat%20Lect%20Notes.pdf",
-      "domain": "sdmiramar.edu",
-      "title": "sdmiramar.edu",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sdmiramar.edu&sz=64",
-      "checkedAt": "2026-03-30T19:36:43.473Z"
+      "id": "site_1774899404994_vtwz8",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+      "domain": "openstax.org",
+      "title": "19.1 Heart Anatomy - Anatomy and Physiology 2e | OpenStax",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=openstax.org&sz=64",
+      "snippet": "The human heart is located within the thoracic cavity, medially between the lungs in the space known as the mediastinum. Figure 19.2 shows the position ...",
+      "checkedAt": "2026-03-30T19:36:45.149Z"
     },
     {
-      "id": "site_1774899403473_oodyi",
+      "id": "site_1774899404994_i4y56",
       "url": "https://anatomy.med.utah.edu/diganat/SOM/unit_1/lec/GA_Lecture%20Syllabs%20unit1.pdf",
       "domain": "anatomy.med.utah.edu",
       "title": "anatomy.med.utah.edu",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=anatomy.med.utah.edu&sz=64",
-      "checkedAt": "2026-03-30T19:36:43.473Z"
+      "checkedAt": "2026-03-30T19:36:44.994Z"
     },
     {
-      "id": "site_1774899403473_6kroe",
-      "url": "https://www.visiblebody.com/hubfs/Lab%20Manuals/Atlas%20Lab%20Manuals%20-%20student%20fill%20in/lab%20manual_human%20heart_atlas.pdf",
-      "domain": "visiblebody.com",
-      "title": "visiblebody.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=visiblebody.com&sz=64",
-      "checkedAt": "2026-03-30T19:36:43.473Z"
-    },
-    {
-      "id": "site_1774899393183_8vfaw",
-      "url": "https://en.wikipedia.org/wiki/Hermann_Stieve",
+      "id": "site_1774899394325_bnvpp",
+      "url": "https://en.wikipedia.org/wiki/Prince_(musician)",
       "domain": "en.wikipedia.org",
-      "title": "Hermann Stieve - Wikipedia",
+      "title": "Prince (musician) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Hermann Stieve - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Academic career and political activity 3 M",
-      "checkedAt": "2026-03-30T19:36:33.248Z"
+      "snippet": "Prince (musician) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 197",
+      "checkedAt": "2026-03-30T19:36:34.466Z"
     },
     {
-      "id": "site_1774899393105_pc4yr",
+      "id": "site_1774899394247_hw1q0",
       "url": "https://en.wikipedia.org/wiki/Viral_video",
       "domain": "en.wikipedia.org",
       "title": "Viral video - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Viral video - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 TikTok and viral video culture 3 Qualification 4",
-      "checkedAt": "2026-03-30T19:36:33.183Z"
+      "checkedAt": "2026-03-30T19:36:34.325Z"
     },
     {
-      "id": "site_1774899392999_giddh",
+      "id": "site_1774899394145_yflh8",
       "url": "https://en.wikipedia.org/wiki/Nanjing_Massacre",
       "domain": "en.wikipedia.org",
       "title": "Nanjing Massacre - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Nanjing Massacre - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military situation Toggle Military situation subsecti",
-      "checkedAt": "2026-03-30T19:36:33.105Z"
+      "checkedAt": "2026-03-30T19:36:34.247Z"
     },
     {
-      "id": "site_1774899392916_l5b5a",
+      "id": "site_1774899393840_oedwk",
       "url": "https://en.wikipedia.org/wiki/Bimaristan",
       "domain": "en.wikipedia.org",
       "title": "Bimaristan - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Bimaristan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Origins 3 Features Toggle Features subsection 3",
-      "checkedAt": "2026-03-30T19:36:32.999Z"
+      "checkedAt": "2026-03-30T19:36:34.145Z"
     },
     {
-      "id": "site_1774899392256_3pw4c",
+      "id": "site_1774899391758_gbq2z",
       "url": "https://wtcs.pressbooks.pub/healthalts/chapter/5-2-review-of-anatomy-physiology-of-the-cardiovascular-system/",
       "domain": "wtcs.pressbooks.pub",
       "title": "5.2 Review of Anatomy & Physiology of the Cardiovascular System &#8211; Health Alterations",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=wtcs.pressbooks.pub&sz=64",
       "snippet": "5.2 Review of Anatomy &amp; Physiology of the Cardiovascular System &#8211; Health Alterations \" Skip to content Menu Primary Navigation Home Read Sign in Search in book: Search Book Contents Navigation Contents Introduction Preface Standards and Conceptual Approach I. Chapter 1 Leadership Principles 1.1 Leadership Introduction 1.2 Leadership Skills 1.3 Leadership Styles 1.4 Characteristics of Effective Leadership 1.5 Conflict Resolution 1.6 Cons",
-      "checkedAt": "2026-03-30T19:36:32.916Z"
+      "checkedAt": "2026-03-30T19:36:33.840Z"
     },
     {
-      "id": "site_1774899381784_q3j7u",
+      "id": "site_1774899381433_8l6zk",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
-      "checkedAt": "2026-03-30T19:36:21.817Z"
+      "checkedAt": "2026-03-30T19:36:21.467Z"
     },
     {
-      "id": "site_1774899381355_trhao",
+      "id": "site_1774899381404_2dmy8",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-      "checkedAt": "2026-03-30T19:36:21.784Z"
+      "checkedAt": "2026-03-30T19:36:21.433Z"
     },
     {
-      "id": "site_1774899381207_1pom4",
+      "id": "site_1774899381225_luvcl",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-      "checkedAt": "2026-03-30T19:36:21.355Z"
+      "checkedAt": "2026-03-30T19:36:21.404Z"
     },
     {
-      "id": "site_1774899380964_ukffq",
+      "id": "site_1774899380996_a287u",
       "url": "https://en.wikipedia.org/wiki/List_of_foreign_recipients_of_the_L%C3%A9gion_d'Honneur_by_country",
       "domain": "en.wikipedia.org",
       "title": "List of foreign recipients of the Légion d'Honneur by country - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "List of foreign recipients of the Légion d'Honneur by country - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Albania ",
-      "checkedAt": "2026-03-30T19:36:21.207Z"
+      "checkedAt": "2026-03-30T19:36:21.225Z"
     },
     {
-      "id": "site_1774899380671_mecfu",
+      "id": "site_1774899380675_amrl5",
       "url": "https://en.wikipedia.org/wiki/Bald_eagle",
       "domain": "en.wikipedia.org",
       "title": "Bald eagle - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Bald eagle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Taxonomy Toggle Taxonomy subsection 1.1 Subspecies 2 Descri",
-      "checkedAt": "2026-03-30T19:36:20.964Z"
+      "checkedAt": "2026-03-30T19:36:20.996Z"
     },
     {
-      "id": "site_1774899370102_xbbny",
-      "url": "https://en.wikipedia.org/wiki/History_of_medicine",
-      "domain": "en.wikipedia.org",
-      "title": "History of medicine - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc",
-      "checkedAt": "2026-03-30T19:36:10.306Z"
-    },
-    {
-      "id": "site_1774899369892_uiore",
+      "id": "site_1774899370069_w8wfj",
       "url": "https://en.wikipedia.org/wiki/Holocaust_denial",
       "domain": "en.wikipedia.org",
       "title": "Holocaust denial - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Holocaust denial - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology and etymology 2 Causes 3 Background Toggl",
-      "checkedAt": "2026-03-30T19:36:10.102Z"
+      "checkedAt": "2026-03-30T19:36:10.323Z"
     },
     {
-      "id": "site_1774899369673_fv5io",
+      "id": "site_1774899369933_fqpmr",
       "url": "https://en.wikipedia.org/wiki/Western_Sahara",
       "domain": "en.wikipedia.org",
       "title": "Western Sahara - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Western Sahara - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2",
-      "checkedAt": "2026-03-30T19:36:09.891Z"
+      "checkedAt": "2026-03-30T19:36:10.069Z"
     },
     {
-      "id": "site_1774899369295_5kldj",
+      "id": "site_1774899369480_efzcs",
       "url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
       "domain": "en.wikipedia.org",
       "title": "Bhopal disaster - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Bhopal disaster - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Earlier le",
-      "checkedAt": "2026-03-30T19:36:09.673Z"
+      "checkedAt": "2026-03-30T19:36:09.933Z"
     },
     {
-      "id": "site_1774899368574_gxrkf",
-      "url": "https://pll.harvard.edu/course/anatomyx-musculoskeletal-cases",
-      "domain": "pll.harvard.edu",
-      "title": "Human Anatomy: Musculoskeletal Cases | Harvard University",
+      "id": "site_1774899369001_iwb41",
+      "url": "https://laneguides.stanford.edu/medical-education/anatomy",
+      "domain": "laneguides.stanford.edu",
+      "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pll.harvard.edu&sz=64",
-      "snippet": "Learn the anatomy basic to understanding five musculoskeletal injuries commonly seen in primary care medicine and orthopedic clinical specialty practice. Follow hypothetical patients from injury to operating room.",
-      "checkedAt": "2026-03-30T19:36:09.295Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=laneguides.stanford.edu&sz=64",
+      "snippet": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru",
+      "checkedAt": "2026-03-30T19:36:09.480Z"
     },
     {
-      "id": "site_1774899357811_62rj0",
+      "id": "site_1774899368084_4kst3",
+      "url": "https://autopsy.online/ems-course/",
+      "domain": "autopsy.online",
+      "title": "EMS case study withclinical anatomy fundamentals",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=autopsy.online&sz=64",
+      "snippet": "EMS case study withclinical anatomy fundamentals Autopsy.Online - Learn directly from the body at any level of training. body #gform_wrapper_207 .gform_body .gform_fields .gfield .ginput_container_textarea textarea { font-size: 15px; color: #ffffff; background-color: #00001a; /*background-color: rgba(204,238,255, .85); */ text-align:left; height: 75px; max-width: 45vw; margin: 0px; border-radius: 10px; margin-bottom: 0px; } body #gform_wrapper_20",
+      "checkedAt": "2026-03-30T19:36:09.001Z"
+    },
+    {
+      "id": "site_1774899357797_h0k3u",
+      "url": "https://en.wikipedia.org/wiki/Miranda_Bailey",
+      "domain": "en.wikipedia.org",
+      "title": "Miranda Bailey - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Miranda Bailey - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Storyline 2 Development Toggle Development subsection 2",
+      "checkedAt": "2026-03-30T19:35:57.881Z"
+    },
+    {
+      "id": "site_1774899357630_qeuib",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_9",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 9 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy season 9 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and",
-      "checkedAt": "2026-03-30T19:35:57.940Z"
+      "checkedAt": "2026-03-30T19:35:57.797Z"
     },
     {
-      "id": "site_1774899357647_6fscy",
+      "id": "site_1774899357446_2qbw5",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_6",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 6 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy season 6 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and",
-      "checkedAt": "2026-03-30T19:35:57.811Z"
+      "checkedAt": "2026-03-30T19:35:57.630Z"
     },
     {
-      "id": "site_1774899357542_f7z3q",
+      "id": "site_1774899357118_8j0g6",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_1",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 1 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy season 1 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and",
-      "checkedAt": "2026-03-30T19:35:57.647Z"
+      "checkedAt": "2026-03-30T19:35:57.446Z"
     },
     {
-      "id": "site_1774899356239_f0qsw",
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 11 - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Grey's Anatomy season 11 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-      "checkedAt": "2026-03-30T19:35:57.542Z"
-    },
-    {
-      "id": "site_1774899355908_dl0x4",
+      "id": "site_1774899356909_kqen5",
       "url": "https://pubmed.ncbi.nlm.nih.gov/23564745/",
       "domain": "pubmed.ncbi.nlm.nih.gov",
       "title": "How useful is YouTube in learning heart anatomy?",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pubmed.ncbi.nlm.nih.gov&sz=64",
       "snippet": "Nowadays more and more modern medical degree programs focus on self-directed and problem-based learning. That requires students to search for high quality and easy to retrieve online resources. YouTube is an emerging pla",
-      "checkedAt": "2026-03-30T19:35:56.238Z"
+      "checkedAt": "2026-03-30T19:35:57.118Z"
     },
     {
-      "id": "site_1774899344939_em74v",
-      "url": "https://en.wikipedia.org/wiki/Neuropsychology",
-      "domain": "en.wikipedia.org",
-      "title": "Neuropsychology - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Neuropsychology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ancient Egypt 1.",
-      "checkedAt": "2026-03-30T19:35:45.785Z"
-    },
-    {
-      "id": "site_1774899344777_ilrva",
+      "id": "site_1774899346383_s9hn5",
       "url": "https://en.wikipedia.org/wiki/History_of_anatomy",
       "domain": "en.wikipedia.org",
       "title": "History of anatomy - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "History of anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Ancient anatomy Toggle Ancient anatomy subsection 1",
-      "checkedAt": "2026-03-30T19:35:44.939Z"
+      "checkedAt": "2026-03-30T19:35:46.514Z"
     },
     {
-      "id": "site_1774899344711_978zd",
+      "id": "site_1774899346313_rvszg",
       "url": "https://en.wikipedia.org/wiki/Segmental_analysis_(biology)",
       "domain": "en.wikipedia.org",
       "title": "Segmental analysis (biology) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Segmental analysis (biology) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Literature Toggle the table of contents S",
-      "checkedAt": "2026-03-30T19:35:44.777Z"
+      "checkedAt": "2026-03-30T19:35:46.383Z"
     },
     {
-      "id": "site_1774899344640_l21j7",
+      "id": "site_1774899346229_ct9c3",
       "url": "https://en.wikipedia.org/wiki/Baroreflex",
       "domain": "en.wikipedia.org",
       "title": "Baroreflex - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Baroreflex - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Anatomy 2 Activation 3 Set point and tonic activation 4 Eff",
-      "checkedAt": "2026-03-30T19:35:44.711Z"
+      "checkedAt": "2026-03-30T19:35:46.313Z"
     },
     {
-      "id": "site_1774899343454_jnv3o",
+      "id": "site_1774899345757_cx3g5",
       "url": "https://en.wikipedia.org/wiki/Anatomy",
       "domain": "en.wikipedia.org",
       "title": "Anatomy - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and definition 2 Animal tissues Toggle Animal tissue",
-      "checkedAt": "2026-03-30T19:35:44.640Z"
+      "checkedAt": "2026-03-30T19:35:46.228Z"
     },
     {
-      "id": "site_1774899343273_p3rcd",
+      "id": "site_1774899345290_mrlvz",
       "url": "https://www.physio-pedia.com/Anatomy_of_the_Human_Heart",
       "domain": "physio-pedia.com",
-      "title": "physio-pedia.com",
-      "status": "failed",
+      "title": "Anatomy of the Human Heart - Physiopedia",
+      "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=physio-pedia.com&sz=64",
-      "checkedAt": "2026-03-30T19:35:43.453Z"
+      "snippet": "The heart is a muscular organ that serves to collect deoxygenated blood from all parts of the body, carries it to the lungs to be oxygenated and release carbon dioxide. Then, it transports the oxygenated blood from the l",
+      "checkedAt": "2026-03-30T19:35:45.757Z"
     },
     {
-      "id": "site_1774899332621_wqua3",
+      "id": "site_1774899334982_3ygnt",
+      "url": "https://en.wikipedia.org/wiki/Vein",
+      "domain": "en.wikipedia.org",
+      "title": "Vein - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Vein - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Structure 2 Venous system Toggle Venous system subsection 2.1 Ven",
+      "checkedAt": "2026-03-30T19:35:35.186Z"
+    },
+    {
+      "id": "site_1774899334753_2cqdm",
+      "url": "https://en.wikipedia.org/wiki/Skull",
+      "domain": "en.wikipedia.org",
+      "title": "Skull - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Skull - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Structure Toggle Structure subsection 1.1 Humans 1.1.1 Bones 1.1",
+      "checkedAt": "2026-03-30T19:35:34.982Z"
+    },
+    {
+      "id": "site_1774899334520_wbt8s",
       "url": "https://en.wikipedia.org/wiki/Glossary_of_medicine",
       "domain": "en.wikipedia.org",
       "title": "Glossary of medicine - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Glossary of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of medicine 9 languages Asturianu Español Français Igbo 한국어 Nederlands Română ",
-      "checkedAt": "2026-03-30T19:35:32.796Z"
+      "checkedAt": "2026-03-30T19:35:34.752Z"
     },
     {
-      "id": "site_1774899332518_12anz",
-      "url": "https://en.wikipedia.org/wiki/Rollins_Pass",
-      "domain": "en.wikipedia.org",
-      "title": "Rollins Pass - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Rollins Pass - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Naming 2 Elevation 3 Description 4 Geology 5 History Togg",
-      "checkedAt": "2026-03-30T19:35:32.621Z"
-    },
-    {
-      "id": "site_1774899332378_kmv6w",
-      "url": "https://en.wikipedia.org/wiki/Riftia",
-      "domain": "en.wikipedia.org",
-      "title": "Riftia - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Riftia - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Discovery 2 Description Toggle Description subsection 2.1 Anato",
-      "checkedAt": "2026-03-30T19:35:32.518Z"
-    },
-    {
-      "id": "site_1774899331602_6z7sd",
+      "id": "site_1774899333833_vx8tf",
       "url": "https://en.wikipedia.org/wiki/Myocardial_infarction",
       "domain": "en.wikipedia.org",
       "title": "Myocardial infarction - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Myocardial infarction - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Signs and symptoms Toggle Signs an",
-      "checkedAt": "2026-03-30T19:35:32.378Z"
+      "checkedAt": "2026-03-30T19:35:34.520Z"
     },
     {
-      "id": "site_1774899330936_36j0i",
+      "id": "site_1774899333742_gpi6u",
       "url": "https://en.wikipedia.org/wiki/Anatomy_of_the_human_heart",
       "domain": "en.wikipedia.org",
       "title": "Anatomy of the human heart - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Anatomy of the human heart - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Heart location, orientation, and projection",
-      "checkedAt": "2026-03-30T19:35:31.601Z"
+      "checkedAt": "2026-03-30T19:35:33.833Z"
     },
     {
-      "id": "site_1774899320163_k4s6k",
+      "id": "site_1774899322882_mu1rp",
       "url": "https://en.wikipedia.org/wiki/Plastination",
       "domain": "en.wikipedia.org",
       "title": "Plastination - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Plastination - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Process 2 History 3 Related preservation methods 4 Uses o",
-      "checkedAt": "2026-03-30T19:35:20.475Z"
+      "checkedAt": "2026-03-30T19:35:23.057Z"
     },
     {
-      "id": "site_1774899319920_5h9th",
+      "id": "site_1774899322742_ldswj",
       "url": "https://en.wikipedia.org/wiki/Franklin_Institute",
       "domain": "en.wikipedia.org",
       "title": "Franklin Institute - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Franklin Institute - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 19th century ",
-      "checkedAt": "2026-03-30T19:35:20.163Z"
+      "checkedAt": "2026-03-30T19:35:22.882Z"
     },
     {
-      "id": "site_1774899319709_gy04c",
+      "id": "site_1774899322536_apqs3",
       "url": "https://en.wikipedia.org/wiki/Bird_anatomy",
       "domain": "en.wikipedia.org",
       "title": "Bird anatomy - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Bird anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Skeletal system Toggle Skeletal system subsection 1.1 Axi",
-      "checkedAt": "2026-03-30T19:35:19.919Z"
+      "checkedAt": "2026-03-30T19:35:22.742Z"
     },
     {
-      "id": "site_1774899319599_34gu2",
+      "id": "site_1774899322445_o4e2u",
       "url": "https://en.wikipedia.org/wiki/Fetal_pig",
       "domain": "en.wikipedia.org",
       "title": "Fetal pig - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Fetal pig - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Use in biology labs Toggle Use in biology labs subsection 1.",
-      "checkedAt": "2026-03-30T19:35:19.709Z"
+      "checkedAt": "2026-03-30T19:35:22.535Z"
     },
     {
-      "id": "site_1774899319304_w23ao",
+      "id": "site_1774899322322_sokcs",
       "url": "https://en.wikipedia.org/wiki/Mediastinum",
       "domain": "en.wikipedia.org",
       "title": "Mediastinum - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Mediastinum - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Anatomy Toggle Anatomy subsection 1.1 Thoracic plane 1.2 S",
-      "checkedAt": "2026-03-30T19:35:19.599Z"
+      "checkedAt": "2026-03-30T19:35:22.445Z"
     },
     {
-      "id": "site_1774899308635_c3uu5",
+      "id": "site_1774899307809_9fiiv",
       "url": "https://en.wikipedia.org/wiki/Galen",
       "domain": "en.wikipedia.org",
       "title": "Galen - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Galen - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Biography Toggle Biography subsection 1.1 Medical education 1.2 ",
-      "checkedAt": "2026-03-30T19:35:08.951Z"
+      "checkedAt": "2026-03-30T19:35:09.042Z"
     },
     {
-      "id": "site_1774899308555_sm3xy",
+      "id": "site_1774899307731_fry4g",
       "url": "https://en.wikipedia.org/wiki/Echocardiography",
       "domain": "en.wikipedia.org",
       "title": "Echocardiography - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Echocardiography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Medical uses 2 Types Toggle Types subsection 2.1 Tran",
-      "checkedAt": "2026-03-30T19:35:08.635Z"
+      "checkedAt": "2026-03-30T19:35:07.809Z"
     },
     {
-      "id": "site_1774899308475_8bx1v",
+      "id": "site_1774899307648_yvt5a",
       "url": "https://en.wikipedia.org/wiki/Spider_anatomy",
       "domain": "en.wikipedia.org",
       "title": "Spider anatomy - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Spider anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 External anatomy Toggle External anatomy subsection 1.1",
-      "checkedAt": "2026-03-30T19:35:08.555Z"
+      "checkedAt": "2026-03-30T19:35:07.731Z"
     },
     {
-      "id": "site_1774899308403_r3iuo",
+      "id": "site_1774899307224_plhkh",
       "url": "https://en.wikipedia.org/wiki/Prothallus",
       "domain": "en.wikipedia.org",
       "title": "Prothallus - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Prothallus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Alternation of generations 2 Theoretical advantages of alte",
-      "checkedAt": "2026-03-30T19:35:08.475Z"
+      "checkedAt": "2026-03-30T19:35:07.648Z"
     },
     {
-      "id": "site_1774899308142_yg8hu",
+      "id": "site_1774899306995_yp9sn",
       "url": "https://en.wikipedia.org/wiki/Brainstem",
       "domain": "en.wikipedia.org",
       "title": "Brainstem - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Brainstem - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Structure Toggle Structure subsection 1.1 Midbrain 1.1.1 Mid",
-      "checkedAt": "2026-03-30T19:35:08.403Z"
+      "checkedAt": "2026-03-30T19:35:07.224Z"
     },
     {
-      "id": "site_1774899308142_nbha0",
+      "id": "site_1774899306995_0hi51",
       "url": "https://www.clinicalanatomy.ca/labs/411movements.pdf",
       "domain": "clinicalanatomy.ca",
       "title": "clinicalanatomy.ca",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=clinicalanatomy.ca&sz=64",
-      "checkedAt": "2026-03-30T19:35:08.142Z"
+      "checkedAt": "2026-03-30T19:35:06.995Z"
     },
     {
-      "id": "site_1774899308142_id3em",
-      "url": "https://learning.uwo.ca/selfhelp/skill_building_handouts/pdfs/how_to/How%20to%20Study%20Anatomy.pdf",
-      "domain": "learning.uwo.ca",
-      "title": "learning.uwo.ca",
+      "id": "site_1774899306995_8mirj",
+      "url": "https://www.heartuniversity.org/wp-content/uploads/normal-cardiac-anatomy.pdf",
+      "domain": "heartuniversity.org",
+      "title": "heartuniversity.org",
       "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=learning.uwo.ca&sz=64",
-      "checkedAt": "2026-03-30T19:35:08.142Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=heartuniversity.org&sz=64",
+      "checkedAt": "2026-03-30T19:35:06.995Z"
     },
     {
-      "id": "site_1774899308142_imomw",
+      "id": "site_1774899306995_16y57",
       "url": "https://edu.cdhb.health.nz/Hospitals-Services/AToZ/PublishingImages/Pages/Education-and-Development/Module%201%20-%20Anatomy%20and%20Physiology%20of%20the%20Heart%20(2).pdf",
       "domain": "edu.cdhb.health.nz",
       "title": "edu.cdhb.health.nz",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=edu.cdhb.health.nz&sz=64",
-      "checkedAt": "2026-03-30T19:35:08.142Z"
+      "checkedAt": "2026-03-30T19:35:06.995Z"
     },
     {
-      "id": "site_1774899308142_ga670",
+      "id": "site_1774899306994_0key1",
       "url": "https://www.isbe.net/CTEDocuments/HST-L630055.pdf",
       "domain": "isbe.net",
       "title": "isbe.net",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=isbe.net&sz=64",
-      "checkedAt": "2026-03-30T19:35:08.142Z"
+      "checkedAt": "2026-03-30T19:35:06.995Z"
     },
     {
-      "id": "site_1774899297040_urgl3",
+      "id": "site_1774899295799_2sze0",
+      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11",
+      "domain": "en.wikipedia.org",
+      "title": "Grey's Anatomy season 11 - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Grey's Anatomy season 11 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
+      "checkedAt": "2026-03-30T19:34:56.782Z"
+    },
+    {
+      "id": "site_1774899295720_5n2p0",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 10 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-      "checkedAt": "2026-03-30T19:34:57.371Z"
+      "checkedAt": "2026-03-30T19:34:55.799Z"
     },
     {
-      "id": "site_1774899296939_idnnc",
+      "id": "site_1774899295522_7fzpf",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_5",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 5 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy season 5 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and",
-      "checkedAt": "2026-03-30T19:34:57.040Z"
+      "checkedAt": "2026-03-30T19:34:55.720Z"
     },
     {
-      "id": "site_1774899296708_4hr23",
+      "id": "site_1774899295389_b5tgp",
       "url": "https://en.wikipedia.org/wiki/Human_body",
       "domain": "en.wikipedia.org",
       "title": "Human body - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Human body - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Composition Toggle Composition subsection 1.1 Cells 1.1.1 G",
-      "checkedAt": "2026-03-30T19:34:56.939Z"
+      "checkedAt": "2026-03-30T19:34:55.522Z"
     },
     {
-      "id": "site_1774899296378_d3l71",
+      "id": "site_1774899294583_g1z9c",
       "url": "https://en.wikipedia.org/wiki/How_to_Save_a_Life_(Grey's_Anatomy)",
       "domain": "en.wikipedia.org",
       "title": "How to Save a Life (Grey's Anatomy) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "How to Save a Life (Grey's Anatomy) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Production 3 Reception Togg",
-      "checkedAt": "2026-03-30T19:34:56.708Z"
+      "checkedAt": "2026-03-30T19:34:55.389Z"
     },
     {
-      "id": "site_1774899295844_hbnuw",
-      "url": "https://leveluprn.com/blogs/medical-surgical-nursing/cardiovascular-1-introduction-anatomy-physiology-review?srsltid=AfmBOoqy92nb7En0PJojy01npqiun9qu9v1jBNxtnDiTUaWkvHTPtY8x",
-      "domain": "leveluprn.com",
-      "title": "Cardiovascular System Anatomy & Physiology Review - For Nurses",
+      "id": "site_1774899294346_537d5",
+      "url": "https://www.campuscircle.com/review.cfm?r=27048",
+      "domain": "campuscircle.com",
+      "title": "campuscircle.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=campuscircle.com&sz=64",
+      "checkedAt": "2026-03-30T19:34:54.583Z"
+    },
+    {
+      "id": "site_1774899283890_itd0s",
+      "url": "https://en.wikipedia.org/wiki/High_Potential",
+      "domain": "en.wikipedia.org",
+      "title": "High Potential - Wikipedia",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=leveluprn.com&sz=64",
-      "snippet": "A&P review of cardiovascular system, including components/functions, pericardium, heart wall layers, chambers of the heart, heart valves, & blood flow through the heart.",
-      "checkedAt": "2026-03-30T19:34:56.378Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "High Potential - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Premise 2 Cast and characters Toggle Cast and character",
+      "checkedAt": "2026-03-30T19:34:43.988Z"
     },
     {
-      "id": "site_1774899285549_er4hw",
+      "id": "site_1774899283810_rhewa",
+      "url": "https://en.wikipedia.org/wiki/Parasympathetic_nervous_system",
+      "domain": "en.wikipedia.org",
+      "title": "Parasympathetic nervous system - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Parasympathetic nervous system - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Structure Toggle Structure subsection 1",
+      "checkedAt": "2026-03-30T19:34:43.890Z"
+    },
+    {
+      "id": "site_1774899283724_1uq0q",
       "url": "https://en.wikipedia.org/wiki/Large_deformation_diffeomorphic_metric_mapping",
       "domain": "en.wikipedia.org",
       "title": "Large deformation diffeomorphic metric mapping - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Large deformation diffeomorphic metric mapping - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History of development ",
-      "checkedAt": "2026-03-30T19:34:45.639Z"
+      "checkedAt": "2026-03-30T19:34:43.808Z"
     },
     {
-      "id": "site_1774899285452_arz7i",
+      "id": "site_1774899283590_9zc4z",
       "url": "https://en.wikipedia.org/wiki/Heart_rate",
       "domain": "en.wikipedia.org",
       "title": "Heart rate - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Heart rate - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physiology Toggle Physiology subsection 1.1 Influences from",
-      "checkedAt": "2026-03-30T19:34:45.549Z"
+      "checkedAt": "2026-03-30T19:34:43.724Z"
     },
     {
-      "id": "site_1774899284985_ln3fl",
+      "id": "site_1774899282725_jkotm",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_(soundtrack)",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy (soundtrack) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy (soundtrack) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Volume 1 track listing 2 Volume 2 track li",
-      "checkedAt": "2026-03-30T19:34:45.452Z"
+      "checkedAt": "2026-03-30T19:34:43.590Z"
     },
     {
-      "id": "site_1774899284506_8gy1x",
-      "url": "https://medictests.com/units/cardiovascular-anatomy-basics",
-      "domain": "medictests.com",
-      "title": "Cardiovascular Anatomy Basics for EMS Students",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=medictests.com&sz=64",
-      "snippet": "Learn core cardiovascular concepts, including the cardiac cycle and pulse types, vital for EMS students like EMTs and paramedics.",
-      "checkedAt": "2026-03-30T19:34:44.985Z"
-    },
-    {
-      "id": "site_1774899283731_zme9g",
-      "url": "https://www.nature.com/articles/s42256-025-01035-5",
-      "domain": "nature.com",
-      "title": "A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics | Nature Machine Intelligence",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=nature.com&sz=64",
-      "snippet": "Understanding the structure and motion of the heart is crucial for diagnosing and managing cardiovascular diseases, the leading cause of global death. There is wide variation in cardiac shape and motion patterns, influen",
-      "checkedAt": "2026-03-30T19:34:44.506Z"
-    },
-    {
-      "id": "site_1774899273017_8h5xc",
+      "id": "site_1774899272224_fob8q",
       "url": "https://en.wikipedia.org/wiki/Cattle",
       "domain": "en.wikipedia.org",
       "title": "Cattle - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Cattle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Characteristics Toggle Characteristics subsection 2",
-      "checkedAt": "2026-03-30T19:34:33.109Z"
+      "checkedAt": "2026-03-30T19:34:32.318Z"
     },
     {
-      "id": "site_1774899272948_fy0l6",
+      "id": "site_1774899272152_dfnrm",
       "url": "https://en.wikipedia.org/wiki/Robert_Knox_(surgeon)",
       "domain": "en.wikipedia.org",
       "title": "Robert Knox (surgeon) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Robert Knox (surgeon) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life Toggle Life subsection 1.1 Early life 1.2 L",
-      "checkedAt": "2026-03-30T19:34:33.017Z"
+      "checkedAt": "2026-03-30T19:34:32.224Z"
     },
     {
-      "id": "site_1774899272865_3qani",
+      "id": "site_1774899272076_tuszj",
       "url": "https://en.wikipedia.org/wiki/Neurophysiology",
       "domain": "en.wikipedia.org",
       "title": "Neurophysiology - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Neurophysiology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Antiquity 1.2 Mi",
-      "checkedAt": "2026-03-30T19:34:32.948Z"
+      "checkedAt": "2026-03-30T19:34:32.152Z"
     },
     {
-      "id": "site_1774899272794_xvscr",
+      "id": "site_1774899271828_prahv",
       "url": "https://en.wikipedia.org/wiki/Fruit_tree",
       "domain": "en.wikipedia.org",
       "title": "Fruit tree - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Fruit tree - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Examples 2 Climate effects on fruit trees Toggle Climate ef",
-      "checkedAt": "2026-03-30T19:34:32.865Z"
+      "checkedAt": "2026-03-30T19:34:32.075Z"
     },
     {
-      "id": "site_1774899272579_zi0us",
+      "id": "site_1774899271569_67tkd",
       "url": "https://pubmed.ncbi.nlm.nih.gov/8712252/",
       "domain": "pubmed.ncbi.nlm.nih.gov",
       "title": "Directed case study method for teaching human anatomy and physiology",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pubmed.ncbi.nlm.nih.gov&sz=64",
       "snippet": "A mastery of human anatomy and physiology requires a familiarity with a vast number of details about the human body. A directed method of case analysis is described that helps students deepen and solidify their understan",
-      "checkedAt": "2026-03-30T19:34:32.794Z"
+      "checkedAt": "2026-03-30T19:34:31.827Z"
     },
     {
       "id": "site_1774899261079_6xwva",
@@ -1767,63 +1749,63 @@
     },
     {
       "id": 66,
-      "url": "https://www.nature.com/articles/s42256-025-01035-5",
-      "domain": "nature.com",
-      "title": "A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics | Nature Machine Intelligence"
-    },
-    {
-      "id": 67,
-      "url": "https://medictests.com/units/cardiovascular-anatomy-basics",
-      "domain": "medictests.com",
-      "title": "Cardiovascular Anatomy Basics for EMS Students"
-    },
-    {
-      "id": 68,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_(soundtrack)",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy (soundtrack) - Wikipedia"
     },
     {
-      "id": 69,
+      "id": 67,
       "url": "https://en.wikipedia.org/wiki/Heart_rate",
       "domain": "en.wikipedia.org",
       "title": "Heart rate - Wikipedia"
     },
     {
-      "id": 70,
+      "id": 68,
       "url": "https://en.wikipedia.org/wiki/Large_deformation_diffeomorphic_metric_mapping",
       "domain": "en.wikipedia.org",
       "title": "Large deformation diffeomorphic metric mapping - Wikipedia"
     },
     {
-      "id": 71,
-      "url": "https://leveluprn.com/blogs/medical-surgical-nursing/cardiovascular-1-introduction-anatomy-physiology-review?srsltid=AfmBOoqy92nb7En0PJojy01npqiun9qu9v1jBNxtnDiTUaWkvHTPtY8x",
-      "domain": "leveluprn.com",
-      "title": "Cardiovascular System Anatomy & Physiology Review - For Nurses"
+      "id": 69,
+      "url": "https://en.wikipedia.org/wiki/Parasympathetic_nervous_system",
+      "domain": "en.wikipedia.org",
+      "title": "Parasympathetic nervous system - Wikipedia"
     },
     {
-      "id": 72,
+      "id": 70,
+      "url": "https://en.wikipedia.org/wiki/High_Potential",
+      "domain": "en.wikipedia.org",
+      "title": "High Potential - Wikipedia"
+    },
+    {
+      "id": 71,
       "url": "https://en.wikipedia.org/wiki/How_to_Save_a_Life_(Grey's_Anatomy)",
       "domain": "en.wikipedia.org",
       "title": "How to Save a Life (Grey's Anatomy) - Wikipedia"
     },
     {
-      "id": 73,
+      "id": 72,
       "url": "https://en.wikipedia.org/wiki/Human_body",
       "domain": "en.wikipedia.org",
       "title": "Human body - Wikipedia"
     },
     {
-      "id": 74,
+      "id": 73,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_5",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 5 - Wikipedia"
     },
     {
-      "id": 75,
+      "id": 74,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 10 - Wikipedia"
+    },
+    {
+      "id": 75,
+      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11",
+      "domain": "en.wikipedia.org",
+      "title": "Grey's Anatomy season 11 - Wikipedia"
     },
     {
       "id": 76,
@@ -1899,51 +1881,51 @@
     },
     {
       "id": 88,
-      "url": "https://en.wikipedia.org/wiki/Riftia",
-      "domain": "en.wikipedia.org",
-      "title": "Riftia - Wikipedia"
-    },
-    {
-      "id": 89,
-      "url": "https://en.wikipedia.org/wiki/Rollins_Pass",
-      "domain": "en.wikipedia.org",
-      "title": "Rollins Pass - Wikipedia"
-    },
-    {
-      "id": 90,
       "url": "https://en.wikipedia.org/wiki/Glossary_of_medicine",
       "domain": "en.wikipedia.org",
       "title": "Glossary of medicine - Wikipedia"
     },
     {
+      "id": 89,
+      "url": "https://en.wikipedia.org/wiki/Skull",
+      "domain": "en.wikipedia.org",
+      "title": "Skull - Wikipedia"
+    },
+    {
+      "id": 90,
+      "url": "https://en.wikipedia.org/wiki/Vein",
+      "domain": "en.wikipedia.org",
+      "title": "Vein - Wikipedia"
+    },
+    {
       "id": 91,
+      "url": "https://www.physio-pedia.com/Anatomy_of_the_Human_Heart",
+      "domain": "physio-pedia.com",
+      "title": "Anatomy of the Human Heart - Physiopedia"
+    },
+    {
+      "id": 92,
       "url": "https://en.wikipedia.org/wiki/Anatomy",
       "domain": "en.wikipedia.org",
       "title": "Anatomy - Wikipedia"
     },
     {
-      "id": 92,
+      "id": 93,
       "url": "https://en.wikipedia.org/wiki/Baroreflex",
       "domain": "en.wikipedia.org",
       "title": "Baroreflex - Wikipedia"
     },
     {
-      "id": 93,
+      "id": 94,
       "url": "https://en.wikipedia.org/wiki/Segmental_analysis_(biology)",
       "domain": "en.wikipedia.org",
       "title": "Segmental analysis (biology) - Wikipedia"
     },
     {
-      "id": 94,
+      "id": 95,
       "url": "https://en.wikipedia.org/wiki/History_of_anatomy",
       "domain": "en.wikipedia.org",
       "title": "History of anatomy - Wikipedia"
-    },
-    {
-      "id": 95,
-      "url": "https://en.wikipedia.org/wiki/Neuropsychology",
-      "domain": "en.wikipedia.org",
-      "title": "Neuropsychology - Wikipedia"
     },
     {
       "id": 96,
@@ -1953,57 +1935,57 @@
     },
     {
       "id": 97,
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 11 - Wikipedia"
-    },
-    {
-      "id": 98,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_1",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 1 - Wikipedia"
     },
     {
-      "id": 99,
+      "id": 98,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_6",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 6 - Wikipedia"
     },
     {
-      "id": 100,
+      "id": 99,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_9",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 9 - Wikipedia"
     },
     {
+      "id": 100,
+      "url": "https://en.wikipedia.org/wiki/Miranda_Bailey",
+      "domain": "en.wikipedia.org",
+      "title": "Miranda Bailey - Wikipedia"
+    },
+    {
       "id": 101,
-      "url": "https://pll.harvard.edu/course/anatomyx-musculoskeletal-cases",
-      "domain": "pll.harvard.edu",
-      "title": "Human Anatomy: Musculoskeletal Cases | Harvard University"
+      "url": "https://autopsy.online/ems-course/",
+      "domain": "autopsy.online",
+      "title": "EMS case study withclinical anatomy fundamentals"
     },
     {
       "id": 102,
+      "url": "https://laneguides.stanford.edu/medical-education/anatomy",
+      "domain": "laneguides.stanford.edu",
+      "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr"
+    },
+    {
+      "id": 103,
       "url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
       "domain": "en.wikipedia.org",
       "title": "Bhopal disaster - Wikipedia"
     },
     {
-      "id": 103,
+      "id": 104,
       "url": "https://en.wikipedia.org/wiki/Western_Sahara",
       "domain": "en.wikipedia.org",
       "title": "Western Sahara - Wikipedia"
     },
     {
-      "id": 104,
+      "id": 105,
       "url": "https://en.wikipedia.org/wiki/Holocaust_denial",
       "domain": "en.wikipedia.org",
       "title": "Holocaust denial - Wikipedia"
-    },
-    {
-      "id": 105,
-      "url": "https://en.wikipedia.org/wiki/History_of_medicine",
-      "domain": "en.wikipedia.org",
-      "title": "History of medicine - Wikipedia"
     },
     {
       "id": 106,
@@ -2061,65 +2043,65 @@
     },
     {
       "id": 115,
-      "url": "https://en.wikipedia.org/wiki/Hermann_Stieve",
+      "url": "https://en.wikipedia.org/wiki/Prince_(musician)",
       "domain": "en.wikipedia.org",
-      "title": "Hermann Stieve - Wikipedia"
+      "title": "Prince (musician) - Wikipedia"
     },
     {
       "id": 116,
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+      "domain": "openstax.org",
+      "title": "19.1 Heart Anatomy - Anatomy and Physiology 2e | OpenStax"
+    },
+    {
+      "id": 117,
       "url": "https://en.wikipedia.org/wiki/Medical_education",
       "domain": "en.wikipedia.org",
       "title": "Medical education - Wikipedia"
     },
     {
-      "id": 117,
+      "id": 118,
       "url": "https://en.wikipedia.org/wiki/University_of_Campania_Luigi_Vanvitelli",
       "domain": "en.wikipedia.org",
       "title": "University of Campania Luigi Vanvitelli - Wikipedia"
     },
     {
-      "id": 118,
+      "id": 119,
       "url": "https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles",
       "domain": "en.wikipedia.org",
       "title": "Université libre de Bruxelles - Wikipedia"
     },
     {
-      "id": 119,
+      "id": 120,
       "url": "https://en.wikipedia.org/wiki/Medieval_medicine_of_Western_Europe",
       "domain": "en.wikipedia.org",
       "title": "Medieval medicine of Western Europe - Wikipedia"
-    },
-    {
-      "id": 120,
-      "url": "https://en.wikipedia.org/wiki/Ram_Janmabhoomi",
-      "domain": "en.wikipedia.org",
-      "title": "Ram Janmabhoomi - Wikipedia"
     }
   ],
   "notes": [
     {
       "citationId": 120,
-      "summary": "Ram Janmabhoomi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Historical significance Toggle Historical significance"
-    },
-    {
-      "citationId": 119,
       "summary": "Medieval medicine of Western Europe - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Influences Toggle Influences subse"
     },
     {
-      "citationId": 118,
+      "citationId": 119,
       "summary": "Université libre de Bruxelles - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name 2 History Toggle History subsection"
     },
     {
-      "citationId": 117,
+      "citationId": 118,
       "summary": "University of Campania Luigi Vanvitelli - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsect"
     },
     {
-      "citationId": 116,
+      "citationId": 117,
       "summary": "Medical education - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Common techniques and evidence base 2 Entry-level ed"
     },
     {
+      "citationId": 116,
+      "summary": "The human heart is located within the thoracic cavity, medially between the lungs in the space known as the mediastinum. Figure 19.2 shows the position ..."
+    },
+    {
       "citationId": 115,
-      "summary": "Hermann Stieve - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Academic career and political activity 3 M"
+      "summary": "Prince (musician) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 197"
     },
     {
       "citationId": 114,
@@ -2159,39 +2141,39 @@
     },
     {
       "citationId": 105,
-      "summary": "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc"
-    },
-    {
-      "citationId": 104,
       "summary": "Holocaust denial - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology and etymology 2 Causes 3 Background Toggl"
     },
     {
-      "citationId": 103,
+      "citationId": 104,
       "summary": "Western Sahara - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2"
     },
     {
-      "citationId": 102,
+      "citationId": 103,
       "summary": "Bhopal disaster - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Earlier le"
     },
     {
+      "citationId": 102,
+      "summary": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru"
+    },
+    {
       "citationId": 101,
-      "summary": "Learn the anatomy basic to understanding five musculoskeletal injuries commonly seen in primary care medicine and orthopedic clinical specialty practice. Follow hypothetical patients from injury to operating room."
+      "summary": "EMS case study withclinical anatomy fundamentals Autopsy.Online - Learn directly from the body at any level of training. body #gform_wrapper_207 .gform_body .gform_fields .gfield .ginput_container_textarea textarea { font-size: 15px; color: #ffffff; background-color: #00001a; /*background-color: rgba(204,238,255, .85); */ text-align:left; height: 75px; max-width: 45vw; margin: 0px; border-radius: 10px; margin-bottom: 0px; } body #gform_wrapper_20"
     },
     {
       "citationId": 100,
-      "summary": "Grey's Anatomy season 9 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
+      "summary": "Miranda Bailey - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Storyline 2 Development Toggle Development subsection 2"
     },
     {
       "citationId": 99,
-      "summary": "Grey's Anatomy season 6 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
+      "summary": "Grey's Anatomy season 9 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
     },
     {
       "citationId": 98,
-      "summary": "Grey's Anatomy season 1 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
+      "summary": "Grey's Anatomy season 6 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
     },
     {
       "citationId": 97,
-      "summary": "Grey's Anatomy season 11 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
+      "summary": "Grey's Anatomy season 1 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
     },
     {
       "citationId": 96,
@@ -2199,35 +2181,35 @@
     },
     {
       "citationId": 95,
-      "summary": "Neuropsychology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ancient Egypt 1."
-    },
-    {
-      "citationId": 94,
       "summary": "History of anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Ancient anatomy Toggle Ancient anatomy subsection 1"
     },
     {
-      "citationId": 93,
+      "citationId": 94,
       "summary": "Segmental analysis (biology) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Literature Toggle the table of contents S"
     },
     {
-      "citationId": 92,
+      "citationId": 93,
       "summary": "Baroreflex - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Anatomy 2 Activation 3 Set point and tonic activation 4 Eff"
     },
     {
-      "citationId": 91,
+      "citationId": 92,
       "summary": "Anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and definition 2 Animal tissues Toggle Animal tissue"
     },
     {
+      "citationId": 91,
+      "summary": "The heart is a muscular organ that serves to collect deoxygenated blood from all parts of the body, carries it to the lungs to be oxygenated and release carbon dioxide. Then, it transports the oxygenated blood from the l"
+    },
+    {
       "citationId": 90,
-      "summary": "Glossary of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of medicine 9 languages Asturianu Español Français Igbo 한국어 Nederlands Română "
+      "summary": "Vein - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Structure 2 Venous system Toggle Venous system subsection 2.1 Ven"
     },
     {
       "citationId": 89,
-      "summary": "Rollins Pass - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Naming 2 Elevation 3 Description 4 Geology 5 History Togg"
+      "summary": "Skull - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Structure Toggle Structure subsection 1.1 Humans 1.1.1 Bones 1.1"
     },
     {
       "citationId": 88,
-      "summary": "Riftia - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Discovery 2 Description Toggle Description subsection 2.1 Anato"
+      "summary": "Glossary of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of medicine 9 languages Asturianu Español Français Igbo 한국어 Nederlands Română "
     },
     {
       "citationId": 87,
@@ -2279,43 +2261,43 @@
     },
     {
       "citationId": 75,
-      "summary": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
+      "summary": "Grey's Anatomy season 11 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
     },
     {
       "citationId": 74,
-      "summary": "Grey's Anatomy season 5 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
+      "summary": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
     },
     {
       "citationId": 73,
-      "summary": "Human body - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Composition Toggle Composition subsection 1.1 Cells 1.1.1 G"
+      "summary": "Grey's Anatomy season 5 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
     },
     {
       "citationId": 72,
-      "summary": "How to Save a Life (Grey's Anatomy) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Production 3 Reception Togg"
+      "summary": "Human body - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Composition Toggle Composition subsection 1.1 Cells 1.1.1 G"
     },
     {
       "citationId": 71,
-      "summary": "A&P review of cardiovascular system, including components/functions, pericardium, heart wall layers, chambers of the heart, heart valves, & blood flow through the heart."
+      "summary": "How to Save a Life (Grey's Anatomy) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Production 3 Reception Togg"
     },
     {
       "citationId": 70,
-      "summary": "Large deformation diffeomorphic metric mapping - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History of development "
+      "summary": "High Potential - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Premise 2 Cast and characters Toggle Cast and character"
     },
     {
       "citationId": 69,
-      "summary": "Heart rate - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physiology Toggle Physiology subsection 1.1 Influences from"
+      "summary": "Parasympathetic nervous system - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Structure Toggle Structure subsection 1"
     },
     {
       "citationId": 68,
-      "summary": "Grey's Anatomy (soundtrack) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Volume 1 track listing 2 Volume 2 track li"
+      "summary": "Large deformation diffeomorphic metric mapping - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History of development "
     },
     {
       "citationId": 67,
-      "summary": "Learn core cardiovascular concepts, including the cardiac cycle and pulse types, vital for EMS students like EMTs and paramedics."
+      "summary": "Heart rate - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physiology Toggle Physiology subsection 1.1 Influences from"
     },
     {
       "citationId": 66,
-      "summary": "Understanding the structure and motion of the heart is crucial for diagnosing and managing cardiovascular diseases, the leading cause of global death. There is wide variation in cardiac shape and motion patterns, influen"
+      "summary": "Grey's Anatomy (soundtrack) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Volume 1 track listing 2 Volume 2 track li"
     },
     {
       "citationId": 65,
@@ -2580,158 +2562,158 @@
   ],
   "events": [
     {
-      "id": "ev_1774899417859_8pnk9",
-      "at": "2026-03-30T19:36:57.859Z",
+      "id": "ev_1774899419489_n2eq9",
+      "at": "2026-03-30T19:36:59.489Z",
       "phase": "complete",
       "message": "Deep research completed with citable synthesis."
     },
     {
-      "id": "ev_1774899404156_9sivu",
-      "at": "2026-03-30T19:36:44.156Z",
+      "id": "ev_1774899405434_u3rxg",
+      "at": "2026-03-30T19:36:45.434Z",
       "phase": "synthesizing",
       "message": "Source depth reached. Synthesizing final report."
     },
     {
-      "id": "ev_1774899404156_l5upk",
-      "at": "2026-03-30T19:36:44.156Z",
+      "id": "ev_1774899405434_r4xau",
+      "at": "2026-03-30T19:36:45.434Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 120."
     },
     {
-      "id": "ev_1774899393249_jzhag",
-      "at": "2026-03-30T19:36:33.249Z",
+      "id": "ev_1774899394467_3ueey",
+      "at": "2026-03-30T19:36:34.467Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart official documentation \"pdf\""
     },
     {
-      "id": "ev_1774899393249_bdka8",
-      "at": "2026-03-30T19:36:33.249Z",
+      "id": "ev_1774899394467_1p3hb",
+      "at": "2026-03-30T19:36:34.467Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 115."
     },
     {
-      "id": "ev_1774899381817_sgi4o",
-      "at": "2026-03-30T19:36:21.817Z",
+      "id": "ev_1774899381626_clf97",
+      "at": "2026-03-30T19:36:21.626Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart official documentation review"
     },
     {
-      "id": "ev_1774899381817_prjhr",
-      "at": "2026-03-30T19:36:21.817Z",
+      "id": "ev_1774899381468_nll2k",
+      "at": "2026-03-30T19:36:21.468Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 110."
     },
     {
-      "id": "ev_1774899370531_jtmbb",
-      "at": "2026-03-30T19:36:10.531Z",
+      "id": "ev_1774899370323_uamml",
+      "at": "2026-03-30T19:36:10.323Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart official documentation metrics"
     },
     {
-      "id": "ev_1774899370307_m2s3w",
-      "at": "2026-03-30T19:36:10.307Z",
+      "id": "ev_1774899370323_mtav0",
+      "at": "2026-03-30T19:36:10.323Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 105."
     },
     {
-      "id": "ev_1774899357940_72iyr",
-      "at": "2026-03-30T19:35:57.940Z",
+      "id": "ev_1774899357881_tlnse",
+      "at": "2026-03-30T19:35:57.881Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart official documentation \"case study\""
     },
     {
-      "id": "ev_1774899357940_f868x",
-      "at": "2026-03-30T19:35:57.940Z",
+      "id": "ev_1774899357881_j01o2",
+      "at": "2026-03-30T19:35:57.881Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 100."
     },
     {
-      "id": "ev_1774899345785_ci5k1",
-      "at": "2026-03-30T19:35:45.785Z",
+      "id": "ev_1774899346514_517eo",
+      "at": "2026-03-30T19:35:46.514Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart opinion"
     },
     {
-      "id": "ev_1774899345785_96bi4",
-      "at": "2026-03-30T19:35:45.785Z",
+      "id": "ev_1774899346514_xlfbm",
+      "at": "2026-03-30T19:35:46.514Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 95."
     },
     {
-      "id": "ev_1774899332796_wsxhr",
-      "at": "2026-03-30T19:35:32.796Z",
+      "id": "ev_1774899335187_int5y",
+      "at": "2026-03-30T19:35:35.187Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart \"analysis\""
     },
     {
-      "id": "ev_1774899332796_s90uj",
-      "at": "2026-03-30T19:35:32.796Z",
+      "id": "ev_1774899335187_aj15p",
+      "at": "2026-03-30T19:35:35.187Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 90."
     },
     {
-      "id": "ev_1774899320696_jpkgx",
-      "at": "2026-03-30T19:35:20.696Z",
+      "id": "ev_1774899323058_ieij8",
+      "at": "2026-03-30T19:35:23.058Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart site:gov"
     },
     {
-      "id": "ev_1774899320475_5kuso",
-      "at": "2026-03-30T19:35:20.475Z",
+      "id": "ev_1774899323057_0vlhf",
+      "at": "2026-03-30T19:35:23.058Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 85."
     },
     {
-      "id": "ev_1774899308952_3fyi2",
-      "at": "2026-03-30T19:35:08.952Z",
+      "id": "ev_1774899311958_q8ydn",
+      "at": "2026-03-30T19:35:11.958Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart site:edu"
     },
     {
-      "id": "ev_1774899308952_y4p96",
-      "at": "2026-03-30T19:35:08.952Z",
+      "id": "ev_1774899309042_ke94u",
+      "at": "2026-03-30T19:35:09.042Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 80."
     },
     {
-      "id": "ev_1774899297371_vdr32",
-      "at": "2026-03-30T19:34:57.371Z",
+      "id": "ev_1774899296782_t5m22",
+      "at": "2026-03-30T19:34:56.782Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart \"pdf\""
     },
     {
-      "id": "ev_1774899297371_d0tvd",
-      "at": "2026-03-30T19:34:57.371Z",
+      "id": "ev_1774899296782_om13q",
+      "at": "2026-03-30T19:34:56.782Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 75."
     },
     {
-      "id": "ev_1774899285639_s1a90",
-      "at": "2026-03-30T19:34:45.639Z",
+      "id": "ev_1774899283988_jijuz",
+      "at": "2026-03-30T19:34:43.988Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart review"
     },
     {
-      "id": "ev_1774899285639_4yhj3",
-      "at": "2026-03-30T19:34:45.639Z",
+      "id": "ev_1774899283988_vqvky",
+      "at": "2026-03-30T19:34:43.988Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 70."
     },
     {
-      "id": "ev_1774899273109_qvh54",
-      "at": "2026-03-30T19:34:33.109Z",
+      "id": "ev_1774899272318_tpilw",
+      "at": "2026-03-30T19:34:32.318Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart metrics"
     },
     {
-      "id": "ev_1774899273109_8pnbk",
-      "at": "2026-03-30T19:34:33.109Z",
+      "id": "ev_1774899272318_hap2v",
+      "at": "2026-03-30T19:34:32.318Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 65."
     },
     {
-      "id": "ev_1774899262244_vft7k",
-      "at": "2026-03-30T19:34:22.244Z",
+      "id": "ev_1774899261402_dlqxa",
+      "at": "2026-03-30T19:34:21.402Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart \"case study\""
     },
@@ -2899,12 +2881,12 @@
     }
   ],
   "learnedSoFar": [
-    "Ram Janmabhoomi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Historical significance Toggle Historical significance",
     "Medieval medicine of Western Europe - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Influences Toggle Influences subse",
     "Université libre de Bruxelles - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name 2 History Toggle History subsection",
     "University of Campania Luigi Vanvitelli - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsect",
     "Medical education - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Common techniques and evidence base 2 Entry-level ed",
-    "Hermann Stieve - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Academic career and political activity 3 M",
+    "The human heart is located within the thoracic cavity, medially between the lungs in the space known as the mediastinum. Figure 19.2 shows the position ...",
+    "Prince (musician) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 197",
     "Viral video - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 TikTok and viral video culture 3 Qualification 4",
     "Nanjing Massacre - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military situation Toggle Military situation subsecti",
     "Bimaristan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Origins 3 Features Toggle Features subsection 3",
@@ -2914,17 +2896,17 @@
     "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
     "List of foreign recipients of the Légion d'Honneur by country - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Albania ",
     "Bald eagle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Taxonomy Toggle Taxonomy subsection 1.1 Subspecies 2 Descri",
-    "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc",
     "Holocaust denial - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology and etymology 2 Causes 3 Background Toggl",
-    "Western Sahara - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2"
+    "Western Sahara - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2",
+    "Bhopal disaster - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Earlier le"
   ],
   "stats": {
     "sourcesAnalyzed": 120,
-    "tokensUsedEstimate": 12899,
-    "depthScore": 55,
+    "tokensUsedEstimate": 13034,
+    "depthScore": 54,
     "queriesGenerated": 24,
     "iterations": 24,
-    "uniqueDomains": 33
+    "uniqueDomains": 32
   },
   "control": {
     "paused": false,
@@ -2932,23 +2914,23 @@
   },
   "planFinal": "1. Define Scope and Learning Frameworks: Establish the cognitive parameters of anatomical mastery, distinguishing between memorization (rote learning), conceptual understanding (functional anatomy), and spatial visualization. Identify established pedagogical models such as Bloom’s Taxonomy applied to medical education, and categorize anatomical study into hierarchical levels: gross, microscopic, developmental, and clinical/topographical anatomy.\n\n2. Execute Broad Search and Resource Mapping: Conduct a multi-channel search to aggregate high-efficacy learning methodologies. Query academic databases (PubMed, ERIC) and professional medical education forums for evidence-based techniques, including active recall, spaced repetition, the Method of Loci (memory palaces), and multi-modal visualization (3D atlases vs. cadaveric dissection). Identify top-tier resources such as Gray’s Anatomy, Netter’s, and institutional medical curricula guidelines.\n\n3. Comparative Analysis of Techniques: Evaluate the gathered methodologies based on their efficiency, long-term retention rates, and applicability to different anatomical domains. Contrast the efficacy of traditional drawing and labeling with modern digital integration tools (VR/AR simulation) and mnemonics. Assess which techniques best bridge the gap between abstract textbook terminology and clinical spatial reasoning.\n\n4. Identify Evidence Gaps and Practical Limitations: Critically examine where existing literature fails to address individual learning styles or the \"plateau effect\" in anatomical memorization. Investigate the limitations of rote memorization in the context of high-stakes clinical diagnostic accuracy. Determine if there is a consensus on the optimal sequence of study—whether one should prioritize systemic over regional anatomy for superior mental mapping.\n\n5. Synthesize a Structured Implementation Strategy: Consolidate findings into a coherent, step-by-step roadmap for a learner. Structure this synthesis as a progressive curriculum: beginning with foundational terminology, transitioning to regional spatial modeling using multi-modal tools, implementing a spaced-repetition schedule for retention, and culminating in clinical application exercises. Provide a final summary of recommended resources and psychological strategies to sustain focus and mastery.",
   "report": {
-    "title": "Comprehensive Methodologies for Mastering Human Anatomy: Evidence-Based Strategies and Pedagogical Frameworks",
-    "summary": "Mastering human anatomy requires a multifaceted shift from passive rote memorization to active, evidence-based cognitive strategies. Current medical education research highlights that the sheer volume of anatomical data necessitates techniques such as spaced repetition, spatial visualization, and clinical correlation rather than simple repetition [12, 32]. By integrating high-quality digital assets, such as 3D interactive atlases and specialized simulation software, learners can bridge the gap between abstract terminology and the complex, three-dimensional reality of human biology [17, 51, 54].\n\nEffective learning is further supported by the 'directed case study' method and team-based learning (TBL) environments, which force the application of theoretical knowledge to clinical scenarios [36, 61]. This report outlines an exhaustive roadmap for long-term retention, emphasizing the importance of pedagogical alignment, the usage of mnemonic systems, and the avoidance of common learning pitfalls that hinder progress. Success in this field is predicated on persistent engagement with clinical applications rather than isolated memorization of structures [1, 21, 26].",
+    "title": "Mastering Human Anatomy: A Comprehensive Evidence-Based Framework",
+    "summary": "Learning human anatomy effectively requires transitioning from passive rote memorization—historically associated with declining educational outcomes—to active, integrative learning strategies [11, 13, 35]. This report synthesizes evidence-based pedagogical methods, including memory palaces, directed case analysis, and active visualization, to provide a structured approach for mastering anatomical knowledge. Emphasis is placed on the shift toward clinical relevance, where understanding structural relationships serves as the foundation for both academic success and clinical application [12, 61].\n\nCentral to modern anatomical education is the integration of diverse high-quality digital resources, 3D modeling, and problem-based learning modules [52, 96, 102]. The report outlines strategies to overcome common learning hurdles, such as cognitive overload, by employing mnemonics and spacing techniques, while advocating for a 'systems-based' rather than 'fragmented' approach to complex structures like the heart [2, 5, 21, 48]. By aligning study habits with cognitive psychology research, learners can optimize retention and achieve long-term mastery of complex human biological systems [12].",
     "sections": [
       {
-        "id": "cognitive_frameworks",
-        "title": "Cognitive Frameworks and Evidence-Based Memorization",
-        "body": "The traditional reliance on rote memorization—the mechanical repetition of information without a deep grasp of underlying context—is widely regarded as an inefficient approach to the complexities of human anatomy [35]. Instead, modern pedagogical standards advocate for evidence-based cognitive strategies that promote long-term retention through active processing [12]. One of the most effective methods is the construction of a 'Memory Palace,' a mnemonic technique that leverages spatial memory to organize anatomical structures, such as bones, muscles, and nerves, into a familiar mental environment [3, 21]. This method is particularly effective for anatomy because it mimics the natural spatial distribution of organs within the body [3, 48].\n\nBeyond mnemonics, cognitive and educational psychology suggest that spaced repetition—the practice of reviewing information at incrementally increasing intervals—is vital for mitigating the 'forgetting curve' [12, 21]. Rather than attempting to 'learn by heart' in a single marathon session, learners are encouraged to integrate active recall, where they test themselves on the function, location, and innervation of structures repeatedly over days and weeks [1, 5]. This active retrieval process strengthens neural pathways associated with specific anatomical knowledge. Furthermore, research indicates that the 'flipped classroom' model, which encourages students to engage with material before lectures and apply it through problem-solving in class, significantly outperforms lecture-only formats [36]. \n\nAnother critical component is the use of the 'directed case study' method [61]. By attaching an anatomical structure to a specific clinical presentation, such as a myocardial infarction or a musculoskeletal injury, the information ceases to be abstract and becomes a functional component of clinical practice [61, 87, 101]. This contextual anchoring makes the information more 'sticky,' as the brain encodes the structure as a solution to a clinical problem rather than a static piece of data [12, 61]. Students are advised to avoid common mistakes, such as focusing solely on images without reading the accompanying text or failing to cross-reference structures with their physiological functions [26]. By treating anatomy as a dynamic system rather than a static map, learners can achieve a deeper, more enduring mastery of the subject [11, 32]."
+        "id": "pedagogical-framework",
+        "title": "Evidence-Based Learning Strategies",
+        "body": "The traditional reliance on rote learning—a method characterized by mechanical repetition without deep conceptual integration—is increasingly viewed as insufficient for the complexities of modern medical curricula [35, 117]. Instead, research points toward active engagement as the primary driver of long-term anatomical retention [12, 36]. Cognitive and educational psychology research has established that learning is most durable when information is assimilated through application rather than passive review [12]. One highly effective strategy is the 'Memory Palace' technique, which utilizes spatial visualization to encode complex anatomical structures such as skeletal bones, musculature, and nervous system pathways [3, 21]. By mapping anatomical landmarks onto familiar physical environments, students create mental retrieval cues that function significantly better than standard flashcard repetition [3].\n\nFurthermore, the implementation of 'directed case study' methods has been shown to deepen understanding significantly [61]. By analyzing clinical anatomy through the lens of specific case reports—such as tracing the implications of a myocardial infarction or observing cardiovascular anatomical variations—students move beyond mere nomenclature to functional comprehension [31, 61, 87]. This approach aligns with the pedagogical trend of problem-based learning (PBL), which requires students to synthesize information in contexts that mirror actual medical practice [96]. Team-based learning (TBL) and flipped classroom models are also highlighted as superior alternatives to passive lecture-based instruction, as they force learners to retrieve information under social and practical constraints, a process known to strengthen neural encoding [36, 117].\n\nStudents are also cautioned against common mistakes that hinder progress, specifically the 'illusion of competence'—the feeling that one understands a topic simply because the text is familiar [26]. To mitigate this, learners must engage in active self-testing and spaced repetition. The curriculum should be structured to break down high-volume data into manageable units, preventing cognitive overload [12]. Educators emphasize that the mastery of anatomical terms must be performed in phases: conceptualizing, mapping, applying, and reviewing [4]. By treating anatomy as a 'language' rather than a collection of static facts, students can better understand the logic of naming conventions—such as those based on location, function, or morphology—which reduces the burden on working memory and facilitates intuitive learning [4, 12]."
       },
       {
-        "id": "technological_integration",
-        "title": "Leveraging Digital Tools and 3D Visualization",
-        "body": "The integration of digital technology has revolutionized the study of anatomy, moving the field beyond the constraints of two-dimensional textbook illustrations [51, 54]. High-quality 3D interactive atlases, such as those promoted by the Open Anatomy Project, allow students to dissect, rotate, and isolate structures in a virtual environment that mirrors physical dissection [51, 54]. This spatial understanding is crucial for complex regions like the mediastinum or the internal chambers of the heart, where orientation is as important as the structure itself [6, 81, 86]. \n\nIn 2026, the marketplace for anatomy applications is vast, with many tools offering specialized features such as cross-sectional views, radiographic correlation, and clinical case simulations [17, 18, 53]. Choosing the right tool depends on the learner's specific needs—whether they require high-fidelity 3D modeling for surgical training or simplified, mobile-friendly diagrams for foundational study [17, 18]. The use of simulators, such as those used for auscultation training, provides a bridge between pure anatomy and physical examination, ensuring that students do not learn anatomy in isolation from clinical application [17, 67]. \n\nFurthermore, open-source resources have democratized access to high-level anatomical data [51, 52]. The Open Anatomy Project and similar initiatives provide Blender files and other open-source assets that enable students to build their own visualization workflows, which can be far more effective than passive viewing [51]. These digital resources, when combined with high-quality educational videos and online tutorials, create a robust, multimodal learning environment [96]. However, it is essential to exercise caution and prioritize peer-reviewed or university-approved materials to ensure the anatomical accuracy of the data being consumed [96]. The trend toward self-directed learning in medical degrees mandates that students cultivate a high level of digital literacy, allowing them to quickly identify and verify reputable sources that align with their curriculum [12, 96]. As medical education continues to emphasize technological proficiency, the ability to synthesize data from multiple platforms—atlases, simulators, and clinical databases—is becoming a fundamental skill for successful anatomy mastery [13, 16, 19]."
+        "id": "digital-integration",
+        "title": "Digital Tools and Modern Resource Utilization",
+        "body": "The landscape of anatomy education has been fundamentally transformed by the integration of 3D digital platforms and open-source resources [51, 52]. The shift away from exclusively physical dissection, while contested, is supplemented by sophisticated 3D modeling apps that allow for rotation, layering, and cross-sectional analysis of the human body [17, 18, 54, 102]. For instance, modern anatomy apps such as the Human Anatomy Atlas facilitate the study of structures like the heart by isolating layers—from the epicardium to the endocardium—and observing valve mechanics in motion [6, 46, 51]. These digital tools are essential for students who lack 24/7 access to physical anatomy labs, serving as a 'virtual cadaver' for review [102].\n\nHowever, the proliferation of digital resources necessitates a rigorous vetting process. Students must prioritize high-quality, peer-reviewed content to avoid the pitfalls of inaccurate or over-simplified 'viral' educational content [14, 15, 114]. Platforms like AnatomyTOOL or university-hosted virtual learning environments provide structured paths that are curated for accuracy [10, 52]. Furthermore, the use of YouTube for anatomical learning is an emerging trend that requires caution; while it offers visual aids for complex topics like heart embryology or the cardiovascular system, its efficacy is contingent upon the user's ability to discern educational content from entertainment [91, 96, 116].\n\nBeyond simple visualization, the modern student must leverage tools that offer interactive assessment features [52, 56]. Apps that include built-in quizzes and progress tracking allow for the 'testing effect'—a well-documented psychological phenomenon where the act of being tested improves subsequent memory performance [5, 52]. Furthermore, cross-platform compatibility allows for 'micro-learning,' where students can review anatomical structures during short breaks, maintaining a consistent study cycle that is far more effective than sporadic 'cramming' [1, 12]. The Open Anatomy Project and similar initiatives emphasize the importance of democratizing this access, providing high-quality, open-source atlases that can be customized to the student's specific learning speed [51, 54]. By integrating these tools with a structured 'systems-based' study plan, the learner ensures that digital interactions are not merely passive consumption but active, data-driven practice sessions [12, 17, 18]."
       },
       {
-        "id": "clinical_correlation",
-        "title": "Clinical Correlation and Functional Anatomy",
-        "body": "Anatomy serves as the language of medicine, and its mastery is incomplete without an understanding of how structures function within the body's systems [11, 71]. To learn anatomy 'by heart' effectively, one must understand how structures like the heart's valves, coronary vessels, and conductive system interact to maintain homeostasis [2, 6, 27]. For example, learning the anatomy of the heart requires understanding its embryological development, as this sheds light on common congenital anomalies and the structural basis of various cardiac pathologies [46, 47]. \n\nDirecting study efforts toward clinical outcomes, such as interpreting an echocardiogram or understanding the pathophysiology of a myocardial infarction, creates a functional necessity for knowing anatomical relationships [79, 87]. When a student identifies the position of the heart relative to the sternum and lungs, they are also learning the anatomical basis for physical examination and life-saving interventions [7, 67]. This approach transforms the process from 'memorizing anatomy' into 'understanding the machine' [61]. Educators increasingly use team-based learning and case-based learning (CBL) to reinforce this connection, placing students in scenarios where they must diagnose conditions based on their anatomical knowledge [36, 61]. \n\nFurthermore, understanding anatomical variation is critical for modern medical practice [31]. The human body is not a rigid template; it is subject to variations in vessel branching, organ shape, and even tissue structure [31, 66]. Rigid memorization of 'textbook' anatomy can lead to dangerous assumptions in a clinical or surgical setting [31]. Therefore, advanced study must include an acknowledgment of these variations, often utilizing large-scale databases and advanced imaging modalities to study normal cardiac dynamics and structural nuances [66]. By shifting the focus from the 'average' human to the 'variable' human, students develop a more sophisticated and clinically applicable anatomical knowledge base [19, 31]. This pedagogical shift ensures that anatomy remains a relevant and vital part of medical education, addressing concerns that the subject has seen a decline in recent years [13]. Through constant application to real-world clinical problems, students move past the need for rote memorization and achieve a level of intuitive mastery that is durable, accurate, and ready for the demands of the medical profession [12, 32]."
+        "id": "case-study-heart",
+        "title": "Deep Dive: Practical Application via Heart Anatomy",
+        "body": "To demonstrate the mastery of the previously discussed methodologies, one can apply them to the study of the human heart—a complex organ that serves as the cornerstone of cardiovascular anatomy [6, 27]. Effective learning of the heart begins with spatial orientation: understanding its position within the thoracic cavity, specifically within the mediastinum, and its relationship to neighboring structures like the lungs and the sternum [7, 81, 116]. Rather than memorizing the heart as a static 3D model, the successful learner uses a functional, developmental framework [46, 116]. By studying heart embryology, the student understands why certain congenital heart problems arise and how the adult heart's structure—the chambers, valves, and coronary vessels—is a logical outcome of its developmental history [2, 46, 47].\n\nMnemonics are particularly useful for the complex vascular patterns and valve sequences [48]. For instance, remembering the flow of blood—Right Atrium, Right Ventricle, Pulmonary Artery, Lungs, Pulmonary Vein, Left Atrium, Left Ventricle—can be anchored to a mental 'story' or spatial 'palace' [3, 21, 91]. Supplementing this with clinical knowledge, such as the mechanisms of myocardial infarction or the diagnostic application of echocardiography, elevates the study from abstract memorization to clinical reasoning [79, 87]. This 'clinical anchoring' ensures that anatomical knowledge is stored in the brain as a useful tool rather than a disconnected factoid [12].\n\nFurthermore, the student must reconcile the anatomical 'ideal' with the reality of anatomical variation [31]. Cardiovascular case studies illustrate that human anatomy is rarely as uniform as textbook diagrams suggest [31]. By engaging with literature on anatomical variation, the learner gains a sophisticated perspective on biology, preventing the rigid thinking that often leads to errors in clinical practice [31]. Finally, applying the 'directed case analysis' method here means asking: 'What happens if the tricuspid valve fails?' or 'How does the baroreflex modulate heart rate during exercise?' [61, 67, 93]. These questions drive the student to cross-reference their knowledge of heart structure with physiology and neurophysiology, effectively connecting the anatomy to its functional output [63, 67, 93]. Through this iterative, question-based process, the learner transforms from a passive observer of diagrams into a deep-level practitioner of anatomical science [11, 36, 61]."
       }
     ],
     "citations": [
@@ -3344,63 +3326,63 @@
       },
       {
         "id": 66,
-        "url": "https://www.nature.com/articles/s42256-025-01035-5",
-        "domain": "nature.com",
-        "title": "A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics | Nature Machine Intelligence"
-      },
-      {
-        "id": 67,
-        "url": "https://medictests.com/units/cardiovascular-anatomy-basics",
-        "domain": "medictests.com",
-        "title": "Cardiovascular Anatomy Basics for EMS Students"
-      },
-      {
-        "id": 68,
         "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_(soundtrack)",
         "domain": "en.wikipedia.org",
         "title": "Grey's Anatomy (soundtrack) - Wikipedia"
       },
       {
-        "id": 69,
+        "id": 67,
         "url": "https://en.wikipedia.org/wiki/Heart_rate",
         "domain": "en.wikipedia.org",
         "title": "Heart rate - Wikipedia"
       },
       {
-        "id": 70,
+        "id": 68,
         "url": "https://en.wikipedia.org/wiki/Large_deformation_diffeomorphic_metric_mapping",
         "domain": "en.wikipedia.org",
         "title": "Large deformation diffeomorphic metric mapping - Wikipedia"
       },
       {
-        "id": 71,
-        "url": "https://leveluprn.com/blogs/medical-surgical-nursing/cardiovascular-1-introduction-anatomy-physiology-review?srsltid=AfmBOoqy92nb7En0PJojy01npqiun9qu9v1jBNxtnDiTUaWkvHTPtY8x",
-        "domain": "leveluprn.com",
-        "title": "Cardiovascular System Anatomy & Physiology Review - For Nurses"
+        "id": 69,
+        "url": "https://en.wikipedia.org/wiki/Parasympathetic_nervous_system",
+        "domain": "en.wikipedia.org",
+        "title": "Parasympathetic nervous system - Wikipedia"
       },
       {
-        "id": 72,
+        "id": 70,
+        "url": "https://en.wikipedia.org/wiki/High_Potential",
+        "domain": "en.wikipedia.org",
+        "title": "High Potential - Wikipedia"
+      },
+      {
+        "id": 71,
         "url": "https://en.wikipedia.org/wiki/How_to_Save_a_Life_(Grey's_Anatomy)",
         "domain": "en.wikipedia.org",
         "title": "How to Save a Life (Grey's Anatomy) - Wikipedia"
       },
       {
-        "id": 73,
+        "id": 72,
         "url": "https://en.wikipedia.org/wiki/Human_body",
         "domain": "en.wikipedia.org",
         "title": "Human body - Wikipedia"
       },
       {
-        "id": 74,
+        "id": 73,
         "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_5",
         "domain": "en.wikipedia.org",
         "title": "Grey's Anatomy season 5 - Wikipedia"
       },
       {
-        "id": 75,
+        "id": 74,
         "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
         "domain": "en.wikipedia.org",
         "title": "Grey's Anatomy season 10 - Wikipedia"
+      },
+      {
+        "id": 75,
+        "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11",
+        "domain": "en.wikipedia.org",
+        "title": "Grey's Anatomy season 11 - Wikipedia"
       },
       {
         "id": 76,
@@ -3476,51 +3458,51 @@
       },
       {
         "id": 88,
-        "url": "https://en.wikipedia.org/wiki/Riftia",
-        "domain": "en.wikipedia.org",
-        "title": "Riftia - Wikipedia"
-      },
-      {
-        "id": 89,
-        "url": "https://en.wikipedia.org/wiki/Rollins_Pass",
-        "domain": "en.wikipedia.org",
-        "title": "Rollins Pass - Wikipedia"
-      },
-      {
-        "id": 90,
         "url": "https://en.wikipedia.org/wiki/Glossary_of_medicine",
         "domain": "en.wikipedia.org",
         "title": "Glossary of medicine - Wikipedia"
       },
       {
+        "id": 89,
+        "url": "https://en.wikipedia.org/wiki/Skull",
+        "domain": "en.wikipedia.org",
+        "title": "Skull - Wikipedia"
+      },
+      {
+        "id": 90,
+        "url": "https://en.wikipedia.org/wiki/Vein",
+        "domain": "en.wikipedia.org",
+        "title": "Vein - Wikipedia"
+      },
+      {
         "id": 91,
+        "url": "https://www.physio-pedia.com/Anatomy_of_the_Human_Heart",
+        "domain": "physio-pedia.com",
+        "title": "Anatomy of the Human Heart - Physiopedia"
+      },
+      {
+        "id": 92,
         "url": "https://en.wikipedia.org/wiki/Anatomy",
         "domain": "en.wikipedia.org",
         "title": "Anatomy - Wikipedia"
       },
       {
-        "id": 92,
+        "id": 93,
         "url": "https://en.wikipedia.org/wiki/Baroreflex",
         "domain": "en.wikipedia.org",
         "title": "Baroreflex - Wikipedia"
       },
       {
-        "id": 93,
+        "id": 94,
         "url": "https://en.wikipedia.org/wiki/Segmental_analysis_(biology)",
         "domain": "en.wikipedia.org",
         "title": "Segmental analysis (biology) - Wikipedia"
       },
       {
-        "id": 94,
+        "id": 95,
         "url": "https://en.wikipedia.org/wiki/History_of_anatomy",
         "domain": "en.wikipedia.org",
         "title": "History of anatomy - Wikipedia"
-      },
-      {
-        "id": 95,
-        "url": "https://en.wikipedia.org/wiki/Neuropsychology",
-        "domain": "en.wikipedia.org",
-        "title": "Neuropsychology - Wikipedia"
       },
       {
         "id": 96,
@@ -3530,57 +3512,57 @@
       },
       {
         "id": 97,
-        "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11",
-        "domain": "en.wikipedia.org",
-        "title": "Grey's Anatomy season 11 - Wikipedia"
-      },
-      {
-        "id": 98,
         "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_1",
         "domain": "en.wikipedia.org",
         "title": "Grey's Anatomy season 1 - Wikipedia"
       },
       {
-        "id": 99,
+        "id": 98,
         "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_6",
         "domain": "en.wikipedia.org",
         "title": "Grey's Anatomy season 6 - Wikipedia"
       },
       {
-        "id": 100,
+        "id": 99,
         "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_9",
         "domain": "en.wikipedia.org",
         "title": "Grey's Anatomy season 9 - Wikipedia"
       },
       {
+        "id": 100,
+        "url": "https://en.wikipedia.org/wiki/Miranda_Bailey",
+        "domain": "en.wikipedia.org",
+        "title": "Miranda Bailey - Wikipedia"
+      },
+      {
         "id": 101,
-        "url": "https://pll.harvard.edu/course/anatomyx-musculoskeletal-cases",
-        "domain": "pll.harvard.edu",
-        "title": "Human Anatomy: Musculoskeletal Cases | Harvard University"
+        "url": "https://autopsy.online/ems-course/",
+        "domain": "autopsy.online",
+        "title": "EMS case study withclinical anatomy fundamentals"
       },
       {
         "id": 102,
+        "url": "https://laneguides.stanford.edu/medical-education/anatomy",
+        "domain": "laneguides.stanford.edu",
+        "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr"
+      },
+      {
+        "id": 103,
         "url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
         "domain": "en.wikipedia.org",
         "title": "Bhopal disaster - Wikipedia"
       },
       {
-        "id": 103,
+        "id": 104,
         "url": "https://en.wikipedia.org/wiki/Western_Sahara",
         "domain": "en.wikipedia.org",
         "title": "Western Sahara - Wikipedia"
       },
       {
-        "id": 104,
+        "id": 105,
         "url": "https://en.wikipedia.org/wiki/Holocaust_denial",
         "domain": "en.wikipedia.org",
         "title": "Holocaust denial - Wikipedia"
-      },
-      {
-        "id": 105,
-        "url": "https://en.wikipedia.org/wiki/History_of_medicine",
-        "domain": "en.wikipedia.org",
-        "title": "History of medicine - Wikipedia"
       },
       {
         "id": 106,
@@ -3638,43 +3620,43 @@
       },
       {
         "id": 115,
-        "url": "https://en.wikipedia.org/wiki/Hermann_Stieve",
+        "url": "https://en.wikipedia.org/wiki/Prince_(musician)",
         "domain": "en.wikipedia.org",
-        "title": "Hermann Stieve - Wikipedia"
+        "title": "Prince (musician) - Wikipedia"
       },
       {
         "id": 116,
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy",
+        "domain": "openstax.org",
+        "title": "19.1 Heart Anatomy - Anatomy and Physiology 2e | OpenStax"
+      },
+      {
+        "id": 117,
         "url": "https://en.wikipedia.org/wiki/Medical_education",
         "domain": "en.wikipedia.org",
         "title": "Medical education - Wikipedia"
       },
       {
-        "id": 117,
+        "id": 118,
         "url": "https://en.wikipedia.org/wiki/University_of_Campania_Luigi_Vanvitelli",
         "domain": "en.wikipedia.org",
         "title": "University of Campania Luigi Vanvitelli - Wikipedia"
       },
       {
-        "id": 118,
+        "id": 119,
         "url": "https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles",
         "domain": "en.wikipedia.org",
         "title": "Université libre de Bruxelles - Wikipedia"
       },
       {
-        "id": 119,
+        "id": 120,
         "url": "https://en.wikipedia.org/wiki/Medieval_medicine_of_Western_Europe",
         "domain": "en.wikipedia.org",
         "title": "Medieval medicine of Western Europe - Wikipedia"
-      },
-      {
-        "id": 120,
-        "url": "https://en.wikipedia.org/wiki/Ram_Janmabhoomi",
-        "domain": "en.wikipedia.org",
-        "title": "Ram Janmabhoomi - Wikipedia"
       }
     ],
-    "markdown": "# Comprehensive Methodologies for Mastering Human Anatomy: Evidence-Based Strategies and Pedagogical Frameworks\n\n## Query\nhow to learn anatomy by heart\n\n## Executive Summary\nMastering human anatomy requires a multifaceted shift from passive rote memorization to active, evidence-based cognitive strategies. Current medical education research highlights that the sheer volume of anatomical data necessitates techniques such as spaced repetition, spatial visualization, and clinical correlation rather than simple repetition [12, 32]. By integrating high-quality digital assets, such as 3D interactive atlases and specialized simulation software, learners can bridge the gap between abstract terminology and the complex, three-dimensional reality of human biology [17, 51, 54].\n\nEffective learning is further supported by the 'directed case study' method and team-based learning (TBL) environments, which force the application of theoretical knowledge to clinical scenarios [36, 61]. This report outlines an exhaustive roadmap for long-term retention, emphasizing the importance of pedagogical alignment, the usage of mnemonic systems, and the avoidance of common learning pitfalls that hinder progress. Success in this field is predicated on persistent engagement with clinical applications rather than isolated memorization of structures [1, 21, 26].\n\n## Cognitive Frameworks and Evidence-Based Memorization\nThe traditional reliance on rote memorization—the mechanical repetition of information without a deep grasp of underlying context—is widely regarded as an inefficient approach to the complexities of human anatomy [35]. Instead, modern pedagogical standards advocate for evidence-based cognitive strategies that promote long-term retention through active processing [12]. One of the most effective methods is the construction of a 'Memory Palace,' a mnemonic technique that leverages spatial memory to organize anatomical structures, such as bones, muscles, and nerves, into a familiar mental environment [3, 21]. This method is particularly effective for anatomy because it mimics the natural spatial distribution of organs within the body [3, 48].\n\nBeyond mnemonics, cognitive and educational psychology suggest that spaced repetition—the practice of reviewing information at incrementally increasing intervals—is vital for mitigating the 'forgetting curve' [12, 21]. Rather than attempting to 'learn by heart' in a single marathon session, learners are encouraged to integrate active recall, where they test themselves on the function, location, and innervation of structures repeatedly over days and weeks [1, 5]. This active retrieval process strengthens neural pathways associated with specific anatomical knowledge. Furthermore, research indicates that the 'flipped classroom' model, which encourages students to engage with material before lectures and apply it through problem-solving in class, significantly outperforms lecture-only formats [36]. \n\nAnother critical component is the use of the 'directed case study' method [61]. By attaching an anatomical structure to a specific clinical presentation, such as a myocardial infarction or a musculoskeletal injury, the information ceases to be abstract and becomes a functional component of clinical practice [61, 87, 101]. This contextual anchoring makes the information more 'sticky,' as the brain encodes the structure as a solution to a clinical problem rather than a static piece of data [12, 61]. Students are advised to avoid common mistakes, such as focusing solely on images without reading the accompanying text or failing to cross-reference structures with their physiological functions [26]. By treating anatomy as a dynamic system rather than a static map, learners can achieve a deeper, more enduring mastery of the subject [11, 32].\n\n## Leveraging Digital Tools and 3D Visualization\nThe integration of digital technology has revolutionized the study of anatomy, moving the field beyond the constraints of two-dimensional textbook illustrations [51, 54]. High-quality 3D interactive atlases, such as those promoted by the Open Anatomy Project, allow students to dissect, rotate, and isolate structures in a virtual environment that mirrors physical dissection [51, 54]. This spatial understanding is crucial for complex regions like the mediastinum or the internal chambers of the heart, where orientation is as important as the structure itself [6, 81, 86]. \n\nIn 2026, the marketplace for anatomy applications is vast, with many tools offering specialized features such as cross-sectional views, radiographic correlation, and clinical case simulations [17, 18, 53]. Choosing the right tool depends on the learner's specific needs—whether they require high-fidelity 3D modeling for surgical training or simplified, mobile-friendly diagrams for foundational study [17, 18]. The use of simulators, such as those used for auscultation training, provides a bridge between pure anatomy and physical examination, ensuring that students do not learn anatomy in isolation from clinical application [17, 67]. \n\nFurthermore, open-source resources have democratized access to high-level anatomical data [51, 52]. The Open Anatomy Project and similar initiatives provide Blender files and other open-source assets that enable students to build their own visualization workflows, which can be far more effective than passive viewing [51]. These digital resources, when combined with high-quality educational videos and online tutorials, create a robust, multimodal learning environment [96]. However, it is essential to exercise caution and prioritize peer-reviewed or university-approved materials to ensure the anatomical accuracy of the data being consumed [96]. The trend toward self-directed learning in medical degrees mandates that students cultivate a high level of digital literacy, allowing them to quickly identify and verify reputable sources that align with their curriculum [12, 96]. As medical education continues to emphasize technological proficiency, the ability to synthesize data from multiple platforms—atlases, simulators, and clinical databases—is becoming a fundamental skill for successful anatomy mastery [13, 16, 19].\n\n## Clinical Correlation and Functional Anatomy\nAnatomy serves as the language of medicine, and its mastery is incomplete without an understanding of how structures function within the body's systems [11, 71]. To learn anatomy 'by heart' effectively, one must understand how structures like the heart's valves, coronary vessels, and conductive system interact to maintain homeostasis [2, 6, 27]. For example, learning the anatomy of the heart requires understanding its embryological development, as this sheds light on common congenital anomalies and the structural basis of various cardiac pathologies [46, 47]. \n\nDirecting study efforts toward clinical outcomes, such as interpreting an echocardiogram or understanding the pathophysiology of a myocardial infarction, creates a functional necessity for knowing anatomical relationships [79, 87]. When a student identifies the position of the heart relative to the sternum and lungs, they are also learning the anatomical basis for physical examination and life-saving interventions [7, 67]. This approach transforms the process from 'memorizing anatomy' into 'understanding the machine' [61]. Educators increasingly use team-based learning and case-based learning (CBL) to reinforce this connection, placing students in scenarios where they must diagnose conditions based on their anatomical knowledge [36, 61]. \n\nFurthermore, understanding anatomical variation is critical for modern medical practice [31]. The human body is not a rigid template; it is subject to variations in vessel branching, organ shape, and even tissue structure [31, 66]. Rigid memorization of 'textbook' anatomy can lead to dangerous assumptions in a clinical or surgical setting [31]. Therefore, advanced study must include an acknowledgment of these variations, often utilizing large-scale databases and advanced imaging modalities to study normal cardiac dynamics and structural nuances [66]. By shifting the focus from the 'average' human to the 'variable' human, students develop a more sophisticated and clinically applicable anatomical knowledge base [19, 31]. This pedagogical shift ensures that anatomy remains a relevant and vital part of medical education, addressing concerns that the subject has seen a decline in recent years [13]. Through constant application to real-world clinical problems, students move past the need for rote memorization and achieve a level of intuitive mastery that is durable, accurate, and ready for the demands of the medical profession [12, 32].\n\n## Citations\n- [1] How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app (https://anatomy.app/blog/how-to-learn-anatomy-fast)\n- [2] Heart anatomy: Structure, valves, coronary vessels | Kenhub (https://www.kenhub.com/en/library/anatomy/heart)\n- [3] How to Memorize Anatomy for Med School (Without Flashcards) (https://www.magneticmemorymethod.com/how-to-memorize-anatomy/)\n- [4] Anatomical terms: How to memorize them in 4 steps | Kenhub (https://www.kenhub.com/en/library/learning-strategies/4-steps-to-memorize-anatomical-terms)\n- [5] Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan (https://voka.io/how-to-memorize-anatomy-and-physiology/)\n- [6] Heart Anatomy | Anatomy and Physiology II (https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy/)\n- [7] Heart Anatomy | The Texas Heart Institute® (https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/)\n- [8] Learn | Learn (https://learn.lboro.ac.uk/)\n- [9] Learn: Learn Rollover completed | Learn (https://learn.lboro.ac.uk/mod/forum/discuss.php?d=494667)\n- [10] Module categories | Learn (https://learn.lboro.ac.uk/course/index.php)\n- [11] Teaching and learning anatomy. Pedagogical methods, history, the present and tendencies (https://www.redalyc.org/journal/1631/163168638009/html/)\n- [12] An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/)\n- [13] Anatomy in a Modern Medical Curriculum - PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC1964553/)\n- [14] TikTok - Make Your Day (https://www.tiktok.com/@drfoxqda/video/7548453549676498198)\n- [15] TikTok - Make Your Day (https://www.tiktok.com/@medschoolbro/video/7594054381964758279)\n- [16] Best Anatomy, Physiology & Pathology Resources (2026 Guide) (https://voka.io/best-anatomy-physiology-pathology-resources/)\n- [17] Best Anatomy App for Medical Students in 2026 (https://medvisionsim.com/blog/best-anatomy-app-for-medical-students)\n- [18] 10+ Best anatomy apps in 2026 - Voka (https://voka.io/best-anatomy-apps/)\n- [19] Home | Anatomy and Clinical Anatomy � Insights & Resources | AnatomyAdvances 2026: Bridging Clinical and Surgical Anatomy for Medical Progre (https://www.srcmeetings.com/anatomyadvances-2026-bridging-clinical-and-surgical-anatomy-for-medical-progress-home-anatomyadvances.php)\n- [20] All modules | Learn (https://learn.lboro.ac.uk/course/index.php?categoryid=128)\n- [21] How to Study Anatomy: 5 Proven Memory Techniques (https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques)\n- [22] Global search | Learn (https://learn.lboro.ac.uk/search/index.php)\n- [23] 安全验证 - 知乎 (https://www.zhihu.com/en/answer/1916294508)\n- [24] Search | Learn (https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course)\n- [25] learn.lboro.ac.uk (https://learn.lboro.ac.uk/user/profile.php)\n- [26] Common mistakes that hinder your anatomy learning | Kenhub (https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning)\n- [27] Heart: Anatomy & Function (https://my.clevelandclinic.org/health/body/21704-heart)\n- [28] Log in to the site | Learn (https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769)\n- [29] Microsoft Privacy Statement – Microsoft privacy (http://go.microsoft.com/fwlink/?LinkId=521839)\n- [30] Microsoft Services Agreement (http://go.microsoft.com/fwlink/?LinkID=246338)\n- [31] Cardiovascular Case Studies &#8211; Anatomical Variation: An Australian and New Zealand Context (https://oercollective.caul.edu.au/anatomical-variation/chapter/cardiovascular-case-studies/)\n- [32] How to Study Anatomy in Medical School: A Complete Guide (https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews)\n- [33] Gray's Anatomy for Students - Wikipedia (https://en.wikipedia.org/wiki/Gray's_Anatomy_for_Students)\n- [34] Cat anatomy - Wikipedia (https://en.wikipedia.org/wiki/Cat_anatomy)\n- [35] Rote learning - Wikipedia (https://en.wikipedia.org/wiki/Rote_learning)\n- [36] Teaching anatomy using an active and engaging learning strategy | BMC Medical Education | Springer Nature Link (https://link.springer.com/article/10.1186/s12909-019-1590-2)\n- [37] Grey's Anatomy - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy)\n- [38] Grey's Anatomy season 2 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_2)\n- [39] Katherine Heigl - Wikipedia (https://en.wikipedia.org/wiki/Katherine_Heigl)\n- [40] Grey's Anatomy season 18 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_18)\n- [41] Spending Wisely: The Role of Cost and Value Research in the Pursuit of Advancing Anatomical Sciences Education (https://pubmed.ncbi.nlm.nih.gov/33068329/)\n- [42] Occupational licensing - Wikipedia (https://en.wikipedia.org/wiki/Occupational_licensing)\n- [43] List of Ig Nobel Prize winners - Wikipedia (https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners)\n- [44] Authoritarian socialism - Wikipedia (https://en.wikipedia.org/wiki/Authoritarian_socialism)\n- [45] Corporate law - Wikipedia (https://en.wikipedia.org/wiki/Corporate_law)\n- [46] 19.5 Development of the Heart - Anatomy and Physiology 2e | OpenStax (https://openstax.org/books/anatomy-and-physiology-2e/pages/19-5-development-of-the-heart)\n- [47] Heart embryology and congenital heart problems | Kenhub (https://www.kenhub.com/en/library/anatomy/embryology-of-the-heart)\n- [48] How to learn anatomy with mnemonics: Tips and examples | Kenhub (https://www.kenhub.com/en/library/learning-strategies/how-to-learn-anatomy-with-mnemonics)\n- [49] Maddie Ziegler - Wikipedia (https://en.wikipedia.org/wiki/Maddie_Ziegler)\n- [50] Bisexuality - Wikipedia (https://en.wikipedia.org/wiki/Bisexuality)\n- [51] Open source Human Anatomy Atlas - OpenAnatomy - 3D Slicer Community (https://discourse.slicer.org/t/open-source-human-anatomy-atlas/17734)\n- [52] Best Open Anatomy Learning Resources | AnatomyTOOL (https://anatomytool.org/content/best-open-anatomy-learning-resources)\n- [53] Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry (https://ico.libguides.com/anatomy/free-resources)\n- [54] The Open Anatomy Project | The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and ope (https://www.openanatomy.org/)\n- [55] Mammal - Wikipedia (https://en.wikipedia.org/wiki/Mammal)\n- [56] Help Students Study Effectively for Your A&P Course! (https://www.mheducation.com/highered/blog/2024/06/help-students-study-effectively-for-your-a-p-course.html)\n- [57] List of Star Trek aliens - Wikipedia (https://en.wikipedia.org/wiki/List_of_Star_Trek_aliens)\n- [58] Lost (TV series) - Wikipedia (https://en.wikipedia.org/wiki/Lost_(TV_series))\n- [59] Generation Z in the United States - Wikipedia (https://en.wikipedia.org/wiki/Generation_Z_in_the_United_States)\n- [60] Internet - Wikipedia (https://en.wikipedia.org/wiki/Internet)\n- [61] Directed case study method for teaching human anatomy and physiology (https://pubmed.ncbi.nlm.nih.gov/8712252/)\n- [62] Fruit tree - Wikipedia (https://en.wikipedia.org/wiki/Fruit_tree)\n- [63] Neurophysiology - Wikipedia (https://en.wikipedia.org/wiki/Neurophysiology)\n- [64] Robert Knox (surgeon) - Wikipedia (https://en.wikipedia.org/wiki/Robert_Knox_(surgeon))\n- [65] Cattle - Wikipedia (https://en.wikipedia.org/wiki/Cattle)\n- [66] A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics | Nature Machine Intelligence (https://www.nature.com/articles/s42256-025-01035-5)\n- [67] Cardiovascular Anatomy Basics for EMS Students (https://medictests.com/units/cardiovascular-anatomy-basics)\n- [68] Grey's Anatomy (soundtrack) - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_(soundtrack))\n- [69] Heart rate - Wikipedia (https://en.wikipedia.org/wiki/Heart_rate)\n- [70] Large deformation diffeomorphic metric mapping - Wikipedia (https://en.wikipedia.org/wiki/Large_deformation_diffeomorphic_metric_mapping)\n- [71] Cardiovascular System Anatomy & Physiology Review - For Nurses (https://leveluprn.com/blogs/medical-surgical-nursing/cardiovascular-1-introduction-anatomy-physiology-review?srsltid=AfmBOoqy92nb7En0PJojy01npqiun9qu9v1jBNxtnDiTUaWkvHTPtY8x)\n- [72] How to Save a Life (Grey's Anatomy) - Wikipedia (https://en.wikipedia.org/wiki/How_to_Save_a_Life_(Grey's_Anatomy))\n- [73] Human body - Wikipedia (https://en.wikipedia.org/wiki/Human_body)\n- [74] Grey's Anatomy season 5 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_5)\n- [75] Grey's Anatomy season 10 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10)\n- [76] Brainstem - Wikipedia (https://en.wikipedia.org/wiki/Brainstem)\n- [77] Prothallus - Wikipedia (https://en.wikipedia.org/wiki/Prothallus)\n- [78] Spider anatomy - Wikipedia (https://en.wikipedia.org/wiki/Spider_anatomy)\n- [79] Echocardiography - Wikipedia (https://en.wikipedia.org/wiki/Echocardiography)\n- [80] Galen - Wikipedia (https://en.wikipedia.org/wiki/Galen)\n- [81] Mediastinum - Wikipedia (https://en.wikipedia.org/wiki/Mediastinum)\n- [82] Fetal pig - Wikipedia (https://en.wikipedia.org/wiki/Fetal_pig)\n- [83] Bird anatomy - Wikipedia (https://en.wikipedia.org/wiki/Bird_anatomy)\n- [84] Franklin Institute - Wikipedia (https://en.wikipedia.org/wiki/Franklin_Institute)\n- [85] Plastination - Wikipedia (https://en.wikipedia.org/wiki/Plastination)\n- [86] Anatomy of the human heart - Wikipedia (https://en.wikipedia.org/wiki/Anatomy_of_the_human_heart)\n- [87] Myocardial infarction - Wikipedia (https://en.wikipedia.org/wiki/Myocardial_infarction)\n- [88] Riftia - Wikipedia (https://en.wikipedia.org/wiki/Riftia)\n- [89] Rollins Pass - Wikipedia (https://en.wikipedia.org/wiki/Rollins_Pass)\n- [90] Glossary of medicine - Wikipedia (https://en.wikipedia.org/wiki/Glossary_of_medicine)\n- [91] Anatomy - Wikipedia (https://en.wikipedia.org/wiki/Anatomy)\n- [92] Baroreflex - Wikipedia (https://en.wikipedia.org/wiki/Baroreflex)\n- [93] Segmental analysis (biology) - Wikipedia (https://en.wikipedia.org/wiki/Segmental_analysis_(biology))\n- [94] History of anatomy - Wikipedia (https://en.wikipedia.org/wiki/History_of_anatomy)\n- [95] Neuropsychology - Wikipedia (https://en.wikipedia.org/wiki/Neuropsychology)\n- [96] How useful is YouTube in learning heart anatomy? (https://pubmed.ncbi.nlm.nih.gov/23564745/)\n- [97] Grey's Anatomy season 11 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11)\n- [98] Grey's Anatomy season 1 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_1)\n- [99] Grey's Anatomy season 6 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_6)\n- [100] Grey's Anatomy season 9 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_9)\n- [101] Human Anatomy: Musculoskeletal Cases | Harvard University (https://pll.harvard.edu/course/anatomyx-musculoskeletal-cases)\n- [102] Bhopal disaster - Wikipedia (https://en.wikipedia.org/wiki/Bhopal_disaster)\n- [103] Western Sahara - Wikipedia (https://en.wikipedia.org/wiki/Western_Sahara)\n- [104] Holocaust denial - Wikipedia (https://en.wikipedia.org/wiki/Holocaust_denial)\n- [105] History of medicine - Wikipedia (https://en.wikipedia.org/wiki/History_of_medicine)\n- [106] Bald eagle - Wikipedia (https://en.wikipedia.org/wiki/Bald_eagle)\n- [107] List of foreign recipients of the Légion d'Honneur by country - Wikipedia (https://en.wikipedia.org/wiki/List_of_foreign_recipients_of_the_L%C3%A9gion_d'Honneur_by_country)\n- [108] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png)\n- [109] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png)\n- [110] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png)\n- [111] 5.2 Review of Anatomy & Physiology of the Cardiovascular System &#8211; Health Alterations (https://wtcs.pressbooks.pub/healthalts/chapter/5-2-review-of-anatomy-physiology-of-the-cardiovascular-system/)\n- [112] Bimaristan - Wikipedia (https://en.wikipedia.org/wiki/Bimaristan)\n- [113] Nanjing Massacre - Wikipedia (https://en.wikipedia.org/wiki/Nanjing_Massacre)\n- [114] Viral video - Wikipedia (https://en.wikipedia.org/wiki/Viral_video)\n- [115] Hermann Stieve - Wikipedia (https://en.wikipedia.org/wiki/Hermann_Stieve)\n- [116] Medical education - Wikipedia (https://en.wikipedia.org/wiki/Medical_education)\n- [117] University of Campania Luigi Vanvitelli - Wikipedia (https://en.wikipedia.org/wiki/University_of_Campania_Luigi_Vanvitelli)\n- [118] Université libre de Bruxelles - Wikipedia (https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)\n- [119] Medieval medicine of Western Europe - Wikipedia (https://en.wikipedia.org/wiki/Medieval_medicine_of_Western_Europe)\n- [120] Ram Janmabhoomi - Wikipedia (https://en.wikipedia.org/wiki/Ram_Janmabhoomi)",
-    "generatedAt": "2026-03-30T19:36:57.859Z"
+    "markdown": "# Mastering Human Anatomy: A Comprehensive Evidence-Based Framework\n\n## Query\nhow to learn anatomy by heart\n\n## Executive Summary\nLearning human anatomy effectively requires transitioning from passive rote memorization—historically associated with declining educational outcomes—to active, integrative learning strategies [11, 13, 35]. This report synthesizes evidence-based pedagogical methods, including memory palaces, directed case analysis, and active visualization, to provide a structured approach for mastering anatomical knowledge. Emphasis is placed on the shift toward clinical relevance, where understanding structural relationships serves as the foundation for both academic success and clinical application [12, 61].\n\nCentral to modern anatomical education is the integration of diverse high-quality digital resources, 3D modeling, and problem-based learning modules [52, 96, 102]. The report outlines strategies to overcome common learning hurdles, such as cognitive overload, by employing mnemonics and spacing techniques, while advocating for a 'systems-based' rather than 'fragmented' approach to complex structures like the heart [2, 5, 21, 48]. By aligning study habits with cognitive psychology research, learners can optimize retention and achieve long-term mastery of complex human biological systems [12].\n\n## Evidence-Based Learning Strategies\nThe traditional reliance on rote learning—a method characterized by mechanical repetition without deep conceptual integration—is increasingly viewed as insufficient for the complexities of modern medical curricula [35, 117]. Instead, research points toward active engagement as the primary driver of long-term anatomical retention [12, 36]. Cognitive and educational psychology research has established that learning is most durable when information is assimilated through application rather than passive review [12]. One highly effective strategy is the 'Memory Palace' technique, which utilizes spatial visualization to encode complex anatomical structures such as skeletal bones, musculature, and nervous system pathways [3, 21]. By mapping anatomical landmarks onto familiar physical environments, students create mental retrieval cues that function significantly better than standard flashcard repetition [3].\n\nFurthermore, the implementation of 'directed case study' methods has been shown to deepen understanding significantly [61]. By analyzing clinical anatomy through the lens of specific case reports—such as tracing the implications of a myocardial infarction or observing cardiovascular anatomical variations—students move beyond mere nomenclature to functional comprehension [31, 61, 87]. This approach aligns with the pedagogical trend of problem-based learning (PBL), which requires students to synthesize information in contexts that mirror actual medical practice [96]. Team-based learning (TBL) and flipped classroom models are also highlighted as superior alternatives to passive lecture-based instruction, as they force learners to retrieve information under social and practical constraints, a process known to strengthen neural encoding [36, 117].\n\nStudents are also cautioned against common mistakes that hinder progress, specifically the 'illusion of competence'—the feeling that one understands a topic simply because the text is familiar [26]. To mitigate this, learners must engage in active self-testing and spaced repetition. The curriculum should be structured to break down high-volume data into manageable units, preventing cognitive overload [12]. Educators emphasize that the mastery of anatomical terms must be performed in phases: conceptualizing, mapping, applying, and reviewing [4]. By treating anatomy as a 'language' rather than a collection of static facts, students can better understand the logic of naming conventions—such as those based on location, function, or morphology—which reduces the burden on working memory and facilitates intuitive learning [4, 12].\n\n## Digital Tools and Modern Resource Utilization\nThe landscape of anatomy education has been fundamentally transformed by the integration of 3D digital platforms and open-source resources [51, 52]. The shift away from exclusively physical dissection, while contested, is supplemented by sophisticated 3D modeling apps that allow for rotation, layering, and cross-sectional analysis of the human body [17, 18, 54, 102]. For instance, modern anatomy apps such as the Human Anatomy Atlas facilitate the study of structures like the heart by isolating layers—from the epicardium to the endocardium—and observing valve mechanics in motion [6, 46, 51]. These digital tools are essential for students who lack 24/7 access to physical anatomy labs, serving as a 'virtual cadaver' for review [102].\n\nHowever, the proliferation of digital resources necessitates a rigorous vetting process. Students must prioritize high-quality, peer-reviewed content to avoid the pitfalls of inaccurate or over-simplified 'viral' educational content [14, 15, 114]. Platforms like AnatomyTOOL or university-hosted virtual learning environments provide structured paths that are curated for accuracy [10, 52]. Furthermore, the use of YouTube for anatomical learning is an emerging trend that requires caution; while it offers visual aids for complex topics like heart embryology or the cardiovascular system, its efficacy is contingent upon the user's ability to discern educational content from entertainment [91, 96, 116].\n\nBeyond simple visualization, the modern student must leverage tools that offer interactive assessment features [52, 56]. Apps that include built-in quizzes and progress tracking allow for the 'testing effect'—a well-documented psychological phenomenon where the act of being tested improves subsequent memory performance [5, 52]. Furthermore, cross-platform compatibility allows for 'micro-learning,' where students can review anatomical structures during short breaks, maintaining a consistent study cycle that is far more effective than sporadic 'cramming' [1, 12]. The Open Anatomy Project and similar initiatives emphasize the importance of democratizing this access, providing high-quality, open-source atlases that can be customized to the student's specific learning speed [51, 54]. By integrating these tools with a structured 'systems-based' study plan, the learner ensures that digital interactions are not merely passive consumption but active, data-driven practice sessions [12, 17, 18].\n\n## Deep Dive: Practical Application via Heart Anatomy\nTo demonstrate the mastery of the previously discussed methodologies, one can apply them to the study of the human heart—a complex organ that serves as the cornerstone of cardiovascular anatomy [6, 27]. Effective learning of the heart begins with spatial orientation: understanding its position within the thoracic cavity, specifically within the mediastinum, and its relationship to neighboring structures like the lungs and the sternum [7, 81, 116]. Rather than memorizing the heart as a static 3D model, the successful learner uses a functional, developmental framework [46, 116]. By studying heart embryology, the student understands why certain congenital heart problems arise and how the adult heart's structure—the chambers, valves, and coronary vessels—is a logical outcome of its developmental history [2, 46, 47].\n\nMnemonics are particularly useful for the complex vascular patterns and valve sequences [48]. For instance, remembering the flow of blood—Right Atrium, Right Ventricle, Pulmonary Artery, Lungs, Pulmonary Vein, Left Atrium, Left Ventricle—can be anchored to a mental 'story' or spatial 'palace' [3, 21, 91]. Supplementing this with clinical knowledge, such as the mechanisms of myocardial infarction or the diagnostic application of echocardiography, elevates the study from abstract memorization to clinical reasoning [79, 87]. This 'clinical anchoring' ensures that anatomical knowledge is stored in the brain as a useful tool rather than a disconnected factoid [12].\n\nFurthermore, the student must reconcile the anatomical 'ideal' with the reality of anatomical variation [31]. Cardiovascular case studies illustrate that human anatomy is rarely as uniform as textbook diagrams suggest [31]. By engaging with literature on anatomical variation, the learner gains a sophisticated perspective on biology, preventing the rigid thinking that often leads to errors in clinical practice [31]. Finally, applying the 'directed case analysis' method here means asking: 'What happens if the tricuspid valve fails?' or 'How does the baroreflex modulate heart rate during exercise?' [61, 67, 93]. These questions drive the student to cross-reference their knowledge of heart structure with physiology and neurophysiology, effectively connecting the anatomy to its functional output [63, 67, 93]. Through this iterative, question-based process, the learner transforms from a passive observer of diagrams into a deep-level practitioner of anatomical science [11, 36, 61].\n\n## Citations\n- [1] How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app (https://anatomy.app/blog/how-to-learn-anatomy-fast)\n- [2] Heart anatomy: Structure, valves, coronary vessels | Kenhub (https://www.kenhub.com/en/library/anatomy/heart)\n- [3] How to Memorize Anatomy for Med School (Without Flashcards) (https://www.magneticmemorymethod.com/how-to-memorize-anatomy/)\n- [4] Anatomical terms: How to memorize them in 4 steps | Kenhub (https://www.kenhub.com/en/library/learning-strategies/4-steps-to-memorize-anatomical-terms)\n- [5] Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan (https://voka.io/how-to-memorize-anatomy-and-physiology/)\n- [6] Heart Anatomy | Anatomy and Physiology II (https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy/)\n- [7] Heart Anatomy | The Texas Heart Institute® (https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/)\n- [8] Learn | Learn (https://learn.lboro.ac.uk/)\n- [9] Learn: Learn Rollover completed | Learn (https://learn.lboro.ac.uk/mod/forum/discuss.php?d=494667)\n- [10] Module categories | Learn (https://learn.lboro.ac.uk/course/index.php)\n- [11] Teaching and learning anatomy. Pedagogical methods, history, the present and tendencies (https://www.redalyc.org/journal/1631/163168638009/html/)\n- [12] An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/)\n- [13] Anatomy in a Modern Medical Curriculum - PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC1964553/)\n- [14] TikTok - Make Your Day (https://www.tiktok.com/@drfoxqda/video/7548453549676498198)\n- [15] TikTok - Make Your Day (https://www.tiktok.com/@medschoolbro/video/7594054381964758279)\n- [16] Best Anatomy, Physiology & Pathology Resources (2026 Guide) (https://voka.io/best-anatomy-physiology-pathology-resources/)\n- [17] Best Anatomy App for Medical Students in 2026 (https://medvisionsim.com/blog/best-anatomy-app-for-medical-students)\n- [18] 10+ Best anatomy apps in 2026 - Voka (https://voka.io/best-anatomy-apps/)\n- [19] Home | Anatomy and Clinical Anatomy � Insights & Resources | AnatomyAdvances 2026: Bridging Clinical and Surgical Anatomy for Medical Progre (https://www.srcmeetings.com/anatomyadvances-2026-bridging-clinical-and-surgical-anatomy-for-medical-progress-home-anatomyadvances.php)\n- [20] All modules | Learn (https://learn.lboro.ac.uk/course/index.php?categoryid=128)\n- [21] How to Study Anatomy: 5 Proven Memory Techniques (https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques)\n- [22] Global search | Learn (https://learn.lboro.ac.uk/search/index.php)\n- [23] 安全验证 - 知乎 (https://www.zhihu.com/en/answer/1916294508)\n- [24] Search | Learn (https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course)\n- [25] learn.lboro.ac.uk (https://learn.lboro.ac.uk/user/profile.php)\n- [26] Common mistakes that hinder your anatomy learning | Kenhub (https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning)\n- [27] Heart: Anatomy & Function (https://my.clevelandclinic.org/health/body/21704-heart)\n- [28] Log in to the site | Learn (https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769)\n- [29] Microsoft Privacy Statement – Microsoft privacy (http://go.microsoft.com/fwlink/?LinkId=521839)\n- [30] Microsoft Services Agreement (http://go.microsoft.com/fwlink/?LinkID=246338)\n- [31] Cardiovascular Case Studies &#8211; Anatomical Variation: An Australian and New Zealand Context (https://oercollective.caul.edu.au/anatomical-variation/chapter/cardiovascular-case-studies/)\n- [32] How to Study Anatomy in Medical School: A Complete Guide (https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews)\n- [33] Gray's Anatomy for Students - Wikipedia (https://en.wikipedia.org/wiki/Gray's_Anatomy_for_Students)\n- [34] Cat anatomy - Wikipedia (https://en.wikipedia.org/wiki/Cat_anatomy)\n- [35] Rote learning - Wikipedia (https://en.wikipedia.org/wiki/Rote_learning)\n- [36] Teaching anatomy using an active and engaging learning strategy | BMC Medical Education | Springer Nature Link (https://link.springer.com/article/10.1186/s12909-019-1590-2)\n- [37] Grey's Anatomy - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy)\n- [38] Grey's Anatomy season 2 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_2)\n- [39] Katherine Heigl - Wikipedia (https://en.wikipedia.org/wiki/Katherine_Heigl)\n- [40] Grey's Anatomy season 18 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_18)\n- [41] Spending Wisely: The Role of Cost and Value Research in the Pursuit of Advancing Anatomical Sciences Education (https://pubmed.ncbi.nlm.nih.gov/33068329/)\n- [42] Occupational licensing - Wikipedia (https://en.wikipedia.org/wiki/Occupational_licensing)\n- [43] List of Ig Nobel Prize winners - Wikipedia (https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners)\n- [44] Authoritarian socialism - Wikipedia (https://en.wikipedia.org/wiki/Authoritarian_socialism)\n- [45] Corporate law - Wikipedia (https://en.wikipedia.org/wiki/Corporate_law)\n- [46] 19.5 Development of the Heart - Anatomy and Physiology 2e | OpenStax (https://openstax.org/books/anatomy-and-physiology-2e/pages/19-5-development-of-the-heart)\n- [47] Heart embryology and congenital heart problems | Kenhub (https://www.kenhub.com/en/library/anatomy/embryology-of-the-heart)\n- [48] How to learn anatomy with mnemonics: Tips and examples | Kenhub (https://www.kenhub.com/en/library/learning-strategies/how-to-learn-anatomy-with-mnemonics)\n- [49] Maddie Ziegler - Wikipedia (https://en.wikipedia.org/wiki/Maddie_Ziegler)\n- [50] Bisexuality - Wikipedia (https://en.wikipedia.org/wiki/Bisexuality)\n- [51] Open source Human Anatomy Atlas - OpenAnatomy - 3D Slicer Community (https://discourse.slicer.org/t/open-source-human-anatomy-atlas/17734)\n- [52] Best Open Anatomy Learning Resources | AnatomyTOOL (https://anatomytool.org/content/best-open-anatomy-learning-resources)\n- [53] Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry (https://ico.libguides.com/anatomy/free-resources)\n- [54] The Open Anatomy Project | The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and ope (https://www.openanatomy.org/)\n- [55] Mammal - Wikipedia (https://en.wikipedia.org/wiki/Mammal)\n- [56] Help Students Study Effectively for Your A&P Course! (https://www.mheducation.com/highered/blog/2024/06/help-students-study-effectively-for-your-a-p-course.html)\n- [57] List of Star Trek aliens - Wikipedia (https://en.wikipedia.org/wiki/List_of_Star_Trek_aliens)\n- [58] Lost (TV series) - Wikipedia (https://en.wikipedia.org/wiki/Lost_(TV_series))\n- [59] Generation Z in the United States - Wikipedia (https://en.wikipedia.org/wiki/Generation_Z_in_the_United_States)\n- [60] Internet - Wikipedia (https://en.wikipedia.org/wiki/Internet)\n- [61] Directed case study method for teaching human anatomy and physiology (https://pubmed.ncbi.nlm.nih.gov/8712252/)\n- [62] Fruit tree - Wikipedia (https://en.wikipedia.org/wiki/Fruit_tree)\n- [63] Neurophysiology - Wikipedia (https://en.wikipedia.org/wiki/Neurophysiology)\n- [64] Robert Knox (surgeon) - Wikipedia (https://en.wikipedia.org/wiki/Robert_Knox_(surgeon))\n- [65] Cattle - Wikipedia (https://en.wikipedia.org/wiki/Cattle)\n- [66] Grey's Anatomy (soundtrack) - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_(soundtrack))\n- [67] Heart rate - Wikipedia (https://en.wikipedia.org/wiki/Heart_rate)\n- [68] Large deformation diffeomorphic metric mapping - Wikipedia (https://en.wikipedia.org/wiki/Large_deformation_diffeomorphic_metric_mapping)\n- [69] Parasympathetic nervous system - Wikipedia (https://en.wikipedia.org/wiki/Parasympathetic_nervous_system)\n- [70] High Potential - Wikipedia (https://en.wikipedia.org/wiki/High_Potential)\n- [71] How to Save a Life (Grey's Anatomy) - Wikipedia (https://en.wikipedia.org/wiki/How_to_Save_a_Life_(Grey's_Anatomy))\n- [72] Human body - Wikipedia (https://en.wikipedia.org/wiki/Human_body)\n- [73] Grey's Anatomy season 5 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_5)\n- [74] Grey's Anatomy season 10 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10)\n- [75] Grey's Anatomy season 11 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11)\n- [76] Brainstem - Wikipedia (https://en.wikipedia.org/wiki/Brainstem)\n- [77] Prothallus - Wikipedia (https://en.wikipedia.org/wiki/Prothallus)\n- [78] Spider anatomy - Wikipedia (https://en.wikipedia.org/wiki/Spider_anatomy)\n- [79] Echocardiography - Wikipedia (https://en.wikipedia.org/wiki/Echocardiography)\n- [80] Galen - Wikipedia (https://en.wikipedia.org/wiki/Galen)\n- [81] Mediastinum - Wikipedia (https://en.wikipedia.org/wiki/Mediastinum)\n- [82] Fetal pig - Wikipedia (https://en.wikipedia.org/wiki/Fetal_pig)\n- [83] Bird anatomy - Wikipedia (https://en.wikipedia.org/wiki/Bird_anatomy)\n- [84] Franklin Institute - Wikipedia (https://en.wikipedia.org/wiki/Franklin_Institute)\n- [85] Plastination - Wikipedia (https://en.wikipedia.org/wiki/Plastination)\n- [86] Anatomy of the human heart - Wikipedia (https://en.wikipedia.org/wiki/Anatomy_of_the_human_heart)\n- [87] Myocardial infarction - Wikipedia (https://en.wikipedia.org/wiki/Myocardial_infarction)\n- [88] Glossary of medicine - Wikipedia (https://en.wikipedia.org/wiki/Glossary_of_medicine)\n- [89] Skull - Wikipedia (https://en.wikipedia.org/wiki/Skull)\n- [90] Vein - Wikipedia (https://en.wikipedia.org/wiki/Vein)\n- [91] Anatomy of the Human Heart - Physiopedia (https://www.physio-pedia.com/Anatomy_of_the_Human_Heart)\n- [92] Anatomy - Wikipedia (https://en.wikipedia.org/wiki/Anatomy)\n- [93] Baroreflex - Wikipedia (https://en.wikipedia.org/wiki/Baroreflex)\n- [94] Segmental analysis (biology) - Wikipedia (https://en.wikipedia.org/wiki/Segmental_analysis_(biology))\n- [95] History of anatomy - Wikipedia (https://en.wikipedia.org/wiki/History_of_anatomy)\n- [96] How useful is YouTube in learning heart anatomy? (https://pubmed.ncbi.nlm.nih.gov/23564745/)\n- [97] Grey's Anatomy season 1 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_1)\n- [98] Grey's Anatomy season 6 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_6)\n- [99] Grey's Anatomy season 9 - Wikipedia (https://en.wikipedia.org/wiki/Grey's_Anatomy_season_9)\n- [100] Miranda Bailey - Wikipedia (https://en.wikipedia.org/wiki/Miranda_Bailey)\n- [101] EMS case study withclinical anatomy fundamentals (https://autopsy.online/ems-course/)\n- [102] Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr (https://laneguides.stanford.edu/medical-education/anatomy)\n- [103] Bhopal disaster - Wikipedia (https://en.wikipedia.org/wiki/Bhopal_disaster)\n- [104] Western Sahara - Wikipedia (https://en.wikipedia.org/wiki/Western_Sahara)\n- [105] Holocaust denial - Wikipedia (https://en.wikipedia.org/wiki/Holocaust_denial)\n- [106] Bald eagle - Wikipedia (https://en.wikipedia.org/wiki/Bald_eagle)\n- [107] List of foreign recipients of the Légion d'Honneur by country - Wikipedia (https://en.wikipedia.org/wiki/List_of_foreign_recipients_of_the_L%C3%A9gion_d'Honneur_by_country)\n- [108] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png)\n- [109] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png)\n- [110] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png)\n- [111] 5.2 Review of Anatomy & Physiology of the Cardiovascular System &#8211; Health Alterations (https://wtcs.pressbooks.pub/healthalts/chapter/5-2-review-of-anatomy-physiology-of-the-cardiovascular-system/)\n- [112] Bimaristan - Wikipedia (https://en.wikipedia.org/wiki/Bimaristan)\n- [113] Nanjing Massacre - Wikipedia (https://en.wikipedia.org/wiki/Nanjing_Massacre)\n- [114] Viral video - Wikipedia (https://en.wikipedia.org/wiki/Viral_video)\n- [115] Prince (musician) - Wikipedia (https://en.wikipedia.org/wiki/Prince_(musician))\n- [116] 19.1 Heart Anatomy - Anatomy and Physiology 2e | OpenStax (https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy)\n- [117] Medical education - Wikipedia (https://en.wikipedia.org/wiki/Medical_education)\n- [118] University of Campania Luigi Vanvitelli - Wikipedia (https://en.wikipedia.org/wiki/University_of_Campania_Luigi_Vanvitelli)\n- [119] Université libre de Bruxelles - Wikipedia (https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)\n- [120] Medieval medicine of Western Europe - Wikipedia (https://en.wikipedia.org/wiki/Medieval_medicine_of_Western_Europe)",
+    "generatedAt": "2026-03-30T19:36:59.489Z"
   },
-  "completedAt": "2026-03-30T19:36:57.859Z"
+  "completedAt": "2026-03-30T19:36:59.489Z"
 }
