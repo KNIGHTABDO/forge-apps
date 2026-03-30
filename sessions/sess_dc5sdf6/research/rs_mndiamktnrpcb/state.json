@@ -3,17 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T18:13:13.037Z",
-  "updatedAt": "2026-03-30T18:13:37.036Z",
-  "lastAdvancedAt": "2026-03-30T18:13:34.351Z",
+  "updatedAt": "2026-03-30T18:13:49.762Z",
+  "lastAdvancedAt": "2026-03-30T18:13:46.647Z",
   "phase": "analyzing",
   "progress": 18,
   "etaMinutes": 5,
   "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 benchmark comparison",
-    "ai in 2026 limitations and risks",
-    "ai in 2026 case study",
     "ai in 2026 expert interview",
     "ai in 2026 economics and costs",
     "ai in 2026 timeline and adoption",
@@ -24,80 +21,83 @@
     "ai in 2026",
     "ai in 2026 official documentation",
     "ai in 2026 latest research paper",
-    "ai in 2026 industry analysis 2025 2026"
+    "ai in 2026 industry analysis 2025 2026",
+    "ai in 2026 benchmark comparison",
+    "ai in 2026 limitations and risks",
+    "ai in 2026 case study"
   ],
   "websites": [
     {
-      "id": "site_1774894416741_9js9a",
+      "id": "site_1774894429486_a7may",
       "url": "https://www.zhihu.com/question/2006370013720897348",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:37.035Z"
+      "checkedAt": "2026-03-30T18:13:49.762Z"
     },
     {
-      "id": "site_1774894416459_rcbjy",
+      "id": "site_1774894429104_lufve",
       "url": "https://www.zhihu.com/question/14173371100",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:36.741Z"
+      "checkedAt": "2026-03-30T18:13:49.486Z"
     },
     {
-      "id": "site_1774894416177_dnn2s",
+      "id": "site_1774894428757_xslpe",
       "url": "https://www.zhihu.com/question/571427849",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:36.459Z"
+      "checkedAt": "2026-03-30T18:13:49.104Z"
     },
     {
-      "id": "site_1774894415899_3dzxp",
+      "id": "site_1774894428469_r0rr3",
       "url": "https://www.zhihu.com/question/13918010999",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:36.177Z"
+      "checkedAt": "2026-03-30T18:13:48.757Z"
     },
     {
-      "id": "site_1774894415617_sdt45",
+      "id": "site_1774894428188_y5wa0",
       "url": "https://www.zhihu.com/question/4023337465",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:35.898Z"
+      "checkedAt": "2026-03-30T18:13:48.469Z"
     },
     {
-      "id": "site_1774894415326_1ie9j",
+      "id": "site_1774894427813_1mydl",
       "url": "https://www.zhihu.com/question/1943070667252670985",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:35.617Z"
+      "checkedAt": "2026-03-30T18:13:48.188Z"
     },
     {
-      "id": "site_1774894415025_09wry",
+      "id": "site_1774894427461_dfsz2",
       "url": "https://www.zhihu.com/question/591009674",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:35.326Z"
+      "checkedAt": "2026-03-30T18:13:47.813Z"
     },
     {
-      "id": "site_1774894414687_5jnsz",
+      "id": "site_1774894427131_9l40j",
       "url": "https://www.zhihu.com/question/1903860201389548284",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T18:13:35.025Z"
+      "checkedAt": "2026-03-30T18:13:47.460Z"
     },
     {
       "id": "site_1774894407033_429p6",
@@ -215,6 +215,42 @@
   ],
   "events": [
     {
+      "id": "ev_1774894429762_xz741",
+      "at": "2026-03-30T18:13:49.762Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774894426647_zdbkq",
+      "at": "2026-03-30T18:13:46.647Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 case study"
+    },
+    {
+      "id": "ev_1774894426647_79iq6",
+      "at": "2026-03-30T18:13:46.647Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774894423341_fdlv7",
+      "at": "2026-03-30T18:13:43.341Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 limitations and risks"
+    },
+    {
+      "id": "ev_1774894420170_vzxda",
+      "at": "2026-03-30T18:13:40.170Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774894417330_d2ox9",
+      "at": "2026-03-30T18:13:37.330Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 benchmark comparison"
+    },
+    {
       "id": "ev_1774894417035_6frzq",
       "at": "2026-03-30T18:13:37.035Z",
       "phase": "analyzing",
@@ -291,9 +327,9 @@
   "stats": {
     "sourcesAnalyzed": 5,
     "tokensUsedEstimate": 301,
-    "depthScore": 14,
+    "depthScore": 15,
     "queriesGenerated": 12,
-    "iterations": 4,
+    "iterations": 7,
     "uniqueDomains": 5
   },
   "control": {
