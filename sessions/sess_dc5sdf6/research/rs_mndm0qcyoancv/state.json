@@ -3,16 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how can we study anatomy without forgetting",
   "createdAt": "2026-03-30T19:57:29.843Z",
-  "updatedAt": "2026-03-30T20:00:13.706Z",
-  "lastAdvancedAt": "2026-03-30T20:00:02.665Z",
+  "updatedAt": "2026-03-30T20:00:45.820Z",
+  "lastAdvancedAt": "2026-03-30T20:00:31.831Z",
   "phase": "analyzing",
-  "progress": 24,
-  "etaMinutes": 30,
+  "progress": 27,
+  "etaMinutes": 29,
   "planDraft": "1. Define the scope of cognitive retention in medical education: Establish clear parameters by categorizing anatomy study methods into active recall, spaced repetition, multisensory learning, and clinical integration. Define the target audience (e.g., medical students, surgical residents, or anatomists) to ensure the research focuses on evidence-based pedagogical practices rather than anecdotal study tips.\n\n2. Execute a multi-source search fan-out: Conduct a systematic search across academic databases (PubMed, ERIC, Google Scholar) using keywords such as \"long-term retention of anatomical knowledge,\" \"spaced repetition in medical education,\" \"cognitive load theory,\" and \"active recall effectiveness.\" Expand the search to include peer-reviewed journals in medical education, psychology, and neuroscience to capture both the \"what\" (anatomy) and the \"how\" (cognitive science).\n\n3. Analyze retention mechanisms and pedagogical efficacy: Evaluate the identified studies by comparing traditional methods (rote memorization, passive reading) against evidence-based cognitive strategies. Prioritize meta-analyses and longitudinal studies that measure retention over intervals of six months or longer, documenting which specific techniques—such as retrieval practice or dual-coding—show the highest correlation with long-term proficiency.\n\n4. Identify evidence gaps and limitations: Critically assess the literature to highlight areas where data is insufficient, such as the efficacy of specific digital tools versus physical cadaveric dissection in long-term memory consolidation. Note contradictions in studies regarding the \"forgetting curve\" and determine if current research lacks longitudinal data on professional practitioners who no longer engage in daily anatomical study.\n\n5. Synthesize findings into a retention framework: Integrate the collected evidence into a structured, actionable framework that moves from acquisition to maintenance. Construct a final report that maps high-impact cognitive strategies to specific phases of anatomical learning, providing a robust, evidence-backed protocol for maximizing the longevity of anatomical knowledge.",
   "planApproved": true,
   "pendingQueries": [
-    "how can we study anatomy without forgetting \"case study\"",
-    "how can we study anatomy without forgetting metrics",
     "how can we study anatomy without forgetting review",
     "how can we study anatomy without forgetting \"pdf\"",
     "how can we study anatomy without forgetting site:edu",
@@ -36,644 +34,728 @@
     "how can we study anatomy without forgetting economics and costs",
     "how can we study anatomy without forgetting timeline and adoption",
     "how can we study anatomy without forgetting open source tools",
-    "how can we study anatomy without forgetting enterprise usage"
+    "how can we study anatomy without forgetting enterprise usage",
+    "how can we study anatomy without forgetting \"case study\"",
+    "how can we study anatomy without forgetting metrics"
   ],
   "websites": [
     {
-      "id": "site_1774900813451_6yri3",
-      "url": "https://en.wikipedia.org/wiki/Glossary_of_early_twentieth_century_slang_in_the_United_States",
+      "id": "site_1774900845366_zldzj",
+      "url": "https://en.wikipedia.org/wiki/Glossary_of_baseball_terms",
       "domain": "en.wikipedia.org",
-      "title": "Glossary of early twentieth century slang in the United States - Wikipedia",
+      "title": "Glossary of baseball terms - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Glossary of early twentieth century slang in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of early twentieth century slang in ",
-      "checkedAt": "2026-03-30T20:00:13.706Z"
+      "snippet": "Glossary of baseball terms - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of baseball terms 8 languages Español Français 日本語 한국어 Русский Svenska У",
+      "checkedAt": "2026-03-30T20:00:45.820Z"
     },
     {
-      "id": "site_1774900813251_a50o9",
-      "url": "https://en.wikipedia.org/wiki/Holocaust_denial",
+      "id": "site_1774900845029_2zc2r",
+      "url": "https://en.wikipedia.org/wiki/Gold_standard",
       "domain": "en.wikipedia.org",
-      "title": "Holocaust denial - Wikipedia",
+      "title": "Gold standard - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Holocaust denial - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology and etymology 2 Causes 3 Background Toggl",
-      "checkedAt": "2026-03-30T20:00:13.451Z"
+      "snippet": "Gold standard - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Implementation 2 History before 1873 Toggle History befo",
+      "checkedAt": "2026-03-30T20:00:45.366Z"
     },
     {
-      "id": "site_1774900813039_j898t",
+      "id": "site_1774900842360_7ld0p",
+      "url": "https://en.wikipedia.org/wiki/Palestinian_genocide_allegations",
+      "domain": "en.wikipedia.org",
+      "title": "Palestinian genocide allegations - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Palestinian genocide allegations - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1",
+      "checkedAt": "2026-03-30T20:00:45.029Z"
+    },
+    {
+      "id": "site_1774900842160_so9dn",
+      "url": "https://en.wikipedia.org/wiki/Working_memory",
+      "domain": "en.wikipedia.org",
+      "title": "Working memory - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Working memory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Theories Toggle Theories subsection 2.1 The m",
+      "checkedAt": "2026-03-30T20:00:42.360Z"
+    },
+    {
+      "id": "site_1774900841968_c4v2y",
+      "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-learn-anatomy-with-mnemonics",
+      "domain": "kenhub.com",
+      "title": "How to learn anatomy with mnemonics: Tips and examples | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "How to learn anatomy with mnemonics: Tips and examples | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;fo",
+      "checkedAt": "2026-03-30T20:00:42.160Z"
+    },
+    {
+      "id": "site_1774900831741_homfa",
+      "url": "https://en.wikipedia.org/wiki/Patient_safety",
+      "domain": "en.wikipedia.org",
+      "title": "Patient safety - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Patient safety - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prevalence of adverse events Toggle Prevalence of adver",
+      "checkedAt": "2026-03-30T20:00:31.831Z"
+    },
+    {
+      "id": "site_1774900831645_vh618",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+      "domain": "en.wikipedia.org",
+      "title": "Arthur Schopenhauer - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Arthur Schopenhauer - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Education 3 Early work 4 Later life 5",
+      "checkedAt": "2026-03-30T20:00:31.741Z"
+    },
+    {
+      "id": "site_1774900831548_1fi0u",
+      "url": "https://en.wikipedia.org/wiki/Hippocampus",
+      "domain": "en.wikipedia.org",
+      "title": "Hippocampus - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Hippocampus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name 2 In the limbic system 3 Anatomy 4 Neuroanatomy Toggl",
+      "checkedAt": "2026-03-30T20:00:31.645Z"
+    },
+    {
+      "id": "site_1774900831443_lp7lq",
+      "url": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+      "domain": "en.wikipedia.org",
+      "title": "Sigmund Freud - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Sigmund Freud - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Biography Toggle Biography subsection 1.1 Early life and",
+      "checkedAt": "2026-03-30T20:00:31.548Z"
+    },
+    {
+      "id": "site_1774900831378_cqqk1",
+      "url": "https://en.wikipedia.org/wiki/Psychoanalytic_literary_criticism",
+      "domain": "en.wikipedia.org",
+      "title": "Psychoanalytic literary criticism - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Psychoanalytic literary criticism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 Methods Toggle Methods su",
+      "checkedAt": "2026-03-30T20:00:31.443Z"
+    },
+    {
+      "id": "site_1774900820891_ef485",
       "url": "https://en.wikipedia.org/wiki/Nakba",
       "domain": "en.wikipedia.org",
       "title": "Nakba - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Nakba - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Ottoman and British Mandate periods (prior to 1948",
-      "checkedAt": "2026-03-30T20:00:13.251Z"
+      "checkedAt": "2026-03-30T20:00:21.013Z"
     },
     {
-      "id": "site_1774900812945_beeni",
+      "id": "site_1774900820664_h9vsu",
+      "url": "https://en.wikipedia.org/wiki/Glossary_of_early_twentieth_century_slang_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "title": "Glossary of early twentieth century slang in the United States - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Glossary of early twentieth century slang in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of early twentieth century slang in ",
+      "checkedAt": "2026-03-30T20:00:20.891Z"
+    },
+    {
+      "id": "site_1774900820571_o95hl",
       "url": "https://en.wikipedia.org/wiki/Roger_Scruton",
       "domain": "en.wikipedia.org",
       "title": "Roger Scruton - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Roger Scruton - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family backg",
-      "checkedAt": "2026-03-30T20:00:13.039Z"
+      "checkedAt": "2026-03-30T20:00:20.664Z"
     },
     {
-      "id": "site_1774900812748_5nzsh",
+      "id": "site_1774900820193_1t5c4",
       "url": "https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full)",
       "domain": "en.wikipedia.org",
       "title": "List of Latin phrases (full) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11",
-      "checkedAt": "2026-03-30T20:00:12.945Z"
+      "checkedAt": "2026-03-30T20:00:20.571Z"
     },
     {
-      "id": "site_1774900802592_g1n58",
-      "url": "https://en.wikipedia.org/wiki/AI_slop",
-      "domain": "en.wikipedia.org",
-      "title": "AI slop - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "AI slop - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origin of the term 2 Definitions 3 On social media 4 In politi",
-      "checkedAt": "2026-03-30T20:00:02.665Z"
-    },
-    {
-      "id": "site_1774900802417_r7lcf",
-      "url": "https://ico.libguides.com/anatomy/free-resources",
-      "domain": "ico.libguides.com",
-      "title": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=ico.libguides.com&sz=64",
-      "snippet": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may",
-      "checkedAt": "2026-03-30T20:00:02.592Z"
-    },
-    {
-      "id": "site_1774900802297_tjzph",
-      "url": "https://www.openanatomy.org/",
-      "domain": "openanatomy.org",
-      "title": "The Open Anatomy Project | The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and ope",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=openanatomy.org&sz=64",
-      "snippet": "The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and open-source software throughout the world.",
-      "checkedAt": "2026-03-30T20:00:02.417Z"
-    },
-    {
-      "id": "site_1774900802118_mx4bd",
-      "url": "https://laneguides.stanford.edu/medical-education/anatomy",
-      "domain": "laneguides.stanford.edu",
-      "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=laneguides.stanford.edu&sz=64",
-      "snippet": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru",
-      "checkedAt": "2026-03-30T20:00:02.297Z"
-    },
-    {
-      "id": "site_1774900801714_myfbr",
-      "url": "https://anatomytool.org/content/best-open-anatomy-learning-resources",
-      "domain": "anatomytool.org",
-      "title": "Best Open Anatomy Learning Resources | AnatomyTOOL",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=anatomytool.org&sz=64",
-      "snippet": "Best Open Anatomy Learning Resources | AnatomyTOOL Region System Collections Embryology Microscopy Dissections Radiology Clinical Anatomy Documents Images Videos 3D models, games Lessons. quizzes Viewers Create & edit content Take quiz Create account / Forgot password About Project Open Anatomy Learning Materials (TOOL2) Manuals Anatomy Learning Resources Credits Medical disclaimer Legal information Donate Sponsor Contact Open 3D Model Archive Re",
-      "checkedAt": "2026-03-30T20:00:02.118Z"
-    },
-    {
-      "id": "site_1774900791114_v59sj",
-      "url": "https://en.wikipedia.org/wiki/List_of_LGBTQ-related_films",
-      "domain": "en.wikipedia.org",
-      "title": "List of LGBTQ-related films - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "List of LGBTQ-related films - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of LGBTQ-related films 10 languages Čeština Deutsch فارسی Français Magyar B",
-      "checkedAt": "2026-03-30T19:59:51.437Z"
-    },
-    {
-      "id": "site_1774900790735_5tlxe",
-      "url": "https://en.wikipedia.org/wiki/Zionism",
-      "domain": "en.wikipedia.org",
-      "title": "Zionism - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Zionism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Beliefs Toggle Beliefs subsection ",
-      "checkedAt": "2026-03-30T19:59:51.114Z"
-    },
-    {
-      "id": "site_1774900790436_56a2b",
-      "url": "https://en.wikipedia.org/wiki/Linux",
-      "domain": "en.wikipedia.org",
-      "title": "Linux - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Linux - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History Toggle History subsection 2.1 Precursors 2.2 ",
-      "checkedAt": "2026-03-30T19:59:50.734Z"
-    },
-    {
-      "id": "site_1774900790204_ghrbe",
-      "url": "https://en.wikipedia.org/wiki/Death",
-      "domain": "en.wikipedia.org",
-      "title": "Death - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Death - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Definition Toggle Definition subsection 2.1 Definin",
-      "checkedAt": "2026-03-30T19:59:50.436Z"
-    },
-    {
-      "id": "site_1774900790025_9od2g",
-      "url": "https://en.wikipedia.org/wiki/Anti-Zionism",
-      "domain": "en.wikipedia.org",
-      "title": "Anti-Zionism - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Anti-Zionism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Anti-Zionism before 1948 Toggle Anti-Zionism before 1948 ",
-      "checkedAt": "2026-03-30T19:59:50.204Z"
-    },
-    {
-      "id": "site_1774900778653_7co3y",
-      "url": "https://en.wikipedia.org/wiki/Value-form",
-      "domain": "en.wikipedia.org",
-      "title": "Value-form - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Value-form - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Basic explanation Toggle Basic explanation subsection 1.1 V",
-      "checkedAt": "2026-03-30T19:59:39.586Z"
-    },
-    {
-      "id": "site_1774900778237_svynv",
-      "url": "https://en.wikipedia.org/wiki/Production_function",
-      "domain": "en.wikipedia.org",
-      "title": "Production function - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Production function - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 The theory of production functions Toggle The theo",
-      "checkedAt": "2026-03-30T19:59:38.653Z"
-    },
-    {
-      "id": "site_1774900777975_7653v",
-      "url": "https://en.wikipedia.org/wiki/Criticism_of_value-form_theory",
-      "domain": "en.wikipedia.org",
-      "title": "Criticism of value-form theory - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Criticism of value-form theory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Obscurantism 2 Substance of value Toggl",
-      "checkedAt": "2026-03-30T19:59:38.237Z"
-    },
-    {
-      "id": "site_1774900777712_zqq1v",
-      "url": "https://www.reddit.com/r/productivity/comments/102zgxb/how_to_study_anatomy_most_efficiently/",
-      "domain": "reddit.com",
-      "title": "Reddit - The heart of the internet",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
-      "snippet": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
-      "checkedAt": "2026-03-30T19:59:37.974Z"
-    },
-    {
-      "id": "site_1774900777403_jd0g0",
-      "url": "https://easy-anatomy.com/13-tips-for-studying-anatomy-more-effectively/",
-      "domain": "easy-anatomy.com",
-      "title": "13 Tips For Studying Anatomy More Effectively - EasyAnatomy",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=easy-anatomy.com&sz=64",
-      "snippet": "13 Tips For Studying Anatomy More Effectively - EasyAnatomy Skip to main content Close Search EasyAnatomy Menu Home Subscribe Download Blog Get Help 13 Tips For Studying Anatomy More Effectively By Melissa Neilson June 1, 2018 July 26th, 2018 Study Tips No Comments Anatomy is one of the most difficult subjects you learn in vet school. Memorizing all the anatomical structures and their functions is tough enough as it is, but you have a number of o",
-      "checkedAt": "2026-03-30T19:59:37.712Z"
-    },
-    {
-      "id": "site_1774900776896_8nvvz",
-      "url": "https://www.auamed.org/blog/how-to-study-for-anatomy/",
-      "domain": "auamed.org",
-      "title": "auamed.org",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=auamed.org&sz=64",
-      "checkedAt": "2026-03-30T19:59:37.403Z"
-    },
-    {
-      "id": "site_1774900765731_b9rga",
-      "url": "https://en.wikipedia.org/wiki/How_to_Have_Sex_in_an_Epidemic",
-      "domain": "en.wikipedia.org",
-      "title": "How to Have Sex in an Epidemic - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "How to Have Sex in an Epidemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection",
-      "checkedAt": "2026-03-30T19:59:26.476Z"
-    },
-    {
-      "id": "site_1774900765630_bquln",
-      "url": "https://en.wikipedia.org/wiki/Bill_Maher",
-      "domain": "en.wikipedia.org",
-      "title": "Bill Maher - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Bill Maher - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection ",
-      "checkedAt": "2026-03-30T19:59:25.731Z"
-    },
-    {
-      "id": "site_1774900765461_wzwuu",
-      "url": "https://en.wikipedia.org/wiki/Gaza_genocide",
-      "domain": "en.wikipedia.org",
-      "title": "Gaza genocide - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Gaza genocide - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Definitions ",
-      "checkedAt": "2026-03-30T19:59:25.630Z"
-    },
-    {
-      "id": "site_1774900765353_gi0t1",
-      "url": "https://en.wikipedia.org/wiki/Orgasm",
-      "domain": "en.wikipedia.org",
-      "title": "Orgasm - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Orgasm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definitions 2 Achievement Toggle Achievement subsection 2.1 Fem",
-      "checkedAt": "2026-03-30T19:59:25.460Z"
-    },
-    {
-      "id": "site_1774900765308_moa72",
-      "url": "https://mdphdtobe.com/2016/08/11/tips-for-mastering-anatomy/",
-      "domain": "mdphdtobe.com",
-      "title": "Tips for Mastering Anatomy &#8211; MD, PhD To Be",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=mdphdtobe.com&sz=64",
-      "snippet": "Human gross anatomy is one of the first major rites of passage that medical students undergo on the way to becoming physicians. I won&#039;t talk much about the emotional experience of it here, but let me just say that i",
-      "checkedAt": "2026-03-30T19:59:25.353Z"
-    },
-    {
-      "id": "site_1774900754994_ayp25",
-      "url": "https://en.wikipedia.org/wiki/List_of_phobias",
-      "domain": "en.wikipedia.org",
-      "title": "List of phobias - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "List of phobias - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Psychological conditions Toggle Psychological conditio",
-      "checkedAt": "2026-03-30T19:59:15.065Z"
-    },
-    {
-      "id": "site_1774900754886_titaf",
-      "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
-      "domain": "en.wikipedia.org",
-      "title": "Sherlock Holmes - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Sherlock Holmes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Inspiration for the character 2 Biography Toggle Biogr",
-      "checkedAt": "2026-03-30T19:59:14.994Z"
-    },
-    {
-      "id": "site_1774900754807_kk4k1",
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 10 - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-      "checkedAt": "2026-03-30T19:59:14.886Z"
-    },
-    {
-      "id": "site_1774900754729_5nucx",
-      "url": "https://en.wikipedia.org/wiki/Genre_studies",
-      "domain": "en.wikipedia.org",
-      "title": "Genre studies - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Genre studies - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Literary and linguistic branches Toggle Literary and lin",
-      "checkedAt": "2026-03-30T19:59:14.807Z"
-    },
-    {
-      "id": "site_1774900754642_d9xhg",
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 11 - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Grey's Anatomy season 11 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-      "checkedAt": "2026-03-30T19:59:14.729Z"
-    },
-    {
-      "id": "site_1774900744281_3en33",
-      "url": "https://en.wikipedia.org/wiki/Romance",
-      "domain": "en.wikipedia.org",
-      "title": "Romance - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Romance - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 General definitions Toggle General definitions subsection 1.1 ",
-      "checkedAt": "2026-03-30T19:59:04.388Z"
-    },
-    {
-      "id": "site_1774900744159_elh7x",
-      "url": "https://en.wikipedia.org/wiki/Psychology",
-      "domain": "en.wikipedia.org",
-      "title": "Psychology - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Psychology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and definitions 2 History Toggle History subsecti",
-      "checkedAt": "2026-03-30T19:59:04.281Z"
-    },
-    {
-      "id": "site_1774900744022_ascrt",
-      "url": "https://en.wikipedia.org/wiki/2008_financial_crisis",
-      "domain": "en.wikipedia.org",
-      "title": "2008 financial crisis - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "2008 financial crisis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Timeline Toggle Timeline subsection",
-      "checkedAt": "2026-03-30T19:59:04.159Z"
-    },
-    {
-      "id": "site_1774900743915_7k1sb",
-      "url": "https://en.wikipedia.org/wiki/Michel_Foucault",
-      "domain": "en.wikipedia.org",
-      "title": "Michel Foucault - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Michel Foucault - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Early year",
-      "checkedAt": "2026-03-30T19:59:04.022Z"
-    },
-    {
-      "id": "site_1774900743489_qetz2",
-      "url": "https://www.reddit.com/r/getdisciplined/comments/43zue1/needadvice_unsure_of_study_strategy_for_anatomy/",
-      "domain": "reddit.com",
-      "title": "Reddit - The heart of the internet",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
-      "snippet": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
-      "checkedAt": "2026-03-30T19:59:03.915Z"
-    },
-    {
-      "id": "site_1774900732303_kksjo",
-      "url": "https://en.wikipedia.org/wiki/Software_bug",
-      "domain": "en.wikipedia.org",
-      "title": "Software bug - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Software bug - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Terminology 3 Examples 4 Controversy 5 Preventi",
-      "checkedAt": "2026-03-30T19:58:52.955Z"
-    },
-    {
-      "id": "site_1774900732143_avldx",
-      "url": "https://en.wikipedia.org/wiki/Simulation",
-      "domain": "en.wikipedia.org",
-      "title": "Simulation - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Simulation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification and terminology Toggle Classification and te",
-      "checkedAt": "2026-03-30T19:58:52.303Z"
-    },
-    {
-      "id": "site_1774900731527_y989h",
-      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Services Agreement",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Services Agreement This is the Trace Id: d478f705e3513f7eea8500dc93ec6cac Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-      "checkedAt": "2026-03-30T19:58:52.143Z"
-    },
-    {
-      "id": "site_1774900731142_5flep",
-      "url": "https://www.kenhub.com/en/library/anatomy/how-to-learn-anatomy-using-active-recall",
-      "domain": "kenhub.com",
-      "title": "How to learn anatomy using active recall | Kenhub",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
-      "snippet": "How to learn anatomy using active recall | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style:norma",
-      "checkedAt": "2026-03-30T19:58:51.527Z"
-    },
-    {
-      "id": "site_1774900729877_su8so",
-      "url": "https://westcoastuniversity.edu/blog/6-study-skills-for-memory-retention",
-      "domain": "westcoastuniversity.edu",
-      "title": "westcoastuniversity.edu",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=westcoastuniversity.edu&sz=64",
-      "snippet": "--> (function(w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.go",
-      "checkedAt": "2026-03-30T19:58:51.142Z"
-    },
-    {
-      "id": "site_1774900718875_npmpe",
-      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Privacy Statement – Microsoft privacy",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 2de1fac64ccae80b73a61a3bc5b35748 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-      "checkedAt": "2026-03-30T19:58:39.390Z"
-    },
-    {
-      "id": "site_1774900717707_nlf33",
-      "url": "https://zhidao.baidu.com/question/1809873624045600427.html",
-      "domain": "zhidao.baidu.com",
-      "title": "韩漫《Kiss Me If You Can》小说_百度知道",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
-      "snippet": "韩漫《Kiss Me If You Can》小说韩漫《Kiss Me If You Can》小说简介韩漫《Kiss Me If You Can》是一部融合了ABO设定、带球跑情节以及娱乐圈元素的浪漫小说。故事围绕大明星切斯·米勒和平凡保镖约书亚·贝利展开，",
-      "checkedAt": "2026-03-30T19:58:38.875Z"
-    },
-    {
-      "id": "site_1774900715413_kygwf",
-      "url": "https://zhidao.baidu.com/question/212375963343018125.html",
-      "domain": "zhidao.baidu.com",
-      "title": "WHAT I CAN SAY 还是WHAT CAN I SAY_百度知道",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
-      "snippet": "WHAT I CAN SAY 还是WHAT CAN I SAY在某些情境下，人们可能会选择用\"What I Can Say\"来表达他们愿意付出努力去寻找合适的言语，而在另一些情况下，则可能会选择\"What Can I Say?\"来表达无奈与无",
-      "checkedAt": "2026-03-30T19:58:37.707Z"
-    },
-    {
-      "id": "site_1774900715014_ebw32",
-      "url": "https://www.zhihu.com/question/49070672",
-      "domain": "zhihu.com",
-      "title": "zhihu.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T19:58:35.413Z"
-    },
-    {
-      "id": "site_1774900713752_skdf4",
-      "url": "https://www.technavio.com/report/medical-education-market-industry-analysis",
-      "domain": "technavio.com",
-      "title": "Medical Education Market Growth Analysis - Size and Forecast 2025-2029 | Technavio | Technavio",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=technavio.com&sz=64",
-      "snippet": "Medical Education Market Growth Analysis - Size and Forecast 2025-2029 | Technavio | Technavio Reports Communication Services Media &amp; Entertainment Consumer Electronics Entertainment Interactive Home Entertainment Movies &amp; Entertainment Interactive Media &amp; Services Media Advertising Broadcasting Cable &amp; Satellite Publishing Telecommunication Services Diversified Telecommunication Services Alternative Carriers Integrated Telecommun",
-      "checkedAt": "2026-03-30T19:58:35.014Z"
-    },
-    {
-      "id": "site_1774900713716_gu68w",
-      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
-      "domain": "medicine.stmatthews.edu",
-      "title": "How to Study Anatomy in Medical School: A Complete Guide",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=medicine.stmatthews.edu&sz=64",
-      "snippet": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
-      "checkedAt": "2026-03-30T19:58:33.752Z"
-    },
-    {
-      "id": "site_1774900702315_rkdq3",
-      "url": "https://www.zhihu.com/tardis/bd/art/671469903",
-      "domain": "zhihu.com",
-      "title": "安全验证 - 知乎",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
-      "checkedAt": "2026-03-30T19:58:22.913Z"
-    },
-    {
-      "id": "site_1774900701405_hxh4w",
-      "url": "https://zhidao.baidu.com/question/1667645694947770227.html",
-      "domain": "zhidao.baidu.com",
-      "title": "can you can a can as a canner can can a can.这句话什么_百度知道",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
-      "snippet": "can you can a can as a canner can can a can.这句话什么can you can a can as a canner can can a can？你能像罐头工人一样装罐头吗？这句话中can充当了多个句子成分。第一个can表疑问。第二个can作动词，意为把（",
-      "checkedAt": "2026-03-30T19:58:22.315Z"
-    },
-    {
-      "id": "site_1774900701127_uy4yq",
+      "id": "site_1774900819808_hq0mq",
       "url": "https://www.reddit.com/r/GetStudying/comments/1g2bir5/alternatives_methods_for_memorization_human/",
       "domain": "reddit.com",
       "title": "Reddit - The heart of the internet",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
       "snippet": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
-      "checkedAt": "2026-03-30T19:58:21.405Z"
+      "checkedAt": "2026-03-30T20:00:20.193Z"
     },
     {
-      "id": "site_1774900700929_zc9cj",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2214854X25000469",
-      "domain": "sciencedirect.com",
-      "title": "sciencedirect.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sciencedirect.com&sz=64",
-      "checkedAt": "2026-03-30T19:58:21.127Z"
-    },
-    {
-      "id": "site_1774900700648_z1tcq",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11496393/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Technologies for Studying and Teaching Human Anatomy: Implications in Academic Education - PMC",
+      "id": "site_1774900809149_q4kge",
+      "url": "https://en.wikipedia.org/wiki/AI_slop",
+      "domain": "en.wikipedia.org",
+      "title": "AI slop - Wikipedia",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "The teaching of human anatomy (HA) constitutes one of the fundamental pillars of the curriculum in biological and healthcare-related programs. Therefore, it is imperative that the methodology and didactics employed in th",
-      "checkedAt": "2026-03-30T19:58:20.929Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "AI slop - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origin of the term 2 Definitions 3 On social media 4 In politi",
+      "checkedAt": "2026-03-30T20:00:09.466Z"
     },
     {
-      "id": "site_1774900700648_661b7",
+      "id": "site_1774900808649_mq4dh",
+      "url": "https://ico.libguides.com/anatomy/free-resources",
+      "domain": "ico.libguides.com",
+      "title": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ico.libguides.com&sz=64",
+      "snippet": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may",
+      "checkedAt": "2026-03-30T20:00:09.148Z"
+    },
+    {
+      "id": "site_1774900808158_i5vgr",
+      "url": "https://www.openanatomy.org/",
+      "domain": "openanatomy.org",
+      "title": "The Open Anatomy Project | The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and ope",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=openanatomy.org&sz=64",
+      "snippet": "The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and open-source software throughout the world.",
+      "checkedAt": "2026-03-30T20:00:08.648Z"
+    },
+    {
+      "id": "site_1774900807757_snvxl",
+      "url": "https://laneguides.stanford.edu/medical-education/anatomy",
+      "domain": "laneguides.stanford.edu",
+      "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=laneguides.stanford.edu&sz=64",
+      "snippet": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru",
+      "checkedAt": "2026-03-30T20:00:08.158Z"
+    },
+    {
+      "id": "site_1774900807251_qk00k",
+      "url": "https://anatomytool.org/content/best-open-anatomy-learning-resources",
+      "domain": "anatomytool.org",
+      "title": "Best Open Anatomy Learning Resources | AnatomyTOOL",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=anatomytool.org&sz=64",
+      "snippet": "Best Open Anatomy Learning Resources | AnatomyTOOL Region System Collections Embryology Microscopy Dissections Radiology Clinical Anatomy Documents Images Videos 3D models, games Lessons. quizzes Viewers Create & edit content Take quiz Create account / Forgot password About Project Open Anatomy Learning Materials (TOOL2) Manuals Anatomy Learning Resources Credits Medical disclaimer Legal information Donate Sponsor Contact Open 3D Model Archive Re",
+      "checkedAt": "2026-03-30T20:00:07.756Z"
+    },
+    {
+      "id": "site_1774900796656_cd78e",
+      "url": "https://en.wikipedia.org/wiki/List_of_LGBTQ-related_films",
+      "domain": "en.wikipedia.org",
+      "title": "List of LGBTQ-related films - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "List of LGBTQ-related films - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of LGBTQ-related films 10 languages Čeština Deutsch فارسی Français Magyar B",
+      "checkedAt": "2026-03-30T19:59:56.862Z"
+    },
+    {
+      "id": "site_1774900796580_qzibi",
+      "url": "https://en.wikipedia.org/wiki/Linux",
+      "domain": "en.wikipedia.org",
+      "title": "Linux - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Linux - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History Toggle History subsection 2.1 Precursors 2.2 ",
+      "checkedAt": "2026-03-30T19:59:56.656Z"
+    },
+    {
+      "id": "site_1774900796444_ti9mv",
+      "url": "https://en.wikipedia.org/wiki/Zionism",
+      "domain": "en.wikipedia.org",
+      "title": "Zionism - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Zionism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Beliefs Toggle Beliefs subsection ",
+      "checkedAt": "2026-03-30T19:59:56.580Z"
+    },
+    {
+      "id": "site_1774900796363_ap4hw",
+      "url": "https://en.wikipedia.org/wiki/Death",
+      "domain": "en.wikipedia.org",
+      "title": "Death - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Death - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Definition Toggle Definition subsection 2.1 Definin",
+      "checkedAt": "2026-03-30T19:59:56.444Z"
+    },
+    {
+      "id": "site_1774900796074_894a3",
+      "url": "https://en.wikipedia.org/wiki/Anti-Zionism",
+      "domain": "en.wikipedia.org",
+      "title": "Anti-Zionism - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Anti-Zionism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Anti-Zionism before 1948 Toggle Anti-Zionism before 1948 ",
+      "checkedAt": "2026-03-30T19:59:56.363Z"
+    },
+    {
+      "id": "site_1774900785520_qc64l",
+      "url": "https://en.wikipedia.org/wiki/Production_function",
+      "domain": "en.wikipedia.org",
+      "title": "Production function - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Production function - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 The theory of production functions Toggle The theo",
+      "checkedAt": "2026-03-30T19:59:45.578Z"
+    },
+    {
+      "id": "site_1774900785397_lav4y",
+      "url": "https://en.wikipedia.org/wiki/Value-form",
+      "domain": "en.wikipedia.org",
+      "title": "Value-form - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Value-form - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Basic explanation Toggle Basic explanation subsection 1.1 V",
+      "checkedAt": "2026-03-30T19:59:45.520Z"
+    },
+    {
+      "id": "site_1774900785093_7tkal",
+      "url": "https://en.wikipedia.org/wiki/Criticism_of_value-form_theory",
+      "domain": "en.wikipedia.org",
+      "title": "Criticism of value-form theory - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Criticism of value-form theory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Obscurantism 2 Substance of value Toggl",
+      "checkedAt": "2026-03-30T19:59:45.397Z"
+    },
+    {
+      "id": "site_1774900784796_oxu8s",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1555053/full",
+      "domain": "frontiersin.org",
+      "title": "Frontiers | Enhancing anatomy education with virtual reality: integrating three-dimensional models for improved learning efficiency and stud",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=frontiersin.org&sz=64",
+      "snippet": "Traditional anatomy education, which primarily relies on two-dimensional imagery, often struggles to effectively convey the complex spatial relationships of ...",
+      "checkedAt": "2026-03-30T19:59:45.093Z"
+    },
+    {
+      "id": "site_1774900784461_kstlz",
+      "url": "https://www.reddit.com/r/productivity/comments/102zgxb/how_to_study_anatomy_most_efficiently/",
+      "domain": "reddit.com",
+      "title": "Reddit - The heart of the internet",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
+      "snippet": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
+      "checkedAt": "2026-03-30T19:59:44.796Z"
+    },
+    {
+      "id": "site_1774900774060_4dtwe",
+      "url": "https://en.wikipedia.org/wiki/List_of_Ghosts_(American_TV_series)_episodes",
+      "domain": "en.wikipedia.org",
+      "title": "List of Ghosts (American TV series) episodes - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "List of Ghosts (American TV series) episodes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Series overview 2 Episode",
+      "checkedAt": "2026-03-30T19:59:34.124Z"
+    },
+    {
+      "id": "site_1774900773981_5tjc1",
+      "url": "https://en.wikipedia.org/wiki/Bill_Maher",
+      "domain": "en.wikipedia.org",
+      "title": "Bill Maher - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Bill Maher - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection ",
+      "checkedAt": "2026-03-30T19:59:34.060Z"
+    },
+    {
+      "id": "site_1774900773905_9w749",
+      "url": "https://en.wikipedia.org/wiki/Orgasm",
+      "domain": "en.wikipedia.org",
+      "title": "Orgasm - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Orgasm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definitions 2 Achievement Toggle Achievement subsection 2.1 Fem",
+      "checkedAt": "2026-03-30T19:59:33.981Z"
+    },
+    {
+      "id": "site_1774900773498_q4105",
+      "url": "https://en.wikipedia.org/wiki/Gaza_genocide",
+      "domain": "en.wikipedia.org",
+      "title": "Gaza genocide - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Gaza genocide - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Definitions ",
+      "checkedAt": "2026-03-30T19:59:33.905Z"
+    },
+    {
+      "id": "site_1774900773370_008sw",
+      "url": "https://mdphdtobe.com/2016/08/11/tips-for-mastering-anatomy/",
+      "domain": "mdphdtobe.com",
+      "title": "Tips for Mastering Anatomy &#8211; MD, PhD To Be",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=mdphdtobe.com&sz=64",
+      "snippet": "Human gross anatomy is one of the first major rites of passage that medical students undergo on the way to becoming physicians. I won&#039;t talk much about the emotional experience of it here, but let me just say that i",
+      "checkedAt": "2026-03-30T19:59:33.498Z"
+    },
+    {
+      "id": "site_1774900762911_u7x2m",
+      "url": "https://en.wikipedia.org/wiki/Simulation",
+      "domain": "en.wikipedia.org",
+      "title": "Simulation - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Simulation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification and terminology Toggle Classification and te",
+      "checkedAt": "2026-03-30T19:59:22.985Z"
+    },
+    {
+      "id": "site_1774900762840_znb5j",
+      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
+      "domain": "en.wikipedia.org",
+      "title": "Grey's Anatomy season 10 - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
+      "checkedAt": "2026-03-30T19:59:22.911Z"
+    },
+    {
+      "id": "site_1774900762656_slqs6",
+      "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+      "domain": "en.wikipedia.org",
+      "title": "Sherlock Holmes - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Sherlock Holmes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Inspiration for the character 2 Biography Toggle Biogr",
+      "checkedAt": "2026-03-30T19:59:22.840Z"
+    },
+    {
+      "id": "site_1774900762571_c2xr0",
+      "url": "https://en.wikipedia.org/wiki/Genre_studies",
+      "domain": "en.wikipedia.org",
+      "title": "Genre studies - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Genre studies - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Literary and linguistic branches Toggle Literary and lin",
+      "checkedAt": "2026-03-30T19:59:22.656Z"
+    },
+    {
+      "id": "site_1774900762255_98itm",
+      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_11",
+      "domain": "en.wikipedia.org",
+      "title": "Grey's Anatomy season 11 - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Grey's Anatomy season 11 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
+      "checkedAt": "2026-03-30T19:59:22.571Z"
+    },
+    {
+      "id": "site_1774900751696_4khtn",
+      "url": "https://en.wikipedia.org/wiki/Psychology",
+      "domain": "en.wikipedia.org",
+      "title": "Psychology - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Psychology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and definitions 2 History Toggle History subsecti",
+      "checkedAt": "2026-03-30T19:59:11.792Z"
+    },
+    {
+      "id": "site_1774900751611_82lcb",
+      "url": "https://en.wikipedia.org/wiki/Romance",
+      "domain": "en.wikipedia.org",
+      "title": "Romance - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Romance - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 General definitions Toggle General definitions subsection 1.1 ",
+      "checkedAt": "2026-03-30T19:59:11.696Z"
+    },
+    {
+      "id": "site_1774900751514_m9j7t",
+      "url": "https://en.wikipedia.org/wiki/Michel_Foucault",
+      "domain": "en.wikipedia.org",
+      "title": "Michel Foucault - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Michel Foucault - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Early year",
+      "checkedAt": "2026-03-30T19:59:11.611Z"
+    },
+    {
+      "id": "site_1774900751178_0arly",
+      "url": "https://en.wikipedia.org/wiki/2008_financial_crisis",
+      "domain": "en.wikipedia.org",
+      "title": "2008 financial crisis - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "2008 financial crisis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Timeline Toggle Timeline subsection",
+      "checkedAt": "2026-03-30T19:59:11.514Z"
+    },
+    {
+      "id": "site_1774900751059_lzzwx",
+      "url": "https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning",
+      "domain": "kenhub.com",
+      "title": "Common mistakes that hinder your anatomy learning | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
+      "checkedAt": "2026-03-30T19:59:11.178Z"
+    },
+    {
+      "id": "site_1774900751059_isz5h",
       "url": "https://sdmiramar.edu/sites/default/files/2025-08/Helpful%20Tips%20for%20Studying%20Anatomy.pdf",
       "domain": "sdmiramar.edu",
       "title": "sdmiramar.edu",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=sdmiramar.edu&sz=64",
-      "checkedAt": "2026-03-30T19:58:20.648Z"
+      "checkedAt": "2026-03-30T19:59:11.059Z"
     },
     {
-      "id": "site_1774900700574_borjr",
+      "id": "site_1774900740415_hddln",
+      "url": "https://en.wikipedia.org/wiki/Software_bug",
+      "domain": "en.wikipedia.org",
+      "title": "Software bug - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Software bug - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Terminology 3 Examples 4 Controversy 5 Preventi",
+      "checkedAt": "2026-03-30T19:59:00.690Z"
+    },
+    {
+      "id": "site_1774900740182_y9vvv",
+      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Services Agreement",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Services Agreement This is the Trace Id: 6871a4facf97bcbc8afdbb0a0f8972cc Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+      "checkedAt": "2026-03-30T19:59:00.415Z"
+    },
+    {
+      "id": "site_1774900739672_2baqt",
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Privacy Statement – Microsoft privacy",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 490062adbd91b230918e25548839cd2c Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-03-30T19:59:00.182Z"
+    },
+    {
+      "id": "site_1774900739426_8203w",
+      "url": "https://www.kenhub.com/en/library/anatomy/how-to-learn-anatomy-using-active-recall",
+      "domain": "kenhub.com",
+      "title": "How to learn anatomy using active recall | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "How to learn anatomy using active recall | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style:norma",
+      "checkedAt": "2026-03-30T19:58:59.672Z"
+    },
+    {
+      "id": "site_1774900737924_mps32",
+      "url": "https://westcoastuniversity.edu/blog/6-study-skills-for-memory-retention",
+      "domain": "westcoastuniversity.edu",
+      "title": "westcoastuniversity.edu",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=westcoastuniversity.edu&sz=64",
+      "snippet": "--> (function(w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.go",
+      "checkedAt": "2026-03-30T19:58:59.426Z"
+    },
+    {
+      "id": "site_1774900726982_kulae",
+      "url": "https://zhidao.baidu.com/question/1809873624045600427.html",
+      "domain": "zhidao.baidu.com",
+      "title": "韩漫《Kiss Me If You Can》小说_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "韩漫《Kiss Me If You Can》小说韩漫《Kiss Me If You Can》小说简介韩漫《Kiss Me If You Can》是一部融合了ABO设定、带球跑情节以及娱乐圈元素的浪漫小说。故事围绕大明星切斯·米勒和平凡保镖约书亚·贝利展开，",
+      "checkedAt": "2026-03-30T19:58:47.836Z"
+    },
+    {
+      "id": "site_1774900724627_kwgl3",
+      "url": "https://zhidao.baidu.com/question/212375963343018125.html",
+      "domain": "zhidao.baidu.com",
+      "title": "WHAT I CAN SAY 还是WHAT CAN I SAY_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "WHAT I CAN SAY 还是WHAT CAN I SAY在某些情境下，人们可能会选择用\"What I Can Say\"来表达他们愿意付出努力去寻找合适的言语，而在另一些情况下，则可能会选择\"What Can I Say?\"来表达无奈与无",
+      "checkedAt": "2026-03-30T19:58:46.981Z"
+    },
+    {
+      "id": "site_1774900724337_9zk2o",
+      "url": "https://www.zhihu.com/question/49070672",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T19:58:44.627Z"
+    },
+    {
+      "id": "site_1774900723517_uzdi0",
+      "url": "https://www.zhihu.com/tardis/bd/art/671469903",
+      "domain": "zhihu.com",
+      "title": "安全验证 - 知乎",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
+      "checkedAt": "2026-03-30T19:58:44.337Z"
+    },
+    {
+      "id": "site_1774900721965_d96nk",
+      "url": "https://www.intelmarketresearch.com/human-anatomy-apps-market-6332",
+      "domain": "intelmarketresearch.com",
+      "title": "Human Anatomy Apps Market Outlook 2025-2032",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=intelmarketresearch.com&sz=64",
+      "snippet": "Global Human Anatomy Apps market was valued at USD 285M in 2024 and projected to reach USD 1016M by 2032, at 20.1% CAGR.",
+      "checkedAt": "2026-03-30T19:58:43.517Z"
+    },
+    {
+      "id": "site_1774900721809_cigg7",
+      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
+      "domain": "medicine.stmatthews.edu",
+      "title": "How to Study Anatomy in Medical School: A Complete Guide",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medicine.stmatthews.edu&sz=64",
+      "snippet": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
+      "checkedAt": "2026-03-30T19:58:41.965Z"
+    },
+    {
+      "id": "site_1774900709029_dyvzh",
+      "url": "https://zhidao.baidu.com/question/1667645694947770227.html",
+      "domain": "zhidao.baidu.com",
+      "title": "can you can a can as a canner can can a can.这句话什么_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "can you can a can as a canner can can a can.这句话什么can you can a can as a canner can can a can？你能像罐头工人一样装罐头吗？这句话中can充当了多个句子成分。第一个can表疑问。第二个can作动词，意为把（",
+      "checkedAt": "2026-03-30T19:58:31.279Z"
+    },
+    {
+      "id": "site_1774900708772_d8e6i",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how",
+      "checkedAt": "2026-03-30T19:58:29.028Z"
+    },
+    {
+      "id": "site_1774900708098_79mxa",
+      "url": "https://blog.universalmedicalinc.com/9-study-tips-help-learn-human-anatomy/",
+      "domain": "blog.universalmedicalinc.com",
+      "title": "9 Study Tips To Help You Learn Human Anatomy",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=blog.universalmedicalinc.com&sz=64",
+      "snippet": "Human anatomy courses present a systemic approach to the study of the human body. This post will review 9 tips you can incorporate into your study routine.",
+      "checkedAt": "2026-03-30T19:58:28.772Z"
+    },
+    {
+      "id": "site_1774900707792_n3btd",
+      "url": "https://www.reddit.com/r/biology/comments/1rr4c6k/how_am_i_supposed_to_remember_human_anatomy_and/",
+      "domain": "reddit.com",
+      "title": "Reddit - The heart of the internet",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
+      "snippet": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
+      "checkedAt": "2026-03-30T19:58:28.098Z"
+    },
+    {
+      "id": "site_1774900707632_oij0v",
       "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-study-anatomy",
       "domain": "kenhub.com",
       "title": "How to study anatomy: The ultimate guide | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "How to study anatomy: The ultimate guide | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style:norma",
-      "checkedAt": "2026-03-30T19:58:20.648Z"
+      "checkedAt": "2026-03-30T19:58:27.792Z"
     },
     {
-      "id": "site_1774900689294_mxni5",
+      "id": "site_1774900696334_mtryf",
       "url": "https://zhidao.baidu.com/question/625402930402148732.html",
       "domain": "zhidao.baidu.com",
       "title": "can后面加动词什么形式？_百度知道",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
       "snippet": "can后面加动词什么形式？can后面加动词原形。can用作情态动词的基本意思是“能，能够”“可以”“可能，会”，可表示体力、智力能够完成一件事情或环境赋予的能力，后面接动词的原形，也就是can do。can也可表示由于",
-      "checkedAt": "2026-03-30T19:58:10.416Z"
+      "checkedAt": "2026-03-30T19:58:17.330Z"
     },
     {
-      "id": "site_1774900687011_37bmd",
+      "id": "site_1774900695510_a196i",
       "url": "https://zhidao.baidu.com/question/757789525849383692.html",
       "domain": "zhidao.baidu.com",
       "title": "STM32中有关CAN总线CAN_SJW、CAN_BS1、CAN_Prescaler是什么？_百度知道",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
       "snippet": "STM32中有关CAN总线CAN_SJW、CAN_BS1、CAN_Prescaler是什么？CAN总线通信中，各节点为了保证同步，避免相位差的产生，需要进行位同步处理。在位同步过程中，CAN_SJW（重新同步跳跃宽度）起到了关键作用，它定义了每",
-      "checkedAt": "2026-03-30T19:58:09.294Z"
+      "checkedAt": "2026-03-30T19:58:16.334Z"
     },
     {
-      "id": "site_1774900686845_tkfm9",
+      "id": "site_1774900695229_3oyqn",
       "url": "https://voka.io/how-to-memorize-anatomy-and-physiology/",
       "domain": "voka.io",
       "title": "Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
       "snippet": "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
-      "checkedAt": "2026-03-30T19:58:07.011Z"
+      "checkedAt": "2026-03-30T19:58:15.510Z"
     },
     {
-      "id": "site_1774900686565_u5567",
+      "id": "site_1774900694737_lnbr9",
       "url": "https://hslguides.osu.edu/anatomy",
       "domain": "hslguides.osu.edu",
       "title": "Anatomy Resources - Anatomy - LibGuides at Ohio State University-Health Sciences Library",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=hslguides.osu.edu&sz=64",
       "snippet": "Anatomy Resources - Anatomy - LibGuides at Ohio State University-Health Sciences Library Skip to Main Content Ohio State nav bar The Ohio State University Help BuckeyeLink Map Find People Webmail Search Ohio State Library Hours About Gifts and Donations News and Events HSL Homepage Health Sciences Library LibGuides Anatomy Anatomy Resources Search this Guide Search Anatomy Anatomy Resources Librarian Kaylie Vermillion she/her Email Me Contact: (6",
-      "checkedAt": "2026-03-30T19:58:06.845Z"
+      "checkedAt": "2026-03-30T19:58:15.229Z"
     },
     {
-      "id": "site_1774900686425_sypew",
+      "id": "site_1774900694500_0j1p6",
       "url": "https://www.magneticmemorymethod.com/how-to-memorize-anatomy/",
       "domain": "magneticmemorymethod.com",
       "title": "How to Memorize Anatomy for Med School (Without Flashcards)",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=magneticmemorymethod.com&sz=64",
       "snippet": "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
-      "checkedAt": "2026-03-30T19:58:06.565Z"
+      "checkedAt": "2026-03-30T19:58:14.737Z"
     },
     {
-      "id": "site_1774900675978_ag2ev",
+      "id": "site_1774900684083_np0af",
       "url": "https://www.mheducation.com/highered/blog/2024/06/help-students-study-effectively-for-your-a-p-course.html",
       "domain": "mheducation.com",
       "title": "Help Students Study Effectively for Your A&P Course!",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=mheducation.com&sz=64",
       "snippet": "In this article, Dr. Koot shares his top 10 tips to help students be more effective at studying for their A",
-      "checkedAt": "2026-03-30T19:57:56.248Z"
+      "checkedAt": "2026-03-30T19:58:04.388Z"
     },
     {
-      "id": "site_1774900674741_wyjuw",
+      "id": "site_1774900683093_31atl",
       "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
       "domain": "anatomy.app",
       "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=anatomy.app&sz=64",
       "snippet": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
-      "checkedAt": "2026-03-30T19:57:55.978Z"
+      "checkedAt": "2026-03-30T19:58:04.083Z"
     },
     {
-      "id": "site_1774900674258_uw6l3",
+      "id": "site_1774900682427_ukv0p",
       "url": "https://enatom.com/how-to-study-for-anatomy/",
       "domain": "enatom.com",
       "title": "How to Study for Anatomy (and learn Anatomy fast)",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=enatom.com&sz=64",
       "snippet": "How to study anatomy effectively: strategies to overcome overwhelm, cadaver lab anxiety, boring resources, and forgetting structures.",
-      "checkedAt": "2026-03-30T19:57:54.741Z"
+      "checkedAt": "2026-03-30T19:58:03.093Z"
     },
     {
-      "id": "site_1774900674171_n7l83",
+      "id": "site_1774900682216_zmnh9",
       "url": "https://www.learvo.com/Blog/effective-studying-for-anatomy-mastery",
       "domain": "learvo.com",
       "title": "Effective Studying for Anatomy Mastery",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learvo.com&sz=64",
       "snippet": "Types of Memory: semantic memory for learning, working memory for processing, procedural memory as muscle memory, episodic memory for experiences.",
-      "checkedAt": "2026-03-30T19:57:54.258Z"
+      "checkedAt": "2026-03-30T19:58:02.427Z"
     },
     {
-      "id": "site_1774900673293_ht8wi",
+      "id": "site_1774900679361_m20bh",
       "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
       "domain": "instituteofhumananatomy.com",
       "title": "How to Study Anatomy: 5 Proven Memory Techniques",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=instituteofhumananatomy.com&sz=64",
       "snippet": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
-      "checkedAt": "2026-03-30T19:57:54.171Z"
+      "checkedAt": "2026-03-30T19:58:02.216Z"
     }
   ],
   "citations": [
@@ -745,27 +827,27 @@
     },
     {
       "id": 12,
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11496393/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Technologies for Studying and Teaching Human Anatomy: Implications in Academic Education - PMC"
-    },
-    {
-      "id": 13,
-      "url": "https://www.reddit.com/r/GetStudying/comments/1g2bir5/alternatives_methods_for_memorization_human/",
+      "url": "https://www.reddit.com/r/biology/comments/1rr4c6k/how_am_i_supposed_to_remember_human_anatomy_and/",
       "domain": "reddit.com",
       "title": "Reddit - The heart of the internet"
     },
     {
+      "id": 13,
+      "url": "https://blog.universalmedicalinc.com/9-study-tips-help-learn-human-anatomy/",
+      "domain": "blog.universalmedicalinc.com",
+      "title": "9 Study Tips To Help You Learn Human Anatomy"
+    },
+    {
       "id": 14,
-      "url": "https://zhidao.baidu.com/question/1667645694947770227.html",
-      "domain": "zhidao.baidu.com",
-      "title": "can you can a can as a canner can can a can.这句话什么_百度知道"
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC"
     },
     {
       "id": 15,
-      "url": "https://www.zhihu.com/tardis/bd/art/671469903",
-      "domain": "zhihu.com",
-      "title": "安全验证 - 知乎"
+      "url": "https://zhidao.baidu.com/question/1667645694947770227.html",
+      "domain": "zhidao.baidu.com",
+      "title": "can you can a can as a canner can can a can.这句话什么_百度知道"
     },
     {
       "id": 16,
@@ -775,27 +857,27 @@
     },
     {
       "id": 17,
-      "url": "https://www.technavio.com/report/medical-education-market-industry-analysis",
-      "domain": "technavio.com",
-      "title": "Medical Education Market Growth Analysis - Size and Forecast 2025-2029 | Technavio | Technavio"
+      "url": "https://www.intelmarketresearch.com/human-anatomy-apps-market-6332",
+      "domain": "intelmarketresearch.com",
+      "title": "Human Anatomy Apps Market Outlook 2025-2032"
     },
     {
       "id": 18,
+      "url": "https://www.zhihu.com/tardis/bd/art/671469903",
+      "domain": "zhihu.com",
+      "title": "安全验证 - 知乎"
+    },
+    {
+      "id": 19,
       "url": "https://zhidao.baidu.com/question/212375963343018125.html",
       "domain": "zhidao.baidu.com",
       "title": "WHAT I CAN SAY 还是WHAT CAN I SAY_百度知道"
     },
     {
-      "id": 19,
+      "id": 20,
       "url": "https://zhidao.baidu.com/question/1809873624045600427.html",
       "domain": "zhidao.baidu.com",
       "title": "韩漫《Kiss Me If You Can》小说_百度知道"
-    },
-    {
-      "id": 20,
-      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Privacy Statement – Microsoft privacy"
     },
     {
       "id": 21,
@@ -811,15 +893,15 @@
     },
     {
       "id": 23,
-      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
       "domain": "go.microsoft.com",
-      "title": "Microsoft Services Agreement"
+      "title": "Microsoft Privacy Statement – Microsoft privacy"
     },
     {
       "id": 24,
-      "url": "https://en.wikipedia.org/wiki/Simulation",
-      "domain": "en.wikipedia.org",
-      "title": "Simulation - Wikipedia"
+      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Services Agreement"
     },
     {
       "id": 25,
@@ -829,33 +911,33 @@
     },
     {
       "id": 26,
-      "url": "https://www.reddit.com/r/getdisciplined/comments/43zue1/needadvice_unsure_of_study_strategy_for_anatomy/",
-      "domain": "reddit.com",
-      "title": "Reddit - The heart of the internet"
+      "url": "https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning",
+      "domain": "kenhub.com",
+      "title": "Common mistakes that hinder your anatomy learning | Kenhub"
     },
     {
       "id": 27,
-      "url": "https://en.wikipedia.org/wiki/Michel_Foucault",
-      "domain": "en.wikipedia.org",
-      "title": "Michel Foucault - Wikipedia"
-    },
-    {
-      "id": 28,
       "url": "https://en.wikipedia.org/wiki/2008_financial_crisis",
       "domain": "en.wikipedia.org",
       "title": "2008 financial crisis - Wikipedia"
     },
     {
-      "id": 29,
-      "url": "https://en.wikipedia.org/wiki/Psychology",
+      "id": 28,
+      "url": "https://en.wikipedia.org/wiki/Michel_Foucault",
       "domain": "en.wikipedia.org",
-      "title": "Psychology - Wikipedia"
+      "title": "Michel Foucault - Wikipedia"
     },
     {
-      "id": 30,
+      "id": 29,
       "url": "https://en.wikipedia.org/wiki/Romance",
       "domain": "en.wikipedia.org",
       "title": "Romance - Wikipedia"
+    },
+    {
+      "id": 30,
+      "url": "https://en.wikipedia.org/wiki/Psychology",
+      "domain": "en.wikipedia.org",
+      "title": "Psychology - Wikipedia"
     },
     {
       "id": 31,
@@ -871,21 +953,21 @@
     },
     {
       "id": 33,
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 10 - Wikipedia"
-    },
-    {
-      "id": 34,
       "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
       "domain": "en.wikipedia.org",
       "title": "Sherlock Holmes - Wikipedia"
     },
     {
-      "id": 35,
-      "url": "https://en.wikipedia.org/wiki/List_of_phobias",
+      "id": 34,
+      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
       "domain": "en.wikipedia.org",
-      "title": "List of phobias - Wikipedia"
+      "title": "Grey's Anatomy season 10 - Wikipedia"
+    },
+    {
+      "id": 35,
+      "url": "https://en.wikipedia.org/wiki/Simulation",
+      "domain": "en.wikipedia.org",
+      "title": "Simulation - Wikipedia"
     },
     {
       "id": 36,
@@ -895,15 +977,15 @@
     },
     {
       "id": 37,
-      "url": "https://en.wikipedia.org/wiki/Orgasm",
-      "domain": "en.wikipedia.org",
-      "title": "Orgasm - Wikipedia"
-    },
-    {
-      "id": 38,
       "url": "https://en.wikipedia.org/wiki/Gaza_genocide",
       "domain": "en.wikipedia.org",
       "title": "Gaza genocide - Wikipedia"
+    },
+    {
+      "id": 38,
+      "url": "https://en.wikipedia.org/wiki/Orgasm",
+      "domain": "en.wikipedia.org",
+      "title": "Orgasm - Wikipedia"
     },
     {
       "id": 39,
@@ -913,21 +995,21 @@
     },
     {
       "id": 40,
-      "url": "https://en.wikipedia.org/wiki/How_to_Have_Sex_in_an_Epidemic",
+      "url": "https://en.wikipedia.org/wiki/List_of_Ghosts_(American_TV_series)_episodes",
       "domain": "en.wikipedia.org",
-      "title": "How to Have Sex in an Epidemic - Wikipedia"
+      "title": "List of Ghosts (American TV series) episodes - Wikipedia"
     },
     {
       "id": 41,
-      "url": "https://easy-anatomy.com/13-tips-for-studying-anatomy-more-effectively/",
-      "domain": "easy-anatomy.com",
-      "title": "13 Tips For Studying Anatomy More Effectively - EasyAnatomy"
-    },
-    {
-      "id": 42,
       "url": "https://www.reddit.com/r/productivity/comments/102zgxb/how_to_study_anatomy_most_efficiently/",
       "domain": "reddit.com",
       "title": "Reddit - The heart of the internet"
+    },
+    {
+      "id": 42,
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1555053/full",
+      "domain": "frontiersin.org",
+      "title": "Frontiers | Enhancing anatomy education with virtual reality: integrating three-dimensional models for improved learning efficiency and stud"
     },
     {
       "id": 43,
@@ -937,15 +1019,15 @@
     },
     {
       "id": 44,
-      "url": "https://en.wikipedia.org/wiki/Production_function",
-      "domain": "en.wikipedia.org",
-      "title": "Production function - Wikipedia"
-    },
-    {
-      "id": 45,
       "url": "https://en.wikipedia.org/wiki/Value-form",
       "domain": "en.wikipedia.org",
       "title": "Value-form - Wikipedia"
+    },
+    {
+      "id": 45,
+      "url": "https://en.wikipedia.org/wiki/Production_function",
+      "domain": "en.wikipedia.org",
+      "title": "Production function - Wikipedia"
     },
     {
       "id": 46,
@@ -961,15 +1043,15 @@
     },
     {
       "id": 48,
-      "url": "https://en.wikipedia.org/wiki/Linux",
-      "domain": "en.wikipedia.org",
-      "title": "Linux - Wikipedia"
-    },
-    {
-      "id": 49,
       "url": "https://en.wikipedia.org/wiki/Zionism",
       "domain": "en.wikipedia.org",
       "title": "Zionism - Wikipedia"
+    },
+    {
+      "id": 49,
+      "url": "https://en.wikipedia.org/wiki/Linux",
+      "domain": "en.wikipedia.org",
+      "title": "Linux - Wikipedia"
     },
     {
       "id": 50,
@@ -1009,55 +1091,155 @@
     },
     {
       "id": 56,
+      "url": "https://www.reddit.com/r/GetStudying/comments/1g2bir5/alternatives_methods_for_memorization_human/",
+      "domain": "reddit.com",
+      "title": "Reddit - The heart of the internet"
+    },
+    {
+      "id": 57,
       "url": "https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full)",
       "domain": "en.wikipedia.org",
       "title": "List of Latin phrases (full) - Wikipedia"
     },
     {
-      "id": 57,
+      "id": 58,
       "url": "https://en.wikipedia.org/wiki/Roger_Scruton",
       "domain": "en.wikipedia.org",
       "title": "Roger Scruton - Wikipedia"
     },
     {
-      "id": 58,
+      "id": 59,
+      "url": "https://en.wikipedia.org/wiki/Glossary_of_early_twentieth_century_slang_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "title": "Glossary of early twentieth century slang in the United States - Wikipedia"
+    },
+    {
+      "id": 60,
       "url": "https://en.wikipedia.org/wiki/Nakba",
       "domain": "en.wikipedia.org",
       "title": "Nakba - Wikipedia"
     },
     {
-      "id": 59,
-      "url": "https://en.wikipedia.org/wiki/Holocaust_denial",
+      "id": 61,
+      "url": "https://en.wikipedia.org/wiki/Psychoanalytic_literary_criticism",
       "domain": "en.wikipedia.org",
-      "title": "Holocaust denial - Wikipedia"
+      "title": "Psychoanalytic literary criticism - Wikipedia"
     },
     {
-      "id": 60,
-      "url": "https://en.wikipedia.org/wiki/Glossary_of_early_twentieth_century_slang_in_the_United_States",
+      "id": 62,
+      "url": "https://en.wikipedia.org/wiki/Sigmund_Freud",
       "domain": "en.wikipedia.org",
-      "title": "Glossary of early twentieth century slang in the United States - Wikipedia"
+      "title": "Sigmund Freud - Wikipedia"
+    },
+    {
+      "id": 63,
+      "url": "https://en.wikipedia.org/wiki/Hippocampus",
+      "domain": "en.wikipedia.org",
+      "title": "Hippocampus - Wikipedia"
+    },
+    {
+      "id": 64,
+      "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+      "domain": "en.wikipedia.org",
+      "title": "Arthur Schopenhauer - Wikipedia"
+    },
+    {
+      "id": 65,
+      "url": "https://en.wikipedia.org/wiki/Patient_safety",
+      "domain": "en.wikipedia.org",
+      "title": "Patient safety - Wikipedia"
+    },
+    {
+      "id": 66,
+      "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-learn-anatomy-with-mnemonics",
+      "domain": "kenhub.com",
+      "title": "How to learn anatomy with mnemonics: Tips and examples | Kenhub"
+    },
+    {
+      "id": 67,
+      "url": "https://en.wikipedia.org/wiki/Working_memory",
+      "domain": "en.wikipedia.org",
+      "title": "Working memory - Wikipedia"
+    },
+    {
+      "id": 68,
+      "url": "https://en.wikipedia.org/wiki/Palestinian_genocide_allegations",
+      "domain": "en.wikipedia.org",
+      "title": "Palestinian genocide allegations - Wikipedia"
+    },
+    {
+      "id": 69,
+      "url": "https://en.wikipedia.org/wiki/Gold_standard",
+      "domain": "en.wikipedia.org",
+      "title": "Gold standard - Wikipedia"
+    },
+    {
+      "id": 70,
+      "url": "https://en.wikipedia.org/wiki/Glossary_of_baseball_terms",
+      "domain": "en.wikipedia.org",
+      "title": "Glossary of baseball terms - Wikipedia"
     }
   ],
   "notes": [
     {
+      "citationId": 70,
+      "summary": "Glossary of baseball terms - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of baseball terms 8 languages Español Français 日本語 한국어 Русский Svenska У"
+    },
+    {
+      "citationId": 69,
+      "summary": "Gold standard - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Implementation 2 History before 1873 Toggle History befo"
+    },
+    {
+      "citationId": 68,
+      "summary": "Palestinian genocide allegations - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1"
+    },
+    {
+      "citationId": 67,
+      "summary": "Working memory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Theories Toggle Theories subsection 2.1 The m"
+    },
+    {
+      "citationId": 66,
+      "summary": "How to learn anatomy with mnemonics: Tips and examples | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;fo"
+    },
+    {
+      "citationId": 65,
+      "summary": "Patient safety - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prevalence of adverse events Toggle Prevalence of adver"
+    },
+    {
+      "citationId": 64,
+      "summary": "Arthur Schopenhauer - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Education 3 Early work 4 Later life 5"
+    },
+    {
+      "citationId": 63,
+      "summary": "Hippocampus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name 2 In the limbic system 3 Anatomy 4 Neuroanatomy Toggl"
+    },
+    {
+      "citationId": 62,
+      "summary": "Sigmund Freud - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Biography Toggle Biography subsection 1.1 Early life and"
+    },
+    {
+      "citationId": 61,
+      "summary": "Psychoanalytic literary criticism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 Methods Toggle Methods su"
+    },
+    {
       "citationId": 60,
-      "summary": "Glossary of early twentieth century slang in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of early twentieth century slang in "
-    },
-    {
-      "citationId": 59,
-      "summary": "Holocaust denial - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology and etymology 2 Causes 3 Background Toggl"
-    },
-    {
-      "citationId": 58,
       "summary": "Nakba - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Ottoman and British Mandate periods (prior to 1948"
     },
     {
-      "citationId": 57,
+      "citationId": 59,
+      "summary": "Glossary of early twentieth century slang in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of early twentieth century slang in "
+    },
+    {
+      "citationId": 58,
       "summary": "Roger Scruton - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family backg"
     },
     {
-      "citationId": 56,
+      "citationId": 57,
       "summary": "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11"
+    },
+    {
+      "citationId": 56,
+      "summary": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-"
     },
     {
       "citationId": 55,
@@ -1085,11 +1267,11 @@
     },
     {
       "citationId": 49,
-      "summary": "Zionism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Beliefs Toggle Beliefs subsection "
+      "summary": "Linux - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History Toggle History subsection 2.1 Precursors 2.2 "
     },
     {
       "citationId": 48,
-      "summary": "Linux - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History Toggle History subsection 2.1 Precursors 2.2 "
+      "summary": "Zionism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Beliefs Toggle Beliefs subsection "
     },
     {
       "citationId": 47,
@@ -1101,11 +1283,11 @@
     },
     {
       "citationId": 45,
-      "summary": "Value-form - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Basic explanation Toggle Basic explanation subsection 1.1 V"
+      "summary": "Production function - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 The theory of production functions Toggle The theo"
     },
     {
       "citationId": 44,
-      "summary": "Production function - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 The theory of production functions Toggle The theo"
+      "summary": "Value-form - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Basic explanation Toggle Basic explanation subsection 1.1 V"
     },
     {
       "citationId": 43,
@@ -1113,15 +1295,15 @@
     },
     {
       "citationId": 42,
-      "summary": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-"
+      "summary": "Traditional anatomy education, which primarily relies on two-dimensional imagery, often struggles to effectively convey the complex spatial relationships of ..."
     },
     {
       "citationId": 41,
-      "summary": "13 Tips For Studying Anatomy More Effectively - EasyAnatomy Skip to main content Close Search EasyAnatomy Menu Home Subscribe Download Blog Get Help 13 Tips For Studying Anatomy More Effectively By Melissa Neilson June 1, 2018 July 26th, 2018 Study Tips No Comments Anatomy is one of the most difficult subjects you learn in vet school. Memorizing all the anatomical structures and their functions is tough enough as it is, but you have a number of o"
+      "summary": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-"
     },
     {
       "citationId": 40,
-      "summary": "How to Have Sex in an Epidemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection"
+      "summary": "List of Ghosts (American TV series) episodes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Series overview 2 Episode"
     },
     {
       "citationId": 39,
@@ -1129,11 +1311,11 @@
     },
     {
       "citationId": 38,
-      "summary": "Gaza genocide - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Definitions "
+      "summary": "Orgasm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definitions 2 Achievement Toggle Achievement subsection 2.1 Fem"
     },
     {
       "citationId": 37,
-      "summary": "Orgasm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definitions 2 Achievement Toggle Achievement subsection 2.1 Fem"
+      "summary": "Gaza genocide - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Definitions "
     },
     {
       "citationId": 36,
@@ -1141,15 +1323,15 @@
     },
     {
       "citationId": 35,
-      "summary": "List of phobias - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Psychological conditions Toggle Psychological conditio"
+      "summary": "Simulation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification and terminology Toggle Classification and te"
     },
     {
       "citationId": 34,
-      "summary": "Sherlock Holmes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Inspiration for the character 2 Biography Toggle Biogr"
+      "summary": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
     },
     {
       "citationId": 33,
-      "summary": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
+      "summary": "Sherlock Holmes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Inspiration for the character 2 Biography Toggle Biogr"
     },
     {
       "citationId": 32,
@@ -1161,23 +1343,23 @@
     },
     {
       "citationId": 30,
-      "summary": "Romance - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 General definitions Toggle General definitions subsection 1.1 "
-    },
-    {
-      "citationId": 29,
       "summary": "Psychology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and definitions 2 History Toggle History subsecti"
     },
     {
-      "citationId": 28,
-      "summary": "2008 financial crisis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Timeline Toggle Timeline subsection"
+      "citationId": 29,
+      "summary": "Romance - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 General definitions Toggle General definitions subsection 1.1 "
     },
     {
-      "citationId": 27,
+      "citationId": 28,
       "summary": "Michel Foucault - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Early year"
     },
     {
+      "citationId": 27,
+      "summary": "2008 financial crisis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Timeline Toggle Timeline subsection"
+    },
+    {
       "citationId": 26,
-      "summary": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-"
+      "summary": "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st"
     },
     {
       "citationId": 25,
@@ -1185,11 +1367,11 @@
     },
     {
       "citationId": 24,
-      "summary": "Simulation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification and terminology Toggle Classification and te"
+      "summary": "Microsoft Services Agreement This is the Trace Id: 6871a4facf97bcbc8afdbb0a0f8972cc Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
     },
     {
       "citationId": 23,
-      "summary": "Microsoft Services Agreement This is the Trace Id: d478f705e3513f7eea8500dc93ec6cac Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 490062adbd91b230918e25548839cd2c Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
     },
     {
       "citationId": 22,
@@ -1201,19 +1383,19 @@
     },
     {
       "citationId": 20,
-      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 2de1fac64ccae80b73a61a3bc5b35748 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
-    },
-    {
-      "citationId": 19,
       "summary": "韩漫《Kiss Me If You Can》小说韩漫《Kiss Me If You Can》小说简介韩漫《Kiss Me If You Can》是一部融合了ABO设定、带球跑情节以及娱乐圈元素的浪漫小说。故事围绕大明星切斯·米勒和平凡保镖约书亚·贝利展开，"
     },
     {
-      "citationId": 18,
+      "citationId": 19,
       "summary": "WHAT I CAN SAY 还是WHAT CAN I SAY在某些情境下，人们可能会选择用\"What I Can Say\"来表达他们愿意付出努力去寻找合适的言语，而在另一些情况下，则可能会选择\"What Can I Say?\"来表达无奈与无"
     },
     {
+      "citationId": 18,
+      "summary": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。"
+    },
+    {
       "citationId": 17,
-      "summary": "Medical Education Market Growth Analysis - Size and Forecast 2025-2029 | Technavio | Technavio Reports Communication Services Media &amp; Entertainment Consumer Electronics Entertainment Interactive Home Entertainment Movies &amp; Entertainment Interactive Media &amp; Services Media Advertising Broadcasting Cable &amp; Satellite Publishing Telecommunication Services Diversified Telecommunication Services Alternative Carriers Integrated Telecommun"
+      "summary": "Global Human Anatomy Apps market was valued at USD 285M in 2024 and projected to reach USD 1016M by 2032, at 20.1% CAGR."
     },
     {
       "citationId": 16,
@@ -1221,19 +1403,19 @@
     },
     {
       "citationId": 15,
-      "summary": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。"
-    },
-    {
-      "citationId": 14,
       "summary": "can you can a can as a canner can can a can.这句话什么can you can a can as a canner can can a can？你能像罐头工人一样装罐头吗？这句话中can充当了多个句子成分。第一个can表疑问。第二个can作动词，意为把（"
     },
     {
+      "citationId": 14,
+      "summary": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how"
+    },
+    {
       "citationId": 13,
-      "summary": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-"
+      "summary": "Human anatomy courses present a systemic approach to the study of the human body. This post will review 9 tips you can incorporate into your study routine."
     },
     {
       "citationId": 12,
-      "summary": "The teaching of human anatomy (HA) constitutes one of the fundamental pillars of the curriculum in biological and healthcare-related programs. Therefore, it is imperative that the methodology and didactics employed in th"
+      "summary": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-"
     },
     {
       "citationId": 11,
@@ -1282,152 +1464,176 @@
   ],
   "events": [
     {
-      "id": "ev_1774900813706_9hivm",
-      "at": "2026-03-30T20:00:13.706Z",
+      "id": "ev_1774900845820_053mm",
+      "at": "2026-03-30T20:00:45.820Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 70."
+    },
+    {
+      "id": "ev_1774900831831_rd2kq",
+      "at": "2026-03-30T20:00:31.831Z",
+      "phase": "analyzing",
+      "message": "Running query: how can we study anatomy without forgetting metrics"
+    },
+    {
+      "id": "ev_1774900831831_mi7c3",
+      "at": "2026-03-30T20:00:31.831Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 65."
+    },
+    {
+      "id": "ev_1774900821013_4oiuq",
+      "at": "2026-03-30T20:00:21.013Z",
+      "phase": "analyzing",
+      "message": "Running query: how can we study anatomy without forgetting \"case study\""
+    },
+    {
+      "id": "ev_1774900821013_apd5k",
+      "at": "2026-03-30T20:00:21.013Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 60."
     },
     {
-      "id": "ev_1774900802665_b3gxu",
-      "at": "2026-03-30T20:00:02.665Z",
+      "id": "ev_1774900809466_yi7ey",
+      "at": "2026-03-30T20:00:09.466Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting enterprise usage"
     },
     {
-      "id": "ev_1774900802665_nku1z",
-      "at": "2026-03-30T20:00:02.665Z",
+      "id": "ev_1774900809466_po3nr",
+      "at": "2026-03-30T20:00:09.466Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 55."
     },
     {
-      "id": "ev_1774900791437_1r5oz",
-      "at": "2026-03-30T19:59:51.437Z",
+      "id": "ev_1774900796980_wrvuo",
+      "at": "2026-03-30T19:59:56.980Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting open source tools"
     },
     {
-      "id": "ev_1774900791437_ytnnx",
-      "at": "2026-03-30T19:59:51.437Z",
+      "id": "ev_1774900796862_pc1b7",
+      "at": "2026-03-30T19:59:56.862Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 50."
     },
     {
-      "id": "ev_1774900779586_ub4dk",
-      "at": "2026-03-30T19:59:39.586Z",
+      "id": "ev_1774900785578_pwsxn",
+      "at": "2026-03-30T19:59:45.578Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting timeline and adoption"
     },
     {
-      "id": "ev_1774900779586_q20tf",
-      "at": "2026-03-30T19:59:39.586Z",
+      "id": "ev_1774900785578_ortbp",
+      "at": "2026-03-30T19:59:45.578Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 45."
     },
     {
-      "id": "ev_1774900766550_o3rz0",
-      "at": "2026-03-30T19:59:26.550Z",
+      "id": "ev_1774900774124_05bne",
+      "at": "2026-03-30T19:59:34.124Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting economics and costs"
     },
     {
-      "id": "ev_1774900766476_hvldb",
-      "at": "2026-03-30T19:59:26.476Z",
+      "id": "ev_1774900774124_2704b",
+      "at": "2026-03-30T19:59:34.124Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 40."
     },
     {
-      "id": "ev_1774900755065_snozu",
-      "at": "2026-03-30T19:59:15.065Z",
+      "id": "ev_1774900762986_4i1b0",
+      "at": "2026-03-30T19:59:22.986Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting expert interview"
     },
     {
-      "id": "ev_1774900755065_fes6x",
-      "at": "2026-03-30T19:59:15.065Z",
+      "id": "ev_1774900762985_5mj71",
+      "at": "2026-03-30T19:59:22.985Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 35."
     },
     {
-      "id": "ev_1774900744388_9a2p1",
-      "at": "2026-03-30T19:59:04.388Z",
+      "id": "ev_1774900751792_9o7qp",
+      "at": "2026-03-30T19:59:11.792Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting case study"
     },
     {
-      "id": "ev_1774900744388_v2lce",
-      "at": "2026-03-30T19:59:04.388Z",
+      "id": "ev_1774900751792_zyn90",
+      "at": "2026-03-30T19:59:11.792Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 30."
     },
     {
-      "id": "ev_1774900732956_2nlz8",
-      "at": "2026-03-30T19:58:52.956Z",
+      "id": "ev_1774900740807_q5jh5",
+      "at": "2026-03-30T19:59:00.807Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting limitations and risks"
     },
     {
-      "id": "ev_1774900732956_520c8",
-      "at": "2026-03-30T19:58:52.956Z",
+      "id": "ev_1774900740690_312tw",
+      "at": "2026-03-30T19:59:00.690Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 25."
     },
     {
-      "id": "ev_1774900719390_3vink",
-      "at": "2026-03-30T19:58:39.390Z",
+      "id": "ev_1774900727837_9l77s",
+      "at": "2026-03-30T19:58:47.837Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting benchmark comparison"
     },
     {
-      "id": "ev_1774900719390_op0zj",
-      "at": "2026-03-30T19:58:39.390Z",
+      "id": "ev_1774900727836_rdpka",
+      "at": "2026-03-30T19:58:47.836Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 20."
     },
     {
-      "id": "ev_1774900703213_szwhz",
-      "at": "2026-03-30T19:58:23.213Z",
+      "id": "ev_1774900711279_uicfp",
+      "at": "2026-03-30T19:58:31.279Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting industry analysis 2025 2026"
     },
     {
-      "id": "ev_1774900702913_bxw0x",
-      "at": "2026-03-30T19:58:22.913Z",
+      "id": "ev_1774900711279_w7hx2",
+      "at": "2026-03-30T19:58:31.279Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1774900690416_m1fgw",
-      "at": "2026-03-30T19:58:10.416Z",
+      "id": "ev_1774900697330_ef60h",
+      "at": "2026-03-30T19:58:17.330Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting latest research paper"
     },
     {
-      "id": "ev_1774900690416_nx5e7",
-      "at": "2026-03-30T19:58:10.416Z",
+      "id": "ev_1774900697330_u85gw",
+      "at": "2026-03-30T19:58:17.330Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1774900676248_tqnx8",
-      "at": "2026-03-30T19:57:56.248Z",
+      "id": "ev_1774900684389_2rql3",
+      "at": "2026-03-30T19:58:04.389Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting official documentation"
     },
     {
-      "id": "ev_1774900676248_kbuas",
-      "at": "2026-03-30T19:57:56.248Z",
+      "id": "ev_1774900684388_6p6cd",
+      "at": "2026-03-30T19:58:04.388Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1774900662646_maa0z",
-      "at": "2026-03-30T19:57:42.647Z",
+      "id": "ev_1774900668712_0jkip",
+      "at": "2026-03-30T19:57:48.712Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting"
     },
     {
-      "id": "ev_1774900662646_6iy8n",
-      "at": "2026-03-30T19:57:42.646Z",
+      "id": "ev_1774900668711_xo6qu",
+      "at": "2026-03-30T19:57:48.711Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -1445,32 +1651,32 @@
     }
   ],
   "learnedSoFar": [
-    "Glossary of early twentieth century slang in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of early twentieth century slang in ",
-    "Holocaust denial - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology and etymology 2 Causes 3 Background Toggl",
+    "Glossary of baseball terms - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of baseball terms 8 languages Español Français 日本語 한국어 Русский Svenska У",
+    "Gold standard - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Implementation 2 History before 1873 Toggle History befo",
+    "Palestinian genocide allegations - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1",
+    "Working memory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Theories Toggle Theories subsection 2.1 The m",
+    "How to learn anatomy with mnemonics: Tips and examples | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;fo",
+    "Patient safety - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prevalence of adverse events Toggle Prevalence of adver",
+    "Arthur Schopenhauer - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Education 3 Early work 4 Later life 5",
+    "Hippocampus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name 2 In the limbic system 3 Anatomy 4 Neuroanatomy Toggl",
+    "Sigmund Freud - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Biography Toggle Biography subsection 1.1 Early life and",
+    "Psychoanalytic literary criticism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 Methods Toggle Methods su",
     "Nakba - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Ottoman and British Mandate periods (prior to 1948",
+    "Glossary of early twentieth century slang in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Glossary of early twentieth century slang in ",
     "Roger Scruton - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family backg",
     "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11",
+    "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
     "AI slop - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origin of the term 2 Definitions 3 On social media 4 In politi",
     "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may",
-    "The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and open-source software throughout the world.",
-    "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru",
-    "Best Open Anatomy Learning Resources | AnatomyTOOL Region System Collections Embryology Microscopy Dissections Radiology Clinical Anatomy Documents Images Videos 3D models, games Lessons. quizzes Viewers Create & edit content Take quiz Create account / Forgot password About Project Open Anatomy Learning Materials (TOOL2) Manuals Anatomy Learning Resources Credits Medical disclaimer Legal information Donate Sponsor Contact Open 3D Model Archive Re",
-    "List of LGBTQ-related films - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of LGBTQ-related films 10 languages Čeština Deutsch فارسی Français Magyar B",
-    "Zionism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Beliefs Toggle Beliefs subsection ",
-    "Linux - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History Toggle History subsection 2.1 Precursors 2.2 ",
-    "Death - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Definition Toggle Definition subsection 2.1 Definin",
-    "Anti-Zionism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Anti-Zionism before 1948 Toggle Anti-Zionism before 1948 ",
-    "Value-form - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Basic explanation Toggle Basic explanation subsection 1.1 V",
-    "Production function - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 The theory of production functions Toggle The theo",
-    "Criticism of value-form theory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Obscurantism 2 Substance of value Toggl"
+    "The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and open-source software throughout the world."
   ],
   "stats": {
-    "sourcesAnalyzed": 60,
-    "tokensUsedEstimate": 6075,
-    "depthScore": 33,
+    "sourcesAnalyzed": 70,
+    "tokensUsedEstimate": 7090,
+    "depthScore": 37,
     "queriesGenerated": 24,
-    "iterations": 12,
-    "uniqueDomains": 24
+    "iterations": 14,
+    "uniqueDomains": 25
   },
   "control": {
     "paused": false,
