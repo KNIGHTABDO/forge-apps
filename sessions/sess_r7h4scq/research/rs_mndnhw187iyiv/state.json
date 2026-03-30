@@ -3,19 +3,109 @@
   "sessionId": "sess_r7h4scq",
   "query": "Je veux les détails de l’anatomie des reins pour un étudiant en médecine",
   "createdAt": "2026-03-30T20:38:49.964Z",
-  "updatedAt": "2026-03-30T20:39:53.234Z",
-  "lastAdvancedAt": "2026-03-30T20:39:53.234Z",
-  "phase": "awaiting_plan",
+  "updatedAt": "2026-03-30T20:39:53.641Z",
+  "lastAdvancedAt": "2026-03-30T20:39:07.180Z",
+  "phase": "query_fanout",
   "progress": 4,
   "etaMinutes": 45,
   "planDraft": "1. Scope Definition: Establish the required anatomical depth by targeting medical-grade resources such as Gray’s Anatomy, Netter’s Atlas, and peer-reviewed educational databases like PubMed or university-level curriculum repositories. Focus the scope on four key domains: gross morphology (external anatomy, capsule, hilum), internal architecture (cortex, medulla, pyramids, calyces, pelvis), micro-anatomy (nephron segments, juxtaglomerular apparatus), and the vascular/innervation pathways (renal artery/vein branches and segmental circulation).\n\n2. Search Fan-Out: Execute a multi-tiered search strategy using precise terminology. Use scholarly databases for peer-reviewed anatomical descriptions, medical educational platforms (e.g., Kenhub, TeachMeAnatomy) for visual synthesis, and clinical databases (e.g., UpToDate) for high-yield anatomical correlations. Identify variations in anatomical descriptions to ensure the information aligns with current international anatomical nomenclature (Terminologia Anatomica).\n\n3. Analysis and Categorization: Process the gathered data by mapping it onto a structural framework. Categorize findings into topographical relationships (spatial orientation within the retroperitoneal space), structural composition (histological layers and cellular organization), and functional integration (how specific anatomical features facilitate glomerular filtration, tubular reabsorption, and secretion). Filter out non-academic or lay-person content to ensure the level of technical detail remains appropriate for clinical application.\n\n4. Identification of Evidence Gaps: Assess the collected information for gaps in complex physiological correlation or rare anatomical variants. Identify areas where standard textbook descriptions might lack sufficient detail on current understandings of renal microvasculature or specific developmental anomalies. Flag these areas for targeted supplemental research to ensure the final report covers not just basic structure, but also high-frequency clinical considerations relevant to medical exams and practice.\n\n5. Synthesis and Reporting: Synthesize the verified anatomical data into a structured, pedagogical format. Organize the final output with clear headings: Gross Anatomy, Internal Structure, Microanatomy, Vasculature/Innervation, and Clinical Significance. Use precise medical terminology and ensure the explanation supports clinical reasoning. Review the synthesized content against the initial query to confirm it meets the standard expected of a rigorous medical school curriculum.",
-  "planApproved": false,
+  "planApproved": true,
   "pendingQueries": [],
   "processedQueries": [],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1774903193641",
+      "at": "2026-03-30T20:39:53.641Z",
+      "phase": "query_fanout",
+      "message": "Plan updated by user."
+    },
+    {
+      "id": "ev_1774903192413",
+      "at": "2026-03-30T20:39:52.413Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903191242",
+      "at": "2026-03-30T20:39:51.242Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903160400",
+      "at": "2026-03-30T20:39:20.400Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903160216",
+      "at": "2026-03-30T20:39:20.216Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903160046",
+      "at": "2026-03-30T20:39:20.046Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903159856",
+      "at": "2026-03-30T20:39:19.856Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903159691",
+      "at": "2026-03-30T20:39:19.691Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903159530",
+      "at": "2026-03-30T20:39:19.530Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903159367",
+      "at": "2026-03-30T20:39:19.367Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903158939",
+      "at": "2026-03-30T20:39:18.939Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903158753",
+      "at": "2026-03-30T20:39:18.753Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903156965",
+      "at": "2026-03-30T20:39:16.965Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903150715",
+      "at": "2026-03-30T20:39:10.715Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903149965",
+      "at": "2026-03-30T20:39:09.965Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
     {
       "id": "ev_1774903134757_lcvoy",
       "at": "2026-03-30T20:38:54.757Z",
@@ -35,5 +125,6 @@
   "control": {
     "paused": false,
     "stopped": false
-  }
+  },
+  "planFinal": "1. Scope Definition: Establish the required anatomical depth by targeting medical-grade resources such as Gray’s Anatomy, Netter’s Atlas, and peer-reviewed educational databases like PubMed or university-level curriculum repositories. Focus the scope on four key domains: gross morphology (external anatomy, capsule, hilum), internal architecture (cortex, medulla, pyramids, calyces, pelvis), micro-anatomy (nephron segments, juxtaglomerular apparatus), and the vascular/innervation pathways (renal artery/vein branches and segmental circulation).\n\n2. Search Fan-Out: Execute a multi-tiered search strategy using precise terminology. Use scholarly databases for peer-reviewed anatomical descriptions, medical educational platforms (e.g., Kenhub, TeachMeAnatomy) for visual synthesis, and clinical databases (e.g., UpToDate) for high-yield anatomical correlations. Identify variations in anatomical descriptions to ensure the information aligns with current international anatomical nomenclature (Terminologia Anatomica).\n\n3. Analysis and Categorization: Process the gathered data by mapping it onto a structural framework. Categorize findings into topographical relationships (spatial orientation within the retroperitoneal space), structural composition (histological layers and cellular organization), and functional integration (how specific anatomical features facilitate glomerular filtration, tubular reabsorption, and secretion). Filter out non-academic or lay-person content to ensure the level of technical detail remains appropriate for clinical application.\n\n4. Identification of Evidence Gaps: Assess the collected information for gaps in complex physiological correlation or rare anatomical variants. Identify areas where standard textbook descriptions might lack sufficient detail on current understandings of renal microvasculature or specific developmental anomalies. Flag these areas for targeted supplemental research to ensure the final report covers not just basic structure, but also high-frequency clinical considerations relevant to medical exams and practice.\n\n5. Synthesis and Reporting: Synthesize the verified anatomical data into a structured, pedagogical format. Organize the final output with clear headings: Gross Anatomy, Internal Structure, Microanatomy, Vasculature/Innervation, and Clinical Significance. Use precise medical terminology and ensure the explanation supports clinical reasoning. Review the synthesized content against the initial query to confirm it meets the standard expected of a rigorous medical school curriculum."
 }
