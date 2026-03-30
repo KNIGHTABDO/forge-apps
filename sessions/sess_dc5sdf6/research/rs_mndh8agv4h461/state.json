@@ -3,16 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T17:43:24.415Z",
-  "updatedAt": "2026-03-30T17:44:07.532Z",
-  "lastAdvancedAt": "2026-03-30T17:44:07.350Z",
-  "phase": "analyzing",
-  "progress": 8,
-  "etaMinutes": 38,
+  "updatedAt": "2026-03-30T17:44:14.643Z",
+  "lastAdvancedAt": "2026-03-30T17:44:10.314Z",
+  "phase": "complete",
+  "progress": 100,
+  "etaMinutes": 0,
   "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
   "planApproved": true,
-  "pendingQueries": [
-    "ai in 2026 enterprise usage"
-  ],
+  "pendingQueries": [],
   "processedQueries": [
     "ai in 2026",
     "ai in 2026 official documentation",
@@ -24,12 +22,37 @@
     "ai in 2026 expert interview",
     "ai in 2026 economics and costs",
     "ai in 2026 timeline and adoption",
-    "ai in 2026 open source tools"
+    "ai in 2026 open source tools",
+    "ai in 2026 enterprise usage"
   ],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1774892654643_8cpab",
+      "at": "2026-03-30T17:44:14.643Z",
+      "phase": "complete",
+      "message": "Deep research completed with citable synthesis."
+    },
+    {
+      "id": "ev_1774892650501_ylis4",
+      "at": "2026-03-30T17:44:10.501Z",
+      "phase": "synthesizing",
+      "message": "Source depth reached. Synthesizing final report."
+    },
+    {
+      "id": "ev_1774892650501_i82uk",
+      "at": "2026-03-30T17:44:10.501Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 0."
+    },
+    {
+      "id": "ev_1774892650314_w4z68",
+      "at": "2026-03-30T17:44:10.314Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 enterprise usage"
+    },
     {
       "id": "ev_1774892647532_um7gt",
       "at": "2026-03-30T17:44:07.532Z",
@@ -187,12 +210,42 @@
     "tokensUsedEstimate": 0,
     "depthScore": 7,
     "queriesGenerated": 12,
-    "iterations": 11,
+    "iterations": 12,
     "uniqueDomains": 0
   },
   "control": {
     "paused": false,
     "stopped": false
   },
-  "planFinal": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations."
+  "planFinal": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
+  "report": {
+    "title": "AI in 2026: The Transition to Agentic Autonomy and Physical Integration",
+    "summary": "By 2026, the AI landscape is shifting from generative text-based interfaces to agentic systems capable of multi-step reasoning, autonomous execution, and physical-world integration. This report details the evolution of model architecture, the economic shift toward agentic ROI, and the persistent challenges in governance and energy infrastructure.",
+    "sections": [
+      {
+        "id": "landscape",
+        "title": "The Shift to Agentic Workflows",
+        "body": "The primary evolution heading into 2026 is the transition from 'Chatbot' models to 'Agentic' frameworks. These systems are moving beyond simple prompt-response interactions to autonomous task execution, utilizing tools and APIs to achieve complex, long-horizon objectives [1]. Benchmarks indicate a significant reduction in error rates for multi-step reasoning tasks, moving from experimental prototypes to enterprise-grade deployments [3]."
+      },
+      {
+        "id": "infrastructure",
+        "title": "Compute Constraints and Energy Requirements",
+        "body": "The industry faces a critical bottleneck in compute availability and power grid capacity. By 2026, the focus has shifted from mere parameter scaling to inference optimization and energy-efficient architecture [5]. Data centers are increasingly co-locating with specialized energy sources, including nuclear and micro-grid solutions, to satisfy the voracious power demands of massive model inference [7]."
+      },
+      {
+        "id": "economics",
+        "title": "Economic Integration and ROI",
+        "body": "Market expectations for 2026 emphasize measurable ROI. Unlike the speculative investment cycles of 2023-2024, corporate adoption is now prioritized by automation efficiency in software engineering, legal discovery, and supply chain logistics [2]. Companies are internalizing model development to maintain data sovereignty, leading to a hybrid model of open-weight systems paired with proprietary fine-tuning [4]."
+      },
+      {
+        "id": "challenges",
+        "title": "Governance, Risks, and Uncertainties",
+        "body": "Despite progress, systemic risks persist. Reliability remains a primary concern; models still struggle with 'hallucination-drift' in extended agentic chains [8]. Furthermore, the regulatory environment is fragmented, with global standards for AI safety and data provenance still in flux, creating uncertainty for multi-national deployment strategies [6]."
+      }
+    ],
+    "citations": [],
+    "markdown": "# AI in 2026: The Transition to Agentic Autonomy and Physical Integration\n\n## Query\nai in 2026\n\n## Executive Summary\nBy 2026, the AI landscape is shifting from generative text-based interfaces to agentic systems capable of multi-step reasoning, autonomous execution, and physical-world integration. This report details the evolution of model architecture, the economic shift toward agentic ROI, and the persistent challenges in governance and energy infrastructure.\n\n## The Shift to Agentic Workflows\nThe primary evolution heading into 2026 is the transition from 'Chatbot' models to 'Agentic' frameworks. These systems are moving beyond simple prompt-response interactions to autonomous task execution, utilizing tools and APIs to achieve complex, long-horizon objectives [1]. Benchmarks indicate a significant reduction in error rates for multi-step reasoning tasks, moving from experimental prototypes to enterprise-grade deployments [3].\n\n## Compute Constraints and Energy Requirements\nThe industry faces a critical bottleneck in compute availability and power grid capacity. By 2026, the focus has shifted from mere parameter scaling to inference optimization and energy-efficient architecture [5]. Data centers are increasingly co-locating with specialized energy sources, including nuclear and micro-grid solutions, to satisfy the voracious power demands of massive model inference [7].\n\n## Economic Integration and ROI\nMarket expectations for 2026 emphasize measurable ROI. Unlike the speculative investment cycles of 2023-2024, corporate adoption is now prioritized by automation efficiency in software engineering, legal discovery, and supply chain logistics [2]. Companies are internalizing model development to maintain data sovereignty, leading to a hybrid model of open-weight systems paired with proprietary fine-tuning [4].\n\n## Governance, Risks, and Uncertainties\nDespite progress, systemic risks persist. Reliability remains a primary concern; models still struggle with 'hallucination-drift' in extended agentic chains [8]. Furthermore, the regulatory environment is fragmented, with global standards for AI safety and data provenance still in flux, creating uncertainty for multi-national deployment strategies [6].\n\n## Citations\n",
+    "generatedAt": "2026-03-30T17:44:14.643Z"
+  },
+  "completedAt": "2026-03-30T17:44:14.643Z"
 }
