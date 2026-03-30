@@ -3,7 +3,7 @@
   "sessionId": "sess_r7h4scq",
   "query": "Je veux les détails de l’anatomie des reins pour un étudiant en médecine",
   "createdAt": "2026-03-30T20:38:49.964Z",
-  "updatedAt": "2026-03-30T20:39:16.965Z",
+  "updatedAt": "2026-03-30T20:39:19.367Z",
   "lastAdvancedAt": "2026-03-30T20:39:07.180Z",
   "phase": "query_fanout",
   "progress": 4,
@@ -16,6 +16,24 @@
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1774903159367",
+      "at": "2026-03-30T20:39:19.367Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903158939",
+      "at": "2026-03-30T20:39:18.939Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774903158753",
+      "at": "2026-03-30T20:39:18.753Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
     {
       "id": "ev_1774903156965",
       "at": "2026-03-30T20:39:16.965Z",
