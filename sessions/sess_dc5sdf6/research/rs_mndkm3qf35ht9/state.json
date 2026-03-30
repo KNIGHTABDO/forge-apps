@@ -3,16 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T19:18:07.720Z",
-  "updatedAt": "2026-03-30T19:20:03.834Z",
-  "lastAdvancedAt": "2026-03-30T19:20:01.481Z",
+  "updatedAt": "2026-03-30T19:20:13.756Z",
+  "lastAdvancedAt": "2026-03-30T19:20:09.225Z",
   "phase": "analyzing",
-  "progress": 26,
-  "etaMinutes": 30,
+  "progress": 29,
+  "etaMinutes": 29,
   "planDraft": "1. Define research parameters and key technological domains: Establish the scope of the investigation by categorizing \"AI in 2026\" into distinct pillars, including hardware scaling (compute), architectural breakthroughs (agentic workflows, multimodal reasoning), regulatory landscape changes, and industry-specific adoption (healthcare, finance, coding). Define the temporal context by anchoring the research in current 2024-2025 trajectory data to forecast the state of the art 12 to 24 months out.\n\n2. Execute multi-source search fan-out: Conduct a comprehensive scan across disparate data streams. Gather primary intelligence from technical research preprints (arXiv), vendor roadmaps (OpenAI, Google, Anthropic, NVIDIA), venture capital market outlooks, and government policy white papers. Ensure cross-referencing between optimistic marketing projections and pessimistic academic critiques to capture a balanced spectrum of expected outcomes.\n\n3. Identify and validate evidence gaps: Rigorously evaluate the collected data for areas of high uncertainty or conflicting projections. Specifically, focus on the \"scaling wall\" debate, the feasibility of autonomous agent reliability at scale, and potential bottlenecks in energy infrastructure. Distinguish between speculative hype and verifiable engineering milestones to prevent over-indexing on unsubstantiated industry promises.\n\n4. Perform comparative cross-analysis: Synthesize the technical, economic, and regulatory findings to identify points of convergence. Assess how shifting compute constraints might impact the deployment of smaller, specialized models versus massive foundation models. Evaluate the interplay between tightening international AI regulations and the development speed of proprietary versus open-weight models.\n\n5. Synthesize findings into a forward-looking strategic summary: Consolidate the analysis into a final report that maps the most likely AI landscape for 2026. Prioritize actionable insights, highlighting critical inflection points—such as breakthroughs in reasoning capabilities or energy-efficient inference—that would signify the transition from current AI capabilities to the predicted 2026 state. Conclude with a risk-adjusted assessment of what is definitively achievable versus what remains speculative.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 metrics",
-    "ai in 2026 review",
     "ai in 2026 \"pdf\"",
     "ai in 2026 site:edu",
     "ai in 2026 site:gov",
@@ -36,9 +34,111 @@
     "ai in 2026 timeline and adoption",
     "ai in 2026 open source tools",
     "ai in 2026 enterprise usage",
-    "ai in 2026 \"case study\""
+    "ai in 2026 \"case study\"",
+    "ai in 2026 metrics",
+    "ai in 2026 review"
   ],
   "websites": [
+    {
+      "id": "site_1774898413506_7c66o",
+      "url": "https://en.wikipedia.org/wiki/Chai_AI",
+      "domain": "en.wikipedia.org",
+      "title": "Chai AI - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Chai AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Reception 3 Technology 4 See also 5 References 6 Ext",
+      "checkedAt": "2026-03-30T19:20:13.756Z"
+    },
+    {
+      "id": "site_1774898412070_o0ou9",
+      "url": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)",
+      "domain": "en.wikipedia.org",
+      "title": "Sora (text-to-video model) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Sora (text-to-video model) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 History Toggle History subsect",
+      "checkedAt": "2026-03-30T19:20:13.506Z"
+    },
+    {
+      "id": "site_1774898412009_aavyv",
+      "url": "https://en.wikipedia.org/wiki/AI_bubble",
+      "domain": "en.wikipedia.org",
+      "title": "AI bubble - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack",
+      "checkedAt": "2026-03-30T19:20:12.070Z"
+    },
+    {
+      "id": "site_1774898411957_98j7o",
+      "url": "https://en.wikipedia.org/wiki/Mercy_(2026_film)",
+      "domain": "en.wikipedia.org",
+      "title": "Mercy (2026 film) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Mercy (2026 film) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
+      "checkedAt": "2026-03-30T19:20:12.009Z"
+    },
+    {
+      "id": "site_1774898411809_niid3",
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "domain": "technologyreview.com",
+      "title": "What&#x27;s next for AI in 2026 | MIT Technology Review",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=technologyreview.com&sz=64",
+      "snippet": "Our AI writers make their big bets for the coming year—here are five hot trends to watch.",
+      "checkedAt": "2026-03-30T19:20:11.957Z"
+    },
+    {
+      "id": "site_1774898407852_d5rpk",
+      "url": "https://en.wikipedia.org/wiki/Vibe_coding",
+      "domain": "en.wikipedia.org",
+      "title": "Vibe coding - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Vibe coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Reception and use 3 Limitations Toggle Limita",
+      "checkedAt": "2026-03-30T19:20:07.925Z"
+    },
+    {
+      "id": "site_1774898407798_pf38m",
+      "url": "https://en.wikipedia.org/wiki/Amanda_Askell",
+      "domain": "en.wikipedia.org",
+      "title": "Amanda Askell - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Amanda Askell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsecti",
+      "checkedAt": "2026-03-30T19:20:07.851Z"
+    },
+    {
+      "id": "site_1774898407278_25atf",
+      "url": "https://en.wikipedia.org/wiki/Grafana",
+      "domain": "en.wikipedia.org",
+      "title": "Grafana - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Grafana - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Architecture 3 LGTM stack 4 Adoption 5 See also 6 Re",
+      "checkedAt": "2026-03-30T19:20:07.798Z"
+    },
+    {
+      "id": "site_1774898407175_mmeh4",
+      "url": "https://en.wikipedia.org/wiki/Dynatrace",
+      "domain": "en.wikipedia.org",
+      "title": "Dynatrace - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Dynatrace - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Products and services 2 Open source contributions 3 History ",
+      "checkedAt": "2026-03-30T19:20:07.278Z"
+    },
+    {
+      "id": "site_1774898407030_l1de6",
+      "url": "https://mixpanel.com/blog/ai-benchmarks-2026/",
+      "domain": "mixpanel.com",
+      "title": "2026 AI benchmarks: What usage data reveals about the next phase of adoption | Signals & Stories",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=mixpanel.com&sz=64",
+      "snippet": "See how your company stacks up across 4 regions and 8 verticals in our 2026 AI benchmarks report. Free download and recommendations here.",
+      "checkedAt": "2026-03-30T19:20:07.175Z"
+    },
     {
       "id": "site_1774898403045_cqi90",
       "url": "https://en.wikipedia.org/wiki/Crab_jujube",
@@ -1188,9 +1288,109 @@
       "url": "https://en.wikipedia.org/wiki/Crab_jujube",
       "domain": "en.wikipedia.org",
       "title": "Crab jujube - Wikipedia"
+    },
+    {
+      "id": 66,
+      "url": "https://mixpanel.com/blog/ai-benchmarks-2026/",
+      "domain": "mixpanel.com",
+      "title": "2026 AI benchmarks: What usage data reveals about the next phase of adoption | Signals & Stories"
+    },
+    {
+      "id": 67,
+      "url": "https://en.wikipedia.org/wiki/Dynatrace",
+      "domain": "en.wikipedia.org",
+      "title": "Dynatrace - Wikipedia"
+    },
+    {
+      "id": 68,
+      "url": "https://en.wikipedia.org/wiki/Grafana",
+      "domain": "en.wikipedia.org",
+      "title": "Grafana - Wikipedia"
+    },
+    {
+      "id": 69,
+      "url": "https://en.wikipedia.org/wiki/Amanda_Askell",
+      "domain": "en.wikipedia.org",
+      "title": "Amanda Askell - Wikipedia"
+    },
+    {
+      "id": 70,
+      "url": "https://en.wikipedia.org/wiki/Vibe_coding",
+      "domain": "en.wikipedia.org",
+      "title": "Vibe coding - Wikipedia"
+    },
+    {
+      "id": 71,
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "domain": "technologyreview.com",
+      "title": "What&#x27;s next for AI in 2026 | MIT Technology Review"
+    },
+    {
+      "id": 72,
+      "url": "https://en.wikipedia.org/wiki/Mercy_(2026_film)",
+      "domain": "en.wikipedia.org",
+      "title": "Mercy (2026 film) - Wikipedia"
+    },
+    {
+      "id": 73,
+      "url": "https://en.wikipedia.org/wiki/AI_bubble",
+      "domain": "en.wikipedia.org",
+      "title": "AI bubble - Wikipedia"
+    },
+    {
+      "id": 74,
+      "url": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)",
+      "domain": "en.wikipedia.org",
+      "title": "Sora (text-to-video model) - Wikipedia"
+    },
+    {
+      "id": 75,
+      "url": "https://en.wikipedia.org/wiki/Chai_AI",
+      "domain": "en.wikipedia.org",
+      "title": "Chai AI - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 75,
+      "summary": "Chai AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Reception 3 Technology 4 See also 5 References 6 Ext"
+    },
+    {
+      "citationId": 74,
+      "summary": "Sora (text-to-video model) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 History Toggle History subsect"
+    },
+    {
+      "citationId": 73,
+      "summary": "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack"
+    },
+    {
+      "citationId": 72,
+      "summary": "Mercy (2026 film) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio"
+    },
+    {
+      "citationId": 71,
+      "summary": "Our AI writers make their big bets for the coming year—here are five hot trends to watch."
+    },
+    {
+      "citationId": 70,
+      "summary": "Vibe coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Reception and use 3 Limitations Toggle Limita"
+    },
+    {
+      "citationId": 69,
+      "summary": "Amanda Askell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsecti"
+    },
+    {
+      "citationId": 68,
+      "summary": "Grafana - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Architecture 3 LGTM stack 4 Adoption 5 See also 6 Re"
+    },
+    {
+      "citationId": 67,
+      "summary": "Dynatrace - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Products and services 2 Open source contributions 3 History "
+    },
+    {
+      "citationId": 66,
+      "summary": "See how your company stacks up across 4 regions and 8 verticals in our 2026 AI benchmarks report. Free download and recommendations here."
+    },
     {
       "citationId": 65,
       "summary": "Crab jujube - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Ingredients and preparation 3 Variants in Thaila"
@@ -1454,6 +1654,30 @@
   ],
   "events": [
     {
+      "id": "ev_1774898413756_xpn48",
+      "at": "2026-03-30T19:20:13.756Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 75."
+    },
+    {
+      "id": "ev_1774898409225_xunvm",
+      "at": "2026-03-30T19:20:09.225Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 review"
+    },
+    {
+      "id": "ev_1774898407925_zdbig",
+      "at": "2026-03-30T19:20:07.925Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 70."
+    },
+    {
+      "id": "ev_1774898406215_v96op",
+      "at": "2026-03-30T19:20:06.215Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 metrics"
+    },
+    {
       "id": "ev_1774898403834_epin6",
       "at": "2026-03-30T19:20:03.834Z",
       "phase": "analyzing",
@@ -1629,6 +1853,16 @@
     }
   ],
   "learnedSoFar": [
+    "Chai AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Reception 3 Technology 4 See also 5 References 6 Ext",
+    "Sora (text-to-video model) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 History Toggle History subsect",
+    "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack",
+    "Mercy (2026 film) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
+    "Our AI writers make their big bets for the coming year—here are five hot trends to watch.",
+    "Vibe coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Reception and use 3 Limitations Toggle Limita",
+    "Amanda Askell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsecti",
+    "Grafana - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Architecture 3 LGTM stack 4 Adoption 5 See also 6 Re",
+    "Dynatrace - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Products and services 2 Open source contributions 3 History ",
+    "See how your company stacks up across 4 regions and 8 verticals in our 2026 AI benchmarks report. Free download and recommendations here.",
     "Crab jujube - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Ingredients and preparation 3 Variants in Thaila",
     "Telecommunications in Taiwan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early history 2 Telephony 3 Radio 4 Telev",
     "Collaborative writing - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Types 3 Uses 4 Scholarly views 5 As an",
@@ -1636,25 +1870,15 @@
     "Hemadpanti architecture - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 History Toggle History subsection",
     "Vertex AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Features Toggle Features subsection 2.1 Model trai",
     "Claude (language model) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Training Toggle Training subsection 1.1 Consti",
-    "OpenAI Codex (AI agent) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Features 3 Reception 4 References To",
-    "Enterprise AI trends in 2026: Sovereign, agentic, edge, AI factories Search Design hub Log in Our platform One platform, four editions Explore our portfolio and pricing Discover your options Palette Get an overview of the Palette full-stack management platform PaletteAI The enterprise platform to design, deploy and manage AI workloads at scale Palette VerteX FIPS and FedRAMP — for government and regulated industries PaletteAI VerteX Commitment to",
-    "From Hype to Hard Reality: Enterprise AI in 2026 Chat with us , powered by LiveChat Skip To Top Navigation Skip To Content Skip To Section Navigation Skip To Footer Facebook Instagram LinkedIn Twitter YouTube Close Menu Open Menu Contact Login Membership element. --> Member Benefits Join Today Member Directory Tech Startups Our Virtual Community Ambassadors Young Tech Professionals Events element. --> Events Calendar Sponsorship Signature Events ",
-    "Most \"best open-source projects\" lists are just random repos with nice star counts. This one is... Tagged with ai, webdev, programming, opensource.",
-    "Explore the best open-source LLMs and find answers to common FAQs about performance, inference optimization, and self-hosted deployment.",
-    "Based on industry trends and conversations across the ActiveState team, here are our key predictions for open source security in 2026.",
-    "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
-    "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
-    "History of artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Precursors Toggle Precursors subsec",
-    "Surface Pro 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Features Toggle Features subsection 1.1 AI features and",
-    "AI boom - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Advances Toggle Advances subsection 2.1 Biomedical 2"
+    "OpenAI Codex (AI agent) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Features 3 Reception 4 References To"
   ],
   "stats": {
-    "sourcesAnalyzed": 65,
-    "tokensUsedEstimate": 6187,
-    "depthScore": 40,
+    "sourcesAnalyzed": 75,
+    "tokensUsedEstimate": 7234,
+    "depthScore": 45,
     "queriesGenerated": 24,
-    "iterations": 13,
-    "uniqueDomains": 35
+    "iterations": 15,
+    "uniqueDomains": 37
   },
   "control": {
     "paused": false,
