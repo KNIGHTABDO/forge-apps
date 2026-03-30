@@ -3,19 +3,25 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T17:43:24.415Z",
-  "updatedAt": "2026-03-30T17:43:39.750Z",
+  "updatedAt": "2026-03-30T17:43:40.864Z",
   "lastAdvancedAt": "2026-03-30T17:43:39.750Z",
-  "phase": "awaiting_plan",
+  "phase": "query_fanout",
   "progress": 4,
   "etaMinutes": 45,
   "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
-  "planApproved": false,
+  "planApproved": true,
   "pendingQueries": [],
   "processedQueries": [],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1774892620864",
+      "at": "2026-03-30T17:43:40.864Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
     {
       "id": "ev_1774892604415_4poqr",
       "at": "2026-03-30T17:43:24.416Z",
@@ -35,5 +41,6 @@
   "control": {
     "paused": false,
     "stopped": false
-  }
+  },
+  "planFinal": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations."
 }
