@@ -3,17 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T19:18:07.720Z",
-  "updatedAt": "2026-03-30T19:21:24.154Z",
-  "lastAdvancedAt": "2026-03-30T19:21:13.597Z",
+  "updatedAt": "2026-03-30T19:22:18.217Z",
+  "lastAdvancedAt": "2026-03-30T19:21:51.638Z",
   "phase": "analyzing",
-  "progress": 33,
-  "etaMinutes": 27,
+  "progress": 37,
+  "etaMinutes": 25,
   "planDraft": "1. Define research parameters and key technological domains: Establish the scope of the investigation by categorizing \"AI in 2026\" into distinct pillars, including hardware scaling (compute), architectural breakthroughs (agentic workflows, multimodal reasoning), regulatory landscape changes, and industry-specific adoption (healthcare, finance, coding). Define the temporal context by anchoring the research in current 2024-2025 trajectory data to forecast the state of the art 12 to 24 months out.\n\n2. Execute multi-source search fan-out: Conduct a comprehensive scan across disparate data streams. Gather primary intelligence from technical research preprints (arXiv), vendor roadmaps (OpenAI, Google, Anthropic, NVIDIA), venture capital market outlooks, and government policy white papers. Ensure cross-referencing between optimistic marketing projections and pessimistic academic critiques to capture a balanced spectrum of expected outcomes.\n\n3. Identify and validate evidence gaps: Rigorously evaluate the collected data for areas of high uncertainty or conflicting projections. Specifically, focus on the \"scaling wall\" debate, the feasibility of autonomous agent reliability at scale, and potential bottlenecks in energy infrastructure. Distinguish between speculative hype and verifiable engineering milestones to prevent over-indexing on unsubstantiated industry promises.\n\n4. Perform comparative cross-analysis: Synthesize the technical, economic, and regulatory findings to identify points of convergence. Assess how shifting compute constraints might impact the deployment of smaller, specialized models versus massive foundation models. Evaluate the interplay between tightening international AI regulations and the development speed of proprietary versus open-weight models.\n\n5. Synthesize findings into a forward-looking strategic summary: Consolidate the analysis into a final report that maps the most likely AI landscape for 2026. Prioritize actionable insights, highlighting critical inflection points—such as breakthroughs in reasoning capabilities or energy-efficient inference—that would signify the transition from current AI capabilities to the predicted 2026 state. Conclude with a risk-adjusted assessment of what is definitively achievable versus what remains speculative.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 \"analysis\"",
-    "ai in 2026 opinion",
-    "ai in 2026 official documentation \"case study\"",
     "ai in 2026 official documentation metrics",
     "ai in 2026 official documentation review",
     "ai in 2026 official documentation \"pdf\""
@@ -36,185 +33,329 @@
     "ai in 2026 review",
     "ai in 2026 \"pdf\"",
     "ai in 2026 site:edu",
-    "ai in 2026 site:gov"
+    "ai in 2026 site:gov",
+    "ai in 2026 \"analysis\"",
+    "ai in 2026 opinion",
+    "ai in 2026 official documentation \"case study\""
   ],
   "websites": [
     {
-      "id": "site_1774898484121_2uio9",
+      "id": "site_1774898538013_jbsmn",
+      "url": "https://en.wikipedia.org/wiki/Kilnam_Chon",
+      "domain": "en.wikipedia.org",
+      "title": "Kilnam Chon - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Kilnam Chon - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection",
+      "checkedAt": "2026-03-30T19:22:18.217Z"
+    },
+    {
+      "id": "site_1774898531148_vay91",
+      "url": "https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2026-ai-in-professional-services-report.pdf",
+      "domain": "thomsonreuters.com",
+      "title": "thomsonreuters.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=64",
+      "snippet": "%PDF-1.6 %���� 3450 0 obj > endobj 3471 0 obj >/Filter/FlateDecode/ID[ ]/Index[3450 39]/Info 3449 0 R/Length 100/Prev 1147733/Root 3451 0 R/Size 3489/Type/XRef/W[1 2 1]>>stream h�bbd\u0010``b`�\u0007\u0012 K�\u0004�'\u00107 H0�\u0001\u0012,% �6\u0010+\u001bD\u001c\u0001\u0011\\ uu �9H6\u0019�� H�\u0004\u0012*����:�`|\u0001\"2��`%�p�g`b��\u0004Y��H%�����\u0000\u0001\u0006\u0000�\u0005\u0010V endstream endobj startxref 0 %%EOF 3488 0 obj >stream hޤS�K�a\u0014?ϻ5�\u0012��k��6�\u0004A~�N�.�b:h��6�_d��p�\u0011\u001bB\bc�\\����6��Zԝ��!+\u0017%�8Y\u0011z�]y1\u0014궳����\u000e�s�y��=�sx��\u0000\u0000��\u001d\\\u0001(�\u00031�\u00131�x�\u0005:\u0000��E�\u0002 ��",
+      "checkedAt": "2026-03-30T19:22:18.013Z"
+    },
+    {
+      "id": "site_1774898528111_iecpu",
+      "url": "https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/",
+      "domain": "futransolutions.com",
+      "title": "AI Use Cases 2026: A Framework for Impact & Scale",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=futransolutions.com&sz=64",
+      "snippet": "Master a 2026 framework for scaling AI use cases. Move from pilot to production by focusing on decision impact, operational readiness, and ROI at scale.",
+      "checkedAt": "2026-03-30T19:22:11.148Z"
+    },
+    {
+      "id": "site_1774898522323_50l0t",
+      "url": "https://dgagroup.com/wp-content/uploads/2026/01/2026-AI-Decrypted-Report-DGA-Group.pdf",
+      "domain": "dgagroup.com",
+      "title": "dgagroup.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=dgagroup.com&sz=64",
+      "snippet": "%PDF-1.4 %���� 1 0 obj > endobj 7 0 obj > endobj 2 0 obj > endobj 3 0 obj > stream 2026 AI Decrypted 2026 AI Decrypted endstream endobj 4 0 obj > endobj 5 0 obj > endobj 6 0 obj > endobj 8 0 obj > /Font 45 0 R >> /MediaBox [0.0 7.9200063 612.0 799.92] /Contents 46 0 R /StructParents 0 /Tabs /S /Parent 2 0 R /BleedBox [0.0 7.9200063 612.0 799.92] /TrimBox [0.0 7.9200063 612.0 799.92] /CropBox [0.0 7.9200063 612.0 799.92] /Rotate 0 /Annots [] >> en",
+      "checkedAt": "2026-03-30T19:22:08.111Z"
+    },
+    {
+      "id": "site_1774898522163_m3ey3",
+      "url": "https://www.stateofdocs.com/2026/ai-and-documentation-creation",
+      "domain": "stateofdocs.com",
+      "title": "The State of Docs Report 2026 – AI and documentation creation",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=stateofdocs.com&sz=64",
+      "snippet": "How are teams using AI to create documentation, where is it actually saving time, and what",
+      "checkedAt": "2026-03-30T19:22:02.323Z"
+    },
+    {
+      "id": "site_1774898511475_q556l",
+      "url": "https://en.wikipedia.org/wiki/AI_safety",
+      "domain": "en.wikipedia.org",
+      "title": "AI safety - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "AI safety - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Motivations Toggle Motivations subsection 1.1 Existential sa",
+      "checkedAt": "2026-03-30T19:21:51.638Z"
+    },
+    {
+      "id": "site_1774898511352_px0cb",
+      "url": "https://en.wikipedia.org/wiki/Dead_Internet_theory",
+      "domain": "en.wikipedia.org",
+      "title": "Dead Internet theory - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Dead Internet theory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and spread 2 Claims 3 Expert view 4 Evide",
+      "checkedAt": "2026-03-30T19:21:51.475Z"
+    },
+    {
+      "id": "site_1774898510719_jy059",
+      "url": "https://en.wikipedia.org/wiki/AI_agent",
+      "domain": "en.wikipedia.org",
+      "title": "AI agent - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "AI agent - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History 3 Training and testing 4 Autonomous capabi",
+      "checkedAt": "2026-03-30T19:21:51.351Z"
+    },
+    {
+      "id": "site_1774898510403_jt32w",
+      "url": "https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "title": "State AI laws in the United States - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "State AI laws in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Categories of state AI",
+      "checkedAt": "2026-03-30T19:21:50.718Z"
+    },
+    {
+      "id": "site_1774898510304_9l8xw",
+      "url": "https://jakobnielsenphd.substack.com/p/2026-predictions",
+      "domain": "jakobnielsenphd.substack.com",
+      "title": "18 Predictions for 2026 - Jakob Nielsen on UX",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=jakobnielsenphd.substack.com&sz=64",
+      "snippet": "Accelerating AI capabilities will shift focus from raw intelligence to autonomous agents and Generative UI, making UX the primary business moat.",
+      "checkedAt": "2026-03-30T19:21:50.403Z"
+    },
+    {
+      "id": "site_1774898499186_7001y",
+      "url": "https://en.wikipedia.org/wiki/JetBrains",
+      "domain": "en.wikipedia.org",
+      "title": "JetBrains - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "JetBrains - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Financial performance 3 Products Toggle Products s",
+      "checkedAt": "2026-03-30T19:21:39.666Z"
+    },
+    {
+      "id": "site_1774898499077_1ys74",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "domain": "en.wikipedia.org",
+      "title": "Palantir - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Palantir - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2003–2008: Founding and",
+      "checkedAt": "2026-03-30T19:21:39.186Z"
+    },
+    {
+      "id": "site_1774898499002_9ag46",
+      "url": "https://en.wikipedia.org/wiki/Predictive_analytics",
+      "domain": "en.wikipedia.org",
+      "title": "Predictive analytics - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Predictive analytics - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Evolution and Generative AI Integrat",
+      "checkedAt": "2026-03-30T19:21:39.077Z"
+    },
+    {
+      "id": "site_1774898498698_4bp0a",
+      "url": "https://en.wikipedia.org/wiki/Data_center",
+      "domain": "en.wikipedia.org",
+      "title": "Data center - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Data center - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification and types Toggle Classification and types s",
+      "checkedAt": "2026-03-30T19:21:39.002Z"
+    },
+    {
+      "id": "site_1774898497575_0nwo0",
+      "url": "https://www.youtube.com/watch?v=B23W1gRT9eY",
+      "domain": "youtube.com",
+      "title": "youtube.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=64",
+      "snippet": "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"Q83KaeSuFK6f2fcPrZz1-QU\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"action_companion_center_align_descript",
+      "checkedAt": "2026-03-30T19:21:38.698Z"
+    },
+    {
+      "id": "site_1774898487348_57tw3",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-      "checkedAt": "2026-03-30T19:21:24.154Z"
+      "checkedAt": "2026-03-30T19:21:27.381Z"
     },
     {
-      "id": "site_1774898484061_pwqqd",
+      "id": "site_1774898487287_vte7o",
       "url": "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
       "domain": "en.wikipedia.org",
       "title": "Hyperion (data center) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Hyperion (data center) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of conte",
-      "checkedAt": "2026-03-30T19:21:24.121Z"
+      "checkedAt": "2026-03-30T19:21:27.348Z"
     },
     {
-      "id": "site_1774898483989_ocv7d",
+      "id": "site_1774898487224_gn899",
       "url": "https://en.wikipedia.org/wiki/Kalshi",
       "domain": "en.wikipedia.org",
       "title": "Kalshi - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Kalshi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Controversies Toggle Controversies subsection 2.1 Eff",
-      "checkedAt": "2026-03-30T19:21:24.061Z"
+      "checkedAt": "2026-03-30T19:21:27.287Z"
     },
     {
-      "id": "site_1774898483924_t245u",
+      "id": "site_1774898487161_jq0jg",
       "url": "https://en.wikipedia.org/wiki/AI_Safety_Summit_2023",
       "domain": "en.wikipedia.org",
       "title": "AI Safety Summit 2023 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "AI Safety Summit 2023 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Venue 3 Outcomes 4 Notable attendee",
-      "checkedAt": "2026-03-30T19:21:23.989Z"
+      "checkedAt": "2026-03-30T19:21:27.224Z"
     },
     {
-      "id": "site_1774898483863_cpgdh",
+      "id": "site_1774898486945_79h76",
       "url": "https://en.wikipedia.org/wiki/People_search_site",
       "domain": "en.wikipedia.org",
       "title": "People search site - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "People search site - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of contents ",
-      "checkedAt": "2026-03-30T19:21:23.924Z"
+      "checkedAt": "2026-03-30T19:21:27.160Z"
     },
     {
-      "id": "site_1774898473523_anczk",
+      "id": "site_1774898476351_fliuj",
       "url": "https://en.wikipedia.org/wiki/Andrew_Ng",
       "domain": "en.wikipedia.org",
       "title": "Andrew Ng - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Andrew Ng - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
-      "checkedAt": "2026-03-30T19:21:13.597Z"
+      "checkedAt": "2026-03-30T19:21:16.425Z"
     },
     {
-      "id": "site_1774898473433_ceyi2",
+      "id": "site_1774898476281_imm27",
       "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence",
       "domain": "en.wikipedia.org",
       "title": "Environmental impact of artificial intelligence - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Environmental impact of artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Carbon footprint and e",
-      "checkedAt": "2026-03-30T19:21:13.523Z"
+      "checkedAt": "2026-03-30T19:21:16.351Z"
     },
     {
-      "id": "site_1774898473322_2b5a9",
+      "id": "site_1774898476190_je9dv",
       "url": "https://en.wikipedia.org/wiki/Ai_Weiwei",
       "domain": "en.wikipedia.org",
       "title": "Ai Weiwei - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Ai Weiwei - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life Toggle Life subsection 1.1 Early life and work 1.2 Life",
-      "checkedAt": "2026-03-30T19:21:13.433Z"
+      "checkedAt": "2026-03-30T19:21:16.281Z"
     },
     {
-      "id": "site_1774898473254_zi5tk",
+      "id": "site_1774898476121_27eho",
       "url": "https://en.wikipedia.org/wiki/ChatGPT_Deep_Research",
       "domain": "en.wikipedia.org",
       "title": "ChatGPT Deep Research - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "ChatGPT Deep Research - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Agent 2 Usage limit 3 References 4 External link",
-      "checkedAt": "2026-03-30T19:21:13.321Z"
+      "checkedAt": "2026-03-30T19:21:16.189Z"
     },
     {
-      "id": "site_1774898472272_ahnxt",
+      "id": "site_1774898475801_ii094",
       "url": "https://en.wikipedia.org/wiki/ChatGPT",
       "domain": "en.wikipedia.org",
       "title": "ChatGPT - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "ChatGPT - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Training 2 Features Toggle Features subsection 2.1 Paid tier 2",
-      "checkedAt": "2026-03-30T19:21:13.254Z"
+      "checkedAt": "2026-03-30T19:21:16.120Z"
     },
     {
-      "id": "site_1774898461900_z36p7",
-      "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
-      "domain": "en.wikipedia.org",
-      "title": "Artificial general intelligence - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Artificial general intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Characteristics Toggle C",
-      "checkedAt": "2026-03-30T19:21:02.004Z"
-    },
-    {
-      "id": "site_1774898461568_2lbv2",
+      "id": "site_1774898465335_3h0hy",
       "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
       "domain": "en.wikipedia.org",
       "title": "Artificial intelligence - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Goals Toggle Goals subsection 1.1 Reasoning an",
-      "checkedAt": "2026-03-30T19:21:01.900Z"
+      "checkedAt": "2026-03-30T19:21:05.617Z"
     },
     {
-      "id": "site_1774898461427_7hsiz",
+      "id": "site_1774898465131_pbjm3",
       "url": "https://en.wikipedia.org/wiki/Machine_learning",
       "domain": "en.wikipedia.org",
       "title": "Machine learning - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Machine learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Relationships to other fields Toggle Relati",
-      "checkedAt": "2026-03-30T19:21:01.568Z"
+      "checkedAt": "2026-03-30T19:21:05.334Z"
     },
     {
-      "id": "site_1774898458069_xcglj",
+      "id": "site_1774898462486_6r8pa",
       "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
       "domain": "cdn.openai.com",
       "title": "cdn.openai.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=cdn.openai.com&sz=64",
       "snippet": "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 5 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x����w�U�'�ml ���\u0017W� � �\u001cZ{� uk��Co�\u001fҡ�^�\u0005����;�Ƒ�R�Y� ۨ��ɨ{8��\u0007\u001c�^�g��϶\u000f��x �ϭ1 ��� ��$�\u000ew0w{2\u000fW�|�L=���3�� \u0013��e�\u001b��yo5\u0001 ��������M��\u0003s{�A�|\b�k������\u0000\u001aq�z�\\x��\bj�����.��y \u0004;���-��\u001d\u001fף��\u001c�\u0004\b���\b\u000e��\u001c8��\u00004����é��@�\u0018�͎\u0005����i��l��%\\\u0017�sr!p��\u0012.",
-      "checkedAt": "2026-03-30T19:21:01.427Z"
+      "checkedAt": "2026-03-30T19:21:05.131Z"
     },
     {
-      "id": "site_1774898448065_z03wh",
+      "id": "site_1774898457041_h3xxs",
       "url": "https://setr.stanford.edu/sites/default/files/2026-01/SETR2026_01-AI_web-260109.pdf",
       "domain": "setr.stanford.edu",
       "title": "setr.stanford.edu",
-      "status": "failed",
+      "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=setr.stanford.edu&sz=64",
-      "checkedAt": "2026-03-30T19:20:58.069Z"
+      "snippet": "%PDF-1.6 %���� 40490 0 obj >stream h�4�Oo�0 ſ���eΟ\u0015��\"u \u001d\u001c \u0015�i����Z� \u0012���q�X�{�g[��I\u000e �,�2�\"\u0003�s�\u0001�`>G] �tm�m\u001b�)5\u001cw1E�L�ldI+V\u0006\u000e�G�/\u0015����z|-�?1���Φ���) ��\u000eMe�7��������7��d����r�8攺 0\u0000 >stream hޔ�=\u000e�0 ���\u001b$��ԑ�.�,Uņ\u0018*Q!\u0016@\u0014\u0006nO\u001a�0T�t�s���9a�@`�cep*\u0004���\u0002��kl-�+�B`��\b b�*�:�O7@o����U��6#�ڙ��қ�;�C]�\u001c�� z��}��\u001c����>�RZ-��rF��$�)�8�f\u001eG�\u0014-��% \u0012}\u0003ѐA���\u0001�O`H#�O���\u001es�n 4O�(�&���\u0014`\u0000�ˍ� endstream endobj 40492 0 obj >stream h޴[�r�H��O��F�\u001fD�-�211\u0011��������43\u000f\u000e��\u0012!",
+      "checkedAt": "2026-03-30T19:21:02.486Z"
     },
     {
-      "id": "site_1774898438046_wrdxb",
+      "id": "site_1774898446833_v76dz",
       "url": "https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf",
       "domain": "brookings.edu",
       "title": "brookings.edu",
-      "status": "failed",
+      "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=brookings.edu&sz=64",
-      "checkedAt": "2026-03-30T19:20:48.065Z"
+      "snippet": "%PDF-1.7 %���� 10707 0 obj > endobj 10724 0 obj >/Filter/FlateDecode/ID[ ]/Index[10707 33]/Info 10706 0 R/Length 96/Prev 11551744/Root 10708 0 R/Size 10740/Type/XRef/W[1 3 1]>>stream h�bbd`\u0010``b`\u0010�\u0003���@$�\u0015\u0010�6\u0001D2׀I0�)\u0010��\u0002��\u0002\"��A$�z\u0010yx2�d >stream h��Y}X\u0013g�g2!�\u0004!\u0013�\u0001 \u0018����\u0001\u0004,�j\u0012��\u0005 \u0011\u0004�V�(�e-ZWc��Nb�\u0004�H\u0000\u0005�6 ���ZD[�w�x�Ei�G�ܪw�*m��]�n�Ϻ��w&3 �ڽ�y�;O��y?����9�%\u0003\u0000@�g\b�\u0000��@\u000eB�\u001c��\u0000`\u0000\u001f�\u0000�� tk�\b��2\u0001\u0002P������\u0004�̅��\u001b\\\u0015D�/?�lp\b�\u001c \u0002 \u0019��\u0018��\u0001�#Bz\u0005D\u0014\u0001u���S�-h\u0005F�\u000e\b���",
+      "checkedAt": "2026-03-30T19:20:57.041Z"
     },
     {
-      "id": "site_1774898429122_jeenr",
+      "id": "site_1774898436824_438v2",
       "url": "https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf",
       "domain": "internationalaisafetyreport.org",
       "title": "internationalaisafetyreport.org",
-      "status": "analyzed",
+      "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=internationalaisafetyreport.org&sz=64",
-      "snippet": "%PDF-1.5 %���� 35914 0 obj > endobj xref 35914 556 0000000016 00000 n 0000018828 00000 n 0000019113 00000 n 0000019161 00000 n 0000019200 00000 n 0000020822 00000 n 0000021301 00000 n 0000021580 00000 n 0000022118 00000 n 0000022512 00000 n 0000027908 00000 n 0000027938 00000 n 0000028053 00000 n 0000028130 00000 n 0000028247 00000 n 0000028372 00000 n 0000028761 00000 n 0000028862 00000 n 0000029013 00000 n 0000029140 00000 n 0000029266 00000 n ",
-      "checkedAt": "2026-03-30T19:20:38.046Z"
+      "checkedAt": "2026-03-30T19:20:46.833Z"
     },
     {
-      "id": "site_1774898419120_e6ohm",
+      "id": "site_1774898426812_7y20q",
       "url": "https://avature.ai/wp-content/uploads/2026/01/Avature-AI-Impact-Report-2026.pdf",
       "domain": "avature.ai",
       "title": "avature.ai",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=avature.ai&sz=64",
-      "checkedAt": "2026-03-30T19:20:29.122Z"
+      "checkedAt": "2026-03-30T19:20:36.824Z"
     },
     {
       "id": "site_1774898413506_7c66o",
@@ -1528,33 +1669,33 @@
     },
     {
       "id": 76,
-      "url": "https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf",
-      "domain": "internationalaisafetyreport.org",
-      "title": "internationalaisafetyreport.org"
+      "url": "https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf",
+      "domain": "brookings.edu",
+      "title": "brookings.edu"
     },
     {
       "id": 77,
+      "url": "https://setr.stanford.edu/sites/default/files/2026-01/SETR2026_01-AI_web-260109.pdf",
+      "domain": "setr.stanford.edu",
+      "title": "setr.stanford.edu"
+    },
+    {
+      "id": 78,
       "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
       "domain": "cdn.openai.com",
       "title": "cdn.openai.com"
     },
     {
-      "id": 78,
+      "id": 79,
       "url": "https://en.wikipedia.org/wiki/Machine_learning",
       "domain": "en.wikipedia.org",
       "title": "Machine learning - Wikipedia"
     },
     {
-      "id": 79,
+      "id": 80,
       "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
       "domain": "en.wikipedia.org",
       "title": "Artificial intelligence - Wikipedia"
-    },
-    {
-      "id": 80,
-      "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
-      "domain": "en.wikipedia.org",
-      "title": "Artificial general intelligence - Wikipedia"
     },
     {
       "id": 81,
@@ -1615,9 +1756,159 @@
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com"
+    },
+    {
+      "id": 91,
+      "url": "https://www.youtube.com/watch?v=B23W1gRT9eY",
+      "domain": "youtube.com",
+      "title": "youtube.com"
+    },
+    {
+      "id": 92,
+      "url": "https://en.wikipedia.org/wiki/Data_center",
+      "domain": "en.wikipedia.org",
+      "title": "Data center - Wikipedia"
+    },
+    {
+      "id": 93,
+      "url": "https://en.wikipedia.org/wiki/Predictive_analytics",
+      "domain": "en.wikipedia.org",
+      "title": "Predictive analytics - Wikipedia"
+    },
+    {
+      "id": 94,
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "domain": "en.wikipedia.org",
+      "title": "Palantir - Wikipedia"
+    },
+    {
+      "id": 95,
+      "url": "https://en.wikipedia.org/wiki/JetBrains",
+      "domain": "en.wikipedia.org",
+      "title": "JetBrains - Wikipedia"
+    },
+    {
+      "id": 96,
+      "url": "https://jakobnielsenphd.substack.com/p/2026-predictions",
+      "domain": "jakobnielsenphd.substack.com",
+      "title": "18 Predictions for 2026 - Jakob Nielsen on UX"
+    },
+    {
+      "id": 97,
+      "url": "https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "title": "State AI laws in the United States - Wikipedia"
+    },
+    {
+      "id": 98,
+      "url": "https://en.wikipedia.org/wiki/AI_agent",
+      "domain": "en.wikipedia.org",
+      "title": "AI agent - Wikipedia"
+    },
+    {
+      "id": 99,
+      "url": "https://en.wikipedia.org/wiki/Dead_Internet_theory",
+      "domain": "en.wikipedia.org",
+      "title": "Dead Internet theory - Wikipedia"
+    },
+    {
+      "id": 100,
+      "url": "https://en.wikipedia.org/wiki/AI_safety",
+      "domain": "en.wikipedia.org",
+      "title": "AI safety - Wikipedia"
+    },
+    {
+      "id": 101,
+      "url": "https://www.stateofdocs.com/2026/ai-and-documentation-creation",
+      "domain": "stateofdocs.com",
+      "title": "The State of Docs Report 2026 – AI and documentation creation"
+    },
+    {
+      "id": 102,
+      "url": "https://dgagroup.com/wp-content/uploads/2026/01/2026-AI-Decrypted-Report-DGA-Group.pdf",
+      "domain": "dgagroup.com",
+      "title": "dgagroup.com"
+    },
+    {
+      "id": 103,
+      "url": "https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/",
+      "domain": "futransolutions.com",
+      "title": "AI Use Cases 2026: A Framework for Impact & Scale"
+    },
+    {
+      "id": 104,
+      "url": "https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2026-ai-in-professional-services-report.pdf",
+      "domain": "thomsonreuters.com",
+      "title": "thomsonreuters.com"
+    },
+    {
+      "id": 105,
+      "url": "https://en.wikipedia.org/wiki/Kilnam_Chon",
+      "domain": "en.wikipedia.org",
+      "title": "Kilnam Chon - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 105,
+      "summary": "Kilnam Chon - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection"
+    },
+    {
+      "citationId": 104,
+      "summary": "%PDF-1.6 %���� 3450 0 obj > endobj 3471 0 obj >/Filter/FlateDecode/ID[ ]/Index[3450 39]/Info 3449 0 R/Length 100/Prev 1147733/Root 3451 0 R/Size 3489/Type/XRef/W[1 2 1]>>stream h�bbd\u0010``b`�\u0007\u0012 K�\u0004�'\u00107 H0�\u0001\u0012,% �6\u0010+\u001bD\u001c\u0001\u0011\\ uu �9H6\u0019�� H�\u0004\u0012*����:�`|\u0001\"2��`%�p�g`b��\u0004Y��H%�����\u0000\u0001\u0006\u0000�\u0005\u0010V endstream endobj startxref 0 %%EOF 3488 0 obj >stream hޤS�K�a\u0014?ϻ5�\u0012��k��6�\u0004A~�N�.�b:h��6�_d��p�\u0011\u001bB\bc�\\����6��Zԝ��!+\u0017%�8Y\u0011z�]y1\u0014궳����\u000e�s�y��=�sx��\u0000\u0000��\u001d\\\u0001(�\u00031�\u00131�x�\u0005:\u0000��E�\u0002 ��"
+    },
+    {
+      "citationId": 103,
+      "summary": "Master a 2026 framework for scaling AI use cases. Move from pilot to production by focusing on decision impact, operational readiness, and ROI at scale."
+    },
+    {
+      "citationId": 102,
+      "summary": "%PDF-1.4 %���� 1 0 obj > endobj 7 0 obj > endobj 2 0 obj > endobj 3 0 obj > stream 2026 AI Decrypted 2026 AI Decrypted endstream endobj 4 0 obj > endobj 5 0 obj > endobj 6 0 obj > endobj 8 0 obj > /Font 45 0 R >> /MediaBox [0.0 7.9200063 612.0 799.92] /Contents 46 0 R /StructParents 0 /Tabs /S /Parent 2 0 R /BleedBox [0.0 7.9200063 612.0 799.92] /TrimBox [0.0 7.9200063 612.0 799.92] /CropBox [0.0 7.9200063 612.0 799.92] /Rotate 0 /Annots [] >> en"
+    },
+    {
+      "citationId": 101,
+      "summary": "How are teams using AI to create documentation, where is it actually saving time, and what"
+    },
+    {
+      "citationId": 100,
+      "summary": "AI safety - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Motivations Toggle Motivations subsection 1.1 Existential sa"
+    },
+    {
+      "citationId": 99,
+      "summary": "Dead Internet theory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and spread 2 Claims 3 Expert view 4 Evide"
+    },
+    {
+      "citationId": 98,
+      "summary": "AI agent - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History 3 Training and testing 4 Autonomous capabi"
+    },
+    {
+      "citationId": 97,
+      "summary": "State AI laws in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Categories of state AI"
+    },
+    {
+      "citationId": 96,
+      "summary": "Accelerating AI capabilities will shift focus from raw intelligence to autonomous agents and Generative UI, making UX the primary business moat."
+    },
+    {
+      "citationId": 95,
+      "summary": "JetBrains - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Financial performance 3 Products Toggle Products s"
+    },
+    {
+      "citationId": 94,
+      "summary": "Palantir - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2003–2008: Founding and"
+    },
+    {
+      "citationId": 93,
+      "summary": "Predictive analytics - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Evolution and Generative AI Integrat"
+    },
+    {
+      "citationId": 92,
+      "summary": "Data center - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification and types Toggle Classification and types s"
+    },
+    {
+      "citationId": 91,
+      "summary": "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"Q83KaeSuFK6f2fcPrZz1-QU\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"action_companion_center_align_descript"
+    },
     {
       "citationId": 90,
       "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+"
@@ -1660,23 +1951,23 @@
     },
     {
       "citationId": 80,
-      "summary": "Artificial general intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Characteristics Toggle C"
-    },
-    {
-      "citationId": 79,
       "summary": "Artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Goals Toggle Goals subsection 1.1 Reasoning an"
     },
     {
-      "citationId": 78,
+      "citationId": 79,
       "summary": "Machine learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Relationships to other fields Toggle Relati"
     },
     {
-      "citationId": 77,
+      "citationId": 78,
       "summary": "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 5 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x����w�U�'�ml ���\u0017W� � �\u001cZ{� uk��Co�\u001fҡ�^�\u0005����;�Ƒ�R�Y� ۨ��ɨ{8��\u0007\u001c�^�g��϶\u000f��x �ϭ1 ��� ��$�\u000ew0w{2\u000fW�|�L=���3�� \u0013��e�\u001b��yo5\u0001 ��������M��\u0003s{�A�|\b�k������\u0000\u001aq�z�\\x��\bj�����.��y \u0004;���-��\u001d\u001fף��\u001c�\u0004\b���\b\u000e��\u001c8��\u00004����é��@�\u0018�͎\u0005����i��l��%\\\u0017�sr!p��\u0012."
     },
     {
+      "citationId": 77,
+      "summary": "%PDF-1.6 %���� 40490 0 obj >stream h�4�Oo�0 ſ���eΟ\u0015��\"u \u001d\u001c \u0015�i����Z� \u0012���q�X�{�g[��I\u000e �,�2�\"\u0003�s�\u0001�`>G] �tm�m\u001b�)5\u001cw1E�L�ldI+V\u0006\u000e�G�/\u0015����z|-�?1���Φ���) ��\u000eMe�7��������7��d����r�8攺 0\u0000 >stream hޔ�=\u000e�0 ���\u001b$��ԑ�.�,Uņ\u0018*Q!\u0016@\u0014\u0006nO\u001a�0T�t�s���9a�@`�cep*\u0004���\u0002��kl-�+�B`��\b b�*�:�O7@o����U��6#�ڙ��қ�;�C]�\u001c�� z��}��\u001c����>�RZ-��rF��$�)�8�f\u001eG�\u0014-��% \u0012}\u0003ѐA���\u0001�O`H#�O���\u001es�n 4O�(�&���\u0014`\u0000�ˍ� endstream endobj 40492 0 obj >stream h޴[�r�H��O��F�\u001fD�-�211\u0011��������43\u000f\u000e��\u0012!"
+    },
+    {
       "citationId": 76,
-      "summary": "%PDF-1.5 %���� 35914 0 obj > endobj xref 35914 556 0000000016 00000 n 0000018828 00000 n 0000019113 00000 n 0000019161 00000 n 0000019200 00000 n 0000020822 00000 n 0000021301 00000 n 0000021580 00000 n 0000022118 00000 n 0000022512 00000 n 0000027908 00000 n 0000027938 00000 n 0000028053 00000 n 0000028130 00000 n 0000028247 00000 n 0000028372 00000 n 0000028761 00000 n 0000028862 00000 n 0000029013 00000 n 0000029140 00000 n 0000029266 00000 n "
+      "summary": "%PDF-1.7 %���� 10707 0 obj > endobj 10724 0 obj >/Filter/FlateDecode/ID[ ]/Index[10707 33]/Info 10706 0 R/Length 96/Prev 11551744/Root 10708 0 R/Size 10740/Type/XRef/W[1 3 1]>>stream h�bbd`\u0010``b`\u0010�\u0003���@$�\u0015\u0010�6\u0001D2׀I0�)\u0010��\u0002��\u0002\"��A$�z\u0010yx2�d >stream h��Y}X\u0013g�g2!�\u0004!\u0013�\u0001 \u0018����\u0001\u0004,�j\u0012��\u0005 \u0011\u0004�V�(�e-ZWc��Nb�\u0004�H\u0000\u0005�6 ���ZD[�w�x�Ei�G�ܪw�*m��]�n�Ϻ��w&3 �ڽ�y�;O��y?����9�%\u0003\u0000@�g\b�\u0000��@\u000eB�\u001c��\u0000`\u0000\u001f�\u0000�� tk�\b��2\u0001\u0002P������\u0004�̅��\u001b\\\u0015D�/?�lp\b�\u001c \u0002 \u0019��\u0018��\u0001�#Bz\u0005D\u0014\u0001u���S�-h\u0005F�\u000e\b���"
     },
     {
       "citationId": 75,
@@ -1981,38 +2272,74 @@
   ],
   "events": [
     {
-      "id": "ev_1774898484154_4tsu5",
-      "at": "2026-03-30T19:21:24.154Z",
+      "id": "ev_1774898538217_gehty",
+      "at": "2026-03-30T19:22:18.217Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 105."
+    },
+    {
+      "id": "ev_1774898511638_p32y5",
+      "at": "2026-03-30T19:21:51.638Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 official documentation \"case study\""
+    },
+    {
+      "id": "ev_1774898511638_j6g8r",
+      "at": "2026-03-30T19:21:51.638Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 100."
+    },
+    {
+      "id": "ev_1774898499666_7b35c",
+      "at": "2026-03-30T19:21:39.666Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 opinion"
+    },
+    {
+      "id": "ev_1774898499666_0ardn",
+      "at": "2026-03-30T19:21:39.666Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 95."
+    },
+    {
+      "id": "ev_1774898487381_cf42i",
+      "at": "2026-03-30T19:21:27.381Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 \"analysis\""
+    },
+    {
+      "id": "ev_1774898487381_qscep",
+      "at": "2026-03-30T19:21:27.381Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 90."
     },
     {
-      "id": "ev_1774898473597_gn2vz",
-      "at": "2026-03-30T19:21:13.597Z",
+      "id": "ev_1774898476425_8dt4q",
+      "at": "2026-03-30T19:21:16.425Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 site:gov"
     },
     {
-      "id": "ev_1774898473597_pkaq5",
-      "at": "2026-03-30T19:21:13.597Z",
+      "id": "ev_1774898476425_pcqpp",
+      "at": "2026-03-30T19:21:16.425Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 85."
     },
     {
-      "id": "ev_1774898462004_vc3ov",
-      "at": "2026-03-30T19:21:02.004Z",
+      "id": "ev_1774898465617_8ojmk",
+      "at": "2026-03-30T19:21:05.617Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 site:edu"
     },
     {
-      "id": "ev_1774898462004_az1id",
-      "at": "2026-03-30T19:21:02.004Z",
+      "id": "ev_1774898465617_p8i97",
+      "at": "2026-03-30T19:21:05.617Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 80."
     },
     {
-      "id": "ev_1774898418219_buey8",
-      "at": "2026-03-30T19:20:18.219Z",
+      "id": "ev_1774898424225_0bic8",
+      "at": "2026-03-30T19:20:24.225Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 \"pdf\""
     },
@@ -2216,32 +2543,32 @@
     }
   ],
   "learnedSoFar": [
+    "Kilnam Chon - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection",
+    "%PDF-1.6 %���� 3450 0 obj > endobj 3471 0 obj >/Filter/FlateDecode/ID[ ]/Index[3450 39]/Info 3449 0 R/Length 100/Prev 1147733/Root 3451 0 R/Size 3489/Type/XRef/W[1 2 1]>>stream h�bbd\u0010``b`�\u0007\u0012 K�\u0004�'\u00107 H0�\u0001\u0012,% �6\u0010+\u001bD\u001c\u0001\u0011\\ uu �9H6\u0019�� H�\u0004\u0012*����:�`|\u0001\"2��`%�p�g`b��\u0004Y��H%�����\u0000\u0001\u0006\u0000�\u0005\u0010V endstream endobj startxref 0 %%EOF 3488 0 obj >stream hޤS�K�a\u0014?ϻ5�\u0012��k��6�\u0004A~�N�.�b:h��6�_d��p�\u0011\u001bB\bc�\\����6��Zԝ��!+\u0017%�8Y\u0011z�]y1\u0014궳����\u000e�s�y��=�sx��\u0000\u0000��\u001d\\\u0001(�\u00031�\u00131�x�\u0005:\u0000��E�\u0002 ��",
+    "Master a 2026 framework for scaling AI use cases. Move from pilot to production by focusing on decision impact, operational readiness, and ROI at scale.",
+    "%PDF-1.4 %���� 1 0 obj > endobj 7 0 obj > endobj 2 0 obj > endobj 3 0 obj > stream 2026 AI Decrypted 2026 AI Decrypted endstream endobj 4 0 obj > endobj 5 0 obj > endobj 6 0 obj > endobj 8 0 obj > /Font 45 0 R >> /MediaBox [0.0 7.9200063 612.0 799.92] /Contents 46 0 R /StructParents 0 /Tabs /S /Parent 2 0 R /BleedBox [0.0 7.9200063 612.0 799.92] /TrimBox [0.0 7.9200063 612.0 799.92] /CropBox [0.0 7.9200063 612.0 799.92] /Rotate 0 /Annots [] >> en",
+    "How are teams using AI to create documentation, where is it actually saving time, and what",
+    "AI safety - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Motivations Toggle Motivations subsection 1.1 Existential sa",
+    "Dead Internet theory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and spread 2 Claims 3 Expert view 4 Evide",
+    "AI agent - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History 3 Training and testing 4 Autonomous capabi",
+    "State AI laws in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Categories of state AI",
+    "Accelerating AI capabilities will shift focus from raw intelligence to autonomous agents and Generative UI, making UX the primary business moat.",
+    "JetBrains - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Financial performance 3 Products Toggle Products s",
+    "Palantir - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2003–2008: Founding and",
+    "Predictive analytics - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Evolution and Generative AI Integrat",
+    "Data center - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification and types Toggle Classification and types s",
+    "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"Q83KaeSuFK6f2fcPrZz1-QU\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"action_companion_center_align_descript",
     "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
     "Hyperion (data center) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of conte",
-    "Kalshi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Controversies Toggle Controversies subsection 2.1 Eff",
-    "AI Safety Summit 2023 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Venue 3 Outcomes 4 Notable attendee",
-    "People search site - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of contents ",
-    "Andrew Ng - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
-    "Environmental impact of artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Carbon footprint and e",
-    "Ai Weiwei - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life Toggle Life subsection 1.1 Early life and work 1.2 Life",
-    "ChatGPT Deep Research - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Agent 2 Usage limit 3 References 4 External link",
-    "ChatGPT - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Training 2 Features Toggle Features subsection 2.1 Paid tier 2",
-    "Artificial general intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Characteristics Toggle C",
-    "Artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Goals Toggle Goals subsection 1.1 Reasoning an",
-    "Machine learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Relationships to other fields Toggle Relati",
-    "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 5 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x����w�U�'�ml ���\u0017W� � �\u001cZ{� uk��Co�\u001fҡ�^�\u0005����;�Ƒ�R�Y� ۨ��ɨ{8��\u0007\u001c�^�g��϶\u000f��x �ϭ1 ��� ��$�\u000ew0w{2\u000fW�|�L=���3�� \u0013��e�\u001b��yo5\u0001 ��������M��\u0003s{�A�|\b�k������\u0000\u001aq�z�\\x��\bj�����.��y \u0004;���-��\u001d\u001fף��\u001c�\u0004\b���\b\u000e��\u001c8��\u00004����é��@�\u0018�͎\u0005����i��l��%\\\u0017�sr!p��\u0012.",
-    "%PDF-1.5 %���� 35914 0 obj > endobj xref 35914 556 0000000016 00000 n 0000018828 00000 n 0000019113 00000 n 0000019161 00000 n 0000019200 00000 n 0000020822 00000 n 0000021301 00000 n 0000021580 00000 n 0000022118 00000 n 0000022512 00000 n 0000027908 00000 n 0000027938 00000 n 0000028053 00000 n 0000028130 00000 n 0000028247 00000 n 0000028372 00000 n 0000028761 00000 n 0000028862 00000 n 0000029013 00000 n 0000029140 00000 n 0000029266 00000 n ",
-    "Chai AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Reception 3 Technology 4 See also 5 References 6 Ext",
-    "Sora (text-to-video model) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 History Toggle History subsect",
-    "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack"
+    "Kalshi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Controversies Toggle Controversies subsection 2.1 Eff"
   ],
   "stats": {
-    "sourcesAnalyzed": 90,
-    "tokensUsedEstimate": 9034,
-    "depthScore": 51,
+    "sourcesAnalyzed": 105,
+    "tokensUsedEstimate": 10584,
+    "depthScore": 55,
     "queriesGenerated": 24,
-    "iterations": 18,
-    "uniqueDomains": 39
+    "iterations": 21,
+    "uniqueDomains": 47
   },
   "control": {
     "paused": false,
