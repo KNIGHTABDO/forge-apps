@@ -3,17 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T19:18:07.720Z",
-  "updatedAt": "2026-03-30T19:20:13.756Z",
-  "lastAdvancedAt": "2026-03-30T19:20:09.225Z",
+  "updatedAt": "2026-03-30T19:21:24.154Z",
+  "lastAdvancedAt": "2026-03-30T19:21:13.597Z",
   "phase": "analyzing",
-  "progress": 29,
-  "etaMinutes": 29,
+  "progress": 33,
+  "etaMinutes": 27,
   "planDraft": "1. Define research parameters and key technological domains: Establish the scope of the investigation by categorizing \"AI in 2026\" into distinct pillars, including hardware scaling (compute), architectural breakthroughs (agentic workflows, multimodal reasoning), regulatory landscape changes, and industry-specific adoption (healthcare, finance, coding). Define the temporal context by anchoring the research in current 2024-2025 trajectory data to forecast the state of the art 12 to 24 months out.\n\n2. Execute multi-source search fan-out: Conduct a comprehensive scan across disparate data streams. Gather primary intelligence from technical research preprints (arXiv), vendor roadmaps (OpenAI, Google, Anthropic, NVIDIA), venture capital market outlooks, and government policy white papers. Ensure cross-referencing between optimistic marketing projections and pessimistic academic critiques to capture a balanced spectrum of expected outcomes.\n\n3. Identify and validate evidence gaps: Rigorously evaluate the collected data for areas of high uncertainty or conflicting projections. Specifically, focus on the \"scaling wall\" debate, the feasibility of autonomous agent reliability at scale, and potential bottlenecks in energy infrastructure. Distinguish between speculative hype and verifiable engineering milestones to prevent over-indexing on unsubstantiated industry promises.\n\n4. Perform comparative cross-analysis: Synthesize the technical, economic, and regulatory findings to identify points of convergence. Assess how shifting compute constraints might impact the deployment of smaller, specialized models versus massive foundation models. Evaluate the interplay between tightening international AI regulations and the development speed of proprietary versus open-weight models.\n\n5. Synthesize findings into a forward-looking strategic summary: Consolidate the analysis into a final report that maps the most likely AI landscape for 2026. Prioritize actionable insights, highlighting critical inflection points—such as breakthroughs in reasoning capabilities or energy-efficient inference—that would signify the transition from current AI capabilities to the predicted 2026 state. Conclude with a risk-adjusted assessment of what is definitively achievable versus what remains speculative.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 \"pdf\"",
-    "ai in 2026 site:edu",
-    "ai in 2026 site:gov",
     "ai in 2026 \"analysis\"",
     "ai in 2026 opinion",
     "ai in 2026 official documentation \"case study\"",
@@ -36,9 +33,189 @@
     "ai in 2026 enterprise usage",
     "ai in 2026 \"case study\"",
     "ai in 2026 metrics",
-    "ai in 2026 review"
+    "ai in 2026 review",
+    "ai in 2026 \"pdf\"",
+    "ai in 2026 site:edu",
+    "ai in 2026 site:gov"
   ],
   "websites": [
+    {
+      "id": "site_1774898484121_2uio9",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
+      "checkedAt": "2026-03-30T19:21:24.154Z"
+    },
+    {
+      "id": "site_1774898484061_pwqqd",
+      "url": "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
+      "domain": "en.wikipedia.org",
+      "title": "Hyperion (data center) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Hyperion (data center) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of conte",
+      "checkedAt": "2026-03-30T19:21:24.121Z"
+    },
+    {
+      "id": "site_1774898483989_ocv7d",
+      "url": "https://en.wikipedia.org/wiki/Kalshi",
+      "domain": "en.wikipedia.org",
+      "title": "Kalshi - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Kalshi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Controversies Toggle Controversies subsection 2.1 Eff",
+      "checkedAt": "2026-03-30T19:21:24.061Z"
+    },
+    {
+      "id": "site_1774898483924_t245u",
+      "url": "https://en.wikipedia.org/wiki/AI_Safety_Summit_2023",
+      "domain": "en.wikipedia.org",
+      "title": "AI Safety Summit 2023 - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "AI Safety Summit 2023 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Venue 3 Outcomes 4 Notable attendee",
+      "checkedAt": "2026-03-30T19:21:23.989Z"
+    },
+    {
+      "id": "site_1774898483863_cpgdh",
+      "url": "https://en.wikipedia.org/wiki/People_search_site",
+      "domain": "en.wikipedia.org",
+      "title": "People search site - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "People search site - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of contents ",
+      "checkedAt": "2026-03-30T19:21:23.924Z"
+    },
+    {
+      "id": "site_1774898473523_anczk",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Ng",
+      "domain": "en.wikipedia.org",
+      "title": "Andrew Ng - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Andrew Ng - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
+      "checkedAt": "2026-03-30T19:21:13.597Z"
+    },
+    {
+      "id": "site_1774898473433_ceyi2",
+      "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence",
+      "domain": "en.wikipedia.org",
+      "title": "Environmental impact of artificial intelligence - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Environmental impact of artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Carbon footprint and e",
+      "checkedAt": "2026-03-30T19:21:13.523Z"
+    },
+    {
+      "id": "site_1774898473322_2b5a9",
+      "url": "https://en.wikipedia.org/wiki/Ai_Weiwei",
+      "domain": "en.wikipedia.org",
+      "title": "Ai Weiwei - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Ai Weiwei - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life Toggle Life subsection 1.1 Early life and work 1.2 Life",
+      "checkedAt": "2026-03-30T19:21:13.433Z"
+    },
+    {
+      "id": "site_1774898473254_zi5tk",
+      "url": "https://en.wikipedia.org/wiki/ChatGPT_Deep_Research",
+      "domain": "en.wikipedia.org",
+      "title": "ChatGPT Deep Research - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "ChatGPT Deep Research - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Agent 2 Usage limit 3 References 4 External link",
+      "checkedAt": "2026-03-30T19:21:13.321Z"
+    },
+    {
+      "id": "site_1774898472272_ahnxt",
+      "url": "https://en.wikipedia.org/wiki/ChatGPT",
+      "domain": "en.wikipedia.org",
+      "title": "ChatGPT - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "ChatGPT - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Training 2 Features Toggle Features subsection 2.1 Paid tier 2",
+      "checkedAt": "2026-03-30T19:21:13.254Z"
+    },
+    {
+      "id": "site_1774898461900_z36p7",
+      "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
+      "domain": "en.wikipedia.org",
+      "title": "Artificial general intelligence - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Artificial general intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Characteristics Toggle C",
+      "checkedAt": "2026-03-30T19:21:02.004Z"
+    },
+    {
+      "id": "site_1774898461568_2lbv2",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "domain": "en.wikipedia.org",
+      "title": "Artificial intelligence - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Goals Toggle Goals subsection 1.1 Reasoning an",
+      "checkedAt": "2026-03-30T19:21:01.900Z"
+    },
+    {
+      "id": "site_1774898461427_7hsiz",
+      "url": "https://en.wikipedia.org/wiki/Machine_learning",
+      "domain": "en.wikipedia.org",
+      "title": "Machine learning - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Machine learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Relationships to other fields Toggle Relati",
+      "checkedAt": "2026-03-30T19:21:01.568Z"
+    },
+    {
+      "id": "site_1774898458069_xcglj",
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "domain": "cdn.openai.com",
+      "title": "cdn.openai.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=cdn.openai.com&sz=64",
+      "snippet": "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 5 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x����w�U�'�ml ���\u0017W� � �\u001cZ{� uk��Co�\u001fҡ�^�\u0005����;�Ƒ�R�Y� ۨ��ɨ{8��\u0007\u001c�^�g��϶\u000f��x �ϭ1 ��� ��$�\u000ew0w{2\u000fW�|�L=���3�� \u0013��e�\u001b��yo5\u0001 ��������M��\u0003s{�A�|\b�k������\u0000\u001aq�z�\\x��\bj�����.��y \u0004;���-��\u001d\u001fף��\u001c�\u0004\b���\b\u000e��\u001c8��\u00004����é��@�\u0018�͎\u0005����i��l��%\\\u0017�sr!p��\u0012.",
+      "checkedAt": "2026-03-30T19:21:01.427Z"
+    },
+    {
+      "id": "site_1774898448065_z03wh",
+      "url": "https://setr.stanford.edu/sites/default/files/2026-01/SETR2026_01-AI_web-260109.pdf",
+      "domain": "setr.stanford.edu",
+      "title": "setr.stanford.edu",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=setr.stanford.edu&sz=64",
+      "checkedAt": "2026-03-30T19:20:58.069Z"
+    },
+    {
+      "id": "site_1774898438046_wrdxb",
+      "url": "https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf",
+      "domain": "brookings.edu",
+      "title": "brookings.edu",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=brookings.edu&sz=64",
+      "checkedAt": "2026-03-30T19:20:48.065Z"
+    },
+    {
+      "id": "site_1774898429122_jeenr",
+      "url": "https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf",
+      "domain": "internationalaisafetyreport.org",
+      "title": "internationalaisafetyreport.org",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=internationalaisafetyreport.org&sz=64",
+      "snippet": "%PDF-1.5 %���� 35914 0 obj > endobj xref 35914 556 0000000016 00000 n 0000018828 00000 n 0000019113 00000 n 0000019161 00000 n 0000019200 00000 n 0000020822 00000 n 0000021301 00000 n 0000021580 00000 n 0000022118 00000 n 0000022512 00000 n 0000027908 00000 n 0000027938 00000 n 0000028053 00000 n 0000028130 00000 n 0000028247 00000 n 0000028372 00000 n 0000028761 00000 n 0000028862 00000 n 0000029013 00000 n 0000029140 00000 n 0000029266 00000 n ",
+      "checkedAt": "2026-03-30T19:20:38.046Z"
+    },
+    {
+      "id": "site_1774898419120_e6ohm",
+      "url": "https://avature.ai/wp-content/uploads/2026/01/Avature-AI-Impact-Report-2026.pdf",
+      "domain": "avature.ai",
+      "title": "avature.ai",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=avature.ai&sz=64",
+      "checkedAt": "2026-03-30T19:20:29.122Z"
+    },
     {
       "id": "site_1774898413506_7c66o",
       "url": "https://en.wikipedia.org/wiki/Chai_AI",
@@ -1348,9 +1525,159 @@
       "url": "https://en.wikipedia.org/wiki/Chai_AI",
       "domain": "en.wikipedia.org",
       "title": "Chai AI - Wikipedia"
+    },
+    {
+      "id": 76,
+      "url": "https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf",
+      "domain": "internationalaisafetyreport.org",
+      "title": "internationalaisafetyreport.org"
+    },
+    {
+      "id": 77,
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "domain": "cdn.openai.com",
+      "title": "cdn.openai.com"
+    },
+    {
+      "id": 78,
+      "url": "https://en.wikipedia.org/wiki/Machine_learning",
+      "domain": "en.wikipedia.org",
+      "title": "Machine learning - Wikipedia"
+    },
+    {
+      "id": 79,
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "domain": "en.wikipedia.org",
+      "title": "Artificial intelligence - Wikipedia"
+    },
+    {
+      "id": 80,
+      "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
+      "domain": "en.wikipedia.org",
+      "title": "Artificial general intelligence - Wikipedia"
+    },
+    {
+      "id": 81,
+      "url": "https://en.wikipedia.org/wiki/ChatGPT",
+      "domain": "en.wikipedia.org",
+      "title": "ChatGPT - Wikipedia"
+    },
+    {
+      "id": 82,
+      "url": "https://en.wikipedia.org/wiki/ChatGPT_Deep_Research",
+      "domain": "en.wikipedia.org",
+      "title": "ChatGPT Deep Research - Wikipedia"
+    },
+    {
+      "id": 83,
+      "url": "https://en.wikipedia.org/wiki/Ai_Weiwei",
+      "domain": "en.wikipedia.org",
+      "title": "Ai Weiwei - Wikipedia"
+    },
+    {
+      "id": 84,
+      "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence",
+      "domain": "en.wikipedia.org",
+      "title": "Environmental impact of artificial intelligence - Wikipedia"
+    },
+    {
+      "id": 85,
+      "url": "https://en.wikipedia.org/wiki/Andrew_Ng",
+      "domain": "en.wikipedia.org",
+      "title": "Andrew Ng - Wikipedia"
+    },
+    {
+      "id": 86,
+      "url": "https://en.wikipedia.org/wiki/People_search_site",
+      "domain": "en.wikipedia.org",
+      "title": "People search site - Wikipedia"
+    },
+    {
+      "id": 87,
+      "url": "https://en.wikipedia.org/wiki/AI_Safety_Summit_2023",
+      "domain": "en.wikipedia.org",
+      "title": "AI Safety Summit 2023 - Wikipedia"
+    },
+    {
+      "id": 88,
+      "url": "https://en.wikipedia.org/wiki/Kalshi",
+      "domain": "en.wikipedia.org",
+      "title": "Kalshi - Wikipedia"
+    },
+    {
+      "id": 89,
+      "url": "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
+      "domain": "en.wikipedia.org",
+      "title": "Hyperion (data center) - Wikipedia"
+    },
+    {
+      "id": 90,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
     }
   ],
   "notes": [
+    {
+      "citationId": 90,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+"
+    },
+    {
+      "citationId": 89,
+      "summary": "Hyperion (data center) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of conte"
+    },
+    {
+      "citationId": 88,
+      "summary": "Kalshi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Controversies Toggle Controversies subsection 2.1 Eff"
+    },
+    {
+      "citationId": 87,
+      "summary": "AI Safety Summit 2023 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Venue 3 Outcomes 4 Notable attendee"
+    },
+    {
+      "citationId": 86,
+      "summary": "People search site - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of contents "
+    },
+    {
+      "citationId": 85,
+      "summary": "Andrew Ng - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2"
+    },
+    {
+      "citationId": 84,
+      "summary": "Environmental impact of artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Carbon footprint and e"
+    },
+    {
+      "citationId": 83,
+      "summary": "Ai Weiwei - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life Toggle Life subsection 1.1 Early life and work 1.2 Life"
+    },
+    {
+      "citationId": 82,
+      "summary": "ChatGPT Deep Research - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Agent 2 Usage limit 3 References 4 External link"
+    },
+    {
+      "citationId": 81,
+      "summary": "ChatGPT - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Training 2 Features Toggle Features subsection 2.1 Paid tier 2"
+    },
+    {
+      "citationId": 80,
+      "summary": "Artificial general intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Characteristics Toggle C"
+    },
+    {
+      "citationId": 79,
+      "summary": "Artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Goals Toggle Goals subsection 1.1 Reasoning an"
+    },
+    {
+      "citationId": 78,
+      "summary": "Machine learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Relationships to other fields Toggle Relati"
+    },
+    {
+      "citationId": 77,
+      "summary": "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 5 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x����w�U�'�ml ���\u0017W� � �\u001cZ{� uk��Co�\u001fҡ�^�\u0005����;�Ƒ�R�Y� ۨ��ɨ{8��\u0007\u001c�^�g��϶\u000f��x �ϭ1 ��� ��$�\u000ew0w{2\u000fW�|�L=���3�� \u0013��e�\u001b��yo5\u0001 ��������M��\u0003s{�A�|\b�k������\u0000\u001aq�z�\\x��\bj�����.��y \u0004;���-��\u001d\u001fף��\u001c�\u0004\b���\b\u000e��\u001c8��\u00004����é��@�\u0018�͎\u0005����i��l��%\\\u0017�sr!p��\u0012."
+    },
+    {
+      "citationId": 76,
+      "summary": "%PDF-1.5 %���� 35914 0 obj > endobj xref 35914 556 0000000016 00000 n 0000018828 00000 n 0000019113 00000 n 0000019161 00000 n 0000019200 00000 n 0000020822 00000 n 0000021301 00000 n 0000021580 00000 n 0000022118 00000 n 0000022512 00000 n 0000027908 00000 n 0000027938 00000 n 0000028053 00000 n 0000028130 00000 n 0000028247 00000 n 0000028372 00000 n 0000028761 00000 n 0000028862 00000 n 0000029013 00000 n 0000029140 00000 n 0000029266 00000 n "
+    },
     {
       "citationId": 75,
       "summary": "Chai AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Reception 3 Technology 4 See also 5 References 6 Ext"
@@ -1654,6 +1981,42 @@
   ],
   "events": [
     {
+      "id": "ev_1774898484154_4tsu5",
+      "at": "2026-03-30T19:21:24.154Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 90."
+    },
+    {
+      "id": "ev_1774898473597_gn2vz",
+      "at": "2026-03-30T19:21:13.597Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 site:gov"
+    },
+    {
+      "id": "ev_1774898473597_pkaq5",
+      "at": "2026-03-30T19:21:13.597Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 85."
+    },
+    {
+      "id": "ev_1774898462004_vc3ov",
+      "at": "2026-03-30T19:21:02.004Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 site:edu"
+    },
+    {
+      "id": "ev_1774898462004_az1id",
+      "at": "2026-03-30T19:21:02.004Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 80."
+    },
+    {
+      "id": "ev_1774898418219_buey8",
+      "at": "2026-03-30T19:20:18.219Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 \"pdf\""
+    },
+    {
       "id": "ev_1774898413756_xpn48",
       "at": "2026-03-30T19:20:13.756Z",
       "phase": "analyzing",
@@ -1853,32 +2216,32 @@
     }
   ],
   "learnedSoFar": [
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
+    "Hyperion (data center) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of conte",
+    "Kalshi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Controversies Toggle Controversies subsection 2.1 Eff",
+    "AI Safety Summit 2023 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Venue 3 Outcomes 4 Notable attendee",
+    "People search site - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of contents ",
+    "Andrew Ng - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
+    "Environmental impact of artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Carbon footprint and e",
+    "Ai Weiwei - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life Toggle Life subsection 1.1 Early life and work 1.2 Life",
+    "ChatGPT Deep Research - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Agent 2 Usage limit 3 References 4 External link",
+    "ChatGPT - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Training 2 Features Toggle Features subsection 2.1 Paid tier 2",
+    "Artificial general intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Characteristics Toggle C",
+    "Artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Goals Toggle Goals subsection 1.1 Reasoning an",
+    "Machine learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Relationships to other fields Toggle Relati",
+    "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 5 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x����w�U�'�ml ���\u0017W� � �\u001cZ{� uk��Co�\u001fҡ�^�\u0005����;�Ƒ�R�Y� ۨ��ɨ{8��\u0007\u001c�^�g��϶\u000f��x �ϭ1 ��� ��$�\u000ew0w{2\u000fW�|�L=���3�� \u0013��e�\u001b��yo5\u0001 ��������M��\u0003s{�A�|\b�k������\u0000\u001aq�z�\\x��\bj�����.��y \u0004;���-��\u001d\u001fף��\u001c�\u0004\b���\b\u000e��\u001c8��\u00004����é��@�\u0018�͎\u0005����i��l��%\\\u0017�sr!p��\u0012.",
+    "%PDF-1.5 %���� 35914 0 obj > endobj xref 35914 556 0000000016 00000 n 0000018828 00000 n 0000019113 00000 n 0000019161 00000 n 0000019200 00000 n 0000020822 00000 n 0000021301 00000 n 0000021580 00000 n 0000022118 00000 n 0000022512 00000 n 0000027908 00000 n 0000027938 00000 n 0000028053 00000 n 0000028130 00000 n 0000028247 00000 n 0000028372 00000 n 0000028761 00000 n 0000028862 00000 n 0000029013 00000 n 0000029140 00000 n 0000029266 00000 n ",
     "Chai AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Reception 3 Technology 4 See also 5 References 6 Ext",
     "Sora (text-to-video model) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 History Toggle History subsect",
-    "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack",
-    "Mercy (2026 film) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
-    "Our AI writers make their big bets for the coming year—here are five hot trends to watch.",
-    "Vibe coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Reception and use 3 Limitations Toggle Limita",
-    "Amanda Askell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsecti",
-    "Grafana - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Architecture 3 LGTM stack 4 Adoption 5 See also 6 Re",
-    "Dynatrace - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Products and services 2 Open source contributions 3 History ",
-    "See how your company stacks up across 4 regions and 8 verticals in our 2026 AI benchmarks report. Free download and recommendations here.",
-    "Crab jujube - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Ingredients and preparation 3 Variants in Thaila",
-    "Telecommunications in Taiwan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early history 2 Telephony 3 Radio 4 Telev",
-    "Collaborative writing - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Types 3 Uses 4 Scholarly views 5 As an",
-    "Workday, Inc. - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2005–2015 1.2 2015",
-    "Hemadpanti architecture - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 History Toggle History subsection",
-    "Vertex AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Features Toggle Features subsection 2.1 Model trai",
-    "Claude (language model) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Training Toggle Training subsection 1.1 Consti",
-    "OpenAI Codex (AI agent) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Features 3 Reception 4 References To"
+    "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack"
   ],
   "stats": {
-    "sourcesAnalyzed": 75,
-    "tokensUsedEstimate": 7234,
-    "depthScore": 45,
+    "sourcesAnalyzed": 90,
+    "tokensUsedEstimate": 9034,
+    "depthScore": 51,
     "queriesGenerated": 24,
-    "iterations": 15,
-    "uniqueDomains": 37
+    "iterations": 18,
+    "uniqueDomains": 39
   },
   "control": {
     "paused": false,
