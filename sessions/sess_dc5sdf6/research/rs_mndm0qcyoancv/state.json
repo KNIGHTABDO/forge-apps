@@ -3,17 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how can we study anatomy without forgetting",
   "createdAt": "2026-03-30T19:57:29.843Z",
-  "updatedAt": "2026-03-30T19:57:51.951Z",
-  "lastAdvancedAt": "2026-03-30T19:57:36.672Z",
+  "updatedAt": "2026-03-30T19:58:40.472Z",
+  "lastAdvancedAt": "2026-03-30T19:58:25.299Z",
   "phase": "analyzing",
-  "progress": 9,
-  "etaMinutes": 37,
+  "progress": 13,
+  "etaMinutes": 35,
   "planDraft": "1. Define the scope of cognitive retention in medical education: Establish clear parameters by categorizing anatomy study methods into active recall, spaced repetition, multisensory learning, and clinical integration. Define the target audience (e.g., medical students, surgical residents, or anatomists) to ensure the research focuses on evidence-based pedagogical practices rather than anecdotal study tips.\n\n2. Execute a multi-source search fan-out: Conduct a systematic search across academic databases (PubMed, ERIC, Google Scholar) using keywords such as \"long-term retention of anatomical knowledge,\" \"spaced repetition in medical education,\" \"cognitive load theory,\" and \"active recall effectiveness.\" Expand the search to include peer-reviewed journals in medical education, psychology, and neuroscience to capture both the \"what\" (anatomy) and the \"how\" (cognitive science).\n\n3. Analyze retention mechanisms and pedagogical efficacy: Evaluate the identified studies by comparing traditional methods (rote memorization, passive reading) against evidence-based cognitive strategies. Prioritize meta-analyses and longitudinal studies that measure retention over intervals of six months or longer, documenting which specific techniques—such as retrieval practice or dual-coding—show the highest correlation with long-term proficiency.\n\n4. Identify evidence gaps and limitations: Critically assess the literature to highlight areas where data is insufficient, such as the efficacy of specific digital tools versus physical cadaveric dissection in long-term memory consolidation. Note contradictions in studies regarding the \"forgetting curve\" and determine if current research lacks longitudinal data on professional practitioners who no longer engage in daily anatomical study.\n\n5. Synthesize findings into a retention framework: Integrate the collected evidence into a structured, actionable framework that moves from acquisition to maintenance. Construct a final report that maps high-impact cognitive strategies to specific phases of anatomical learning, providing a robust, evidence-backed protocol for maximizing the longevity of anatomical knowledge.",
   "planApproved": true,
   "pendingQueries": [
-    "how can we study anatomy without forgetting official documentation",
-    "how can we study anatomy without forgetting latest research paper",
-    "how can we study anatomy without forgetting industry analysis 2025 2026",
     "how can we study anatomy without forgetting benchmark comparison",
     "how can we study anatomy without forgetting limitations and risks",
     "how can we study anatomy without forgetting case study",
@@ -36,58 +33,238 @@
     "how can we study anatomy without forgetting official documentation \"pdf\""
   ],
   "processedQueries": [
-    "how can we study anatomy without forgetting"
+    "how can we study anatomy without forgetting",
+    "how can we study anatomy without forgetting official documentation",
+    "how can we study anatomy without forgetting latest research paper",
+    "how can we study anatomy without forgetting industry analysis 2025 2026"
   ],
   "websites": [
     {
-      "id": "site_1774900671548_9y2ct",
+      "id": "site_1774900720015_swoj3",
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Privacy Statement – Microsoft privacy",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 2809ef9ce032d1951b1987f94f3104e7 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-03-30T19:58:40.472Z"
+    },
+    {
+      "id": "site_1774900718657_61lc9",
+      "url": "https://zhidao.baidu.com/question/1809873624045600427.html",
+      "domain": "zhidao.baidu.com",
+      "title": "韩漫《Kiss Me If You Can》小说_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "韩漫《Kiss Me If You Can》小说韩漫《Kiss Me If You Can》小说简介韩漫《Kiss Me If You Can》是一部融合了ABO设定、带球跑情节以及娱乐圈元素的浪漫小说。故事围绕大明星切斯·米勒和平凡保镖约书亚·贝利展开，",
+      "checkedAt": "2026-03-30T19:58:40.014Z"
+    },
+    {
+      "id": "site_1774900717690_gp6ci",
+      "url": "https://zhidao.baidu.com/question/212375963343018125.html",
+      "domain": "zhidao.baidu.com",
+      "title": "WHAT I CAN SAY 还是WHAT CAN I SAY_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "WHAT I CAN SAY 还是WHAT CAN I SAY在某些情境下，人们可能会选择用\"What I Can Say\"来表达他们愿意付出努力去寻找合适的言语，而在另一些情况下，则可能会选择\"What Can I Say?\"来表达无奈与无",
+      "checkedAt": "2026-03-30T19:58:38.657Z"
+    },
+    {
+      "id": "site_1774900717367_rdeaf",
+      "url": "https://www.zhihu.com/question/49070672",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T19:58:37.690Z"
+    },
+    {
+      "id": "site_1774900715774_q4p3c",
+      "url": "https://www.intelmarketresearch.com/human-anatomy-apps-market-6332",
+      "domain": "intelmarketresearch.com",
+      "title": "Human Anatomy Apps Market Outlook 2025-2032",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=intelmarketresearch.com&sz=64",
+      "snippet": "Global Human Anatomy Apps market was valued at USD 285M in 2024 and projected to reach USD 1016M by 2032, at 20.1% CAGR.",
+      "checkedAt": "2026-03-30T19:58:37.367Z"
+    },
+    {
+      "id": "site_1774900715738_2gnj4",
+      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
+      "domain": "medicine.stmatthews.edu",
+      "title": "How to Study Anatomy in Medical School: A Complete Guide",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medicine.stmatthews.edu&sz=64",
+      "snippet": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
+      "checkedAt": "2026-03-30T19:58:35.774Z"
+    },
+    {
+      "id": "site_1774900704711_zh4vx",
+      "url": "https://www.zhihu.com/tardis/bd/art/671469903",
+      "domain": "zhihu.com",
+      "title": "安全验证 - 知乎",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
+      "checkedAt": "2026-03-30T19:58:25.298Z"
+    },
+    {
+      "id": "site_1774900703811_hiutd",
+      "url": "https://zhidao.baidu.com/question/1667645694947770227.html",
+      "domain": "zhidao.baidu.com",
+      "title": "can you can a can as a canner can can a can.这句话什么_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "can you can a can as a canner can can a can.这句话什么can you can a can as a canner can can a can？你能像罐头工人一样装罐头吗？这句话中can充当了多个句子成分。第一个can表疑问。第二个can作动词，意为把（",
+      "checkedAt": "2026-03-30T19:58:24.711Z"
+    },
+    {
+      "id": "site_1774900703594_ywy10",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how",
+      "checkedAt": "2026-03-30T19:58:23.810Z"
+    },
+    {
+      "id": "site_1774900703288_pcprs",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11496393/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Technologies for Studying and Teaching Human Anatomy: Implications in Academic Education - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "The teaching of human anatomy (HA) constitutes one of the fundamental pillars of the curriculum in biological and healthcare-related programs. Therefore, it is imperative that the methodology and didactics employed in th",
+      "checkedAt": "2026-03-30T19:58:23.594Z"
+    },
+    {
+      "id": "site_1774900702866_r4srl",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214854X25000469",
+      "domain": "sciencedirect.com",
+      "title": "sciencedirect.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=sciencedirect.com&sz=64",
+      "checkedAt": "2026-03-30T19:58:23.288Z"
+    },
+    {
+      "id": "site_1774900702794_82i2t",
+      "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-study-anatomy",
+      "domain": "kenhub.com",
+      "title": "How to study anatomy: The ultimate guide | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "How to study anatomy: The ultimate guide | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style:norma",
+      "checkedAt": "2026-03-30T19:58:22.866Z"
+    },
+    {
+      "id": "site_1774900702597_45jhv",
+      "url": "https://www.osmosis.org/blog/how-to-study-anatomy-effectively-proven-strategies-for-faster-learning",
+      "domain": "osmosis.org",
+      "title": "osmosis.org",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=osmosis.org&sz=64",
+      "checkedAt": "2026-03-30T19:58:22.794Z"
+    },
+    {
+      "id": "site_1774900690896_isknb",
+      "url": "https://zhidao.baidu.com/question/625402930402148732.html",
+      "domain": "zhidao.baidu.com",
+      "title": "can后面加动词什么形式？_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "can后面加动词什么形式？can后面加动词原形。can用作情态动词的基本意思是“能，能够”“可以”“可能，会”，可表示体力、智力能够完成一件事情或环境赋予的能力，后面接动词的原形，也就是can do。can也可表示由于",
+      "checkedAt": "2026-03-30T19:58:12.034Z"
+    },
+    {
+      "id": "site_1774900689959_nqr4p",
+      "url": "https://zhidao.baidu.com/question/757789525849383692.html",
+      "domain": "zhidao.baidu.com",
+      "title": "STM32中有关CAN总线CAN_SJW、CAN_BS1、CAN_Prescaler是什么？_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "STM32中有关CAN总线CAN_SJW、CAN_BS1、CAN_Prescaler是什么？CAN总线通信中，各节点为了保证同步，避免相位差的产生，需要进行位同步处理。在位同步过程中，CAN_SJW（重新同步跳跃宽度）起到了关键作用，它定义了每",
+      "checkedAt": "2026-03-30T19:58:10.896Z"
+    },
+    {
+      "id": "site_1774900689797_8kgxj",
+      "url": "https://voka.io/how-to-memorize-anatomy-and-physiology/",
+      "domain": "voka.io",
+      "title": "Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
+      "snippet": "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
+      "checkedAt": "2026-03-30T19:58:09.959Z"
+    },
+    {
+      "id": "site_1774900689527_zil0b",
+      "url": "https://hslguides.osu.edu/anatomy",
+      "domain": "hslguides.osu.edu",
+      "title": "Anatomy Resources - Anatomy - LibGuides at Ohio State University-Health Sciences Library",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=hslguides.osu.edu&sz=64",
+      "snippet": "Anatomy Resources - Anatomy - LibGuides at Ohio State University-Health Sciences Library Skip to Main Content Ohio State nav bar The Ohio State University Help BuckeyeLink Map Find People Webmail Search Ohio State Library Hours About Gifts and Donations News and Events HSL Homepage Health Sciences Library LibGuides Anatomy Anatomy Resources Search this Guide Search Anatomy Anatomy Resources Librarian Kaylie Vermillion she/her Email Me Contact: (6",
+      "checkedAt": "2026-03-30T19:58:09.797Z"
+    },
+    {
+      "id": "site_1774900689450_i3k11",
+      "url": "https://www.magneticmemorymethod.com/how-to-memorize-anatomy/",
+      "domain": "magneticmemorymethod.com",
+      "title": "How to Memorize Anatomy for Med School (Without Flashcards)",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=magneticmemorymethod.com&sz=64",
+      "snippet": "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
+      "checkedAt": "2026-03-30T19:58:09.527Z"
+    },
+    {
+      "id": "site_1774900678882_0jev2",
       "url": "https://www.mheducation.com/highered/blog/2024/06/help-students-study-effectively-for-your-a-p-course.html",
       "domain": "mheducation.com",
       "title": "Help Students Study Effectively for Your A&P Course!",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=mheducation.com&sz=64",
       "snippet": "In this article, Dr. Koot shares his top 10 tips to help students be more effective at studying for their A",
-      "checkedAt": "2026-03-30T19:57:51.950Z"
+      "checkedAt": "2026-03-30T19:57:59.122Z"
     },
     {
-      "id": "site_1774900670410_m53m7",
+      "id": "site_1774900677630_x5f1r",
       "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
       "domain": "anatomy.app",
       "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=anatomy.app&sz=64",
       "snippet": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
-      "checkedAt": "2026-03-30T19:57:51.548Z"
+      "checkedAt": "2026-03-30T19:57:58.882Z"
     },
     {
-      "id": "site_1774900669611_tnovn",
+      "id": "site_1774900677151_di566",
       "url": "https://enatom.com/how-to-study-for-anatomy/",
       "domain": "enatom.com",
       "title": "How to Study for Anatomy (and learn Anatomy fast)",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=enatom.com&sz=64",
       "snippet": "How to study anatomy effectively: strategies to overcome overwhelm, cadaver lab anxiety, boring resources, and forgetting structures.",
-      "checkedAt": "2026-03-30T19:57:50.410Z"
+      "checkedAt": "2026-03-30T19:57:57.630Z"
     },
     {
-      "id": "site_1774900668934_0cfpk",
+      "id": "site_1774900677060_1qkbq",
       "url": "https://www.learvo.com/Blog/effective-studying-for-anatomy-mastery",
       "domain": "learvo.com",
       "title": "Effective Studying for Anatomy Mastery",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learvo.com&sz=64",
       "snippet": "Types of Memory: semantic memory for learning, working memory for processing, procedural memory as muscle memory, episodic memory for experiences.",
-      "checkedAt": "2026-03-30T19:57:49.611Z"
+      "checkedAt": "2026-03-30T19:57:57.151Z"
     },
     {
-      "id": "site_1774900667133_eebbe",
+      "id": "site_1774900676324_q6utz",
       "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
       "domain": "instituteofhumananatomy.com",
       "title": "How to Study Anatomy: 5 Proven Memory Techniques",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=instituteofhumananatomy.com&sz=64",
       "snippet": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
-      "checkedAt": "2026-03-30T19:57:48.934Z"
+      "checkedAt": "2026-03-30T19:57:57.060Z"
     }
   ],
   "citations": [
@@ -120,9 +297,159 @@
       "url": "https://www.mheducation.com/highered/blog/2024/06/help-students-study-effectively-for-your-a-p-course.html",
       "domain": "mheducation.com",
       "title": "Help Students Study Effectively for Your A&P Course!"
+    },
+    {
+      "id": 6,
+      "url": "https://www.magneticmemorymethod.com/how-to-memorize-anatomy/",
+      "domain": "magneticmemorymethod.com",
+      "title": "How to Memorize Anatomy for Med School (Without Flashcards)"
+    },
+    {
+      "id": 7,
+      "url": "https://hslguides.osu.edu/anatomy",
+      "domain": "hslguides.osu.edu",
+      "title": "Anatomy Resources - Anatomy - LibGuides at Ohio State University-Health Sciences Library"
+    },
+    {
+      "id": 8,
+      "url": "https://voka.io/how-to-memorize-anatomy-and-physiology/",
+      "domain": "voka.io",
+      "title": "Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan"
+    },
+    {
+      "id": 9,
+      "url": "https://zhidao.baidu.com/question/757789525849383692.html",
+      "domain": "zhidao.baidu.com",
+      "title": "STM32中有关CAN总线CAN_SJW、CAN_BS1、CAN_Prescaler是什么？_百度知道"
+    },
+    {
+      "id": 10,
+      "url": "https://zhidao.baidu.com/question/625402930402148732.html",
+      "domain": "zhidao.baidu.com",
+      "title": "can后面加动词什么形式？_百度知道"
+    },
+    {
+      "id": 11,
+      "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-study-anatomy",
+      "domain": "kenhub.com",
+      "title": "How to study anatomy: The ultimate guide | Kenhub"
+    },
+    {
+      "id": 12,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11496393/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Technologies for Studying and Teaching Human Anatomy: Implications in Academic Education - PMC"
+    },
+    {
+      "id": 13,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC"
+    },
+    {
+      "id": 14,
+      "url": "https://zhidao.baidu.com/question/1667645694947770227.html",
+      "domain": "zhidao.baidu.com",
+      "title": "can you can a can as a canner can can a can.这句话什么_百度知道"
+    },
+    {
+      "id": 15,
+      "url": "https://www.zhihu.com/tardis/bd/art/671469903",
+      "domain": "zhihu.com",
+      "title": "安全验证 - 知乎"
+    },
+    {
+      "id": 16,
+      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
+      "domain": "medicine.stmatthews.edu",
+      "title": "How to Study Anatomy in Medical School: A Complete Guide"
+    },
+    {
+      "id": 17,
+      "url": "https://www.intelmarketresearch.com/human-anatomy-apps-market-6332",
+      "domain": "intelmarketresearch.com",
+      "title": "Human Anatomy Apps Market Outlook 2025-2032"
+    },
+    {
+      "id": 18,
+      "url": "https://zhidao.baidu.com/question/212375963343018125.html",
+      "domain": "zhidao.baidu.com",
+      "title": "WHAT I CAN SAY 还是WHAT CAN I SAY_百度知道"
+    },
+    {
+      "id": 19,
+      "url": "https://zhidao.baidu.com/question/1809873624045600427.html",
+      "domain": "zhidao.baidu.com",
+      "title": "韩漫《Kiss Me If You Can》小说_百度知道"
+    },
+    {
+      "id": 20,
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Privacy Statement – Microsoft privacy"
     }
   ],
   "notes": [
+    {
+      "citationId": 20,
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 2809ef9ce032d1951b1987f94f3104e7 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
+    },
+    {
+      "citationId": 19,
+      "summary": "韩漫《Kiss Me If You Can》小说韩漫《Kiss Me If You Can》小说简介韩漫《Kiss Me If You Can》是一部融合了ABO设定、带球跑情节以及娱乐圈元素的浪漫小说。故事围绕大明星切斯·米勒和平凡保镖约书亚·贝利展开，"
+    },
+    {
+      "citationId": 18,
+      "summary": "WHAT I CAN SAY 还是WHAT CAN I SAY在某些情境下，人们可能会选择用\"What I Can Say\"来表达他们愿意付出努力去寻找合适的言语，而在另一些情况下，则可能会选择\"What Can I Say?\"来表达无奈与无"
+    },
+    {
+      "citationId": 17,
+      "summary": "Global Human Anatomy Apps market was valued at USD 285M in 2024 and projected to reach USD 1016M by 2032, at 20.1% CAGR."
+    },
+    {
+      "citationId": 16,
+      "summary": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology."
+    },
+    {
+      "citationId": 15,
+      "summary": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。"
+    },
+    {
+      "citationId": 14,
+      "summary": "can you can a can as a canner can can a can.这句话什么can you can a can as a canner can can a can？你能像罐头工人一样装罐头吗？这句话中can充当了多个句子成分。第一个can表疑问。第二个can作动词，意为把（"
+    },
+    {
+      "citationId": 13,
+      "summary": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how"
+    },
+    {
+      "citationId": 12,
+      "summary": "The teaching of human anatomy (HA) constitutes one of the fundamental pillars of the curriculum in biological and healthcare-related programs. Therefore, it is imperative that the methodology and didactics employed in th"
+    },
+    {
+      "citationId": 11,
+      "summary": "How to study anatomy: The ultimate guide | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style:norma"
+    },
+    {
+      "citationId": 10,
+      "summary": "can后面加动词什么形式？can后面加动词原形。can用作情态动词的基本意思是“能，能够”“可以”“可能，会”，可表示体力、智力能够完成一件事情或环境赋予的能力，后面接动词的原形，也就是can do。can也可表示由于"
+    },
+    {
+      "citationId": 9,
+      "summary": "STM32中有关CAN总线CAN_SJW、CAN_BS1、CAN_Prescaler是什么？CAN总线通信中，各节点为了保证同步，避免相位差的产生，需要进行位同步处理。在位同步过程中，CAN_SJW（重新同步跳跃宽度）起到了关键作用，它定义了每"
+    },
+    {
+      "citationId": 8,
+      "summary": "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies."
+    },
+    {
+      "citationId": 7,
+      "summary": "Anatomy Resources - Anatomy - LibGuides at Ohio State University-Health Sciences Library Skip to Main Content Ohio State nav bar The Ohio State University Help BuckeyeLink Map Find People Webmail Search Ohio State Library Hours About Gifts and Donations News and Events HSL Homepage Health Sciences Library LibGuides Anatomy Anatomy Resources Search this Guide Search Anatomy Anatomy Resources Librarian Kaylie Vermillion she/her Email Me Contact: (6"
+    },
+    {
+      "citationId": 6,
+      "summary": "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students."
+    },
     {
       "citationId": 5,
       "summary": "In this article, Dr. Koot shares his top 10 tips to help students be more effective at studying for their A"
@@ -146,20 +473,56 @@
   ],
   "events": [
     {
-      "id": "ev_1774900671951_g774g",
-      "at": "2026-03-30T19:57:51.951Z",
+      "id": "ev_1774900720472_9wmq7",
+      "at": "2026-03-30T19:58:40.472Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 20."
+    },
+    {
+      "id": "ev_1774900705299_0zq38",
+      "at": "2026-03-30T19:58:25.299Z",
+      "phase": "analyzing",
+      "message": "Running query: how can we study anatomy without forgetting industry analysis 2025 2026"
+    },
+    {
+      "id": "ev_1774900705298_wqtu7",
+      "at": "2026-03-30T19:58:25.299Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 15."
+    },
+    {
+      "id": "ev_1774900692035_xfb04",
+      "at": "2026-03-30T19:58:12.035Z",
+      "phase": "analyzing",
+      "message": "Running query: how can we study anatomy without forgetting latest research paper"
+    },
+    {
+      "id": "ev_1774900692034_aw4cu",
+      "at": "2026-03-30T19:58:12.034Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 10."
+    },
+    {
+      "id": "ev_1774900679122_x71j6",
+      "at": "2026-03-30T19:57:59.122Z",
+      "phase": "analyzing",
+      "message": "Running query: how can we study anatomy without forgetting official documentation"
+    },
+    {
+      "id": "ev_1774900679122_4zs9y",
+      "at": "2026-03-30T19:57:59.122Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1774900656674_i1svn",
-      "at": "2026-03-30T19:57:36.674Z",
+      "id": "ev_1774900665648_d8nzd",
+      "at": "2026-03-30T19:57:45.648Z",
       "phase": "analyzing",
       "message": "Running query: how can we study anatomy without forgetting"
     },
     {
-      "id": "ev_1774900656673_f4dcb",
-      "at": "2026-03-30T19:57:36.673Z",
+      "id": "ev_1774900665648_waqh9",
+      "at": "2026-03-30T19:57:45.648Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -177,19 +540,32 @@
     }
   ],
   "learnedSoFar": [
+    "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 2809ef9ce032d1951b1987f94f3104e7 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+    "韩漫《Kiss Me If You Can》小说韩漫《Kiss Me If You Can》小说简介韩漫《Kiss Me If You Can》是一部融合了ABO设定、带球跑情节以及娱乐圈元素的浪漫小说。故事围绕大明星切斯·米勒和平凡保镖约书亚·贝利展开，",
+    "WHAT I CAN SAY 还是WHAT CAN I SAY在某些情境下，人们可能会选择用\"What I Can Say\"来表达他们愿意付出努力去寻找合适的言语，而在另一些情况下，则可能会选择\"What Can I Say?\"来表达无奈与无",
+    "Global Human Anatomy Apps market was valued at USD 285M in 2024 and projected to reach USD 1016M by 2032, at 20.1% CAGR.",
+    "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
+    "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
+    "can you can a can as a canner can can a can.这句话什么can you can a can as a canner can can a can？你能像罐头工人一样装罐头吗？这句话中can充当了多个句子成分。第一个can表疑问。第二个can作动词，意为把（",
+    "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how",
+    "The teaching of human anatomy (HA) constitutes one of the fundamental pillars of the curriculum in biological and healthcare-related programs. Therefore, it is imperative that the methodology and didactics employed in th",
+    "How to study anatomy: The ultimate guide | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style:norma",
+    "can后面加动词什么形式？can后面加动词原形。can用作情态动词的基本意思是“能，能够”“可以”“可能，会”，可表示体力、智力能够完成一件事情或环境赋予的能力，后面接动词的原形，也就是can do。can也可表示由于",
+    "STM32中有关CAN总线CAN_SJW、CAN_BS1、CAN_Prescaler是什么？CAN总线通信中，各节点为了保证同步，避免相位差的产生，需要进行位同步处理。在位同步过程中，CAN_SJW（重新同步跳跃宽度）起到了关键作用，它定义了每",
+    "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
+    "Anatomy Resources - Anatomy - LibGuides at Ohio State University-Health Sciences Library Skip to Main Content Ohio State nav bar The Ohio State University Help BuckeyeLink Map Find People Webmail Search Ohio State Library Hours About Gifts and Donations News and Events HSL Homepage Health Sciences Library LibGuides Anatomy Anatomy Resources Search this Guide Search Anatomy Anatomy Resources Librarian Kaylie Vermillion she/her Email Me Contact: (6",
+    "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
     "In this article, Dr. Koot shares his top 10 tips to help students be more effective at studying for their A",
     "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
-    "How to study anatomy effectively: strategies to overcome overwhelm, cadaver lab anxiety, boring resources, and forgetting structures.",
-    "Types of Memory: semantic memory for learning, working memory for processing, procedural memory as muscle memory, episodic memory for experiences.",
-    "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding."
+    "How to study anatomy effectively: strategies to overcome overwhelm, cadaver lab anxiety, boring resources, and forgetting structures."
   ],
   "stats": {
-    "sourcesAnalyzed": 5,
-    "tokensUsedEstimate": 222,
-    "depthScore": 4,
+    "sourcesAnalyzed": 20,
+    "tokensUsedEstimate": 1236,
+    "depthScore": 15,
     "queriesGenerated": 24,
-    "iterations": 1,
-    "uniqueDomains": 5
+    "iterations": 4,
+    "uniqueDomains": 15
   },
   "control": {
     "paused": false,
