@@ -1,0 +1,39 @@
+{
+  "id": "rs_mndlihim77jzb",
+  "sessionId": "sess_dc5sdf6",
+  "query": "how to learn anatomy by heart",
+  "createdAt": "2026-03-30T19:43:18.576Z",
+  "updatedAt": "2026-03-30T19:43:22.929Z",
+  "lastAdvancedAt": "2026-03-30T19:43:22.929Z",
+  "phase": "awaiting_plan",
+  "progress": 4,
+  "etaMinutes": 45,
+  "planDraft": "1. Define the scope of anatomical learning requirements: Establish a clear boundary between clinical anatomy (surface, cross-sectional, and medical imaging), systemic anatomy (systems-based approach), and regional anatomy (topographical). Identify whether the goal is rote memorization for high-stakes examinations or deep conceptual understanding for medical practice, as this determines whether to prioritize mnemonic-heavy resources or structural-functional integration.\n\n2. Execute a broad search fan-out across diverse learning methodologies: Perform a comprehensive search covering evidence-based pedagogical strategies, including spaced repetition systems (Anki, Quizlet), visual-spatial modalities (3D anatomy software, cadaveric dissection guides), and cognitive psychological techniques (active recall, Feynman technique, and the method of loci). Gather data on the efficacy of various resources, ranging from high-yield medical board prep materials to foundational textbooks like Gray’s Anatomy.\n\n3. Conduct a comparative analysis of retention and comprehension efficacy: Evaluate the gathered methodologies by contrasting passive study habits—such as repetitive reading or highlighting—against active strategies. Analyze the trade-offs between \"memorizing by heart\" (pattern recognition) and \"understanding by mechanism\" (physiological correlation), determining which techniques optimize long-term retention versus short-term recall.\n\n4. Identify evidence gaps and potential cognitive bottlenecks: Examine where current research identifies \"failure points\" in anatomical education, such as the difficulty of maintaining memory recall over long durations or the limitations of 2D atlas study for 3D spatial reasoning. Determine if there is a deficiency in current advice regarding the transition from theoretical memorization to clinical application in live patient settings.\n\n5. Synthesize findings into a hierarchical mastery framework: Develop a structured, tiered roadmap that sequences the learning process. This should move from foundational structural memorization (using mnemonics and active recall) to advanced functional integration (linking structure to clinical pathology). Produce a final guide that prioritizes high-impact habits while providing a strategy for continuous review to prevent the decay of acquired anatomical knowledge.",
+  "planApproved": false,
+  "pendingQueries": [],
+  "processedQueries": [],
+  "websites": [],
+  "citations": [],
+  "notes": [],
+  "events": [
+    {
+      "id": "ev_1774899802544_ikobb",
+      "at": "2026-03-30T19:43:22.544Z",
+      "phase": "awaiting_plan",
+      "message": "Research session created. Plan draft is ready for review."
+    }
+  ],
+  "learnedSoFar": [],
+  "stats": {
+    "sourcesAnalyzed": 0,
+    "tokensUsedEstimate": 0,
+    "depthScore": 0,
+    "queriesGenerated": 0,
+    "iterations": 0,
+    "uniqueDomains": 0
+  },
+  "control": {
+    "paused": false,
+    "stopped": false
+  }
+}
