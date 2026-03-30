@@ -3,19 +3,253 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T18:13:13.037Z",
-  "updatedAt": "2026-03-30T18:13:16.277Z",
-  "lastAdvancedAt": "2026-03-30T18:13:16.277Z",
-  "phase": "awaiting_plan",
-  "progress": 4,
-  "etaMinutes": 45,
+  "updatedAt": "2026-03-30T18:13:30.614Z",
+  "lastAdvancedAt": "2026-03-30T18:13:27.108Z",
+  "phase": "analyzing",
+  "progress": 18,
+  "etaMinutes": 5,
   "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
-  "planApproved": false,
-  "pendingQueries": [],
-  "processedQueries": [],
-  "websites": [],
-  "citations": [],
-  "notes": [],
+  "planApproved": true,
+  "pendingQueries": [
+    "ai in 2026 latest research paper",
+    "ai in 2026 industry analysis 2025 2026",
+    "ai in 2026 benchmark comparison",
+    "ai in 2026 limitations and risks",
+    "ai in 2026 case study",
+    "ai in 2026 expert interview",
+    "ai in 2026 economics and costs",
+    "ai in 2026 timeline and adoption",
+    "ai in 2026 open source tools",
+    "ai in 2026 enterprise usage"
+  ],
+  "processedQueries": [
+    "ai in 2026",
+    "ai in 2026 official documentation"
+  ],
+  "websites": [
+    {
+      "id": "site_1774894410317_q3qql",
+      "url": "https://www.zhihu.com/question/2006370013720897348",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:30.614Z"
+    },
+    {
+      "id": "site_1774894410004_56a9m",
+      "url": "https://www.zhihu.com/question/14173371100",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:30.317Z"
+    },
+    {
+      "id": "site_1774894409721_8zkzs",
+      "url": "https://www.zhihu.com/question/571427849",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:30.004Z"
+    },
+    {
+      "id": "site_1774894409246_zqy3h",
+      "url": "https://www.zhihu.com/question/13918010999",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:29.720Z"
+    },
+    {
+      "id": "site_1774894408955_u4sse",
+      "url": "https://www.zhihu.com/question/4023337465",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:29.246Z"
+    },
+    {
+      "id": "site_1774894408672_w3hgl",
+      "url": "https://www.zhihu.com/question/1943070667252670985",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:28.955Z"
+    },
+    {
+      "id": "site_1774894408247_pslhz",
+      "url": "https://www.zhihu.com/question/591009674",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:28.672Z"
+    },
+    {
+      "id": "site_1774894407731_zowff",
+      "url": "https://www.zhihu.com/question/1903860201389548284",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:28.247Z"
+    },
+    {
+      "id": "site_1774894407033_429p6",
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "domain": "technologyreview.com",
+      "title": "What&#x27;s next for AI in 2026 | MIT Technology Review",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=technologyreview.com&sz=64",
+      "snippet": "Our AI writers make their big bets for the coming year—here are five hot trends to watch.",
+      "checkedAt": "2026-03-30T18:13:27.108Z"
+    },
+    {
+      "id": "site_1774894406511_f003e",
+      "url": "https://www.quetext.com/blog/ai-trends-2026",
+      "domain": "quetext.com",
+      "title": "AI Trends to Watch in 2026 | Key Artificial Intelligence Trends",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=quetext.com&sz=64",
+      "snippet": "AI trends in 2026 explained. Explore the latest artificial intelligence trends, developments, enterprise adoption, and the future of AI technology.",
+      "checkedAt": "2026-03-30T18:13:27.033Z"
+    },
+    {
+      "id": "site_1774894406272_1qhfp",
+      "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
+      "domain": "hai.stanford.edu",
+      "title": "hai.stanford.edu",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=hai.stanford.edu&sz=64",
+      "snippet": "self.__next_f.push([1,\"mation campaigns, and help citizens make more informed decisions about the information they consume online.\\u003c/p\\u003e33:T438,\\u003ctable\\u003e\\u003ctbody\\u003e\\u003ctr\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eName\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eRole\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e",
+      "checkedAt": "2026-03-30T18:13:26.511Z"
+    },
+    {
+      "id": "site_1774894406216_16f62",
+      "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026",
+      "domain": "news.microsoft.com",
+      "title": "What’s next in AI: 7 trends to watch in 2026",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=news.microsoft.com&sz=64",
+      "snippet": "Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.",
+      "checkedAt": "2026-03-30T18:13:26.272Z"
+    },
+    {
+      "id": "site_1774894406007_snujn",
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "domain": "ibm.com",
+      "title": "The trends that will shape AI and tech in 2026 | IBM",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ibm.com&sz=64",
+      "snippet": "Reporter Anabelle Nicoud spoke to several experts across AI, security, quantum and beyond to better understand where tech will take us in 2026.",
+      "checkedAt": "2026-03-30T18:13:26.216Z"
+    },
+    {
+      "id": "site_1774894405979_lyi2d",
+      "url": "https://www.forbes.com/sites/robtoews/2025/12/22/10-ai-predictions-for-2026/",
+      "domain": "forbes.com",
+      "title": "forbes.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64",
+      "checkedAt": "2026-03-30T18:13:26.007Z"
+    }
+  ],
+  "citations": [
+    {
+      "id": 1,
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "domain": "ibm.com",
+      "title": "The trends that will shape AI and tech in 2026 | IBM"
+    },
+    {
+      "id": 2,
+      "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026",
+      "domain": "news.microsoft.com",
+      "title": "What’s next in AI: 7 trends to watch in 2026"
+    },
+    {
+      "id": 3,
+      "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
+      "domain": "hai.stanford.edu",
+      "title": "hai.stanford.edu"
+    },
+    {
+      "id": 4,
+      "url": "https://www.quetext.com/blog/ai-trends-2026",
+      "domain": "quetext.com",
+      "title": "AI Trends to Watch in 2026 | Key Artificial Intelligence Trends"
+    },
+    {
+      "id": 5,
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "domain": "technologyreview.com",
+      "title": "What&#x27;s next for AI in 2026 | MIT Technology Review"
+    }
+  ],
+  "notes": [
+    {
+      "citationId": 5,
+      "summary": "Our AI writers make their big bets for the coming year—here are five hot trends to watch."
+    },
+    {
+      "citationId": 4,
+      "summary": "AI trends in 2026 explained. Explore the latest artificial intelligence trends, developments, enterprise adoption, and the future of AI technology."
+    },
+    {
+      "citationId": 3,
+      "summary": "self.__next_f.push([1,\"mation campaigns, and help citizens make more informed decisions about the information they consume online.\\u003c/p\\u003e33:T438,\\u003ctable\\u003e\\u003ctbody\\u003e\\u003ctr\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eName\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eRole\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e"
+    },
+    {
+      "citationId": 2,
+      "summary": "Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency."
+    },
+    {
+      "citationId": 1,
+      "summary": "Reporter Anabelle Nicoud spoke to several experts across AI, security, quantum and beyond to better understand where tech will take us in 2026."
+    }
+  ],
   "events": [
+    {
+      "id": "ev_1774894410614_wa745",
+      "at": "2026-03-30T18:13:30.614Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774894407108_bmk1s",
+      "at": "2026-03-30T18:13:27.108Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 official documentation"
+    },
+    {
+      "id": "ev_1774894407108_lt1f5",
+      "at": "2026-03-30T18:13:27.108Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774894405306_os5hu",
+      "at": "2026-03-30T18:13:25.306Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026"
+    },
+    {
+      "id": "ev_1774894405305_g63s0",
+      "at": "2026-03-30T18:13:25.305Z",
+      "phase": "query_fanout",
+      "message": "Generated 12 additional search vectors."
+    },
+    {
+      "id": "ev_1774894402261",
+      "at": "2026-03-30T18:13:22.261Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
     {
       "id": "ev_1774894393037_6namg",
       "at": "2026-03-30T18:13:13.037Z",
@@ -23,17 +257,24 @@
       "message": "Research session created. Plan draft is ready for review."
     }
   ],
-  "learnedSoFar": [],
+  "learnedSoFar": [
+    "Our AI writers make their big bets for the coming year—here are five hot trends to watch.",
+    "AI trends in 2026 explained. Explore the latest artificial intelligence trends, developments, enterprise adoption, and the future of AI technology.",
+    "self.__next_f.push([1,\"mation campaigns, and help citizens make more informed decisions about the information they consume online.\\u003c/p\\u003e33:T438,\\u003ctable\\u003e\\u003ctbody\\u003e\\u003ctr\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eName\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eRole\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e",
+    "Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.",
+    "Reporter Anabelle Nicoud spoke to several experts across AI, security, quantum and beyond to better understand where tech will take us in 2026."
+  ],
   "stats": {
-    "sourcesAnalyzed": 0,
-    "tokensUsedEstimate": 0,
-    "depthScore": 0,
-    "queriesGenerated": 0,
-    "iterations": 0,
-    "uniqueDomains": 0
+    "sourcesAnalyzed": 5,
+    "tokensUsedEstimate": 301,
+    "depthScore": 12,
+    "queriesGenerated": 12,
+    "iterations": 2,
+    "uniqueDomains": 5
   },
   "control": {
     "paused": false,
     "stopped": false
-  }
+  },
+  "planFinal": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations."
 }
