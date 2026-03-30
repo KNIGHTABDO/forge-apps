@@ -3,8 +3,8 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T19:18:07.720Z",
-  "updatedAt": "2026-03-30T19:22:55.582Z",
-  "lastAdvancedAt": "2026-03-30T19:22:55.582Z",
+  "updatedAt": "2026-03-30T19:23:00.261Z",
+  "lastAdvancedAt": "2026-03-30T19:22:31.602Z",
   "phase": "complete",
   "progress": 100,
   "etaMinutes": 0,
@@ -39,104 +39,113 @@
   ],
   "websites": [
     {
-      "id": "site_1774898566506_h02bp",
+      "id": "site_1774898575301_qtswy",
+      "url": "https://en.wikipedia.org/wiki/Stack_Overflow",
+      "domain": "en.wikipedia.org",
+      "title": "Stack Overflow - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Stack Overflow - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Security breach 1",
+      "checkedAt": "2026-03-30T19:22:55.381Z"
+    },
+    {
+      "id": "site_1774898574378_wummd",
       "url": "https://en.wikipedia.org/wiki/Essential_Video_Coding",
       "domain": "en.wikipedia.org",
       "title": "Essential Video Coding - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Essential Video Coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Concept 2 Implementations 3 MPAI-EVC 4 See also",
-      "checkedAt": "2026-03-30T19:22:46.585Z"
+      "checkedAt": "2026-03-30T19:22:55.301Z"
     },
     {
-      "id": "site_1774898566418_3mbzw",
+      "id": "site_1774898574297_ah50f",
       "url": "https://en.wikipedia.org/wiki/ROCm",
       "domain": "en.wikipedia.org",
       "title": "ROCm - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "ROCm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Heterogeneous System ",
-      "checkedAt": "2026-03-30T19:22:46.506Z"
+      "checkedAt": "2026-03-30T19:22:54.378Z"
     },
     {
-      "id": "site_1774898566256_b53jd",
+      "id": "site_1774898573830_5zhqw",
       "url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
       "domain": "en.wikipedia.org",
       "title": "Raspberry Pi - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Raspberry Pi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Origins and launch ",
-      "checkedAt": "2026-03-30T19:22:46.417Z"
+      "checkedAt": "2026-03-30T19:22:54.297Z"
     },
     {
-      "id": "site_1774898564384_jlusz",
-      "url": "https://www.sustainablecoast.org/globalAI.pdf",
-      "domain": "sustainablecoast.org",
-      "title": "sustainablecoast.org",
+      "id": "site_1774898563818_wotrq",
+      "url": "https://www.usda.gov/sites/default/files/documents/fy-2025-2026-usda-ai-strategy.pdf",
+      "domain": "usda.gov",
+      "title": "usda.gov",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=usda.gov&sz=64",
+      "checkedAt": "2026-03-30T19:22:53.830Z"
+    },
+    {
+      "id": "site_1774898561857_8fb8y",
+      "url": "https://ai.google/static/documents/ai-responsibility-update-2026.pdf",
+      "domain": "ai.google",
+      "title": "ai.google",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sustainablecoast.org&sz=64",
-      "snippet": "%PDF-1.7 %���� 1 0 obj >>> endobj 2 0 obj > endobj 3 0 obj > endobj 4 0 obj /LastModified /NumberOfPageItemsInPage 3/NumberofPages 1/OriginalDocumentID /PageItemUIDToLocationDataMap >/PageTransformationMatrixList >/PageUIDList >/PageWidthList >>>>>/Resources >/XObject >>>/Rotate 0/Tabs/W/Thumb 23 0 R /TrimBox[ 0 0 612 792]/Type/Page>> endobj 5 0 obj >stream H�*��w\u000f6PH/�2P\b��w�5Pp�� �*D\u00177�!n\u0004\u0011\u0007\b0\u0000v�\u0011\u001a endstream endobj 6 0 obj > endobj 7 0 obj >/Ex",
-      "checkedAt": "2026-03-30T19:22:46.256Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=ai.google&sz=64",
+      "snippet": "%PDF-1.5 %���� 2747 0 obj > endobj xref 2747 35 0000000016 00000 n 0000002378 00000 n 0000002541 00000 n 0000005529 00000 n 0000005679 00000 n 0000006151 00000 n 0000006266 00000 n 0000006295 00000 n 0000007233 00000 n 0000008308 00000 n 0000009280 00000 n 0000010298 00000 n 0000011201 00000 n 0000012165 00000 n 0000012315 00000 n 0000012725 00000 n 0000012845 00000 n 0000014009 00000 n 0000014834 00000 n 0000014951 00000 n 0000015022 00000 n 000",
+      "checkedAt": "2026-03-30T19:22:43.818Z"
     },
     {
-      "id": "site_1774898563375_et7ru",
-      "url": "https://github.com/spring-projects/spring-ai/issues/4659",
-      "domain": "github.com",
-      "title": "Provide an official PDF download for the Spring AI reference documentation · Issue #4659 · spring-projects/spring-ai · GitHub",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
-      "snippet": "Description The Spring AI reference documentation is currently available only as HTML at https://docs.spring.io/spring-ai/reference/. Unlike many other Spring projects (Spring Boot, Spring Framework, Spring Data, …) ther",
-      "checkedAt": "2026-03-30T19:22:44.384Z"
-    },
-    {
-      "id": "site_1774898552978_v3r4u",
-      "url": "https://en.wikipedia.org/wiki/PdfFiller",
+      "id": "site_1774898551478_pr9yl",
+      "url": "https://en.wikipedia.org/wiki/DeepSeek",
       "domain": "en.wikipedia.org",
-      "title": "pdfFiller - Wikipedia",
+      "title": "DeepSeek - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "pdfFiller - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products features Toggle Products features subsect",
-      "checkedAt": "2026-03-30T19:22:33.061Z"
+      "snippet": "DeepSeek - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Founding and early year",
+      "checkedAt": "2026-03-30T19:22:31.602Z"
     },
     {
-      "id": "site_1774898552890_iifxc",
+      "id": "site_1774898551404_qw4na",
       "url": "https://en.wikipedia.org/wiki/Qodo",
       "domain": "en.wikipedia.org",
       "title": "Qodo - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Qodo - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products 3 Financing 4 References 5 External links Togg",
-      "checkedAt": "2026-03-30T19:22:32.978Z"
+      "checkedAt": "2026-03-30T19:22:31.478Z"
     },
     {
-      "id": "site_1774898552619_0rgo6",
+      "id": "site_1774898550001_r8i5c",
       "url": "https://www.cimplifi.com/resources/the-ai-regulation-landscape-for-2026-what-legal-and-compliance-leaders-need-to-know/",
       "domain": "cimplifi.com",
       "title": "The AI Regulation Landscape for 2026: What Legal and Compliance Leaders Need to Know",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=cimplifi.com&sz=64",
       "snippet": "Learn the key global AI regulations shaping 2026 and how organizations can prepare for evolving compliance, accountability, and governance requirements.",
-      "checkedAt": "2026-03-30T19:22:32.890Z"
+      "checkedAt": "2026-03-30T19:22:31.404Z"
     },
     {
-      "id": "site_1774898552556_hl9s9",
+      "id": "site_1774898549753_xebg3",
       "url": "https://start.docuware.com/blog/document-management/2026-tech-trends",
       "domain": "start.docuware.com",
       "title": "2026 Tech Trends: Why We Can’t Stop Talking About AI",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=start.docuware.com&sz=64",
       "snippet": "DocuWare Chief Product & Technology Officer Michael Bochmann shares his perspective on 2026 tech trends. AI-driven solutions like IDP top the list.",
-      "checkedAt": "2026-03-30T19:22:32.619Z"
+      "checkedAt": "2026-03-30T19:22:30.001Z"
     },
     {
-      "id": "site_1774898552262_c6cjg",
+      "id": "site_1774898549247_c2lvk",
       "url": "https://document360.com/blog/ai-documentation-trends/",
       "domain": "document360.com",
       "title": "Major AI Documentation Trends for 2026",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=document360.com&sz=64",
       "snippet": "Learn how AI transforms documentation with real-time updates, multimodal content, autonomous agents, and stronger governance frameworks.",
-      "checkedAt": "2026-03-30T19:22:32.556Z"
+      "checkedAt": "2026-03-30T19:22:29.753Z"
     },
     {
       "id": "site_1774898538083_rdwm7",
@@ -2052,65 +2061,65 @@
     },
     {
       "id": 115,
-      "url": "https://en.wikipedia.org/wiki/PdfFiller",
+      "url": "https://en.wikipedia.org/wiki/DeepSeek",
       "domain": "en.wikipedia.org",
-      "title": "pdfFiller - Wikipedia"
+      "title": "DeepSeek - Wikipedia"
     },
     {
       "id": 116,
-      "url": "https://github.com/spring-projects/spring-ai/issues/4659",
-      "domain": "github.com",
-      "title": "Provide an official PDF download for the Spring AI reference documentation · Issue #4659 · spring-projects/spring-ai · GitHub"
+      "url": "https://ai.google/static/documents/ai-responsibility-update-2026.pdf",
+      "domain": "ai.google",
+      "title": "ai.google"
     },
     {
       "id": 117,
-      "url": "https://www.sustainablecoast.org/globalAI.pdf",
-      "domain": "sustainablecoast.org",
-      "title": "sustainablecoast.org"
-    },
-    {
-      "id": 118,
       "url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
       "domain": "en.wikipedia.org",
       "title": "Raspberry Pi - Wikipedia"
     },
     {
-      "id": 119,
+      "id": 118,
       "url": "https://en.wikipedia.org/wiki/ROCm",
       "domain": "en.wikipedia.org",
       "title": "ROCm - Wikipedia"
     },
     {
-      "id": 120,
+      "id": 119,
       "url": "https://en.wikipedia.org/wiki/Essential_Video_Coding",
       "domain": "en.wikipedia.org",
       "title": "Essential Video Coding - Wikipedia"
+    },
+    {
+      "id": 120,
+      "url": "https://en.wikipedia.org/wiki/Stack_Overflow",
+      "domain": "en.wikipedia.org",
+      "title": "Stack Overflow - Wikipedia"
     }
   ],
   "notes": [
     {
       "citationId": 120,
-      "summary": "Essential Video Coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Concept 2 Implementations 3 MPAI-EVC 4 See also"
+      "summary": "Stack Overflow - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Security breach 1"
     },
     {
       "citationId": 119,
-      "summary": "ROCm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Heterogeneous System "
+      "summary": "Essential Video Coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Concept 2 Implementations 3 MPAI-EVC 4 See also"
     },
     {
       "citationId": 118,
-      "summary": "Raspberry Pi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Origins and launch "
+      "summary": "ROCm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Heterogeneous System "
     },
     {
       "citationId": 117,
-      "summary": "%PDF-1.7 %���� 1 0 obj >>> endobj 2 0 obj > endobj 3 0 obj > endobj 4 0 obj /LastModified /NumberOfPageItemsInPage 3/NumberofPages 1/OriginalDocumentID /PageItemUIDToLocationDataMap >/PageTransformationMatrixList >/PageUIDList >/PageWidthList >>>>>/Resources >/XObject >>>/Rotate 0/Tabs/W/Thumb 23 0 R /TrimBox[ 0 0 612 792]/Type/Page>> endobj 5 0 obj >stream H�*��w\u000f6PH/�2P\b��w�5Pp�� �*D\u00177�!n\u0004\u0011\u0007\b0\u0000v�\u0011\u001a endstream endobj 6 0 obj > endobj 7 0 obj >/Ex"
+      "summary": "Raspberry Pi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Origins and launch "
     },
     {
       "citationId": 116,
-      "summary": "Description The Spring AI reference documentation is currently available only as HTML at https://docs.spring.io/spring-ai/reference/. Unlike many other Spring projects (Spring Boot, Spring Framework, Spring Data, …) ther"
+      "summary": "%PDF-1.5 %���� 2747 0 obj > endobj xref 2747 35 0000000016 00000 n 0000002378 00000 n 0000002541 00000 n 0000005529 00000 n 0000005679 00000 n 0000006151 00000 n 0000006266 00000 n 0000006295 00000 n 0000007233 00000 n 0000008308 00000 n 0000009280 00000 n 0000010298 00000 n 0000011201 00000 n 0000012165 00000 n 0000012315 00000 n 0000012725 00000 n 0000012845 00000 n 0000014009 00000 n 0000014834 00000 n 0000014951 00000 n 0000015022 00000 n 000"
     },
     {
       "citationId": 115,
-      "summary": "pdfFiller - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products features Toggle Products features subsect"
+      "summary": "DeepSeek - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Founding and early year"
     },
     {
       "citationId": 114,
@@ -2571,38 +2580,38 @@
   ],
   "events": [
     {
-      "id": "ev_1774898571629_y39fh",
-      "at": "2026-03-30T19:22:51.629Z",
+      "id": "ev_1774898580260_1uj9b",
+      "at": "2026-03-30T19:23:00.260Z",
       "phase": "complete",
       "message": "Deep research completed with citable synthesis."
     },
     {
-      "id": "ev_1774898566585_62tgq",
-      "at": "2026-03-30T19:22:46.585Z",
+      "id": "ev_1774898575382_4y7tu",
+      "at": "2026-03-30T19:22:55.382Z",
       "phase": "synthesizing",
       "message": "Source depth reached. Synthesizing final report."
     },
     {
-      "id": "ev_1774898566585_7qqqp",
-      "at": "2026-03-30T19:22:46.585Z",
+      "id": "ev_1774898575382_73dtk",
+      "at": "2026-03-30T19:22:55.382Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 120."
     },
     {
-      "id": "ev_1774898553061_3v3ko",
-      "at": "2026-03-30T19:22:33.061Z",
+      "id": "ev_1774898551602_6p1v1",
+      "at": "2026-03-30T19:22:31.602Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 official documentation \"pdf\""
     },
     {
-      "id": "ev_1774898553061_h6ted",
-      "at": "2026-03-30T19:22:33.061Z",
+      "id": "ev_1774898551602_xtg4r",
+      "at": "2026-03-30T19:22:31.602Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 115."
     },
     {
-      "id": "ev_1774898542011_ykz8n",
-      "at": "2026-03-30T19:22:22.011Z",
+      "id": "ev_1774898538570_tgbzk",
+      "at": "2026-03-30T19:22:18.570Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 official documentation review"
     },
@@ -2890,12 +2899,12 @@
     }
   ],
   "learnedSoFar": [
+    "Stack Overflow - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Security breach 1",
     "Essential Video Coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Concept 2 Implementations 3 MPAI-EVC 4 See also",
     "ROCm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Heterogeneous System ",
     "Raspberry Pi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Origins and launch ",
-    "%PDF-1.7 %���� 1 0 obj >>> endobj 2 0 obj > endobj 3 0 obj > endobj 4 0 obj /LastModified /NumberOfPageItemsInPage 3/NumberofPages 1/OriginalDocumentID /PageItemUIDToLocationDataMap >/PageTransformationMatrixList >/PageUIDList >/PageWidthList >>>>>/Resources >/XObject >>>/Rotate 0/Tabs/W/Thumb 23 0 R /TrimBox[ 0 0 612 792]/Type/Page>> endobj 5 0 obj >stream H�*��w\u000f6PH/�2P\b��w�5Pp�� �*D\u00177�!n\u0004\u0011\u0007\b0\u0000v�\u0011\u001a endstream endobj 6 0 obj > endobj 7 0 obj >/Ex",
-    "Description The Spring AI reference documentation is currently available only as HTML at https://docs.spring.io/spring-ai/reference/. Unlike many other Spring projects (Spring Boot, Spring Framework, Spring Data, …) ther",
-    "pdfFiller - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products features Toggle Products features subsect",
+    "%PDF-1.5 %���� 2747 0 obj > endobj xref 2747 35 0000000016 00000 n 0000002378 00000 n 0000002541 00000 n 0000005529 00000 n 0000005679 00000 n 0000006151 00000 n 0000006266 00000 n 0000006295 00000 n 0000007233 00000 n 0000008308 00000 n 0000009280 00000 n 0000010298 00000 n 0000011201 00000 n 0000012165 00000 n 0000012315 00000 n 0000012725 00000 n 0000012845 00000 n 0000014009 00000 n 0000014834 00000 n 0000014951 00000 n 0000015022 00000 n 000",
+    "DeepSeek - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Founding and early year",
     "Qodo - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products 3 Financing 4 References 5 External links Togg",
     "Learn the key global AI regulations shaping 2026 and how organizations can prepare for evolving compliance, accountability, and governance requirements.",
     "DocuWare Chief Product & Technology Officer Michael Bochmann shares his perspective on 2026 tech trends. AI-driven solutions like IDP top the list.",
@@ -2911,11 +2920,11 @@
   ],
   "stats": {
     "sourcesAnalyzed": 120,
-    "tokensUsedEstimate": 12025,
+    "tokensUsedEstimate": 12054,
     "depthScore": 58,
     "queriesGenerated": 24,
     "iterations": 24,
-    "uniqueDomains": 55
+    "uniqueDomains": 54
   },
   "control": {
     "paused": false,
@@ -2924,27 +2933,27 @@
   "planFinal": "1. Define research parameters and key technological domains: Establish the scope of the investigation by categorizing \"AI in 2026\" into distinct pillars, including hardware scaling (compute), architectural breakthroughs (agentic workflows, multimodal reasoning), regulatory landscape changes, and industry-specific adoption (healthcare, finance, coding). Define the temporal context by anchoring the research in current 2024-2025 trajectory data to forecast the state of the art 12 to 24 months out.\n\n2. Execute multi-source search fan-out: Conduct a comprehensive scan across disparate data streams. Gather primary intelligence from technical research preprints (arXiv), vendor roadmaps (OpenAI, Google, Anthropic, NVIDIA), venture capital market outlooks, and government policy white papers. Ensure cross-referencing between optimistic marketing projections and pessimistic academic critiques to capture a balanced spectrum of expected outcomes.\n\n3. Identify and validate evidence gaps: Rigorously evaluate the collected data for areas of high uncertainty or conflicting projections. Specifically, focus on the \"scaling wall\" debate, the feasibility of autonomous agent reliability at scale, and potential bottlenecks in energy infrastructure. Distinguish between speculative hype and verifiable engineering milestones to prevent over-indexing on unsubstantiated industry promises.\n\n4. Perform comparative cross-analysis: Synthesize the technical, economic, and regulatory findings to identify points of convergence. Assess how shifting compute constraints might impact the deployment of smaller, specialized models versus massive foundation models. Evaluate the interplay between tightening international AI regulations and the development speed of proprietary versus open-weight models.\n\n5. Synthesize findings into a forward-looking strategic summary: Consolidate the analysis into a final report that maps the most likely AI landscape for 2026. Prioritize actionable insights, highlighting critical inflection points—such as breakthroughs in reasoning capabilities or energy-efficient inference—that would signify the transition from current AI capabilities to the predicted 2026 state. Conclude with a risk-adjusted assessment of what is definitively achievable versus what remains speculative.",
   "report": {
     "title": "State of Artificial Intelligence: 2026 Landscape Report",
-    "summary": "By 2026, the artificial intelligence landscape has transitioned from the experimental 'pilot and prototype' phase of previous years to a mature era defined by large-scale orchestration, rigorous governance, and operational integration. Organizations are shifting focus toward tangible ROI, AI-driven workflows, and navigating a complex, localized regulatory environment.",
+    "summary": "In 2026, the artificial intelligence landscape has shifted from experimental pilots to mature enterprise orchestration. The primary focus for organizations is moving toward governance, agentic workflows, and the measurable ROI of AI-driven transformation. While innovation continues at pace, the sector faces a complex environment defined by tightening international regulations, ongoing infrastructure demands, and the necessity of building 'change fitness' within the workforce.",
     "sections": [
       {
-        "id": "enterprise-maturity",
-        "title": "From Pilots to Production: Enterprise AI at Scale",
-        "body": "The narrative of 2026 is one of 'hard-wiring' AI into core business operations [3]. While 2023–2024 focused on testing, the current year prioritizes scaling use cases [103]. Industry leaders are moving toward 'AI factories' and agentic systems that automate complex processes, shifting from simple automation to autonomous, multi-step workflows [57, 98]. This maturation is supported by a growing focus on 'change fitness,' where businesses build internal frameworks to manage the disruption and trade-offs inherent in AI integration [33, 56]."
+        "id": "enterprise-adoption",
+        "title": "From Pilots to Production",
+        "body": "The era of AI prototyping has largely concluded, giving way to a phase characterized by systemic orchestration and operational scale [3]. Businesses are now integrating AI into the core of their workflows, prioritizing measurable business outcomes over speculative use cases [31]. Key drivers for this shift include the requirement for rigorous documentation [101] and the deployment of agentic systems—AI capable of executing complex, multi-step tasks independently—which are becoming the standard for modern enterprise operations [57, 96, 98]."
       },
       {
         "id": "regulation-compliance",
-        "title": "The Compliance Crunch: Global Governance",
-        "body": "The regulatory landscape has become increasingly fragmented and demanding. Organizations in 2026 must navigate a web of requirements, including the EU AI Act, specific U.S. state frameworks (e.g., California, Colorado), and federal guidance established in late 2025 [6, 7, 97]. Compliance is no longer optional; it requires continuous monitoring of local laws and the implementation of robust internal accountability measures to mitigate risks related to bias, security, and the proliferation of low-quality 'AI slop' [15, 26, 107, 113]."
+        "title": "The Compliance and Governance Mandate",
+        "body": "2026 is marked by an increasingly stringent regulatory environment. Organizations must navigate a fragmented landscape of mandates, including the EU AI Act, various U.S. state-level frameworks, and recent executive orders [6, 7, 97]. Compliance is no longer optional but a strategic imperative; legal and operations teams are now utilizing comprehensive checklists to manage liabilities related to data privacy, model transparency, and AI-driven decision-making [107, 113]."
       },
       {
-        "id": "technological-trends",
-        "title": "Technical Evolution: Agents and UX",
-        "body": "The definition of AI value is evolving. There is a distinct shift from raw model performance toward the efficacy of autonomous agents and Generative UI (GenUI) [96]. As model capabilities stabilize, the user experience (UX) has become the primary business moat [96]. Furthermore, documentation and knowledge management are being transformed by AI, which now enables real-time updates and more sophisticated, multimodal content creation [101, 106, 111]. The open-source ecosystem continues to challenge proprietary models, offering high-performance alternatives that are increasingly favored for self-hosted and compliant enterprise deployments [51, 54, 55]."
+        "id": "tech-trends",
+        "title": "Technological Evolution and Infrastructure",
+        "body": "Technological advancements in 2026 continue to emphasize 'AI as a backbone,' with increasing focus on sovereign AI, edge computing, and AI factories [47, 57]. While closed-source frontier models continue to dominate high-end benchmarks, the open-source ecosystem has matured, providing competitive alternatives for self-hosted and highly specific use cases [24, 51, 54]. The sector also continues to grapple with the environmental and economic costs of maintaining large-scale compute infrastructure [41, 84, 92]."
       },
       {
-        "id": "risks-and-uncertainty",
-        "title": "Risks, Economics, and Market Realities",
-        "body": "Despite widespread adoption, the AI sector faces significant scrutiny regarding the sustainability of current investment levels, with some analysts debating the existence of an 'AI bubble' [37, 73]. Organizations are also grappling with the high total cost of ownership (TCO) and the challenge of measuring clear ROI [41, 43]. Beyond financials, global instability and environmental concerns—specifically the carbon and energy footprint of massive data centers—remain critical long-term risks [45, 84, 92]. Safety remains a top priority, with international reports emphasizing the need for scientific oversight to prevent catastrophic outcomes [28, 77, 100]."
+        "id": "risks-uncertainties",
+        "title": "Risks, Challenges, and Market Sentiment",
+        "body": "Despite rapid growth, the industry faces significant headwinds, including the risk of an 'AI bubble' characterized by inflated expectations and cooling capital markets [37, 73]. Organizations are also managing the emergence of 'AI slop'—low-quality automated content that threatens to degrade information ecosystems [15, 99]. Furthermore, leaders must address ethical concerns, deepfake proliferation, and bias, necessitating robust safety and security protocols as highlighted by the International AI Safety Report 2026 [26, 27, 28]."
       }
     ],
     "citations": [
@@ -3634,43 +3643,43 @@
       },
       {
         "id": 115,
-        "url": "https://en.wikipedia.org/wiki/PdfFiller",
+        "url": "https://en.wikipedia.org/wiki/DeepSeek",
         "domain": "en.wikipedia.org",
-        "title": "pdfFiller - Wikipedia"
+        "title": "DeepSeek - Wikipedia"
       },
       {
         "id": 116,
-        "url": "https://github.com/spring-projects/spring-ai/issues/4659",
-        "domain": "github.com",
-        "title": "Provide an official PDF download for the Spring AI reference documentation · Issue #4659 · spring-projects/spring-ai · GitHub"
+        "url": "https://ai.google/static/documents/ai-responsibility-update-2026.pdf",
+        "domain": "ai.google",
+        "title": "ai.google"
       },
       {
         "id": 117,
-        "url": "https://www.sustainablecoast.org/globalAI.pdf",
-        "domain": "sustainablecoast.org",
-        "title": "sustainablecoast.org"
-      },
-      {
-        "id": 118,
         "url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
         "domain": "en.wikipedia.org",
         "title": "Raspberry Pi - Wikipedia"
       },
       {
-        "id": 119,
+        "id": 118,
         "url": "https://en.wikipedia.org/wiki/ROCm",
         "domain": "en.wikipedia.org",
         "title": "ROCm - Wikipedia"
       },
       {
-        "id": 120,
+        "id": 119,
         "url": "https://en.wikipedia.org/wiki/Essential_Video_Coding",
         "domain": "en.wikipedia.org",
         "title": "Essential Video Coding - Wikipedia"
+      },
+      {
+        "id": 120,
+        "url": "https://en.wikipedia.org/wiki/Stack_Overflow",
+        "domain": "en.wikipedia.org",
+        "title": "Stack Overflow - Wikipedia"
       }
     ],
-    "markdown": "# State of Artificial Intelligence: 2026 Landscape Report\n\n## Query\nai in 2026\n\n## Executive Summary\nBy 2026, the artificial intelligence landscape has transitioned from the experimental 'pilot and prototype' phase of previous years to a mature era defined by large-scale orchestration, rigorous governance, and operational integration. Organizations are shifting focus toward tangible ROI, AI-driven workflows, and navigating a complex, localized regulatory environment.\n\n## From Pilots to Production: Enterprise AI at Scale\nThe narrative of 2026 is one of 'hard-wiring' AI into core business operations [3]. While 2023–2024 focused on testing, the current year prioritizes scaling use cases [103]. Industry leaders are moving toward 'AI factories' and agentic systems that automate complex processes, shifting from simple automation to autonomous, multi-step workflows [57, 98]. This maturation is supported by a growing focus on 'change fitness,' where businesses build internal frameworks to manage the disruption and trade-offs inherent in AI integration [33, 56].\n\n## The Compliance Crunch: Global Governance\nThe regulatory landscape has become increasingly fragmented and demanding. Organizations in 2026 must navigate a web of requirements, including the EU AI Act, specific U.S. state frameworks (e.g., California, Colorado), and federal guidance established in late 2025 [6, 7, 97]. Compliance is no longer optional; it requires continuous monitoring of local laws and the implementation of robust internal accountability measures to mitigate risks related to bias, security, and the proliferation of low-quality 'AI slop' [15, 26, 107, 113].\n\n## Technical Evolution: Agents and UX\nThe definition of AI value is evolving. There is a distinct shift from raw model performance toward the efficacy of autonomous agents and Generative UI (GenUI) [96]. As model capabilities stabilize, the user experience (UX) has become the primary business moat [96]. Furthermore, documentation and knowledge management are being transformed by AI, which now enables real-time updates and more sophisticated, multimodal content creation [101, 106, 111]. The open-source ecosystem continues to challenge proprietary models, offering high-performance alternatives that are increasingly favored for self-hosted and compliant enterprise deployments [51, 54, 55].\n\n## Risks, Economics, and Market Realities\nDespite widespread adoption, the AI sector faces significant scrutiny regarding the sustainability of current investment levels, with some analysts debating the existence of an 'AI bubble' [37, 73]. Organizations are also grappling with the high total cost of ownership (TCO) and the challenge of measuring clear ROI [41, 43]. Beyond financials, global instability and environmental concerns—specifically the carbon and energy footprint of massive data centers—remain critical long-term risks [45, 84, 92]. Safety remains a top priority, with international reports emphasizing the need for scientific oversight to prevent catastrophic outcomes [28, 77, 100].\n\n## Citations\n- [1] Action items for AI decision makers in 2026 | MIT Sloan (https://mitsloan.mit.edu/ideas-made-to-matter/action-items-ai-decision-makers-2026)\n- [2] hai.stanford.edu (https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)\n- [3] The 6 AI Trends That Will Actually Matter in 2026 | Progress (https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026)\n- [4] Microsoft Privacy Statement – Microsoft privacy (http://go.microsoft.com/fwlink/?LinkId=521839)\n- [5] Microsoft Services Agreement (http://go.microsoft.com/fwlink/?LinkID=246338)\n- [6] AI Compliance Laws for Businesses: What You Must Know in 2026 &mdash; TrueFuture Media (https://www.truefuturemedia.com/articles/ai-compliance-laws-businesses-2026?srsltid=AfmBOop9dx-Yw0qZH_39z9AjCKZT_lgh_rfXm_PThT62r9PCqU41J6Wq)\n- [7] 2026 AI Laws Update: Key Regulations and Practical Guidance | Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP (https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance)\n- [8] Perplexity AI - Wikipedia (https://en.wikipedia.org/wiki/Perplexity_AI)\n- [9] Z.ai - Wikipedia (https://en.wikipedia.org/wiki/Z.ai)\n- [10] OpenClaw - Wikipedia (https://en.wikipedia.org/wiki/OpenClaw)\n- [11] AI Research Papers 2026 — JNGR 5.0 AI Journal (https://jngr5.com/jngr/ai-research-papers-2026/)\n- [12] World Development Report 2026: Artificial Intelligence for Development (https://www.worldbank.org/en/publication/wdr2026)\n- [13] Generative AI - Wikipedia (https://en.wikipedia.org/wiki/Generative_AI)\n- [14] Meta AI - Wikipedia (https://en.wikipedia.org/wiki/Meta_AI)\n- [15] AI slop - Wikipedia (https://en.wikipedia.org/wiki/AI_slop)\n- [16] AI Transformation 2026: 26 Predictions Redefining CX, EX, Design, and Product Innovation (https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf)\n- [17] The State of AI in the Enterprise - 2026 AI report | Deloitte US (https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)\n- [18] What’s next in AI: 7 trends to watch in 2026 (https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)\n- [19] India AI Impact Summit 2026 - Wikipedia (https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026)\n- [20] OpenAI - Wikipedia (https://en.wikipedia.org/wiki/OpenAI)\n- [21] The best AI models in 2026: What model to pick for your use case | Pluralsight (https://www.pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list)\n- [22] Reddit - The heart of the internet (https://www.reddit.com/r/LocalLLaMA/comments/1rovfbw/i_made_a_list_of_every_ai_benchmark_that_still/)\n- [23] Reddit - The heart of the internet (https://www.reddit.com/r/ArtificialInteligence/comments/1rxv5k3/ai_in_2026_some_interesting_stats_from_the_us/)\n- [24] AI Leaderboards 2026 - Compare and rank the best AI models (https://llm-stats.com/)\n- [25] Grok (chatbot) - Wikipedia (https://en.wikipedia.org/wiki/Grok_(chatbot))\n- [26] AI Challenges in 2026: 15 Risks & Limitations Leaders Must Overcome (https://ebsedu.org/blog/artificial-intelligence-ai-challenges/)\n- [27] Top AI Risks, Dangers & Challenges in 2026 (https://www.clarifai.com/blog/ai-risks)\n- [28] International AI Safety Report 2026 | International AI Safety Report (https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)\n- [29] AI Challenges in Business 2026 – Decisions You Can’t Delay (https://bluesoft.com/blog/ai-business-challenges-for-2026-decisions-that-can-no-longer-be-put-off)\n- [30] Existential risk from artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)\n- [31] WEF highlights 32 AI case studies with real-world business impact | CIO (https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html)\n- [32] The trends that will shape AI and tech in 2026 | IBM (https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)\n- [33] AI Trends for 2026: Building &#x27;Change Fitness&#x27; and Balancing Trade-Offs | Working Knowledge (https://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs)\n- [34] sloanreview.mit.edu (https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/)\n- [35] Anthropic - Wikipedia (https://en.wikipedia.org/wiki/Anthropic)\n- [36] What to Expect from AI in 2026: Q&A with William Marcellino | RAND (https://www.rand.org/pubs/commentary/2026/02/what-to-expect-from-ai-in-2026.html)\n- [37] What to Expect from AI in 2026 | Bain & Company (https://www.bain.com/insights/what-to-expect-from-ai-in-2026/)\n- [38] Mistral AI - Wikipedia (https://en.wikipedia.org/wiki/Mistral_AI)\n- [39] Mercor - Wikipedia (https://en.wikipedia.org/wiki/Mercor)\n- [40] The AI Doc: Or How I Became an Apocaloptimist - Wikipedia (https://en.wikipedia.org/wiki/The_AI_Doc%3A_Or_How_I_Became_an_Apocaloptimist)\n- [41] AI Software Development Costs 2026: Enterprise Spending, TCO, and ROI Analysis | Keyhole Software (https://keyholesoftware.com/ai-software-development-cost-2026/)\n- [42] The AI Revolution: Impact on the U.S. Economy (2026–2027) | DWU AI | DWU Consulting (https://dwuconsulting.com/dwu-ai/ai-revolution-us-economy)\n- [43] How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026 | NVIDIA Blog (https://blogs.nvidia.com/blog/state-of-ai-report-2026/)\n- [44] United States export controls on AI chips and semiconductors - Wikipedia (https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors)\n- [45] Economic impact of the 2026 Iran war - Wikipedia (https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)\n- [46] Market Insight: 10 Predictions For Applied AI Technologies In 2026 And Beyond (https://www.verdantix.com/venture/report/market-insight--10-predictions-for-applied-ai-technologies-in-2026-and-beyond)\n- [47] Top Tech Trends 2026: AI Backbone, Intelligent Apps, Cloud 3.0 and More (https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/)\n- [48] AI boom - Wikipedia (https://en.wikipedia.org/wiki/AI_boom)\n- [49] Surface Pro 10 - Wikipedia (https://en.wikipedia.org/wiki/Surface_Pro_10)\n- [50] History of artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/History_of_artificial_intelligence)\n- [51] Reddit - The heart of the internet (https://www.reddit.com/r/AISEOInsider/comments/1qg3m5k/the_2026_open_source_ai_stack_thats_beating_paid/)\n- [52] Reddit - The heart of the internet (https://www.reddit.com/r/AISEOInsider/comments/1r0mx9q/the_quiet_takeover_nextgen_open_source_ai_tools/)\n- [53] Predictions For Open Source in 2026: AI Innovation, Maintainer Burnout, and the Compliance Crunch - ActiveState (https://www.activestate.com/blog/predictions-for-open-source-in-2026-ai-innovation-maintainer-burnout-and-the-compliance-crunch/)\n- [54] The Best Open-Source LLMs in 2026 (https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models)\n- [55] 10 Open-Source Projects You’ll Actually Use in 2026 - DEV Community (https://dev.to/sonotommy/10-open-source-projects-youll-actually-use-in-2026-2ig9)\n- [56] From Hype to Hard Reality: Enterprise AI in 2026 (https://www.nctech.org/resources/blog/2026/hype-to-hard.html)\n- [57] Enterprise AI trends in 2026: Sovereign, agentic, edge, AI factories (https://www.spectrocloud.com/blog/enterprise-ai-2026-trends)\n- [58] OpenAI Codex (AI agent) - Wikipedia (https://en.wikipedia.org/wiki/OpenAI_Codex_(AI_agent))\n- [59] Claude (language model) - Wikipedia (https://en.wikipedia.org/wiki/Claude_(language_model))\n- [60] Vertex AI - Wikipedia (https://en.wikipedia.org/wiki/Vertex_AI)\n- [61] Hemadpanti architecture - Wikipedia (https://en.wikipedia.org/wiki/Hemadpanti_architecture)\n- [62] Workday, Inc. - Wikipedia (https://en.wikipedia.org/wiki/Workday%2C_Inc.)\n- [63] Collaborative writing - Wikipedia (https://en.wikipedia.org/wiki/Collaborative_writing)\n- [64] Telecommunications in Taiwan - Wikipedia (https://en.wikipedia.org/wiki/Telecommunications_in_Taiwan)\n- [65] Crab jujube - Wikipedia (https://en.wikipedia.org/wiki/Crab_jujube)\n- [66] 2026 AI benchmarks: What usage data reveals about the next phase of adoption | Signals & Stories (https://mixpanel.com/blog/ai-benchmarks-2026/)\n- [67] Dynatrace - Wikipedia (https://en.wikipedia.org/wiki/Dynatrace)\n- [68] Grafana - Wikipedia (https://en.wikipedia.org/wiki/Grafana)\n- [69] Amanda Askell - Wikipedia (https://en.wikipedia.org/wiki/Amanda_Askell)\n- [70] Vibe coding - Wikipedia (https://en.wikipedia.org/wiki/Vibe_coding)\n- [71] What&#x27;s next for AI in 2026 | MIT Technology Review (https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/)\n- [72] Mercy (2026 film) - Wikipedia (https://en.wikipedia.org/wiki/Mercy_(2026_film))\n- [73] AI bubble - Wikipedia (https://en.wikipedia.org/wiki/AI_bubble)\n- [74] Sora (text-to-video model) - Wikipedia (https://en.wikipedia.org/wiki/Sora_(text-to-video_model))\n- [75] Chai AI - Wikipedia (https://en.wikipedia.org/wiki/Chai_AI)\n- [76] avature.ai (https://avature.ai/wp-content/uploads/2026/01/Avature-AI-Impact-Report-2026.pdf)\n- [77] internationalaisafetyreport.org (https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf)\n- [78] brookings.edu (https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf)\n- [79] Machine learning - Wikipedia (https://en.wikipedia.org/wiki/Machine_learning)\n- [80] Artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Artificial_intelligence)\n- [81] ChatGPT - Wikipedia (https://en.wikipedia.org/wiki/ChatGPT)\n- [82] ChatGPT Deep Research - Wikipedia (https://en.wikipedia.org/wiki/ChatGPT_Deep_Research)\n- [83] Ai Weiwei - Wikipedia (https://en.wikipedia.org/wiki/Ai_Weiwei)\n- [84] Environmental impact of artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence)\n- [85] Andrew Ng - Wikipedia (https://en.wikipedia.org/wiki/Andrew_Ng)\n- [86] People search site - Wikipedia (https://en.wikipedia.org/wiki/People_search_site)\n- [87] AI Safety Summit 2023 - Wikipedia (https://en.wikipedia.org/wiki/AI_Safety_Summit_2023)\n- [88] Kalshi - Wikipedia (https://en.wikipedia.org/wiki/Kalshi)\n- [89] Hyperion (data center) - Wikipedia (https://en.wikipedia.org/wiki/Hyperion_(data_center))\n- [90] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png)\n- [91] youtube.com (https://www.youtube.com/watch?v=B23W1gRT9eY)\n- [92] Data center - Wikipedia (https://en.wikipedia.org/wiki/Data_center)\n- [93] Predictive analytics - Wikipedia (https://en.wikipedia.org/wiki/Predictive_analytics)\n- [94] Palantir - Wikipedia (https://en.wikipedia.org/wiki/Palantir)\n- [95] JetBrains - Wikipedia (https://en.wikipedia.org/wiki/JetBrains)\n- [96] 18 Predictions for 2026 - Jakob Nielsen on UX (https://jakobnielsenphd.substack.com/p/2026-predictions)\n- [97] State AI laws in the United States - Wikipedia (https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States)\n- [98] AI agent - Wikipedia (https://en.wikipedia.org/wiki/AI_agent)\n- [99] Dead Internet theory - Wikipedia (https://en.wikipedia.org/wiki/Dead_Internet_theory)\n- [100] AI safety - Wikipedia (https://en.wikipedia.org/wiki/AI_safety)\n- [101] The State of Docs Report 2026 – AI and documentation creation (https://www.stateofdocs.com/2026/ai-and-documentation-creation)\n- [102] dgagroup.com (https://dgagroup.com/wp-content/uploads/2026/01/2026-AI-Decrypted-Report-DGA-Group.pdf)\n- [103] AI Use Cases 2026: A Framework for Impact & Scale (https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/)\n- [104] thomsonreuters.com (https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2026-ai-in-professional-services-report.pdf)\n- [105] Kilnam Chon - Wikipedia (https://en.wikipedia.org/wiki/Kilnam_Chon)\n- [106] The State of Docs Report 2026 is live! Here are the highlights – GitBook Blog (https://www.gitbook.com/blog/state-of-docs-2026)\n- [107] AI Compliance Checklist March 2026: Monthly Changes (https://www.digitalapplied.com/blog/ai-compliance-checklist-march-2026-what-changed-month)\n- [108] Engineering Metrics in the AI Era: A Complete Guide for 2026 (https://oobeya.io/blog/engineering-metrics-in-the-ai-era)\n- [109] llmrefs.com (https://llmrefs.com/blog/ai-benchmarks-ranking)\n- [110] Timeline of the 2026 Iran war - Wikipedia (https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war)\n- [111] Major AI Documentation Trends for 2026 (https://document360.com/blog/ai-documentation-trends/)\n- [112] 2026 Tech Trends: Why We Can’t Stop Talking About AI (https://start.docuware.com/blog/document-management/2026-tech-trends)\n- [113] The AI Regulation Landscape for 2026: What Legal and Compliance Leaders Need to Know (https://www.cimplifi.com/resources/the-ai-regulation-landscape-for-2026-what-legal-and-compliance-leaders-need-to-know/)\n- [114] Qodo - Wikipedia (https://en.wikipedia.org/wiki/Qodo)\n- [115] pdfFiller - Wikipedia (https://en.wikipedia.org/wiki/PdfFiller)\n- [116] Provide an official PDF download for the Spring AI reference documentation · Issue #4659 · spring-projects/spring-ai · GitHub (https://github.com/spring-projects/spring-ai/issues/4659)\n- [117] sustainablecoast.org (https://www.sustainablecoast.org/globalAI.pdf)\n- [118] Raspberry Pi - Wikipedia (https://en.wikipedia.org/wiki/Raspberry_Pi)\n- [119] ROCm - Wikipedia (https://en.wikipedia.org/wiki/ROCm)\n- [120] Essential Video Coding - Wikipedia (https://en.wikipedia.org/wiki/Essential_Video_Coding)",
-    "generatedAt": "2026-03-30T19:22:51.629Z"
+    "markdown": "# State of Artificial Intelligence: 2026 Landscape Report\n\n## Query\nai in 2026\n\n## Executive Summary\nIn 2026, the artificial intelligence landscape has shifted from experimental pilots to mature enterprise orchestration. The primary focus for organizations is moving toward governance, agentic workflows, and the measurable ROI of AI-driven transformation. While innovation continues at pace, the sector faces a complex environment defined by tightening international regulations, ongoing infrastructure demands, and the necessity of building 'change fitness' within the workforce.\n\n## From Pilots to Production\nThe era of AI prototyping has largely concluded, giving way to a phase characterized by systemic orchestration and operational scale [3]. Businesses are now integrating AI into the core of their workflows, prioritizing measurable business outcomes over speculative use cases [31]. Key drivers for this shift include the requirement for rigorous documentation [101] and the deployment of agentic systems—AI capable of executing complex, multi-step tasks independently—which are becoming the standard for modern enterprise operations [57, 96, 98].\n\n## The Compliance and Governance Mandate\n2026 is marked by an increasingly stringent regulatory environment. Organizations must navigate a fragmented landscape of mandates, including the EU AI Act, various U.S. state-level frameworks, and recent executive orders [6, 7, 97]. Compliance is no longer optional but a strategic imperative; legal and operations teams are now utilizing comprehensive checklists to manage liabilities related to data privacy, model transparency, and AI-driven decision-making [107, 113].\n\n## Technological Evolution and Infrastructure\nTechnological advancements in 2026 continue to emphasize 'AI as a backbone,' with increasing focus on sovereign AI, edge computing, and AI factories [47, 57]. While closed-source frontier models continue to dominate high-end benchmarks, the open-source ecosystem has matured, providing competitive alternatives for self-hosted and highly specific use cases [24, 51, 54]. The sector also continues to grapple with the environmental and economic costs of maintaining large-scale compute infrastructure [41, 84, 92].\n\n## Risks, Challenges, and Market Sentiment\nDespite rapid growth, the industry faces significant headwinds, including the risk of an 'AI bubble' characterized by inflated expectations and cooling capital markets [37, 73]. Organizations are also managing the emergence of 'AI slop'—low-quality automated content that threatens to degrade information ecosystems [15, 99]. Furthermore, leaders must address ethical concerns, deepfake proliferation, and bias, necessitating robust safety and security protocols as highlighted by the International AI Safety Report 2026 [26, 27, 28].\n\n## Citations\n- [1] Action items for AI decision makers in 2026 | MIT Sloan (https://mitsloan.mit.edu/ideas-made-to-matter/action-items-ai-decision-makers-2026)\n- [2] hai.stanford.edu (https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)\n- [3] The 6 AI Trends That Will Actually Matter in 2026 | Progress (https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026)\n- [4] Microsoft Privacy Statement – Microsoft privacy (http://go.microsoft.com/fwlink/?LinkId=521839)\n- [5] Microsoft Services Agreement (http://go.microsoft.com/fwlink/?LinkID=246338)\n- [6] AI Compliance Laws for Businesses: What You Must Know in 2026 &mdash; TrueFuture Media (https://www.truefuturemedia.com/articles/ai-compliance-laws-businesses-2026?srsltid=AfmBOop9dx-Yw0qZH_39z9AjCKZT_lgh_rfXm_PThT62r9PCqU41J6Wq)\n- [7] 2026 AI Laws Update: Key Regulations and Practical Guidance | Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP (https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance)\n- [8] Perplexity AI - Wikipedia (https://en.wikipedia.org/wiki/Perplexity_AI)\n- [9] Z.ai - Wikipedia (https://en.wikipedia.org/wiki/Z.ai)\n- [10] OpenClaw - Wikipedia (https://en.wikipedia.org/wiki/OpenClaw)\n- [11] AI Research Papers 2026 — JNGR 5.0 AI Journal (https://jngr5.com/jngr/ai-research-papers-2026/)\n- [12] World Development Report 2026: Artificial Intelligence for Development (https://www.worldbank.org/en/publication/wdr2026)\n- [13] Generative AI - Wikipedia (https://en.wikipedia.org/wiki/Generative_AI)\n- [14] Meta AI - Wikipedia (https://en.wikipedia.org/wiki/Meta_AI)\n- [15] AI slop - Wikipedia (https://en.wikipedia.org/wiki/AI_slop)\n- [16] AI Transformation 2026: 26 Predictions Redefining CX, EX, Design, and Product Innovation (https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf)\n- [17] The State of AI in the Enterprise - 2026 AI report | Deloitte US (https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)\n- [18] What’s next in AI: 7 trends to watch in 2026 (https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)\n- [19] India AI Impact Summit 2026 - Wikipedia (https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026)\n- [20] OpenAI - Wikipedia (https://en.wikipedia.org/wiki/OpenAI)\n- [21] The best AI models in 2026: What model to pick for your use case | Pluralsight (https://www.pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list)\n- [22] Reddit - The heart of the internet (https://www.reddit.com/r/LocalLLaMA/comments/1rovfbw/i_made_a_list_of_every_ai_benchmark_that_still/)\n- [23] Reddit - The heart of the internet (https://www.reddit.com/r/ArtificialInteligence/comments/1rxv5k3/ai_in_2026_some_interesting_stats_from_the_us/)\n- [24] AI Leaderboards 2026 - Compare and rank the best AI models (https://llm-stats.com/)\n- [25] Grok (chatbot) - Wikipedia (https://en.wikipedia.org/wiki/Grok_(chatbot))\n- [26] AI Challenges in 2026: 15 Risks & Limitations Leaders Must Overcome (https://ebsedu.org/blog/artificial-intelligence-ai-challenges/)\n- [27] Top AI Risks, Dangers & Challenges in 2026 (https://www.clarifai.com/blog/ai-risks)\n- [28] International AI Safety Report 2026 | International AI Safety Report (https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)\n- [29] AI Challenges in Business 2026 – Decisions You Can’t Delay (https://bluesoft.com/blog/ai-business-challenges-for-2026-decisions-that-can-no-longer-be-put-off)\n- [30] Existential risk from artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)\n- [31] WEF highlights 32 AI case studies with real-world business impact | CIO (https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html)\n- [32] The trends that will shape AI and tech in 2026 | IBM (https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)\n- [33] AI Trends for 2026: Building &#x27;Change Fitness&#x27; and Balancing Trade-Offs | Working Knowledge (https://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs)\n- [34] sloanreview.mit.edu (https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/)\n- [35] Anthropic - Wikipedia (https://en.wikipedia.org/wiki/Anthropic)\n- [36] What to Expect from AI in 2026: Q&A with William Marcellino | RAND (https://www.rand.org/pubs/commentary/2026/02/what-to-expect-from-ai-in-2026.html)\n- [37] What to Expect from AI in 2026 | Bain & Company (https://www.bain.com/insights/what-to-expect-from-ai-in-2026/)\n- [38] Mistral AI - Wikipedia (https://en.wikipedia.org/wiki/Mistral_AI)\n- [39] Mercor - Wikipedia (https://en.wikipedia.org/wiki/Mercor)\n- [40] The AI Doc: Or How I Became an Apocaloptimist - Wikipedia (https://en.wikipedia.org/wiki/The_AI_Doc%3A_Or_How_I_Became_an_Apocaloptimist)\n- [41] AI Software Development Costs 2026: Enterprise Spending, TCO, and ROI Analysis | Keyhole Software (https://keyholesoftware.com/ai-software-development-cost-2026/)\n- [42] The AI Revolution: Impact on the U.S. Economy (2026–2027) | DWU AI | DWU Consulting (https://dwuconsulting.com/dwu-ai/ai-revolution-us-economy)\n- [43] How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026 | NVIDIA Blog (https://blogs.nvidia.com/blog/state-of-ai-report-2026/)\n- [44] United States export controls on AI chips and semiconductors - Wikipedia (https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors)\n- [45] Economic impact of the 2026 Iran war - Wikipedia (https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)\n- [46] Market Insight: 10 Predictions For Applied AI Technologies In 2026 And Beyond (https://www.verdantix.com/venture/report/market-insight--10-predictions-for-applied-ai-technologies-in-2026-and-beyond)\n- [47] Top Tech Trends 2026: AI Backbone, Intelligent Apps, Cloud 3.0 and More (https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/)\n- [48] AI boom - Wikipedia (https://en.wikipedia.org/wiki/AI_boom)\n- [49] Surface Pro 10 - Wikipedia (https://en.wikipedia.org/wiki/Surface_Pro_10)\n- [50] History of artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/History_of_artificial_intelligence)\n- [51] Reddit - The heart of the internet (https://www.reddit.com/r/AISEOInsider/comments/1qg3m5k/the_2026_open_source_ai_stack_thats_beating_paid/)\n- [52] Reddit - The heart of the internet (https://www.reddit.com/r/AISEOInsider/comments/1r0mx9q/the_quiet_takeover_nextgen_open_source_ai_tools/)\n- [53] Predictions For Open Source in 2026: AI Innovation, Maintainer Burnout, and the Compliance Crunch - ActiveState (https://www.activestate.com/blog/predictions-for-open-source-in-2026-ai-innovation-maintainer-burnout-and-the-compliance-crunch/)\n- [54] The Best Open-Source LLMs in 2026 (https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models)\n- [55] 10 Open-Source Projects You’ll Actually Use in 2026 - DEV Community (https://dev.to/sonotommy/10-open-source-projects-youll-actually-use-in-2026-2ig9)\n- [56] From Hype to Hard Reality: Enterprise AI in 2026 (https://www.nctech.org/resources/blog/2026/hype-to-hard.html)\n- [57] Enterprise AI trends in 2026: Sovereign, agentic, edge, AI factories (https://www.spectrocloud.com/blog/enterprise-ai-2026-trends)\n- [58] OpenAI Codex (AI agent) - Wikipedia (https://en.wikipedia.org/wiki/OpenAI_Codex_(AI_agent))\n- [59] Claude (language model) - Wikipedia (https://en.wikipedia.org/wiki/Claude_(language_model))\n- [60] Vertex AI - Wikipedia (https://en.wikipedia.org/wiki/Vertex_AI)\n- [61] Hemadpanti architecture - Wikipedia (https://en.wikipedia.org/wiki/Hemadpanti_architecture)\n- [62] Workday, Inc. - Wikipedia (https://en.wikipedia.org/wiki/Workday%2C_Inc.)\n- [63] Collaborative writing - Wikipedia (https://en.wikipedia.org/wiki/Collaborative_writing)\n- [64] Telecommunications in Taiwan - Wikipedia (https://en.wikipedia.org/wiki/Telecommunications_in_Taiwan)\n- [65] Crab jujube - Wikipedia (https://en.wikipedia.org/wiki/Crab_jujube)\n- [66] 2026 AI benchmarks: What usage data reveals about the next phase of adoption | Signals & Stories (https://mixpanel.com/blog/ai-benchmarks-2026/)\n- [67] Dynatrace - Wikipedia (https://en.wikipedia.org/wiki/Dynatrace)\n- [68] Grafana - Wikipedia (https://en.wikipedia.org/wiki/Grafana)\n- [69] Amanda Askell - Wikipedia (https://en.wikipedia.org/wiki/Amanda_Askell)\n- [70] Vibe coding - Wikipedia (https://en.wikipedia.org/wiki/Vibe_coding)\n- [71] What&#x27;s next for AI in 2026 | MIT Technology Review (https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/)\n- [72] Mercy (2026 film) - Wikipedia (https://en.wikipedia.org/wiki/Mercy_(2026_film))\n- [73] AI bubble - Wikipedia (https://en.wikipedia.org/wiki/AI_bubble)\n- [74] Sora (text-to-video model) - Wikipedia (https://en.wikipedia.org/wiki/Sora_(text-to-video_model))\n- [75] Chai AI - Wikipedia (https://en.wikipedia.org/wiki/Chai_AI)\n- [76] avature.ai (https://avature.ai/wp-content/uploads/2026/01/Avature-AI-Impact-Report-2026.pdf)\n- [77] internationalaisafetyreport.org (https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf)\n- [78] brookings.edu (https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf)\n- [79] Machine learning - Wikipedia (https://en.wikipedia.org/wiki/Machine_learning)\n- [80] Artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Artificial_intelligence)\n- [81] ChatGPT - Wikipedia (https://en.wikipedia.org/wiki/ChatGPT)\n- [82] ChatGPT Deep Research - Wikipedia (https://en.wikipedia.org/wiki/ChatGPT_Deep_Research)\n- [83] Ai Weiwei - Wikipedia (https://en.wikipedia.org/wiki/Ai_Weiwei)\n- [84] Environmental impact of artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence)\n- [85] Andrew Ng - Wikipedia (https://en.wikipedia.org/wiki/Andrew_Ng)\n- [86] People search site - Wikipedia (https://en.wikipedia.org/wiki/People_search_site)\n- [87] AI Safety Summit 2023 - Wikipedia (https://en.wikipedia.org/wiki/AI_Safety_Summit_2023)\n- [88] Kalshi - Wikipedia (https://en.wikipedia.org/wiki/Kalshi)\n- [89] Hyperion (data center) - Wikipedia (https://en.wikipedia.org/wiki/Hyperion_(data_center))\n- [90] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png)\n- [91] youtube.com (https://www.youtube.com/watch?v=B23W1gRT9eY)\n- [92] Data center - Wikipedia (https://en.wikipedia.org/wiki/Data_center)\n- [93] Predictive analytics - Wikipedia (https://en.wikipedia.org/wiki/Predictive_analytics)\n- [94] Palantir - Wikipedia (https://en.wikipedia.org/wiki/Palantir)\n- [95] JetBrains - Wikipedia (https://en.wikipedia.org/wiki/JetBrains)\n- [96] 18 Predictions for 2026 - Jakob Nielsen on UX (https://jakobnielsenphd.substack.com/p/2026-predictions)\n- [97] State AI laws in the United States - Wikipedia (https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States)\n- [98] AI agent - Wikipedia (https://en.wikipedia.org/wiki/AI_agent)\n- [99] Dead Internet theory - Wikipedia (https://en.wikipedia.org/wiki/Dead_Internet_theory)\n- [100] AI safety - Wikipedia (https://en.wikipedia.org/wiki/AI_safety)\n- [101] The State of Docs Report 2026 – AI and documentation creation (https://www.stateofdocs.com/2026/ai-and-documentation-creation)\n- [102] dgagroup.com (https://dgagroup.com/wp-content/uploads/2026/01/2026-AI-Decrypted-Report-DGA-Group.pdf)\n- [103] AI Use Cases 2026: A Framework for Impact & Scale (https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/)\n- [104] thomsonreuters.com (https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2026-ai-in-professional-services-report.pdf)\n- [105] Kilnam Chon - Wikipedia (https://en.wikipedia.org/wiki/Kilnam_Chon)\n- [106] The State of Docs Report 2026 is live! Here are the highlights – GitBook Blog (https://www.gitbook.com/blog/state-of-docs-2026)\n- [107] AI Compliance Checklist March 2026: Monthly Changes (https://www.digitalapplied.com/blog/ai-compliance-checklist-march-2026-what-changed-month)\n- [108] Engineering Metrics in the AI Era: A Complete Guide for 2026 (https://oobeya.io/blog/engineering-metrics-in-the-ai-era)\n- [109] llmrefs.com (https://llmrefs.com/blog/ai-benchmarks-ranking)\n- [110] Timeline of the 2026 Iran war - Wikipedia (https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war)\n- [111] Major AI Documentation Trends for 2026 (https://document360.com/blog/ai-documentation-trends/)\n- [112] 2026 Tech Trends: Why We Can’t Stop Talking About AI (https://start.docuware.com/blog/document-management/2026-tech-trends)\n- [113] The AI Regulation Landscape for 2026: What Legal and Compliance Leaders Need to Know (https://www.cimplifi.com/resources/the-ai-regulation-landscape-for-2026-what-legal-and-compliance-leaders-need-to-know/)\n- [114] Qodo - Wikipedia (https://en.wikipedia.org/wiki/Qodo)\n- [115] DeepSeek - Wikipedia (https://en.wikipedia.org/wiki/DeepSeek)\n- [116] ai.google (https://ai.google/static/documents/ai-responsibility-update-2026.pdf)\n- [117] Raspberry Pi - Wikipedia (https://en.wikipedia.org/wiki/Raspberry_Pi)\n- [118] ROCm - Wikipedia (https://en.wikipedia.org/wiki/ROCm)\n- [119] Essential Video Coding - Wikipedia (https://en.wikipedia.org/wiki/Essential_Video_Coding)\n- [120] Stack Overflow - Wikipedia (https://en.wikipedia.org/wiki/Stack_Overflow)",
+    "generatedAt": "2026-03-30T19:23:00.260Z"
   },
-  "completedAt": "2026-03-30T19:22:51.629Z"
+  "completedAt": "2026-03-30T19:23:00.260Z"
 }
