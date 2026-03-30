@@ -1,0 +1,46 @@
+{
+  "id": "rs_mndm0qcyoancv",
+  "sessionId": "sess_dc5sdf6",
+  "query": "how can we study anatomy without forgetting",
+  "createdAt": "2026-03-30T19:57:29.843Z",
+  "updatedAt": "2026-03-30T19:57:36.407Z",
+  "lastAdvancedAt": "2026-03-30T19:57:34.048Z",
+  "phase": "query_fanout",
+  "progress": 4,
+  "etaMinutes": 45,
+  "planDraft": "1. Define the scope of cognitive retention in medical education: Establish clear parameters by categorizing anatomy study methods into active recall, spaced repetition, multisensory learning, and clinical integration. Define the target audience (e.g., medical students, surgical residents, or anatomists) to ensure the research focuses on evidence-based pedagogical practices rather than anecdotal study tips.\n\n2. Execute a multi-source search fan-out: Conduct a systematic search across academic databases (PubMed, ERIC, Google Scholar) using keywords such as \"long-term retention of anatomical knowledge,\" \"spaced repetition in medical education,\" \"cognitive load theory,\" and \"active recall effectiveness.\" Expand the search to include peer-reviewed journals in medical education, psychology, and neuroscience to capture both the \"what\" (anatomy) and the \"how\" (cognitive science).\n\n3. Analyze retention mechanisms and pedagogical efficacy: Evaluate the identified studies by comparing traditional methods (rote memorization, passive reading) against evidence-based cognitive strategies. Prioritize meta-analyses and longitudinal studies that measure retention over intervals of six months or longer, documenting which specific techniques—such as retrieval practice or dual-coding—show the highest correlation with long-term proficiency.\n\n4. Identify evidence gaps and limitations: Critically assess the literature to highlight areas where data is insufficient, such as the efficacy of specific digital tools versus physical cadaveric dissection in long-term memory consolidation. Note contradictions in studies regarding the \"forgetting curve\" and determine if current research lacks longitudinal data on professional practitioners who no longer engage in daily anatomical study.\n\n5. Synthesize findings into a retention framework: Integrate the collected evidence into a structured, actionable framework that moves from acquisition to maintenance. Construct a final report that maps high-impact cognitive strategies to specific phases of anatomical learning, providing a robust, evidence-backed protocol for maximizing the longevity of anatomical knowledge.",
+  "planApproved": true,
+  "pendingQueries": [],
+  "processedQueries": [],
+  "websites": [],
+  "citations": [],
+  "notes": [],
+  "events": [
+    {
+      "id": "ev_1774900656407",
+      "at": "2026-03-30T19:57:36.407Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1774900653316_rg1un",
+      "at": "2026-03-30T19:57:33.316Z",
+      "phase": "awaiting_plan",
+      "message": "Research session created. Plan draft is ready for review."
+    }
+  ],
+  "learnedSoFar": [],
+  "stats": {
+    "sourcesAnalyzed": 0,
+    "tokensUsedEstimate": 0,
+    "depthScore": 0,
+    "queriesGenerated": 0,
+    "iterations": 0,
+    "uniqueDomains": 0
+  },
+  "control": {
+    "paused": false,
+    "stopped": false
+  },
+  "planFinal": "1. Define the scope of cognitive retention in medical education: Establish clear parameters by categorizing anatomy study methods into active recall, spaced repetition, multisensory learning, and clinical integration. Define the target audience (e.g., medical students, surgical residents, or anatomists) to ensure the research focuses on evidence-based pedagogical practices rather than anecdotal study tips.\n\n2. Execute a multi-source search fan-out: Conduct a systematic search across academic databases (PubMed, ERIC, Google Scholar) using keywords such as \"long-term retention of anatomical knowledge,\" \"spaced repetition in medical education,\" \"cognitive load theory,\" and \"active recall effectiveness.\" Expand the search to include peer-reviewed journals in medical education, psychology, and neuroscience to capture both the \"what\" (anatomy) and the \"how\" (cognitive science).\n\n3. Analyze retention mechanisms and pedagogical efficacy: Evaluate the identified studies by comparing traditional methods (rote memorization, passive reading) against evidence-based cognitive strategies. Prioritize meta-analyses and longitudinal studies that measure retention over intervals of six months or longer, documenting which specific techniques—such as retrieval practice or dual-coding—show the highest correlation with long-term proficiency.\n\n4. Identify evidence gaps and limitations: Critically assess the literature to highlight areas where data is insufficient, such as the efficacy of specific digital tools versus physical cadaveric dissection in long-term memory consolidation. Note contradictions in studies regarding the \"forgetting curve\" and determine if current research lacks longitudinal data on professional practitioners who no longer engage in daily anatomical study.\n\n5. Synthesize findings into a retention framework: Integrate the collected evidence into a structured, actionable framework that moves from acquisition to maintenance. Construct a final report that maps high-impact cognitive strategies to specific phases of anatomical learning, providing a robust, evidence-backed protocol for maximizing the longevity of anatomical knowledge."
+}
