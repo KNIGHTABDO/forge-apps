@@ -1,0 +1,39 @@
+{
+  "id": "rs_mndiamktnrpcb",
+  "sessionId": "sess_dc5sdf6",
+  "query": "ai in 2026",
+  "createdAt": "2026-03-30T18:13:13.037Z",
+  "updatedAt": "2026-03-30T18:13:16.277Z",
+  "lastAdvancedAt": "2026-03-30T18:13:16.277Z",
+  "phase": "awaiting_plan",
+  "progress": 4,
+  "etaMinutes": 45,
+  "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
+  "planApproved": false,
+  "pendingQueries": [],
+  "processedQueries": [],
+  "websites": [],
+  "citations": [],
+  "notes": [],
+  "events": [
+    {
+      "id": "ev_1774894393037_6namg",
+      "at": "2026-03-30T18:13:13.037Z",
+      "phase": "awaiting_plan",
+      "message": "Research session created. Plan draft is ready for review."
+    }
+  ],
+  "learnedSoFar": [],
+  "stats": {
+    "sourcesAnalyzed": 0,
+    "tokensUsedEstimate": 0,
+    "depthScore": 0,
+    "queriesGenerated": 0,
+    "iterations": 0,
+    "uniqueDomains": 0
+  },
+  "control": {
+    "paused": false,
+    "stopped": false
+  }
+}
