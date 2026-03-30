@@ -3,19 +3,166 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how can we study anatomy without forgetting",
   "createdAt": "2026-03-30T19:57:29.843Z",
-  "updatedAt": "2026-03-30T19:57:36.407Z",
-  "lastAdvancedAt": "2026-03-30T19:57:34.048Z",
-  "phase": "query_fanout",
-  "progress": 4,
-  "etaMinutes": 45,
+  "updatedAt": "2026-03-30T19:57:51.951Z",
+  "lastAdvancedAt": "2026-03-30T19:57:36.672Z",
+  "phase": "analyzing",
+  "progress": 9,
+  "etaMinutes": 37,
   "planDraft": "1. Define the scope of cognitive retention in medical education: Establish clear parameters by categorizing anatomy study methods into active recall, spaced repetition, multisensory learning, and clinical integration. Define the target audience (e.g., medical students, surgical residents, or anatomists) to ensure the research focuses on evidence-based pedagogical practices rather than anecdotal study tips.\n\n2. Execute a multi-source search fan-out: Conduct a systematic search across academic databases (PubMed, ERIC, Google Scholar) using keywords such as \"long-term retention of anatomical knowledge,\" \"spaced repetition in medical education,\" \"cognitive load theory,\" and \"active recall effectiveness.\" Expand the search to include peer-reviewed journals in medical education, psychology, and neuroscience to capture both the \"what\" (anatomy) and the \"how\" (cognitive science).\n\n3. Analyze retention mechanisms and pedagogical efficacy: Evaluate the identified studies by comparing traditional methods (rote memorization, passive reading) against evidence-based cognitive strategies. Prioritize meta-analyses and longitudinal studies that measure retention over intervals of six months or longer, documenting which specific techniques—such as retrieval practice or dual-coding—show the highest correlation with long-term proficiency.\n\n4. Identify evidence gaps and limitations: Critically assess the literature to highlight areas where data is insufficient, such as the efficacy of specific digital tools versus physical cadaveric dissection in long-term memory consolidation. Note contradictions in studies regarding the \"forgetting curve\" and determine if current research lacks longitudinal data on professional practitioners who no longer engage in daily anatomical study.\n\n5. Synthesize findings into a retention framework: Integrate the collected evidence into a structured, actionable framework that moves from acquisition to maintenance. Construct a final report that maps high-impact cognitive strategies to specific phases of anatomical learning, providing a robust, evidence-backed protocol for maximizing the longevity of anatomical knowledge.",
   "planApproved": true,
-  "pendingQueries": [],
-  "processedQueries": [],
-  "websites": [],
-  "citations": [],
-  "notes": [],
+  "pendingQueries": [
+    "how can we study anatomy without forgetting official documentation",
+    "how can we study anatomy without forgetting latest research paper",
+    "how can we study anatomy without forgetting industry analysis 2025 2026",
+    "how can we study anatomy without forgetting benchmark comparison",
+    "how can we study anatomy without forgetting limitations and risks",
+    "how can we study anatomy without forgetting case study",
+    "how can we study anatomy without forgetting expert interview",
+    "how can we study anatomy without forgetting economics and costs",
+    "how can we study anatomy without forgetting timeline and adoption",
+    "how can we study anatomy without forgetting open source tools",
+    "how can we study anatomy without forgetting enterprise usage",
+    "how can we study anatomy without forgetting \"case study\"",
+    "how can we study anatomy without forgetting metrics",
+    "how can we study anatomy without forgetting review",
+    "how can we study anatomy without forgetting \"pdf\"",
+    "how can we study anatomy without forgetting site:edu",
+    "how can we study anatomy without forgetting site:gov",
+    "how can we study anatomy without forgetting \"analysis\"",
+    "how can we study anatomy without forgetting opinion",
+    "how can we study anatomy without forgetting official documentation \"case study\"",
+    "how can we study anatomy without forgetting official documentation metrics",
+    "how can we study anatomy without forgetting official documentation review",
+    "how can we study anatomy without forgetting official documentation \"pdf\""
+  ],
+  "processedQueries": [
+    "how can we study anatomy without forgetting"
+  ],
+  "websites": [
+    {
+      "id": "site_1774900671548_9y2ct",
+      "url": "https://www.mheducation.com/highered/blog/2024/06/help-students-study-effectively-for-your-a-p-course.html",
+      "domain": "mheducation.com",
+      "title": "Help Students Study Effectively for Your A&P Course!",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=mheducation.com&sz=64",
+      "snippet": "In this article, Dr. Koot shares his top 10 tips to help students be more effective at studying for their A",
+      "checkedAt": "2026-03-30T19:57:51.950Z"
+    },
+    {
+      "id": "site_1774900670410_m53m7",
+      "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
+      "domain": "anatomy.app",
+      "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=anatomy.app&sz=64",
+      "snippet": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
+      "checkedAt": "2026-03-30T19:57:51.548Z"
+    },
+    {
+      "id": "site_1774900669611_tnovn",
+      "url": "https://enatom.com/how-to-study-for-anatomy/",
+      "domain": "enatom.com",
+      "title": "How to Study for Anatomy (and learn Anatomy fast)",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=enatom.com&sz=64",
+      "snippet": "How to study anatomy effectively: strategies to overcome overwhelm, cadaver lab anxiety, boring resources, and forgetting structures.",
+      "checkedAt": "2026-03-30T19:57:50.410Z"
+    },
+    {
+      "id": "site_1774900668934_0cfpk",
+      "url": "https://www.learvo.com/Blog/effective-studying-for-anatomy-mastery",
+      "domain": "learvo.com",
+      "title": "Effective Studying for Anatomy Mastery",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learvo.com&sz=64",
+      "snippet": "Types of Memory: semantic memory for learning, working memory for processing, procedural memory as muscle memory, episodic memory for experiences.",
+      "checkedAt": "2026-03-30T19:57:49.611Z"
+    },
+    {
+      "id": "site_1774900667133_eebbe",
+      "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
+      "domain": "instituteofhumananatomy.com",
+      "title": "How to Study Anatomy: 5 Proven Memory Techniques",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=instituteofhumananatomy.com&sz=64",
+      "snippet": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
+      "checkedAt": "2026-03-30T19:57:48.934Z"
+    }
+  ],
+  "citations": [
+    {
+      "id": 1,
+      "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
+      "domain": "instituteofhumananatomy.com",
+      "title": "How to Study Anatomy: 5 Proven Memory Techniques"
+    },
+    {
+      "id": 2,
+      "url": "https://www.learvo.com/Blog/effective-studying-for-anatomy-mastery",
+      "domain": "learvo.com",
+      "title": "Effective Studying for Anatomy Mastery"
+    },
+    {
+      "id": 3,
+      "url": "https://enatom.com/how-to-study-for-anatomy/",
+      "domain": "enatom.com",
+      "title": "How to Study for Anatomy (and learn Anatomy fast)"
+    },
+    {
+      "id": 4,
+      "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
+      "domain": "anatomy.app",
+      "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app"
+    },
+    {
+      "id": 5,
+      "url": "https://www.mheducation.com/highered/blog/2024/06/help-students-study-effectively-for-your-a-p-course.html",
+      "domain": "mheducation.com",
+      "title": "Help Students Study Effectively for Your A&P Course!"
+    }
+  ],
+  "notes": [
+    {
+      "citationId": 5,
+      "summary": "In this article, Dr. Koot shares his top 10 tips to help students be more effective at studying for their A"
+    },
+    {
+      "citationId": 4,
+      "summary": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease."
+    },
+    {
+      "citationId": 3,
+      "summary": "How to study anatomy effectively: strategies to overcome overwhelm, cadaver lab anxiety, boring resources, and forgetting structures."
+    },
+    {
+      "citationId": 2,
+      "summary": "Types of Memory: semantic memory for learning, working memory for processing, procedural memory as muscle memory, episodic memory for experiences."
+    },
+    {
+      "citationId": 1,
+      "summary": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding."
+    }
+  ],
   "events": [
+    {
+      "id": "ev_1774900671951_g774g",
+      "at": "2026-03-30T19:57:51.951Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1774900656674_i1svn",
+      "at": "2026-03-30T19:57:36.674Z",
+      "phase": "analyzing",
+      "message": "Running query: how can we study anatomy without forgetting"
+    },
+    {
+      "id": "ev_1774900656673_f4dcb",
+      "at": "2026-03-30T19:57:36.673Z",
+      "phase": "query_fanout",
+      "message": "Generated 24 additional search vectors."
+    },
     {
       "id": "ev_1774900656407",
       "at": "2026-03-30T19:57:36.407Z",
@@ -29,14 +176,20 @@
       "message": "Research session created. Plan draft is ready for review."
     }
   ],
-  "learnedSoFar": [],
+  "learnedSoFar": [
+    "In this article, Dr. Koot shares his top 10 tips to help students be more effective at studying for their A",
+    "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
+    "How to study anatomy effectively: strategies to overcome overwhelm, cadaver lab anxiety, boring resources, and forgetting structures.",
+    "Types of Memory: semantic memory for learning, working memory for processing, procedural memory as muscle memory, episodic memory for experiences.",
+    "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding."
+  ],
   "stats": {
-    "sourcesAnalyzed": 0,
-    "tokensUsedEstimate": 0,
-    "depthScore": 0,
-    "queriesGenerated": 0,
-    "iterations": 0,
-    "uniqueDomains": 0
+    "sourcesAnalyzed": 5,
+    "tokensUsedEstimate": 222,
+    "depthScore": 4,
+    "queriesGenerated": 24,
+    "iterations": 1,
+    "uniqueDomains": 5
   },
   "control": {
     "paused": false,
