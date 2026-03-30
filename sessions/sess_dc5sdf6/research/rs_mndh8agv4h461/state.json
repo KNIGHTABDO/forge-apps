@@ -3,15 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T17:43:24.415Z",
-  "updatedAt": "2026-03-30T17:43:52.419Z",
-  "lastAdvancedAt": "2026-03-30T17:43:52.228Z",
+  "updatedAt": "2026-03-30T17:43:55.522Z",
+  "lastAdvancedAt": "2026-03-30T17:43:55.333Z",
   "phase": "analyzing",
   "progress": 8,
   "etaMinutes": 38,
   "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 limitations and risks",
     "ai in 2026 case study",
     "ai in 2026 expert interview",
     "ai in 2026 economics and costs",
@@ -24,12 +23,25 @@
     "ai in 2026 official documentation",
     "ai in 2026 latest research paper",
     "ai in 2026 industry analysis 2025 2026",
-    "ai in 2026 benchmark comparison"
+    "ai in 2026 benchmark comparison",
+    "ai in 2026 limitations and risks"
   ],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1774892635522_sah6e",
+      "at": "2026-03-30T17:43:55.522Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 0."
+    },
+    {
+      "id": "ev_1774892635333_lnw4y",
+      "at": "2026-03-30T17:43:55.333Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 limitations and risks"
+    },
     {
       "id": "ev_1774892632419_mxptr",
       "at": "2026-03-30T17:43:52.419Z",
@@ -113,9 +125,9 @@
   "stats": {
     "sourcesAnalyzed": 0,
     "tokensUsedEstimate": 0,
-    "depthScore": 3,
+    "depthScore": 4,
     "queriesGenerated": 12,
-    "iterations": 5,
+    "iterations": 6,
     "uniqueDomains": 0
   },
   "control": {
