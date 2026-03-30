@@ -1,0 +1,39 @@
+{
+  "id": "rs_mndnk9wzb278q",
+  "sessionId": "sess_id690uh",
+  "query": "Je veux les détails de l’anatomie des reins",
+  "createdAt": "2026-03-30T20:40:41.267Z",
+  "updatedAt": "2026-03-30T20:40:47.978Z",
+  "lastAdvancedAt": "2026-03-30T20:40:47.978Z",
+  "phase": "awaiting_plan",
+  "progress": 4,
+  "etaMinutes": 45,
+  "planDraft": "1. Define the Scope: Establish the anatomical boundaries of the investigation to include macroscopic structures (renal capsule, cortex, medulla, pyramids, hilum, and calyces) and microscopic functional units (the nephron, including the renal corpuscle and tubular system). Specify the requirement for vascular supply, innervation, and the structural relationship of the kidneys with surrounding retroperitoneal organs.\n\n2. Execute Multi-Source Search Fan-out: Perform a targeted search across three distinct domains: academic databases (PubMed, Google Scholar) for peer-reviewed physiological literature; authoritative medical anatomy textbooks (such as Gray's Anatomy or Netter’s Atlas) for verified structural diagrams; and reputable institutional medical resources (e.g., Mayo Clinic, NIH, or university-affiliated teaching hospitals) for clear, anatomical explanations and standardized terminology.\n\n3. Conduct Comparative Analysis and Data Extraction: Systematically extract key anatomical data from the gathered sources, cross-referencing descriptions to identify consensus on terminology and structural connectivity. Prioritize detailed visual-to-text alignment, ensuring that the function of each structure is clearly linked to its anatomical position to provide context for the physical description.\n\n4. Identify Evidence Gaps and Resolution: Evaluate the retrieved information for missing granular detail, such as subtle variations in vascular branching or the micro-anatomy of the juxtaglomerular apparatus. If gaps exist in the primary research, consult specialized nephrology resources to clarify the structural nuances that influence renal blood pressure regulation and filtration efficiency.\n\n5. Synthesize and Structure the Final Report: Compile the validated findings into a comprehensive summary, organized logically from macroscopic to microscopic levels. Use precise, professional terminology, and ensure the explanation clearly maps out the flow of blood and urine through the renal architecture, providing a definitive, high-accuracy guide to human renal anatomy.",
+  "planApproved": false,
+  "pendingQueries": [],
+  "processedQueries": [],
+  "websites": [],
+  "citations": [],
+  "notes": [],
+  "events": [
+    {
+      "id": "ev_1774903244468_5snki",
+      "at": "2026-03-30T20:40:44.468Z",
+      "phase": "awaiting_plan",
+      "message": "Research session created. Plan draft is ready for review."
+    }
+  ],
+  "learnedSoFar": [],
+  "stats": {
+    "sourcesAnalyzed": 0,
+    "tokensUsedEstimate": 0,
+    "depthScore": 0,
+    "queriesGenerated": 0,
+    "iterations": 0,
+    "uniqueDomains": 0
+  },
+  "control": {
+    "paused": false,
+    "stopped": false
+  }
+}
