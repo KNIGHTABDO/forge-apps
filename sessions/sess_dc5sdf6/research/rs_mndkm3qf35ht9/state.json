@@ -3,8 +3,8 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T19:18:07.720Z",
-  "updatedAt": "2026-03-30T19:23:00.261Z",
-  "lastAdvancedAt": "2026-03-30T19:22:31.602Z",
+  "updatedAt": "2026-03-30T19:23:04.817Z",
+  "lastAdvancedAt": "2026-03-30T19:23:04.817Z",
   "phase": "complete",
   "progress": 100,
   "etaMinutes": 0,
@@ -39,531 +39,540 @@
   ],
   "websites": [
     {
-      "id": "site_1774898575301_qtswy",
+      "id": "site_1774898578347_93dub",
       "url": "https://en.wikipedia.org/wiki/Stack_Overflow",
       "domain": "en.wikipedia.org",
       "title": "Stack Overflow - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Stack Overflow - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Security breach 1",
-      "checkedAt": "2026-03-30T19:22:55.381Z"
+      "checkedAt": "2026-03-30T19:22:58.413Z"
     },
     {
-      "id": "site_1774898574378_wummd",
+      "id": "site_1774898578236_r1sgx",
       "url": "https://en.wikipedia.org/wiki/Essential_Video_Coding",
       "domain": "en.wikipedia.org",
       "title": "Essential Video Coding - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Essential Video Coding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Concept 2 Implementations 3 MPAI-EVC 4 See also",
-      "checkedAt": "2026-03-30T19:22:55.301Z"
+      "checkedAt": "2026-03-30T19:22:58.347Z"
     },
     {
-      "id": "site_1774898574297_ah50f",
+      "id": "site_1774898578157_d8vhg",
       "url": "https://en.wikipedia.org/wiki/ROCm",
       "domain": "en.wikipedia.org",
       "title": "ROCm - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "ROCm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Heterogeneous System ",
-      "checkedAt": "2026-03-30T19:22:54.378Z"
+      "checkedAt": "2026-03-30T19:22:58.235Z"
     },
     {
-      "id": "site_1774898573830_5zhqw",
+      "id": "site_1774898578037_0ffxp",
       "url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
       "domain": "en.wikipedia.org",
       "title": "Raspberry Pi - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Raspberry Pi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Origins and launch ",
-      "checkedAt": "2026-03-30T19:22:54.297Z"
+      "checkedAt": "2026-03-30T19:22:58.157Z"
     },
     {
-      "id": "site_1774898563818_wotrq",
+      "id": "site_1774898568029_cqjqm",
       "url": "https://www.usda.gov/sites/default/files/documents/fy-2025-2026-usda-ai-strategy.pdf",
       "domain": "usda.gov",
       "title": "usda.gov",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=usda.gov&sz=64",
-      "checkedAt": "2026-03-30T19:22:53.830Z"
+      "checkedAt": "2026-03-30T19:22:58.037Z"
     },
     {
-      "id": "site_1774898561857_8fb8y",
+      "id": "site_1774898566916_k494z",
       "url": "https://ai.google/static/documents/ai-responsibility-update-2026.pdf",
       "domain": "ai.google",
       "title": "ai.google",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=ai.google&sz=64",
       "snippet": "%PDF-1.5 %���� 2747 0 obj > endobj xref 2747 35 0000000016 00000 n 0000002378 00000 n 0000002541 00000 n 0000005529 00000 n 0000005679 00000 n 0000006151 00000 n 0000006266 00000 n 0000006295 00000 n 0000007233 00000 n 0000008308 00000 n 0000009280 00000 n 0000010298 00000 n 0000011201 00000 n 0000012165 00000 n 0000012315 00000 n 0000012725 00000 n 0000012845 00000 n 0000014009 00000 n 0000014834 00000 n 0000014951 00000 n 0000015022 00000 n 000",
-      "checkedAt": "2026-03-30T19:22:43.818Z"
+      "checkedAt": "2026-03-30T19:22:48.029Z"
     },
     {
-      "id": "site_1774898551478_pr9yl",
-      "url": "https://en.wikipedia.org/wiki/DeepSeek",
+      "id": "site_1774898556712_wl44f",
+      "url": "https://en.wikipedia.org/wiki/PdfFiller",
       "domain": "en.wikipedia.org",
-      "title": "DeepSeek - Wikipedia",
+      "title": "pdfFiller - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "DeepSeek - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Founding and early year",
-      "checkedAt": "2026-03-30T19:22:31.602Z"
+      "snippet": "pdfFiller - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products features Toggle Products features subsect",
+      "checkedAt": "2026-03-30T19:22:36.786Z"
     },
     {
-      "id": "site_1774898551404_qw4na",
+      "id": "site_1774898556635_jrfnj",
       "url": "https://en.wikipedia.org/wiki/Qodo",
       "domain": "en.wikipedia.org",
       "title": "Qodo - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Qodo - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products 3 Financing 4 References 5 External links Togg",
-      "checkedAt": "2026-03-30T19:22:31.478Z"
+      "checkedAt": "2026-03-30T19:22:36.712Z"
     },
     {
-      "id": "site_1774898550001_r8i5c",
+      "id": "site_1774898556401_6qcmg",
       "url": "https://www.cimplifi.com/resources/the-ai-regulation-landscape-for-2026-what-legal-and-compliance-leaders-need-to-know/",
       "domain": "cimplifi.com",
       "title": "The AI Regulation Landscape for 2026: What Legal and Compliance Leaders Need to Know",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=cimplifi.com&sz=64",
       "snippet": "Learn the key global AI regulations shaping 2026 and how organizations can prepare for evolving compliance, accountability, and governance requirements.",
-      "checkedAt": "2026-03-30T19:22:31.404Z"
+      "checkedAt": "2026-03-30T19:22:36.634Z"
     },
     {
-      "id": "site_1774898549753_xebg3",
+      "id": "site_1774898556317_naau4",
       "url": "https://start.docuware.com/blog/document-management/2026-tech-trends",
       "domain": "start.docuware.com",
       "title": "2026 Tech Trends: Why We Can’t Stop Talking About AI",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=start.docuware.com&sz=64",
       "snippet": "DocuWare Chief Product & Technology Officer Michael Bochmann shares his perspective on 2026 tech trends. AI-driven solutions like IDP top the list.",
-      "checkedAt": "2026-03-30T19:22:30.001Z"
+      "checkedAt": "2026-03-30T19:22:36.401Z"
     },
     {
-      "id": "site_1774898549247_c2lvk",
+      "id": "site_1774898555796_hnsxl",
       "url": "https://document360.com/blog/ai-documentation-trends/",
       "domain": "document360.com",
       "title": "Major AI Documentation Trends for 2026",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=document360.com&sz=64",
       "snippet": "Learn how AI transforms documentation with real-time updates, multimodal content, autonomous agents, and stronger governance frameworks.",
-      "checkedAt": "2026-03-30T19:22:29.753Z"
+      "checkedAt": "2026-03-30T19:22:36.317Z"
     },
     {
-      "id": "site_1774898538083_rdwm7",
+      "id": "site_1774898545243_0maqh",
       "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war",
       "domain": "en.wikipedia.org",
       "title": "Timeline of the 2026 Iran war - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Timeline of the 2026 Iran war - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 27 February 2 28 February Toggle 28 Febr",
-      "checkedAt": "2026-03-30T19:22:18.419Z"
+      "checkedAt": "2026-03-30T19:22:25.596Z"
     },
     {
-      "id": "site_1774898537751_b0w2q",
+      "id": "site_1774898544901_y9bps",
       "url": "https://llmrefs.com/blog/ai-benchmarks-ranking",
       "domain": "llmrefs.com",
       "title": "llmrefs.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=llmrefs.com&sz=64",
       "snippet": "LLMrefs AI Search Visibility Tools Blog Pricing Sign in Create Free Account AI Search Visibility Tools Blog Pricing ai benchmarks ranking , llm benchmarks , answer engine optimization , aeo strategy , llmrefs AI Benchmarks Ranking: Your Guide to Winning in 2026 Written by LLMrefs Team • Last updated February 27, 2026 Home Blog AI Benchmarks Ranking: Your Guide to Winning in 2026 Summarize this article with ChatGPT LLMrefs Team Insights from the L",
-      "checkedAt": "2026-03-30T19:22:18.083Z"
+      "checkedAt": "2026-03-30T19:22:25.243Z"
     },
     {
-      "id": "site_1774898536577_zr6wi",
+      "id": "site_1774898544657_lj25i",
       "url": "https://oobeya.io/blog/engineering-metrics-in-the-ai-era",
       "domain": "oobeya.io",
       "title": "Engineering Metrics in the AI Era: A Complete Guide for 2026",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=oobeya.io&sz=64",
       "snippet": "Engineering Metrics in the AI Era: A Complete Guide for 2026 @layer properties{@supports ((-webkit-hyphens:none) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,::backdrop,:after,:before{--tw-translate-x:0;--tw-translate-y:0;--tw-translate-z:0;--tw-scale-x:1;--tw-scale-y:1;--tw-scale-z:1;--tw-rotate-x:initial;--tw-rotate-y:initial;--tw-rotate-z:initial;--tw-skew-x:initial;--tw-skew-y:initial;--tw-",
-      "checkedAt": "2026-03-30T19:22:17.751Z"
+      "checkedAt": "2026-03-30T19:22:24.901Z"
     },
     {
-      "id": "site_1774898535589_tz7vx",
+      "id": "site_1774898544294_kxrvb",
       "url": "https://www.digitalapplied.com/blog/ai-compliance-checklist-march-2026-what-changed-month",
       "domain": "digitalapplied.com",
       "title": "AI Compliance Checklist March 2026: Monthly Changes",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=digitalapplied.com&sz=64",
       "snippet": "A practical AI compliance checklist capturing every regulatory change from March 2026. Covers EU AI Act deadlines, FTC guidance, and action items.",
-      "checkedAt": "2026-03-30T19:22:16.577Z"
+      "checkedAt": "2026-03-30T19:22:24.656Z"
     },
     {
-      "id": "site_1774898534274_j0svx",
+      "id": "site_1774898544104_xkw6t",
       "url": "https://www.gitbook.com/blog/state-of-docs-2026",
       "domain": "gitbook.com",
       "title": "The State of Docs Report 2026 is live! Here are the highlights – GitBook Blog",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=gitbook.com&sz=64",
       "snippet": "AI is reshaping how teams write, structure, and measure documentation. Here are the key findings from the State of Docs Report 2026, featuring insights from 1,100+ industry experts | Tal Gluck | 18 Mar, 2026",
-      "checkedAt": "2026-03-30T19:22:15.589Z"
+      "checkedAt": "2026-03-30T19:22:24.294Z"
     },
     {
-      "id": "site_1774898522360_xarpc",
+      "id": "site_1774898533088_gpyza",
+      "url": "https://en.wikipedia.org/wiki/Baidu_Baike",
+      "domain": "en.wikipedia.org",
+      "title": "Baidu Baike - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Baidu Baike - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Features Toggle Features subsection 2.1 Copyrigh",
+      "checkedAt": "2026-03-30T19:22:13.387Z"
+    },
+    {
+      "id": "site_1774898532302_ekjef",
       "url": "https://en.wikipedia.org/wiki/Kilnam_Chon",
       "domain": "en.wikipedia.org",
       "title": "Kilnam Chon - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Kilnam Chon - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection",
-      "checkedAt": "2026-03-30T19:22:03.817Z"
+      "checkedAt": "2026-03-30T19:22:13.088Z"
     },
     {
-      "id": "site_1774898520619_cwd65",
+      "id": "site_1774898522296_iql9o",
       "url": "https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2026-ai-in-professional-services-report.pdf",
       "domain": "thomsonreuters.com",
       "title": "thomsonreuters.com",
-      "status": "analyzed",
+      "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=64",
-      "snippet": "%PDF-1.6 %���� 3450 0 obj > endobj 3471 0 obj >/Filter/FlateDecode/ID[ ]/Index[3450 39]/Info 3449 0 R/Length 100/Prev 1147733/Root 3451 0 R/Size 3489/Type/XRef/W[1 2 1]>>stream h�bbd\u0010``b`�\u0007\u0012 K�\u0004�'\u00107 H0�\u0001\u0012,% �6\u0010+\u001bD\u001c\u0001\u0011\\ uu �9H6\u0019�� H�\u0004\u0012*����:�`|\u0001\"2��`%�p�g`b��\u0004Y��H%�����\u0000\u0001\u0006\u0000�\u0005\u0010V endstream endobj startxref 0 %%EOF 3488 0 obj >stream hޤS�K�a\u0014?ϻ5�\u0012��k��6�\u0004A~�N�.�b:h��6�_d��p�\u0011\u001bB\bc�\\����6��Zԝ��!+\u0017%�8Y\u0011z�]y1\u0014궳����\u000e�s�y��=�sx��\u0000\u0000��\u001d\\\u0001(�\u00031�\u00131�x�\u0005:\u0000��E�\u0002 ��",
-      "checkedAt": "2026-03-30T19:22:02.360Z"
+      "checkedAt": "2026-03-30T19:22:12.302Z"
     },
     {
-      "id": "site_1774898518124_24hk4",
+      "id": "site_1774898521651_jllr4",
       "url": "https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/",
       "domain": "futransolutions.com",
       "title": "AI Use Cases 2026: A Framework for Impact & Scale",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=futransolutions.com&sz=64",
       "snippet": "Master a 2026 framework for scaling AI use cases. Move from pilot to production by focusing on decision impact, operational readiness, and ROI at scale.",
-      "checkedAt": "2026-03-30T19:22:00.618Z"
+      "checkedAt": "2026-03-30T19:22:02.296Z"
     },
     {
-      "id": "site_1774898510285_4cd6a",
+      "id": "site_1774898516251_6wi5u",
       "url": "https://dgagroup.com/wp-content/uploads/2026/01/2026-AI-Decrypted-Report-DGA-Group.pdf",
       "domain": "dgagroup.com",
       "title": "dgagroup.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=dgagroup.com&sz=64",
       "snippet": "%PDF-1.4 %���� 1 0 obj > endobj 7 0 obj > endobj 2 0 obj > endobj 3 0 obj > stream 2026 AI Decrypted 2026 AI Decrypted endstream endobj 4 0 obj > endobj 5 0 obj > endobj 6 0 obj > endobj 8 0 obj > /Font 45 0 R >> /MediaBox [0.0 7.9200063 612.0 799.92] /Contents 46 0 R /StructParents 0 /Tabs /S /Parent 2 0 R /BleedBox [0.0 7.9200063 612.0 799.92] /TrimBox [0.0 7.9200063 612.0 799.92] /CropBox [0.0 7.9200063 612.0 799.92] /Rotate 0 /Annots [] >> en",
-      "checkedAt": "2026-03-30T19:21:58.124Z"
+      "checkedAt": "2026-03-30T19:22:01.651Z"
     },
     {
-      "id": "site_1774898509801_y6857",
+      "id": "site_1774898514799_vs0cl",
       "url": "https://www.stateofdocs.com/2026/ai-and-documentation-creation",
       "domain": "stateofdocs.com",
       "title": "The State of Docs Report 2026 – AI and documentation creation",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=stateofdocs.com&sz=64",
       "snippet": "How are teams using AI to create documentation, where is it actually saving time, and what",
-      "checkedAt": "2026-03-30T19:21:50.285Z"
+      "checkedAt": "2026-03-30T19:21:56.251Z"
     },
     {
-      "id": "site_1774898499357_82514",
+      "id": "site_1774898504246_08t7i",
       "url": "https://en.wikipedia.org/wiki/AI_safety",
       "domain": "en.wikipedia.org",
       "title": "AI safety - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "AI safety - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Motivations Toggle Motivations subsection 1.1 Existential sa",
-      "checkedAt": "2026-03-30T19:21:39.447Z"
+      "checkedAt": "2026-03-30T19:21:44.612Z"
     },
     {
-      "id": "site_1774898499279_u8mt3",
+      "id": "site_1774898503920_1zfxl",
       "url": "https://en.wikipedia.org/wiki/Dead_Internet_theory",
       "domain": "en.wikipedia.org",
       "title": "Dead Internet theory - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Dead Internet theory - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and spread 2 Claims 3 Expert view 4 Evide",
-      "checkedAt": "2026-03-30T19:21:39.357Z"
+      "checkedAt": "2026-03-30T19:21:44.246Z"
     },
     {
-      "id": "site_1774898499192_zkix6",
+      "id": "site_1774898503820_bnvwj",
       "url": "https://en.wikipedia.org/wiki/AI_agent",
       "domain": "en.wikipedia.org",
       "title": "AI agent - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "AI agent - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 History 3 Training and testing 4 Autonomous capabi",
-      "checkedAt": "2026-03-30T19:21:39.279Z"
+      "checkedAt": "2026-03-30T19:21:43.920Z"
     },
     {
-      "id": "site_1774898499101_71fo5",
+      "id": "site_1774898503692_q0p2z",
       "url": "https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States",
       "domain": "en.wikipedia.org",
       "title": "State AI laws in the United States - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "State AI laws in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Categories of state AI",
-      "checkedAt": "2026-03-30T19:21:39.192Z"
+      "checkedAt": "2026-03-30T19:21:43.820Z"
     },
     {
-      "id": "site_1774898498582_ue8o9",
+      "id": "site_1774898503129_wkw7q",
       "url": "https://jakobnielsenphd.substack.com/p/2026-predictions",
       "domain": "jakobnielsenphd.substack.com",
       "title": "18 Predictions for 2026 - Jakob Nielsen on UX",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=jakobnielsenphd.substack.com&sz=64",
       "snippet": "Accelerating AI capabilities will shift focus from raw intelligence to autonomous agents and Generative UI, making UX the primary business moat.",
-      "checkedAt": "2026-03-30T19:21:39.101Z"
+      "checkedAt": "2026-03-30T19:21:43.691Z"
     },
     {
-      "id": "site_1774898488154_ei54u",
+      "id": "site_1774898492865_ov0wc",
       "url": "https://en.wikipedia.org/wiki/JetBrains",
       "domain": "en.wikipedia.org",
       "title": "JetBrains - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "JetBrains - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Financial performance 3 Products Toggle Products s",
-      "checkedAt": "2026-03-30T19:21:28.228Z"
+      "checkedAt": "2026-03-30T19:21:32.942Z"
     },
     {
-      "id": "site_1774898487998_8bxqy",
+      "id": "site_1774898492493_5fdj4",
       "url": "https://en.wikipedia.org/wiki/Palantir",
       "domain": "en.wikipedia.org",
       "title": "Palantir - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Palantir - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2003–2008: Founding and",
-      "checkedAt": "2026-03-30T19:21:28.154Z"
+      "checkedAt": "2026-03-30T19:21:32.865Z"
     },
     {
-      "id": "site_1774898487917_c3uah",
+      "id": "site_1774898492408_f52uf",
       "url": "https://en.wikipedia.org/wiki/Predictive_analytics",
       "domain": "en.wikipedia.org",
       "title": "Predictive analytics - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Predictive analytics - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Evolution and Generative AI Integrat",
-      "checkedAt": "2026-03-30T19:21:27.998Z"
+      "checkedAt": "2026-03-30T19:21:32.493Z"
     },
     {
-      "id": "site_1774898487813_uz6az",
+      "id": "site_1774898492096_22uw1",
       "url": "https://en.wikipedia.org/wiki/Data_center",
       "domain": "en.wikipedia.org",
       "title": "Data center - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Data center - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification and types Toggle Classification and types s",
-      "checkedAt": "2026-03-30T19:21:27.917Z"
+      "checkedAt": "2026-03-30T19:21:32.408Z"
     },
     {
-      "id": "site_1774898486936_p11n8",
+      "id": "site_1774898490962_uxkgx",
       "url": "https://www.youtube.com/watch?v=B23W1gRT9eY",
       "domain": "youtube.com",
       "title": "youtube.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=64",
-      "snippet": "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"OM3KadSwLrji-cAP9_WgiQk\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apb_b\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"action_companion_c",
-      "checkedAt": "2026-03-30T19:21:27.813Z"
+      "snippet": "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"PM3KaenpKLji-cAP9_WgiQk\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apb_b\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"ab_fix_creator_vie",
+      "checkedAt": "2026-03-30T19:21:32.096Z"
     },
     {
-      "id": "site_1774898476293_9mynd",
+      "id": "site_1774898480603_xsks1",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-      "checkedAt": "2026-03-30T19:21:16.747Z"
+      "checkedAt": "2026-03-30T19:21:20.641Z"
     },
     {
-      "id": "site_1774898476228_r029u",
+      "id": "site_1774898480536_2qpet",
       "url": "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
       "domain": "en.wikipedia.org",
       "title": "Hyperion (data center) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Hyperion (data center) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of conte",
-      "checkedAt": "2026-03-30T19:21:16.293Z"
+      "checkedAt": "2026-03-30T19:21:20.603Z"
     },
     {
-      "id": "site_1774898476163_icnri",
+      "id": "site_1774898480463_94ea4",
       "url": "https://en.wikipedia.org/wiki/Kalshi",
       "domain": "en.wikipedia.org",
       "title": "Kalshi - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Kalshi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Controversies Toggle Controversies subsection 2.1 Eff",
-      "checkedAt": "2026-03-30T19:21:16.228Z"
+      "checkedAt": "2026-03-30T19:21:20.536Z"
     },
     {
-      "id": "site_1774898475398_oec1g",
+      "id": "site_1774898480393_skka9",
       "url": "https://en.wikipedia.org/wiki/AI_Safety_Summit_2023",
       "domain": "en.wikipedia.org",
       "title": "AI Safety Summit 2023 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "AI Safety Summit 2023 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Venue 3 Outcomes 4 Notable attendee",
-      "checkedAt": "2026-03-30T19:21:16.163Z"
+      "checkedAt": "2026-03-30T19:21:20.463Z"
     },
     {
-      "id": "site_1774898474786_8s084",
+      "id": "site_1774898480323_v6aa1",
       "url": "https://en.wikipedia.org/wiki/People_search_site",
       "domain": "en.wikipedia.org",
       "title": "People search site - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "People search site - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of contents ",
-      "checkedAt": "2026-03-30T19:21:15.398Z"
+      "checkedAt": "2026-03-30T19:21:20.393Z"
     },
     {
-      "id": "site_1774898464157_avyfe",
+      "id": "site_1774898469525_yxuvt",
       "url": "https://en.wikipedia.org/wiki/Andrew_Ng",
       "domain": "en.wikipedia.org",
       "title": "Andrew Ng - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Andrew Ng - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
-      "checkedAt": "2026-03-30T19:21:04.390Z"
+      "checkedAt": "2026-03-30T19:21:09.700Z"
     },
     {
-      "id": "site_1774898463893_csj36",
+      "id": "site_1774898469419_tqaic",
       "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence",
       "domain": "en.wikipedia.org",
       "title": "Environmental impact of artificial intelligence - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Environmental impact of artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Carbon footprint and e",
-      "checkedAt": "2026-03-30T19:21:04.157Z"
+      "checkedAt": "2026-03-30T19:21:09.525Z"
     },
     {
-      "id": "site_1774898463489_fy7o9",
+      "id": "site_1774898469249_mwo6j",
       "url": "https://en.wikipedia.org/wiki/Ai_Weiwei",
       "domain": "en.wikipedia.org",
       "title": "Ai Weiwei - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Ai Weiwei - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life Toggle Life subsection 1.1 Early life and work 1.2 Life",
-      "checkedAt": "2026-03-30T19:21:03.893Z"
+      "checkedAt": "2026-03-30T19:21:09.419Z"
     },
     {
-      "id": "site_1774898462968_8o1m2",
+      "id": "site_1774898469176_4lgiy",
       "url": "https://en.wikipedia.org/wiki/ChatGPT_Deep_Research",
       "domain": "en.wikipedia.org",
       "title": "ChatGPT Deep Research - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "ChatGPT Deep Research - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Agent 2 Usage limit 3 References 4 External link",
-      "checkedAt": "2026-03-30T19:21:03.489Z"
+      "checkedAt": "2026-03-30T19:21:09.249Z"
     },
     {
-      "id": "site_1774898462370_927u7",
+      "id": "site_1774898468683_9mqvl",
       "url": "https://en.wikipedia.org/wiki/ChatGPT",
       "domain": "en.wikipedia.org",
       "title": "ChatGPT - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "ChatGPT - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Training 2 Features Toggle Features subsection 2.1 Paid tier 2",
-      "checkedAt": "2026-03-30T19:21:02.968Z"
+      "checkedAt": "2026-03-30T19:21:09.176Z"
     },
     {
-      "id": "site_1774898449568_tofxn",
+      "id": "site_1774898457852_7s3ip",
       "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
       "domain": "en.wikipedia.org",
       "title": "Artificial intelligence - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Artificial intelligence - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Goals Toggle Goals subsection 1.1 Reasoning an",
-      "checkedAt": "2026-03-30T19:20:50.205Z"
+      "checkedAt": "2026-03-30T19:20:58.084Z"
     },
     {
-      "id": "site_1774898449010_rzwc9",
+      "id": "site_1774898457295_5thfd",
       "url": "https://en.wikipedia.org/wiki/Machine_learning",
       "domain": "en.wikipedia.org",
       "title": "Machine learning - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Machine learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Relationships to other fields Toggle Relati",
-      "checkedAt": "2026-03-30T19:20:49.568Z"
+      "checkedAt": "2026-03-30T19:20:57.852Z"
     },
     {
-      "id": "site_1774898439006_lsyyi",
+      "id": "site_1774898449594_g4qy2",
       "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
       "domain": "cdn.openai.com",
       "title": "cdn.openai.com",
-      "status": "failed",
+      "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=cdn.openai.com&sz=64",
-      "checkedAt": "2026-03-30T19:20:49.009Z"
+      "snippet": "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 5 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x����w�U�'�ml ���\u0017W� � �\u001cZ{� uk��Co�\u001fҡ�^�\u0005����;�Ƒ�R�Y� ۨ��ɨ{8��\u0007\u001c�^�g��϶\u000f��x �ϭ1 ��� ��$�\u000ew0w{2\u000fW�|�L=���3�� \u0013��e�\u001b��yo5\u0001 ��������M��\u0003s{�A�|\b�k������\u0000\u001aq�z�\\x��\bj�����.��y \u0004;���-��\u001d\u001fף��\u001c�\u0004\b���\b\u000e��\u001c8��\u00004����é��@�\u0018�͎\u0005����i��l��%\\\u0017�sr!p��\u0012.",
+      "checkedAt": "2026-03-30T19:20:57.295Z"
     },
     {
-      "id": "site_1774898429001_kzfro",
+      "id": "site_1774898439591_bievc",
       "url": "https://setr.stanford.edu/sites/default/files/2026-01/SETR2026_01-AI_web-260109.pdf",
       "domain": "setr.stanford.edu",
       "title": "setr.stanford.edu",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=setr.stanford.edu&sz=64",
-      "checkedAt": "2026-03-30T19:20:39.006Z"
+      "checkedAt": "2026-03-30T19:20:49.594Z"
     },
     {
-      "id": "site_1774898421178_l235l",
+      "id": "site_1774898429585_00cxi",
       "url": "https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf",
       "domain": "brookings.edu",
       "title": "brookings.edu",
-      "status": "analyzed",
+      "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=brookings.edu&sz=64",
-      "snippet": "%PDF-1.7 %���� 10707 0 obj > endobj 10724 0 obj >/Filter/FlateDecode/ID[ ]/Index[10707 33]/Info 10706 0 R/Length 96/Prev 11551744/Root 10708 0 R/Size 10740/Type/XRef/W[1 3 1]>>stream h�bbd`\u0010``b`\u0010�\u0003���@$�\u0015\u0010�6\u0001D2׀I0�)\u0010��\u0002��\u0002\"��A$�z\u0010yx2�d >stream h��Y}X\u0013g�g2!�\u0004!\u0013�\u0001 \u0018����\u0001\u0004,�j\u0012��\u0005 \u0011\u0004�V�(�e-ZWc��Nb�\u0004�H\u0000\u0005�6 ���ZD[�w�x�Ei�G�ܪw�*m��]�n�Ϻ��w&3 �ڽ�y�;O��y?����9�%\u0003\u0000@�g\b�\u0000��@\u000eB�\u001c��\u0000`\u0000\u001f�\u0000�� tk�\b��2\u0001\u0002P������\u0004�̅��\u001b\\\u0015D�/?�lp\b�\u001c \u0002 \u0019��\u0018��\u0001�#Bz\u0005D\u0014\u0001u���S�-h\u0005F�\u000e\b���",
-      "checkedAt": "2026-03-30T19:20:29.001Z"
+      "checkedAt": "2026-03-30T19:20:39.591Z"
     },
     {
-      "id": "site_1774898417358_xslkk",
+      "id": "site_1774898423376_8flxp",
       "url": "https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf",
       "domain": "internationalaisafetyreport.org",
       "title": "internationalaisafetyreport.org",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=internationalaisafetyreport.org&sz=64",
       "snippet": "%PDF-1.5 %���� 35914 0 obj > endobj xref 35914 556 0000000016 00000 n 0000018828 00000 n 0000019113 00000 n 0000019161 00000 n 0000019200 00000 n 0000020822 00000 n 0000021301 00000 n 0000021580 00000 n 0000022118 00000 n 0000022512 00000 n 0000027908 00000 n 0000027938 00000 n 0000028053 00000 n 0000028130 00000 n 0000028247 00000 n 0000028372 00000 n 0000028761 00000 n 0000028862 00000 n 0000029013 00000 n 0000029140 00000 n 0000029266 00000 n ",
-      "checkedAt": "2026-03-30T19:20:21.178Z"
+      "checkedAt": "2026-03-30T19:20:29.585Z"
     },
     {
-      "id": "site_1774898415412_u5d9c",
+      "id": "site_1774898415979_193n3",
       "url": "https://avature.ai/wp-content/uploads/2026/01/Avature-AI-Impact-Report-2026.pdf",
       "domain": "avature.ai",
       "title": "avature.ai",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=avature.ai&sz=64",
       "snippet": "%PDF-1.4 %���� 1625 0 obj > endobj xref 1625 136 0000000016 00000 n 0000004673 00000 n 0000004851 00000 n 0000004888 00000 n 0000006898 00000 n 0000006927 00000 n 0000007592 00000 n 0000007991 00000 n 0000008396 00000 n 0000008664 00000 n 0000008777 00000 n 0000008892 00000 n 0000009410 00000 n 0000009674 00000 n 0000009816 00000 n 0000010411 00000 n 0000011001 00000 n 0000011613 00000 n 0000012118 00000 n 0000012625 00000 n 0000013151 00000 n 00",
-      "checkedAt": "2026-03-30T19:20:17.358Z"
+      "checkedAt": "2026-03-30T19:20:23.376Z"
     },
     {
-      "id": "site_1774898413469_fznuy",
+      "id": "site_1774898413506_7c66o",
       "url": "https://en.wikipedia.org/wiki/Chai_AI",
       "domain": "en.wikipedia.org",
       "title": "Chai AI - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Chai AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Reception 3 Technology 4 See also 5 References 6 Ext",
-      "checkedAt": "2026-03-30T19:20:13.526Z"
+      "checkedAt": "2026-03-30T19:20:13.756Z"
     },
     {
-      "id": "site_1774898413402_xwsom",
+      "id": "site_1774898412070_o0ou9",
       "url": "https://en.wikipedia.org/wiki/Sora_(text-to-video_model)",
       "domain": "en.wikipedia.org",
       "title": "Sora (text-to-video model) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Sora (text-to-video model) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 History Toggle History subsect",
-      "checkedAt": "2026-03-30T19:20:13.469Z"
+      "checkedAt": "2026-03-30T19:20:13.506Z"
     },
     {
-      "id": "site_1774898413291_0f0ko",
+      "id": "site_1774898412009_aavyv",
       "url": "https://en.wikipedia.org/wiki/AI_bubble",
       "domain": "en.wikipedia.org",
       "title": "AI bubble - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack",
-      "checkedAt": "2026-03-30T19:20:13.401Z"
+      "checkedAt": "2026-03-30T19:20:12.070Z"
     },
     {
-      "id": "site_1774898413174_87tt9",
+      "id": "site_1774898411957_98j7o",
       "url": "https://en.wikipedia.org/wiki/Mercy_(2026_film)",
       "domain": "en.wikipedia.org",
       "title": "Mercy (2026 film) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Mercy (2026 film) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
-      "checkedAt": "2026-03-30T19:20:13.291Z"
+      "checkedAt": "2026-03-30T19:20:12.009Z"
     },
     {
-      "id": "site_1774898413124_na7kz",
+      "id": "site_1774898411809_niid3",
       "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
       "domain": "technologyreview.com",
       "title": "What&#x27;s next for AI in 2026 | MIT Technology Review",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=technologyreview.com&sz=64",
       "snippet": "Our AI writers make their big bets for the coming year—here are five hot trends to watch.",
-      "checkedAt": "2026-03-30T19:20:13.174Z"
+      "checkedAt": "2026-03-30T19:20:11.957Z"
     },
     {
       "id": "site_1774898407852_d5rpk",
@@ -1839,9 +1848,9 @@
     },
     {
       "id": 78,
-      "url": "https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf",
-      "domain": "brookings.edu",
-      "title": "brookings.edu"
+      "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+      "domain": "cdn.openai.com",
+      "title": "cdn.openai.com"
     },
     {
       "id": 79,
@@ -1995,15 +2004,15 @@
     },
     {
       "id": 104,
-      "url": "https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2026-ai-in-professional-services-report.pdf",
-      "domain": "thomsonreuters.com",
-      "title": "thomsonreuters.com"
-    },
-    {
-      "id": 105,
       "url": "https://en.wikipedia.org/wiki/Kilnam_Chon",
       "domain": "en.wikipedia.org",
       "title": "Kilnam Chon - Wikipedia"
+    },
+    {
+      "id": 105,
+      "url": "https://en.wikipedia.org/wiki/Baidu_Baike",
+      "domain": "en.wikipedia.org",
+      "title": "Baidu Baike - Wikipedia"
     },
     {
       "id": 106,
@@ -2061,9 +2070,9 @@
     },
     {
       "id": 115,
-      "url": "https://en.wikipedia.org/wiki/DeepSeek",
+      "url": "https://en.wikipedia.org/wiki/PdfFiller",
       "domain": "en.wikipedia.org",
-      "title": "DeepSeek - Wikipedia"
+      "title": "pdfFiller - Wikipedia"
     },
     {
       "id": 116,
@@ -2119,7 +2128,7 @@
     },
     {
       "citationId": 115,
-      "summary": "DeepSeek - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Founding and early year"
+      "summary": "pdfFiller - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products features Toggle Products features subsect"
     },
     {
       "citationId": 114,
@@ -2159,11 +2168,11 @@
     },
     {
       "citationId": 105,
-      "summary": "Kilnam Chon - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection"
+      "summary": "Baidu Baike - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Features Toggle Features subsection 2.1 Copyrigh"
     },
     {
       "citationId": 104,
-      "summary": "%PDF-1.6 %���� 3450 0 obj > endobj 3471 0 obj >/Filter/FlateDecode/ID[ ]/Index[3450 39]/Info 3449 0 R/Length 100/Prev 1147733/Root 3451 0 R/Size 3489/Type/XRef/W[1 2 1]>>stream h�bbd\u0010``b`�\u0007\u0012 K�\u0004�'\u00107 H0�\u0001\u0012,% �6\u0010+\u001bD\u001c\u0001\u0011\\ uu �9H6\u0019�� H�\u0004\u0012*����:�`|\u0001\"2��`%�p�g`b��\u0004Y��H%�����\u0000\u0001\u0006\u0000�\u0005\u0010V endstream endobj startxref 0 %%EOF 3488 0 obj >stream hޤS�K�a\u0014?ϻ5�\u0012��k��6�\u0004A~�N�.�b:h��6�_d��p�\u0011\u001bB\bc�\\����6��Zԝ��!+\u0017%�8Y\u0011z�]y1\u0014궳����\u000e�s�y��=�sx��\u0000\u0000��\u001d\\\u0001(�\u00031�\u00131�x�\u0005:\u0000��E�\u0002 ��"
+      "summary": "Kilnam Chon - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection"
     },
     {
       "citationId": 103,
@@ -2215,7 +2224,7 @@
     },
     {
       "citationId": 91,
-      "summary": "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"OM3KadSwLrji-cAP9_WgiQk\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apb_b\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"action_companion_c"
+      "summary": "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"PM3KaenpKLji-cAP9_WgiQk\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apb_b\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"ab_fix_creator_vie"
     },
     {
       "citationId": 90,
@@ -2267,7 +2276,7 @@
     },
     {
       "citationId": 78,
-      "summary": "%PDF-1.7 %���� 10707 0 obj > endobj 10724 0 obj >/Filter/FlateDecode/ID[ ]/Index[10707 33]/Info 10706 0 R/Length 96/Prev 11551744/Root 10708 0 R/Size 10740/Type/XRef/W[1 3 1]>>stream h�bbd`\u0010``b`\u0010�\u0003���@$�\u0015\u0010�6\u0001D2׀I0�)\u0010��\u0002��\u0002\"��A$�z\u0010yx2�d >stream h��Y}X\u0013g�g2!�\u0004!\u0013�\u0001 \u0018����\u0001\u0004,�j\u0012��\u0005 \u0011\u0004�V�(�e-ZWc��Nb�\u0004�H\u0000\u0005�6 ���ZD[�w�x�Ei�G�ܪw�*m��]�n�Ϻ��w&3 �ڽ�y�;O��y?����9�%\u0003\u0000@�g\b�\u0000��@\u000eB�\u001c��\u0000`\u0000\u001f�\u0000�� tk�\b��2\u0001\u0002P������\u0004�̅��\u001b\\\u0015D�/?�lp\b�\u001c \u0002 \u0019��\u0018��\u0001�#Bz\u0005D\u0014\u0001u���S�-h\u0005F�\u000e\b���"
+      "summary": "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 5 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x����w�U�'�ml ���\u0017W� � �\u001cZ{� uk��Co�\u001fҡ�^�\u0005����;�Ƒ�R�Y� ۨ��ɨ{8��\u0007\u001c�^�g��϶\u000f��x �ϭ1 ��� ��$�\u000ew0w{2\u000fW�|�L=���3�� \u0013��e�\u001b��yo5\u0001 ��������M��\u0003s{�A�|\b�k������\u0000\u001aq�z�\\x��\bj�����.��y \u0004;���-��\u001d\u001fף��\u001c�\u0004\b���\b\u000e��\u001c8��\u00004����é��@�\u0018�͎\u0005����i��l��%\\\u0017�sr!p��\u0012."
     },
     {
       "citationId": 77,
@@ -2580,134 +2589,134 @@
   ],
   "events": [
     {
-      "id": "ev_1774898580260_1uj9b",
-      "at": "2026-03-30T19:23:00.260Z",
+      "id": "ev_1774898583020_9txv5",
+      "at": "2026-03-30T19:23:03.020Z",
       "phase": "complete",
       "message": "Deep research completed with citable synthesis."
     },
     {
-      "id": "ev_1774898575382_4y7tu",
-      "at": "2026-03-30T19:22:55.382Z",
+      "id": "ev_1774898578413_rt8i0",
+      "at": "2026-03-30T19:22:58.413Z",
       "phase": "synthesizing",
       "message": "Source depth reached. Synthesizing final report."
     },
     {
-      "id": "ev_1774898575382_73dtk",
-      "at": "2026-03-30T19:22:55.382Z",
+      "id": "ev_1774898578413_ukc12",
+      "at": "2026-03-30T19:22:58.413Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 120."
     },
     {
-      "id": "ev_1774898551602_6p1v1",
-      "at": "2026-03-30T19:22:31.602Z",
+      "id": "ev_1774898556786_eynjr",
+      "at": "2026-03-30T19:22:36.786Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 official documentation \"pdf\""
     },
     {
-      "id": "ev_1774898551602_xtg4r",
-      "at": "2026-03-30T19:22:31.602Z",
+      "id": "ev_1774898556786_g7xys",
+      "at": "2026-03-30T19:22:36.786Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 115."
     },
     {
-      "id": "ev_1774898538570_tgbzk",
-      "at": "2026-03-30T19:22:18.570Z",
+      "id": "ev_1774898545596_2nyoa",
+      "at": "2026-03-30T19:22:25.596Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 official documentation review"
     },
     {
-      "id": "ev_1774898538419_mf88z",
-      "at": "2026-03-30T19:22:18.419Z",
+      "id": "ev_1774898545596_2f1lm",
+      "at": "2026-03-30T19:22:25.596Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 110."
     },
     {
-      "id": "ev_1774898523817_fsfvj",
-      "at": "2026-03-30T19:22:03.817Z",
+      "id": "ev_1774898533555_iry9y",
+      "at": "2026-03-30T19:22:13.556Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 official documentation metrics"
     },
     {
-      "id": "ev_1774898523817_nkwaj",
-      "at": "2026-03-30T19:22:03.817Z",
+      "id": "ev_1774898533387_lyjq2",
+      "at": "2026-03-30T19:22:13.387Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 105."
     },
     {
-      "id": "ev_1774898499447_u8v5y",
-      "at": "2026-03-30T19:21:39.448Z",
+      "id": "ev_1774898504612_uuw2t",
+      "at": "2026-03-30T19:21:44.612Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 official documentation \"case study\""
     },
     {
-      "id": "ev_1774898499447_gkmqm",
-      "at": "2026-03-30T19:21:39.447Z",
+      "id": "ev_1774898504612_mk5gf",
+      "at": "2026-03-30T19:21:44.612Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 100."
     },
     {
-      "id": "ev_1774898488228_7hyx2",
-      "at": "2026-03-30T19:21:28.228Z",
+      "id": "ev_1774898492942_x2h7l",
+      "at": "2026-03-30T19:21:32.942Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 opinion"
     },
     {
-      "id": "ev_1774898488228_2yhw4",
-      "at": "2026-03-30T19:21:28.228Z",
+      "id": "ev_1774898492942_fy73u",
+      "at": "2026-03-30T19:21:32.942Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 95."
     },
     {
-      "id": "ev_1774898476747_u3sv0",
-      "at": "2026-03-30T19:21:16.747Z",
+      "id": "ev_1774898480641_2vhjf",
+      "at": "2026-03-30T19:21:20.641Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 \"analysis\""
     },
     {
-      "id": "ev_1774898476747_0ffjo",
-      "at": "2026-03-30T19:21:16.747Z",
+      "id": "ev_1774898480641_619uj",
+      "at": "2026-03-30T19:21:20.641Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 90."
     },
     {
-      "id": "ev_1774898464390_ja93x",
-      "at": "2026-03-30T19:21:04.390Z",
+      "id": "ev_1774898469931_8xpmz",
+      "at": "2026-03-30T19:21:09.931Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 site:gov"
     },
     {
-      "id": "ev_1774898464390_ef7un",
-      "at": "2026-03-30T19:21:04.390Z",
+      "id": "ev_1774898469700_60ssi",
+      "at": "2026-03-30T19:21:09.700Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 85."
     },
     {
-      "id": "ev_1774898450354_udky4",
-      "at": "2026-03-30T19:20:50.354Z",
+      "id": "ev_1774898458085_4rgmk",
+      "at": "2026-03-30T19:20:58.085Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 site:edu"
     },
     {
-      "id": "ev_1774898450205_o8440",
-      "at": "2026-03-30T19:20:50.205Z",
+      "id": "ev_1774898458084_gi84x",
+      "at": "2026-03-30T19:20:58.084Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 80."
     },
     {
-      "id": "ev_1774898413527_hyjhn",
-      "at": "2026-03-30T19:20:13.527Z",
+      "id": "ev_1774898415241_2ar72",
+      "at": "2026-03-30T19:20:15.241Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 \"pdf\""
     },
     {
-      "id": "ev_1774898413526_otju4",
-      "at": "2026-03-30T19:20:13.526Z",
+      "id": "ev_1774898413756_xpn48",
+      "at": "2026-03-30T19:20:13.756Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 75."
     },
     {
-      "id": "ev_1774898412196_q42kl",
-      "at": "2026-03-30T19:20:12.197Z",
+      "id": "ev_1774898409225_xunvm",
+      "at": "2026-03-30T19:20:09.225Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 review"
     },
@@ -2904,7 +2913,7 @@
     "ROCm - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 Heterogeneous System ",
     "Raspberry Pi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Origins and launch ",
     "%PDF-1.5 %���� 2747 0 obj > endobj xref 2747 35 0000000016 00000 n 0000002378 00000 n 0000002541 00000 n 0000005529 00000 n 0000005679 00000 n 0000006151 00000 n 0000006266 00000 n 0000006295 00000 n 0000007233 00000 n 0000008308 00000 n 0000009280 00000 n 0000010298 00000 n 0000011201 00000 n 0000012165 00000 n 0000012315 00000 n 0000012725 00000 n 0000012845 00000 n 0000014009 00000 n 0000014834 00000 n 0000014951 00000 n 0000015022 00000 n 000",
-    "DeepSeek - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Founding and early year",
+    "pdfFiller - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products features Toggle Products features subsect",
     "Qodo - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Products 3 Financing 4 References 5 External links Togg",
     "Learn the key global AI regulations shaping 2026 and how organizations can prepare for evolving compliance, accountability, and governance requirements.",
     "DocuWare Chief Product & Technology Officer Michael Bochmann shares his perspective on 2026 tech trends. AI-driven solutions like IDP top the list.",
@@ -2914,17 +2923,17 @@
     "Engineering Metrics in the AI Era: A Complete Guide for 2026 @layer properties{@supports ((-webkit-hyphens:none) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,::backdrop,:after,:before{--tw-translate-x:0;--tw-translate-y:0;--tw-translate-z:0;--tw-scale-x:1;--tw-scale-y:1;--tw-scale-z:1;--tw-rotate-x:initial;--tw-rotate-y:initial;--tw-rotate-z:initial;--tw-skew-x:initial;--tw-skew-y:initial;--tw-",
     "A practical AI compliance checklist capturing every regulatory change from March 2026. Covers EU AI Act deadlines, FTC guidance, and action items.",
     "AI is reshaping how teams write, structure, and measure documentation. Here are the key findings from the State of Docs Report 2026, featuring insights from 1,100+ industry experts | Tal Gluck | 18 Mar, 2026",
+    "Baidu Baike - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Features Toggle Features subsection 2.1 Copyrigh",
     "Kilnam Chon - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection",
-    "%PDF-1.6 %���� 3450 0 obj > endobj 3471 0 obj >/Filter/FlateDecode/ID[ ]/Index[3450 39]/Info 3449 0 R/Length 100/Prev 1147733/Root 3451 0 R/Size 3489/Type/XRef/W[1 2 1]>>stream h�bbd\u0010``b`�\u0007\u0012 K�\u0004�'\u00107 H0�\u0001\u0012,% �6\u0010+\u001bD\u001c\u0001\u0011\\ uu �9H6\u0019�� H�\u0004\u0012*����:�`|\u0001\"2��`%�p�g`b��\u0004Y��H%�����\u0000\u0001\u0006\u0000�\u0005\u0010V endstream endobj startxref 0 %%EOF 3488 0 obj >stream hޤS�K�a\u0014?ϻ5�\u0012��k��6�\u0004A~�N�.�b:h��6�_d��p�\u0011\u001bB\bc�\\����6��Zԝ��!+\u0017%�8Y\u0011z�]y1\u0014궳����\u000e�s�y��=�sx��\u0000\u0000��\u001d\\\u0001(�\u00031�\u00131�x�\u0005:\u0000��E�\u0002 ��",
     "Master a 2026 framework for scaling AI use cases. Move from pilot to production by focusing on decision impact, operational readiness, and ROI at scale."
   ],
   "stats": {
     "sourcesAnalyzed": 120,
-    "tokensUsedEstimate": 12054,
+    "tokensUsedEstimate": 12056,
     "depthScore": 58,
     "queriesGenerated": 24,
     "iterations": 24,
-    "uniqueDomains": 54
+    "uniqueDomains": 53
   },
   "control": {
     "paused": false,
@@ -2932,28 +2941,28 @@
   },
   "planFinal": "1. Define research parameters and key technological domains: Establish the scope of the investigation by categorizing \"AI in 2026\" into distinct pillars, including hardware scaling (compute), architectural breakthroughs (agentic workflows, multimodal reasoning), regulatory landscape changes, and industry-specific adoption (healthcare, finance, coding). Define the temporal context by anchoring the research in current 2024-2025 trajectory data to forecast the state of the art 12 to 24 months out.\n\n2. Execute multi-source search fan-out: Conduct a comprehensive scan across disparate data streams. Gather primary intelligence from technical research preprints (arXiv), vendor roadmaps (OpenAI, Google, Anthropic, NVIDIA), venture capital market outlooks, and government policy white papers. Ensure cross-referencing between optimistic marketing projections and pessimistic academic critiques to capture a balanced spectrum of expected outcomes.\n\n3. Identify and validate evidence gaps: Rigorously evaluate the collected data for areas of high uncertainty or conflicting projections. Specifically, focus on the \"scaling wall\" debate, the feasibility of autonomous agent reliability at scale, and potential bottlenecks in energy infrastructure. Distinguish between speculative hype and verifiable engineering milestones to prevent over-indexing on unsubstantiated industry promises.\n\n4. Perform comparative cross-analysis: Synthesize the technical, economic, and regulatory findings to identify points of convergence. Assess how shifting compute constraints might impact the deployment of smaller, specialized models versus massive foundation models. Evaluate the interplay between tightening international AI regulations and the development speed of proprietary versus open-weight models.\n\n5. Synthesize findings into a forward-looking strategic summary: Consolidate the analysis into a final report that maps the most likely AI landscape for 2026. Prioritize actionable insights, highlighting critical inflection points—such as breakthroughs in reasoning capabilities or energy-efficient inference—that would signify the transition from current AI capabilities to the predicted 2026 state. Conclude with a risk-adjusted assessment of what is definitively achievable versus what remains speculative.",
   "report": {
-    "title": "State of Artificial Intelligence: 2026 Landscape Report",
-    "summary": "In 2026, the artificial intelligence landscape has shifted from experimental pilots to mature enterprise orchestration. The primary focus for organizations is moving toward governance, agentic workflows, and the measurable ROI of AI-driven transformation. While innovation continues at pace, the sector faces a complex environment defined by tightening international regulations, ongoing infrastructure demands, and the necessity of building 'change fitness' within the workforce.",
+    "title": "State of Artificial Intelligence in 2026: From Hype to Operational Scale",
+    "summary": "By 2026, the artificial intelligence landscape has transitioned from the experimentation phase of 2023–2024 to an era of enterprise orchestration, complex governance, and autonomous integration. The primary focus for organizations has shifted toward proving ROI, managing regulatory compliance, and addressing the technical challenges of scaling agentic workflows.",
     "sections": [
       {
-        "id": "enterprise-adoption",
-        "title": "From Pilots to Production",
-        "body": "The era of AI prototyping has largely concluded, giving way to a phase characterized by systemic orchestration and operational scale [3]. Businesses are now integrating AI into the core of their workflows, prioritizing measurable business outcomes over speculative use cases [31]. Key drivers for this shift include the requirement for rigorous documentation [101] and the deployment of agentic systems—AI capable of executing complex, multi-step tasks independently—which are becoming the standard for modern enterprise operations [57, 96, 98]."
+        "id": "enterprise-maturity",
+        "title": "Enterprise Transformation: Orchestration and ROI",
+        "body": "The narrative of 2026 is defined by the maturation of AI from pilot programs to integrated business infrastructure [3]. Organizations are increasingly moving beyond simple generative applications toward 'agentic' workflows—AI systems capable of executing multi-step tasks with higher autonomy [57, 96]. As the focus shifts from raw intelligence to practical business utility, leaders are prioritizing 'change fitness' and the hard-wiring of AI into core operational processes to drive tangible revenue and productivity gains [3, 33, 43]."
       },
       {
-        "id": "regulation-compliance",
-        "title": "The Compliance and Governance Mandate",
-        "body": "2026 is marked by an increasingly stringent regulatory environment. Organizations must navigate a fragmented landscape of mandates, including the EU AI Act, various U.S. state-level frameworks, and recent executive orders [6, 7, 97]. Compliance is no longer optional but a strategic imperative; legal and operations teams are now utilizing comprehensive checklists to manage liabilities related to data privacy, model transparency, and AI-driven decision-making [107, 113]."
+        "id": "compliance-governance",
+        "title": "The Regulatory and Compliance Landscape",
+        "body": "2026 marks a critical period for AI governance, characterized by the enforcement of comprehensive frameworks such as the EU AI Act and emerging US state-level legislation like Colorado’s SB 205 [6, 7]. Businesses are now navigating a complex, localized regulatory environment that demands strict adherence to accountability and transparency standards [113]. Compliance is no longer an optional oversight but a fundamental requirement for risk management, requiring companies to implement systematic checks against shifting global guidelines [107]."
       },
       {
-        "id": "tech-trends",
-        "title": "Technological Evolution and Infrastructure",
-        "body": "Technological advancements in 2026 continue to emphasize 'AI as a backbone,' with increasing focus on sovereign AI, edge computing, and AI factories [47, 57]. While closed-source frontier models continue to dominate high-end benchmarks, the open-source ecosystem has matured, providing competitive alternatives for self-hosted and highly specific use cases [24, 51, 54]. The sector also continues to grapple with the environmental and economic costs of maintaining large-scale compute infrastructure [41, 84, 92]."
+        "id": "technical-trends",
+        "title": "Technological Trends and Benchmarking",
+        "body": "Technical advancements in 2026 emphasize the role of AI as a 'digital backbone,' supported by intelligent applications and cloud-based infrastructure [47]. The focus has migrated toward optimizing model performance for specific use cases rather than chasing generalized benchmarks, as evidenced by specialized leaderboards and performance metrics that prioritize task-specific efficiency [21, 24, 66]. Additionally, the open-source ecosystem has reached a level of parity with proprietary models, offering robust alternatives for self-hosted deployment and reducing reliance on closed-source providers [51, 54]."
       },
       {
-        "id": "risks-uncertainties",
-        "title": "Risks, Challenges, and Market Sentiment",
-        "body": "Despite rapid growth, the industry faces significant headwinds, including the risk of an 'AI bubble' characterized by inflated expectations and cooling capital markets [37, 73]. Organizations are also managing the emergence of 'AI slop'—low-quality automated content that threatens to degrade information ecosystems [15, 99]. Furthermore, leaders must address ethical concerns, deepfake proliferation, and bias, necessitating robust safety and security protocols as highlighted by the International AI Safety Report 2026 [26, 27, 28]."
+        "id": "risks-challenges",
+        "title": "Operational Risks and Existential Considerations",
+        "body": "Despite rapid adoption, organizations face significant hurdles, including energy constraints in data centers [92], the proliferation of low-quality 'AI slop' content [15], and deep-seated ethical concerns [26, 27]. The International AI Safety Report of 2026 continues to guide the global discourse on balancing innovation with safety, addressing both immediate technical risks and broader existential questions regarding long-term alignment and societal impact [28, 30, 77]."
       }
     ],
     "citations": [
@@ -3421,9 +3430,9 @@
       },
       {
         "id": 78,
-        "url": "https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf",
-        "domain": "brookings.edu",
-        "title": "brookings.edu"
+        "url": "https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf",
+        "domain": "cdn.openai.com",
+        "title": "cdn.openai.com"
       },
       {
         "id": 79,
@@ -3577,15 +3586,15 @@
       },
       {
         "id": 104,
-        "url": "https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2026-ai-in-professional-services-report.pdf",
-        "domain": "thomsonreuters.com",
-        "title": "thomsonreuters.com"
-      },
-      {
-        "id": 105,
         "url": "https://en.wikipedia.org/wiki/Kilnam_Chon",
         "domain": "en.wikipedia.org",
         "title": "Kilnam Chon - Wikipedia"
+      },
+      {
+        "id": 105,
+        "url": "https://en.wikipedia.org/wiki/Baidu_Baike",
+        "domain": "en.wikipedia.org",
+        "title": "Baidu Baike - Wikipedia"
       },
       {
         "id": 106,
@@ -3643,9 +3652,9 @@
       },
       {
         "id": 115,
-        "url": "https://en.wikipedia.org/wiki/DeepSeek",
+        "url": "https://en.wikipedia.org/wiki/PdfFiller",
         "domain": "en.wikipedia.org",
-        "title": "DeepSeek - Wikipedia"
+        "title": "pdfFiller - Wikipedia"
       },
       {
         "id": 116,
@@ -3678,8 +3687,8 @@
         "title": "Stack Overflow - Wikipedia"
       }
     ],
-    "markdown": "# State of Artificial Intelligence: 2026 Landscape Report\n\n## Query\nai in 2026\n\n## Executive Summary\nIn 2026, the artificial intelligence landscape has shifted from experimental pilots to mature enterprise orchestration. The primary focus for organizations is moving toward governance, agentic workflows, and the measurable ROI of AI-driven transformation. While innovation continues at pace, the sector faces a complex environment defined by tightening international regulations, ongoing infrastructure demands, and the necessity of building 'change fitness' within the workforce.\n\n## From Pilots to Production\nThe era of AI prototyping has largely concluded, giving way to a phase characterized by systemic orchestration and operational scale [3]. Businesses are now integrating AI into the core of their workflows, prioritizing measurable business outcomes over speculative use cases [31]. Key drivers for this shift include the requirement for rigorous documentation [101] and the deployment of agentic systems—AI capable of executing complex, multi-step tasks independently—which are becoming the standard for modern enterprise operations [57, 96, 98].\n\n## The Compliance and Governance Mandate\n2026 is marked by an increasingly stringent regulatory environment. Organizations must navigate a fragmented landscape of mandates, including the EU AI Act, various U.S. state-level frameworks, and recent executive orders [6, 7, 97]. Compliance is no longer optional but a strategic imperative; legal and operations teams are now utilizing comprehensive checklists to manage liabilities related to data privacy, model transparency, and AI-driven decision-making [107, 113].\n\n## Technological Evolution and Infrastructure\nTechnological advancements in 2026 continue to emphasize 'AI as a backbone,' with increasing focus on sovereign AI, edge computing, and AI factories [47, 57]. While closed-source frontier models continue to dominate high-end benchmarks, the open-source ecosystem has matured, providing competitive alternatives for self-hosted and highly specific use cases [24, 51, 54]. The sector also continues to grapple with the environmental and economic costs of maintaining large-scale compute infrastructure [41, 84, 92].\n\n## Risks, Challenges, and Market Sentiment\nDespite rapid growth, the industry faces significant headwinds, including the risk of an 'AI bubble' characterized by inflated expectations and cooling capital markets [37, 73]. Organizations are also managing the emergence of 'AI slop'—low-quality automated content that threatens to degrade information ecosystems [15, 99]. Furthermore, leaders must address ethical concerns, deepfake proliferation, and bias, necessitating robust safety and security protocols as highlighted by the International AI Safety Report 2026 [26, 27, 28].\n\n## Citations\n- [1] Action items for AI decision makers in 2026 | MIT Sloan (https://mitsloan.mit.edu/ideas-made-to-matter/action-items-ai-decision-makers-2026)\n- [2] hai.stanford.edu (https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)\n- [3] The 6 AI Trends That Will Actually Matter in 2026 | Progress (https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026)\n- [4] Microsoft Privacy Statement – Microsoft privacy (http://go.microsoft.com/fwlink/?LinkId=521839)\n- [5] Microsoft Services Agreement (http://go.microsoft.com/fwlink/?LinkID=246338)\n- [6] AI Compliance Laws for Businesses: What You Must Know in 2026 &mdash; TrueFuture Media (https://www.truefuturemedia.com/articles/ai-compliance-laws-businesses-2026?srsltid=AfmBOop9dx-Yw0qZH_39z9AjCKZT_lgh_rfXm_PThT62r9PCqU41J6Wq)\n- [7] 2026 AI Laws Update: Key Regulations and Practical Guidance | Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP (https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance)\n- [8] Perplexity AI - Wikipedia (https://en.wikipedia.org/wiki/Perplexity_AI)\n- [9] Z.ai - Wikipedia (https://en.wikipedia.org/wiki/Z.ai)\n- [10] OpenClaw - Wikipedia (https://en.wikipedia.org/wiki/OpenClaw)\n- [11] AI Research Papers 2026 — JNGR 5.0 AI Journal (https://jngr5.com/jngr/ai-research-papers-2026/)\n- [12] World Development Report 2026: Artificial Intelligence for Development (https://www.worldbank.org/en/publication/wdr2026)\n- [13] Generative AI - Wikipedia (https://en.wikipedia.org/wiki/Generative_AI)\n- [14] Meta AI - Wikipedia (https://en.wikipedia.org/wiki/Meta_AI)\n- [15] AI slop - Wikipedia (https://en.wikipedia.org/wiki/AI_slop)\n- [16] AI Transformation 2026: 26 Predictions Redefining CX, EX, Design, and Product Innovation (https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf)\n- [17] The State of AI in the Enterprise - 2026 AI report | Deloitte US (https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)\n- [18] What’s next in AI: 7 trends to watch in 2026 (https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)\n- [19] India AI Impact Summit 2026 - Wikipedia (https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026)\n- [20] OpenAI - Wikipedia (https://en.wikipedia.org/wiki/OpenAI)\n- [21] The best AI models in 2026: What model to pick for your use case | Pluralsight (https://www.pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list)\n- [22] Reddit - The heart of the internet (https://www.reddit.com/r/LocalLLaMA/comments/1rovfbw/i_made_a_list_of_every_ai_benchmark_that_still/)\n- [23] Reddit - The heart of the internet (https://www.reddit.com/r/ArtificialInteligence/comments/1rxv5k3/ai_in_2026_some_interesting_stats_from_the_us/)\n- [24] AI Leaderboards 2026 - Compare and rank the best AI models (https://llm-stats.com/)\n- [25] Grok (chatbot) - Wikipedia (https://en.wikipedia.org/wiki/Grok_(chatbot))\n- [26] AI Challenges in 2026: 15 Risks & Limitations Leaders Must Overcome (https://ebsedu.org/blog/artificial-intelligence-ai-challenges/)\n- [27] Top AI Risks, Dangers & Challenges in 2026 (https://www.clarifai.com/blog/ai-risks)\n- [28] International AI Safety Report 2026 | International AI Safety Report (https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)\n- [29] AI Challenges in Business 2026 – Decisions You Can’t Delay (https://bluesoft.com/blog/ai-business-challenges-for-2026-decisions-that-can-no-longer-be-put-off)\n- [30] Existential risk from artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)\n- [31] WEF highlights 32 AI case studies with real-world business impact | CIO (https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html)\n- [32] The trends that will shape AI and tech in 2026 | IBM (https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)\n- [33] AI Trends for 2026: Building &#x27;Change Fitness&#x27; and Balancing Trade-Offs | Working Knowledge (https://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs)\n- [34] sloanreview.mit.edu (https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/)\n- [35] Anthropic - Wikipedia (https://en.wikipedia.org/wiki/Anthropic)\n- [36] What to Expect from AI in 2026: Q&A with William Marcellino | RAND (https://www.rand.org/pubs/commentary/2026/02/what-to-expect-from-ai-in-2026.html)\n- [37] What to Expect from AI in 2026 | Bain & Company (https://www.bain.com/insights/what-to-expect-from-ai-in-2026/)\n- [38] Mistral AI - Wikipedia (https://en.wikipedia.org/wiki/Mistral_AI)\n- [39] Mercor - Wikipedia (https://en.wikipedia.org/wiki/Mercor)\n- [40] The AI Doc: Or How I Became an Apocaloptimist - Wikipedia (https://en.wikipedia.org/wiki/The_AI_Doc%3A_Or_How_I_Became_an_Apocaloptimist)\n- [41] AI Software Development Costs 2026: Enterprise Spending, TCO, and ROI Analysis | Keyhole Software (https://keyholesoftware.com/ai-software-development-cost-2026/)\n- [42] The AI Revolution: Impact on the U.S. Economy (2026–2027) | DWU AI | DWU Consulting (https://dwuconsulting.com/dwu-ai/ai-revolution-us-economy)\n- [43] How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026 | NVIDIA Blog (https://blogs.nvidia.com/blog/state-of-ai-report-2026/)\n- [44] United States export controls on AI chips and semiconductors - Wikipedia (https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors)\n- [45] Economic impact of the 2026 Iran war - Wikipedia (https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)\n- [46] Market Insight: 10 Predictions For Applied AI Technologies In 2026 And Beyond (https://www.verdantix.com/venture/report/market-insight--10-predictions-for-applied-ai-technologies-in-2026-and-beyond)\n- [47] Top Tech Trends 2026: AI Backbone, Intelligent Apps, Cloud 3.0 and More (https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/)\n- [48] AI boom - Wikipedia (https://en.wikipedia.org/wiki/AI_boom)\n- [49] Surface Pro 10 - Wikipedia (https://en.wikipedia.org/wiki/Surface_Pro_10)\n- [50] History of artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/History_of_artificial_intelligence)\n- [51] Reddit - The heart of the internet (https://www.reddit.com/r/AISEOInsider/comments/1qg3m5k/the_2026_open_source_ai_stack_thats_beating_paid/)\n- [52] Reddit - The heart of the internet (https://www.reddit.com/r/AISEOInsider/comments/1r0mx9q/the_quiet_takeover_nextgen_open_source_ai_tools/)\n- [53] Predictions For Open Source in 2026: AI Innovation, Maintainer Burnout, and the Compliance Crunch - ActiveState (https://www.activestate.com/blog/predictions-for-open-source-in-2026-ai-innovation-maintainer-burnout-and-the-compliance-crunch/)\n- [54] The Best Open-Source LLMs in 2026 (https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models)\n- [55] 10 Open-Source Projects You’ll Actually Use in 2026 - DEV Community (https://dev.to/sonotommy/10-open-source-projects-youll-actually-use-in-2026-2ig9)\n- [56] From Hype to Hard Reality: Enterprise AI in 2026 (https://www.nctech.org/resources/blog/2026/hype-to-hard.html)\n- [57] Enterprise AI trends in 2026: Sovereign, agentic, edge, AI factories (https://www.spectrocloud.com/blog/enterprise-ai-2026-trends)\n- [58] OpenAI Codex (AI agent) - Wikipedia (https://en.wikipedia.org/wiki/OpenAI_Codex_(AI_agent))\n- [59] Claude (language model) - Wikipedia (https://en.wikipedia.org/wiki/Claude_(language_model))\n- [60] Vertex AI - Wikipedia (https://en.wikipedia.org/wiki/Vertex_AI)\n- [61] Hemadpanti architecture - Wikipedia (https://en.wikipedia.org/wiki/Hemadpanti_architecture)\n- [62] Workday, Inc. - Wikipedia (https://en.wikipedia.org/wiki/Workday%2C_Inc.)\n- [63] Collaborative writing - Wikipedia (https://en.wikipedia.org/wiki/Collaborative_writing)\n- [64] Telecommunications in Taiwan - Wikipedia (https://en.wikipedia.org/wiki/Telecommunications_in_Taiwan)\n- [65] Crab jujube - Wikipedia (https://en.wikipedia.org/wiki/Crab_jujube)\n- [66] 2026 AI benchmarks: What usage data reveals about the next phase of adoption | Signals & Stories (https://mixpanel.com/blog/ai-benchmarks-2026/)\n- [67] Dynatrace - Wikipedia (https://en.wikipedia.org/wiki/Dynatrace)\n- [68] Grafana - Wikipedia (https://en.wikipedia.org/wiki/Grafana)\n- [69] Amanda Askell - Wikipedia (https://en.wikipedia.org/wiki/Amanda_Askell)\n- [70] Vibe coding - Wikipedia (https://en.wikipedia.org/wiki/Vibe_coding)\n- [71] What&#x27;s next for AI in 2026 | MIT Technology Review (https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/)\n- [72] Mercy (2026 film) - Wikipedia (https://en.wikipedia.org/wiki/Mercy_(2026_film))\n- [73] AI bubble - Wikipedia (https://en.wikipedia.org/wiki/AI_bubble)\n- [74] Sora (text-to-video model) - Wikipedia (https://en.wikipedia.org/wiki/Sora_(text-to-video_model))\n- [75] Chai AI - Wikipedia (https://en.wikipedia.org/wiki/Chai_AI)\n- [76] avature.ai (https://avature.ai/wp-content/uploads/2026/01/Avature-AI-Impact-Report-2026.pdf)\n- [77] internationalaisafetyreport.org (https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf)\n- [78] brookings.edu (https://www.brookings.edu/wp-content/uploads/2026/01/A-New-Direction-for-Students-in-an-AI-World-FULL-REPORT.pdf)\n- [79] Machine learning - Wikipedia (https://en.wikipedia.org/wiki/Machine_learning)\n- [80] Artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Artificial_intelligence)\n- [81] ChatGPT - Wikipedia (https://en.wikipedia.org/wiki/ChatGPT)\n- [82] ChatGPT Deep Research - Wikipedia (https://en.wikipedia.org/wiki/ChatGPT_Deep_Research)\n- [83] Ai Weiwei - Wikipedia (https://en.wikipedia.org/wiki/Ai_Weiwei)\n- [84] Environmental impact of artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence)\n- [85] Andrew Ng - Wikipedia (https://en.wikipedia.org/wiki/Andrew_Ng)\n- [86] People search site - Wikipedia (https://en.wikipedia.org/wiki/People_search_site)\n- [87] AI Safety Summit 2023 - Wikipedia (https://en.wikipedia.org/wiki/AI_Safety_Summit_2023)\n- [88] Kalshi - Wikipedia (https://en.wikipedia.org/wiki/Kalshi)\n- [89] Hyperion (data center) - Wikipedia (https://en.wikipedia.org/wiki/Hyperion_(data_center))\n- [90] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png)\n- [91] youtube.com (https://www.youtube.com/watch?v=B23W1gRT9eY)\n- [92] Data center - Wikipedia (https://en.wikipedia.org/wiki/Data_center)\n- [93] Predictive analytics - Wikipedia (https://en.wikipedia.org/wiki/Predictive_analytics)\n- [94] Palantir - Wikipedia (https://en.wikipedia.org/wiki/Palantir)\n- [95] JetBrains - Wikipedia (https://en.wikipedia.org/wiki/JetBrains)\n- [96] 18 Predictions for 2026 - Jakob Nielsen on UX (https://jakobnielsenphd.substack.com/p/2026-predictions)\n- [97] State AI laws in the United States - Wikipedia (https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States)\n- [98] AI agent - Wikipedia (https://en.wikipedia.org/wiki/AI_agent)\n- [99] Dead Internet theory - Wikipedia (https://en.wikipedia.org/wiki/Dead_Internet_theory)\n- [100] AI safety - Wikipedia (https://en.wikipedia.org/wiki/AI_safety)\n- [101] The State of Docs Report 2026 – AI and documentation creation (https://www.stateofdocs.com/2026/ai-and-documentation-creation)\n- [102] dgagroup.com (https://dgagroup.com/wp-content/uploads/2026/01/2026-AI-Decrypted-Report-DGA-Group.pdf)\n- [103] AI Use Cases 2026: A Framework for Impact & Scale (https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/)\n- [104] thomsonreuters.com (https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/2026-ai-in-professional-services-report.pdf)\n- [105] Kilnam Chon - Wikipedia (https://en.wikipedia.org/wiki/Kilnam_Chon)\n- [106] The State of Docs Report 2026 is live! Here are the highlights – GitBook Blog (https://www.gitbook.com/blog/state-of-docs-2026)\n- [107] AI Compliance Checklist March 2026: Monthly Changes (https://www.digitalapplied.com/blog/ai-compliance-checklist-march-2026-what-changed-month)\n- [108] Engineering Metrics in the AI Era: A Complete Guide for 2026 (https://oobeya.io/blog/engineering-metrics-in-the-ai-era)\n- [109] llmrefs.com (https://llmrefs.com/blog/ai-benchmarks-ranking)\n- [110] Timeline of the 2026 Iran war - Wikipedia (https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war)\n- [111] Major AI Documentation Trends for 2026 (https://document360.com/blog/ai-documentation-trends/)\n- [112] 2026 Tech Trends: Why We Can’t Stop Talking About AI (https://start.docuware.com/blog/document-management/2026-tech-trends)\n- [113] The AI Regulation Landscape for 2026: What Legal and Compliance Leaders Need to Know (https://www.cimplifi.com/resources/the-ai-regulation-landscape-for-2026-what-legal-and-compliance-leaders-need-to-know/)\n- [114] Qodo - Wikipedia (https://en.wikipedia.org/wiki/Qodo)\n- [115] DeepSeek - Wikipedia (https://en.wikipedia.org/wiki/DeepSeek)\n- [116] ai.google (https://ai.google/static/documents/ai-responsibility-update-2026.pdf)\n- [117] Raspberry Pi - Wikipedia (https://en.wikipedia.org/wiki/Raspberry_Pi)\n- [118] ROCm - Wikipedia (https://en.wikipedia.org/wiki/ROCm)\n- [119] Essential Video Coding - Wikipedia (https://en.wikipedia.org/wiki/Essential_Video_Coding)\n- [120] Stack Overflow - Wikipedia (https://en.wikipedia.org/wiki/Stack_Overflow)",
-    "generatedAt": "2026-03-30T19:23:00.260Z"
+    "markdown": "# State of Artificial Intelligence in 2026: From Hype to Operational Scale\n\n## Query\nai in 2026\n\n## Executive Summary\nBy 2026, the artificial intelligence landscape has transitioned from the experimentation phase of 2023–2024 to an era of enterprise orchestration, complex governance, and autonomous integration. The primary focus for organizations has shifted toward proving ROI, managing regulatory compliance, and addressing the technical challenges of scaling agentic workflows.\n\n## Enterprise Transformation: Orchestration and ROI\nThe narrative of 2026 is defined by the maturation of AI from pilot programs to integrated business infrastructure [3]. Organizations are increasingly moving beyond simple generative applications toward 'agentic' workflows—AI systems capable of executing multi-step tasks with higher autonomy [57, 96]. As the focus shifts from raw intelligence to practical business utility, leaders are prioritizing 'change fitness' and the hard-wiring of AI into core operational processes to drive tangible revenue and productivity gains [3, 33, 43].\n\n## The Regulatory and Compliance Landscape\n2026 marks a critical period for AI governance, characterized by the enforcement of comprehensive frameworks such as the EU AI Act and emerging US state-level legislation like Colorado’s SB 205 [6, 7]. Businesses are now navigating a complex, localized regulatory environment that demands strict adherence to accountability and transparency standards [113]. Compliance is no longer an optional oversight but a fundamental requirement for risk management, requiring companies to implement systematic checks against shifting global guidelines [107].\n\n## Technological Trends and Benchmarking\nTechnical advancements in 2026 emphasize the role of AI as a 'digital backbone,' supported by intelligent applications and cloud-based infrastructure [47]. The focus has migrated toward optimizing model performance for specific use cases rather than chasing generalized benchmarks, as evidenced by specialized leaderboards and performance metrics that prioritize task-specific efficiency [21, 24, 66]. Additionally, the open-source ecosystem has reached a level of parity with proprietary models, offering robust alternatives for self-hosted deployment and reducing reliance on closed-source providers [51, 54].\n\n## Operational Risks and Existential Considerations\nDespite rapid adoption, organizations face significant hurdles, including energy constraints in data centers [92], the proliferation of low-quality 'AI slop' content [15], and deep-seated ethical concerns [26, 27]. The International AI Safety Report of 2026 continues to guide the global discourse on balancing innovation with safety, addressing both immediate technical risks and broader existential questions regarding long-term alignment and societal impact [28, 30, 77].\n\n## Citations\n- [1] Action items for AI decision makers in 2026 | MIT Sloan (https://mitsloan.mit.edu/ideas-made-to-matter/action-items-ai-decision-makers-2026)\n- [2] hai.stanford.edu (https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)\n- [3] The 6 AI Trends That Will Actually Matter in 2026 | Progress (https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026)\n- [4] Microsoft Privacy Statement – Microsoft privacy (http://go.microsoft.com/fwlink/?LinkId=521839)\n- [5] Microsoft Services Agreement (http://go.microsoft.com/fwlink/?LinkID=246338)\n- [6] AI Compliance Laws for Businesses: What You Must Know in 2026 &mdash; TrueFuture Media (https://www.truefuturemedia.com/articles/ai-compliance-laws-businesses-2026?srsltid=AfmBOop9dx-Yw0qZH_39z9AjCKZT_lgh_rfXm_PThT62r9PCqU41J6Wq)\n- [7] 2026 AI Laws Update: Key Regulations and Practical Guidance | Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP (https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance)\n- [8] Perplexity AI - Wikipedia (https://en.wikipedia.org/wiki/Perplexity_AI)\n- [9] Z.ai - Wikipedia (https://en.wikipedia.org/wiki/Z.ai)\n- [10] OpenClaw - Wikipedia (https://en.wikipedia.org/wiki/OpenClaw)\n- [11] AI Research Papers 2026 — JNGR 5.0 AI Journal (https://jngr5.com/jngr/ai-research-papers-2026/)\n- [12] World Development Report 2026: Artificial Intelligence for Development (https://www.worldbank.org/en/publication/wdr2026)\n- [13] Generative AI - Wikipedia (https://en.wikipedia.org/wiki/Generative_AI)\n- [14] Meta AI - Wikipedia (https://en.wikipedia.org/wiki/Meta_AI)\n- [15] AI slop - Wikipedia (https://en.wikipedia.org/wiki/AI_slop)\n- [16] AI Transformation 2026: 26 Predictions Redefining CX, EX, Design, and Product Innovation (https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf)\n- [17] The State of AI in the Enterprise - 2026 AI report | Deloitte US (https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)\n- [18] What’s next in AI: 7 trends to watch in 2026 (https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)\n- [19] India AI Impact Summit 2026 - Wikipedia (https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026)\n- [20] OpenAI - Wikipedia (https://en.wikipedia.org/wiki/OpenAI)\n- [21] The best AI models in 2026: What model to pick for your use case | Pluralsight (https://www.pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list)\n- [22] Reddit - The heart of the internet (https://www.reddit.com/r/LocalLLaMA/comments/1rovfbw/i_made_a_list_of_every_ai_benchmark_that_still/)\n- [23] Reddit - The heart of the internet (https://www.reddit.com/r/ArtificialInteligence/comments/1rxv5k3/ai_in_2026_some_interesting_stats_from_the_us/)\n- [24] AI Leaderboards 2026 - Compare and rank the best AI models (https://llm-stats.com/)\n- [25] Grok (chatbot) - Wikipedia (https://en.wikipedia.org/wiki/Grok_(chatbot))\n- [26] AI Challenges in 2026: 15 Risks & Limitations Leaders Must Overcome (https://ebsedu.org/blog/artificial-intelligence-ai-challenges/)\n- [27] Top AI Risks, Dangers & Challenges in 2026 (https://www.clarifai.com/blog/ai-risks)\n- [28] International AI Safety Report 2026 | International AI Safety Report (https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)\n- [29] AI Challenges in Business 2026 – Decisions You Can’t Delay (https://bluesoft.com/blog/ai-business-challenges-for-2026-decisions-that-can-no-longer-be-put-off)\n- [30] Existential risk from artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)\n- [31] WEF highlights 32 AI case studies with real-world business impact | CIO (https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html)\n- [32] The trends that will shape AI and tech in 2026 | IBM (https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)\n- [33] AI Trends for 2026: Building &#x27;Change Fitness&#x27; and Balancing Trade-Offs | Working Knowledge (https://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs)\n- [34] sloanreview.mit.edu (https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/)\n- [35] Anthropic - Wikipedia (https://en.wikipedia.org/wiki/Anthropic)\n- [36] What to Expect from AI in 2026: Q&A with William Marcellino | RAND (https://www.rand.org/pubs/commentary/2026/02/what-to-expect-from-ai-in-2026.html)\n- [37] What to Expect from AI in 2026 | Bain & Company (https://www.bain.com/insights/what-to-expect-from-ai-in-2026/)\n- [38] Mistral AI - Wikipedia (https://en.wikipedia.org/wiki/Mistral_AI)\n- [39] Mercor - Wikipedia (https://en.wikipedia.org/wiki/Mercor)\n- [40] The AI Doc: Or How I Became an Apocaloptimist - Wikipedia (https://en.wikipedia.org/wiki/The_AI_Doc%3A_Or_How_I_Became_an_Apocaloptimist)\n- [41] AI Software Development Costs 2026: Enterprise Spending, TCO, and ROI Analysis | Keyhole Software (https://keyholesoftware.com/ai-software-development-cost-2026/)\n- [42] The AI Revolution: Impact on the U.S. Economy (2026–2027) | DWU AI | DWU Consulting (https://dwuconsulting.com/dwu-ai/ai-revolution-us-economy)\n- [43] How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026 | NVIDIA Blog (https://blogs.nvidia.com/blog/state-of-ai-report-2026/)\n- [44] United States export controls on AI chips and semiconductors - Wikipedia (https://en.wikipedia.org/wiki/United_States_export_controls_on_AI_chips_and_semiconductors)\n- [45] Economic impact of the 2026 Iran war - Wikipedia (https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)\n- [46] Market Insight: 10 Predictions For Applied AI Technologies In 2026 And Beyond (https://www.verdantix.com/venture/report/market-insight--10-predictions-for-applied-ai-technologies-in-2026-and-beyond)\n- [47] Top Tech Trends 2026: AI Backbone, Intelligent Apps, Cloud 3.0 and More (https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/)\n- [48] AI boom - Wikipedia (https://en.wikipedia.org/wiki/AI_boom)\n- [49] Surface Pro 10 - Wikipedia (https://en.wikipedia.org/wiki/Surface_Pro_10)\n- [50] History of artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/History_of_artificial_intelligence)\n- [51] Reddit - The heart of the internet (https://www.reddit.com/r/AISEOInsider/comments/1qg3m5k/the_2026_open_source_ai_stack_thats_beating_paid/)\n- [52] Reddit - The heart of the internet (https://www.reddit.com/r/AISEOInsider/comments/1r0mx9q/the_quiet_takeover_nextgen_open_source_ai_tools/)\n- [53] Predictions For Open Source in 2026: AI Innovation, Maintainer Burnout, and the Compliance Crunch - ActiveState (https://www.activestate.com/blog/predictions-for-open-source-in-2026-ai-innovation-maintainer-burnout-and-the-compliance-crunch/)\n- [54] The Best Open-Source LLMs in 2026 (https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models)\n- [55] 10 Open-Source Projects You’ll Actually Use in 2026 - DEV Community (https://dev.to/sonotommy/10-open-source-projects-youll-actually-use-in-2026-2ig9)\n- [56] From Hype to Hard Reality: Enterprise AI in 2026 (https://www.nctech.org/resources/blog/2026/hype-to-hard.html)\n- [57] Enterprise AI trends in 2026: Sovereign, agentic, edge, AI factories (https://www.spectrocloud.com/blog/enterprise-ai-2026-trends)\n- [58] OpenAI Codex (AI agent) - Wikipedia (https://en.wikipedia.org/wiki/OpenAI_Codex_(AI_agent))\n- [59] Claude (language model) - Wikipedia (https://en.wikipedia.org/wiki/Claude_(language_model))\n- [60] Vertex AI - Wikipedia (https://en.wikipedia.org/wiki/Vertex_AI)\n- [61] Hemadpanti architecture - Wikipedia (https://en.wikipedia.org/wiki/Hemadpanti_architecture)\n- [62] Workday, Inc. - Wikipedia (https://en.wikipedia.org/wiki/Workday%2C_Inc.)\n- [63] Collaborative writing - Wikipedia (https://en.wikipedia.org/wiki/Collaborative_writing)\n- [64] Telecommunications in Taiwan - Wikipedia (https://en.wikipedia.org/wiki/Telecommunications_in_Taiwan)\n- [65] Crab jujube - Wikipedia (https://en.wikipedia.org/wiki/Crab_jujube)\n- [66] 2026 AI benchmarks: What usage data reveals about the next phase of adoption | Signals & Stories (https://mixpanel.com/blog/ai-benchmarks-2026/)\n- [67] Dynatrace - Wikipedia (https://en.wikipedia.org/wiki/Dynatrace)\n- [68] Grafana - Wikipedia (https://en.wikipedia.org/wiki/Grafana)\n- [69] Amanda Askell - Wikipedia (https://en.wikipedia.org/wiki/Amanda_Askell)\n- [70] Vibe coding - Wikipedia (https://en.wikipedia.org/wiki/Vibe_coding)\n- [71] What&#x27;s next for AI in 2026 | MIT Technology Review (https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/)\n- [72] Mercy (2026 film) - Wikipedia (https://en.wikipedia.org/wiki/Mercy_(2026_film))\n- [73] AI bubble - Wikipedia (https://en.wikipedia.org/wiki/AI_bubble)\n- [74] Sora (text-to-video model) - Wikipedia (https://en.wikipedia.org/wiki/Sora_(text-to-video_model))\n- [75] Chai AI - Wikipedia (https://en.wikipedia.org/wiki/Chai_AI)\n- [76] avature.ai (https://avature.ai/wp-content/uploads/2026/01/Avature-AI-Impact-Report-2026.pdf)\n- [77] internationalaisafetyreport.org (https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf)\n- [78] cdn.openai.com (https://cdn.openai.com/pdf/f4b4a5da-b2de-418d-9fcd-6b293e9dc157/oai_ai-as-a-scientific-collaborator_jan-2026.pdf)\n- [79] Machine learning - Wikipedia (https://en.wikipedia.org/wiki/Machine_learning)\n- [80] Artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Artificial_intelligence)\n- [81] ChatGPT - Wikipedia (https://en.wikipedia.org/wiki/ChatGPT)\n- [82] ChatGPT Deep Research - Wikipedia (https://en.wikipedia.org/wiki/ChatGPT_Deep_Research)\n- [83] Ai Weiwei - Wikipedia (https://en.wikipedia.org/wiki/Ai_Weiwei)\n- [84] Environmental impact of artificial intelligence - Wikipedia (https://en.wikipedia.org/wiki/Environmental_impact_of_artificial_intelligence)\n- [85] Andrew Ng - Wikipedia (https://en.wikipedia.org/wiki/Andrew_Ng)\n- [86] People search site - Wikipedia (https://en.wikipedia.org/wiki/People_search_site)\n- [87] AI Safety Summit 2023 - Wikipedia (https://en.wikipedia.org/wiki/AI_Safety_Summit_2023)\n- [88] Kalshi - Wikipedia (https://en.wikipedia.org/wiki/Kalshi)\n- [89] Hyperion (data center) - Wikipedia (https://en.wikipedia.org/wiki/Hyperion_(data_center))\n- [90] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png)\n- [91] youtube.com (https://www.youtube.com/watch?v=B23W1gRT9eY)\n- [92] Data center - Wikipedia (https://en.wikipedia.org/wiki/Data_center)\n- [93] Predictive analytics - Wikipedia (https://en.wikipedia.org/wiki/Predictive_analytics)\n- [94] Palantir - Wikipedia (https://en.wikipedia.org/wiki/Palantir)\n- [95] JetBrains - Wikipedia (https://en.wikipedia.org/wiki/JetBrains)\n- [96] 18 Predictions for 2026 - Jakob Nielsen on UX (https://jakobnielsenphd.substack.com/p/2026-predictions)\n- [97] State AI laws in the United States - Wikipedia (https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States)\n- [98] AI agent - Wikipedia (https://en.wikipedia.org/wiki/AI_agent)\n- [99] Dead Internet theory - Wikipedia (https://en.wikipedia.org/wiki/Dead_Internet_theory)\n- [100] AI safety - Wikipedia (https://en.wikipedia.org/wiki/AI_safety)\n- [101] The State of Docs Report 2026 – AI and documentation creation (https://www.stateofdocs.com/2026/ai-and-documentation-creation)\n- [102] dgagroup.com (https://dgagroup.com/wp-content/uploads/2026/01/2026-AI-Decrypted-Report-DGA-Group.pdf)\n- [103] AI Use Cases 2026: A Framework for Impact & Scale (https://futransolutions.com/blog/choosing-the-right-ai-use-cases-linking-ai-to-decisions-that-matter-2026/)\n- [104] Kilnam Chon - Wikipedia (https://en.wikipedia.org/wiki/Kilnam_Chon)\n- [105] Baidu Baike - Wikipedia (https://en.wikipedia.org/wiki/Baidu_Baike)\n- [106] The State of Docs Report 2026 is live! Here are the highlights – GitBook Blog (https://www.gitbook.com/blog/state-of-docs-2026)\n- [107] AI Compliance Checklist March 2026: Monthly Changes (https://www.digitalapplied.com/blog/ai-compliance-checklist-march-2026-what-changed-month)\n- [108] Engineering Metrics in the AI Era: A Complete Guide for 2026 (https://oobeya.io/blog/engineering-metrics-in-the-ai-era)\n- [109] llmrefs.com (https://llmrefs.com/blog/ai-benchmarks-ranking)\n- [110] Timeline of the 2026 Iran war - Wikipedia (https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war)\n- [111] Major AI Documentation Trends for 2026 (https://document360.com/blog/ai-documentation-trends/)\n- [112] 2026 Tech Trends: Why We Can’t Stop Talking About AI (https://start.docuware.com/blog/document-management/2026-tech-trends)\n- [113] The AI Regulation Landscape for 2026: What Legal and Compliance Leaders Need to Know (https://www.cimplifi.com/resources/the-ai-regulation-landscape-for-2026-what-legal-and-compliance-leaders-need-to-know/)\n- [114] Qodo - Wikipedia (https://en.wikipedia.org/wiki/Qodo)\n- [115] pdfFiller - Wikipedia (https://en.wikipedia.org/wiki/PdfFiller)\n- [116] ai.google (https://ai.google/static/documents/ai-responsibility-update-2026.pdf)\n- [117] Raspberry Pi - Wikipedia (https://en.wikipedia.org/wiki/Raspberry_Pi)\n- [118] ROCm - Wikipedia (https://en.wikipedia.org/wiki/ROCm)\n- [119] Essential Video Coding - Wikipedia (https://en.wikipedia.org/wiki/Essential_Video_Coding)\n- [120] Stack Overflow - Wikipedia (https://en.wikipedia.org/wiki/Stack_Overflow)",
+    "generatedAt": "2026-03-30T19:23:03.020Z"
   },
-  "completedAt": "2026-03-30T19:23:00.260Z"
+  "completedAt": "2026-03-30T19:23:03.020Z"
 }
