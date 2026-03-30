@@ -3,16 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T19:18:07.720Z",
-  "updatedAt": "2026-03-30T19:19:00.921Z",
-  "lastAdvancedAt": "2026-03-30T19:18:55.438Z",
+  "updatedAt": "2026-03-30T19:19:28.043Z",
+  "lastAdvancedAt": "2026-03-30T19:19:25.266Z",
   "phase": "analyzing",
-  "progress": 12,
-  "etaMinutes": 36,
+  "progress": 15,
+  "etaMinutes": 35,
   "planDraft": "1. Define research parameters and key technological domains: Establish the scope of the investigation by categorizing \"AI in 2026\" into distinct pillars, including hardware scaling (compute), architectural breakthroughs (agentic workflows, multimodal reasoning), regulatory landscape changes, and industry-specific adoption (healthcare, finance, coding). Define the temporal context by anchoring the research in current 2024-2025 trajectory data to forecast the state of the art 12 to 24 months out.\n\n2. Execute multi-source search fan-out: Conduct a comprehensive scan across disparate data streams. Gather primary intelligence from technical research preprints (arXiv), vendor roadmaps (OpenAI, Google, Anthropic, NVIDIA), venture capital market outlooks, and government policy white papers. Ensure cross-referencing between optimistic marketing projections and pessimistic academic critiques to capture a balanced spectrum of expected outcomes.\n\n3. Identify and validate evidence gaps: Rigorously evaluate the collected data for areas of high uncertainty or conflicting projections. Specifically, focus on the \"scaling wall\" debate, the feasibility of autonomous agent reliability at scale, and potential bottlenecks in energy infrastructure. Distinguish between speculative hype and verifiable engineering milestones to prevent over-indexing on unsubstantiated industry promises.\n\n4. Perform comparative cross-analysis: Synthesize the technical, economic, and regulatory findings to identify points of convergence. Assess how shifting compute constraints might impact the deployment of smaller, specialized models versus massive foundation models. Evaluate the interplay between tightening international AI regulations and the development speed of proprietary versus open-weight models.\n\n5. Synthesize findings into a forward-looking strategic summary: Consolidate the analysis into a final report that maps the most likely AI landscape for 2026. Prioritize actionable insights, highlighting critical inflection points—such as breakthroughs in reasoning capabilities or energy-efficient inference—that would signify the transition from current AI capabilities to the predicted 2026 state. Conclude with a risk-adjusted assessment of what is definitively achievable versus what remains speculative.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 industry analysis 2025 2026",
-    "ai in 2026 benchmark comparison",
     "ai in 2026 limitations and risks",
     "ai in 2026 case study",
     "ai in 2026 expert interview",
@@ -36,203 +34,323 @@
   "processedQueries": [
     "ai in 2026",
     "ai in 2026 official documentation",
-    "ai in 2026 latest research paper"
+    "ai in 2026 latest research paper",
+    "ai in 2026 industry analysis 2025 2026",
+    "ai in 2026 benchmark comparison"
   ],
   "websites": [
     {
-      "id": "site_1774898340550_p1a27",
+      "id": "site_1774898367944_6fj53",
+      "url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
+      "domain": "en.wikipedia.org",
+      "title": "Grok (chatbot) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Grok (chatbot) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 OpenAI 1.2 ",
+      "checkedAt": "2026-03-30T19:19:28.042Z"
+    },
+    {
+      "id": "site_1774898367780_81rpa",
+      "url": "https://llm-stats.com/",
+      "domain": "llm-stats.com",
+      "title": "AI Leaderboards 2026 - Compare and rank the best AI models",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=llm-stats.com&sz=64",
+      "snippet": "Comprehensive AI leaderboards and rankings comparing the best models across coding, math, writing, image generation, and more. Compare performance, pricing, context windows, and benchmark scores across top AI models.",
+      "checkedAt": "2026-03-30T19:19:27.943Z"
+    },
+    {
+      "id": "site_1774898367437_wkpl1",
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxv5k3/ai_in_2026_some_interesting_stats_from_the_us/",
+      "domain": "reddit.com",
+      "title": "Reddit - The heart of the internet",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
+      "snippet": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
+      "checkedAt": "2026-03-30T19:19:27.780Z"
+    },
+    {
+      "id": "site_1774898367176_9zy1o",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rovfbw/i_made_a_list_of_every_ai_benchmark_that_still/",
+      "domain": "reddit.com",
+      "title": "Reddit - The heart of the internet",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
+      "snippet": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
+      "checkedAt": "2026-03-30T19:19:27.437Z"
+    },
+    {
+      "id": "site_1774898365919_1xr81",
+      "url": "https://www.pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list",
+      "domain": "pluralsight.com",
+      "title": "The best AI models in 2026: What model to pick for your use case | Pluralsight",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pluralsight.com&sz=64",
+      "snippet": "The AI race isn",
+      "checkedAt": "2026-03-30T19:19:27.176Z"
+    },
+    {
+      "id": "site_1774898365096_8aehc",
+      "url": "https://en.wikipedia.org/wiki/OpenAI",
+      "domain": "en.wikipedia.org",
+      "title": "OpenAI - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "OpenAI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Founding 2 Corporate structure Toggle Corporate structure subse",
+      "checkedAt": "2026-03-30T19:19:25.265Z"
+    },
+    {
+      "id": "site_1774898364935_n00s5",
+      "url": "https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026",
+      "domain": "en.wikipedia.org",
+      "title": "India AI Impact Summit 2026 - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "India AI Impact Summit 2026 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Programme Toggle Programme su",
+      "checkedAt": "2026-03-30T19:19:25.096Z"
+    },
+    {
+      "id": "site_1774898364700_tf6fi",
+      "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
+      "domain": "news.microsoft.com",
+      "title": "What’s next in AI: 7 trends to watch in 2026",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=news.microsoft.com&sz=64",
+      "snippet": "Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.",
+      "checkedAt": "2026-03-30T19:19:24.935Z"
+    },
+    {
+      "id": "site_1774898364487_tvvu9",
+      "url": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
+      "domain": "deloitte.com",
+      "title": "The State of AI in the Enterprise - 2026 AI report | Deloitte US",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=deloitte.com&sz=64",
+      "snippet": "Explore the Deloitte AI Institute’s State of AI in the Enterprise report tracking AI investments, adoption, impacts on business, and challenges throughout 2025.",
+      "checkedAt": "2026-03-30T19:19:24.700Z"
+    },
+    {
+      "id": "site_1774898354477_8y1a3",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "domain": "mckinsey.com",
+      "title": "mckinsey.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=mckinsey.com&sz=64",
+      "checkedAt": "2026-03-30T19:19:24.487Z"
+    },
+    {
+      "id": "site_1774898353308_vgsbh",
+      "url": "https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf",
+      "domain": "linkedin.com",
+      "title": "AI Transformation 2026: 26 Predictions Redefining CX, EX, Design, and Product Innovation",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
+      "snippet": "Originally published on: https://www.eglobalis.",
+      "checkedAt": "2026-03-30T19:19:14.477Z"
+    },
+    {
+      "id": "site_1774898351731_0gj61",
+      "url": "https://en.wikipedia.org/wiki/Anthropic",
+      "domain": "en.wikipedia.org",
+      "title": "Anthropic - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Anthropic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Business structure Toggle Business structure subse",
+      "checkedAt": "2026-03-30T19:19:12.353Z"
+    },
+    {
+      "id": "site_1774898351452_h9v39",
       "url": "https://en.wikipedia.org/wiki/Generative_AI",
       "domain": "en.wikipedia.org",
       "title": "Generative AI - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Generative AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2 ",
-      "checkedAt": "2026-03-30T19:19:00.920Z"
+      "checkedAt": "2026-03-30T19:19:11.731Z"
     },
     {
-      "id": "site_1774898340310_jakz6",
-      "url": "https://setr.stanford.edu/technology/artificial-intelligence/2026",
-      "domain": "setr.stanford.edu",
-      "title": "Artificial Intelligence | Stanford Emerging Technology Review",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=setr.stanford.edu&sz=64",
-      "snippet": "Artificial Intelligence | Stanford Emerging Technology Review Stanford University About Technology Areas People News Events SUBSCRIBE test --> explore 2023 technology focus areas Artificial Intelligence Artificial Intelligence Artificial Intelligence Biotechnology and Synthetic Biology Biotechnology and Synthetic Biology Biotechnology and Synthetic Biology Cryptography Cryptography Cryptography and Computer Security Energy Technologies 2026 techn",
-      "checkedAt": "2026-03-30T19:19:00.550Z"
-    },
-    {
-      "id": "site_1774898339964_tx9vy",
+      "id": "site_1774898351364_4q9ja",
       "url": "https://www.worldbank.org/en/publication/wdr2026",
       "domain": "worldbank.org",
       "title": "World Development Report 2026: Artificial Intelligence for Development",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=worldbank.org&sz=64",
       "snippet": "The World Development Report 2026 explores how artificial intelligence is reshaping development as a general‑purpose technology.",
-      "checkedAt": "2026-03-30T19:19:00.310Z"
+      "checkedAt": "2026-03-30T19:19:11.452Z"
     },
     {
-      "id": "site_1774898339306_tnl7n",
-      "url": "https://www.linkedin.com/posts/adam-aljahdhami-550586218_subjectai-trends-and-innovations-for-2026-activity-7416072100479717376-Fsiq",
-      "domain": "linkedin.com",
-      "title": "AI Trends and Innovations for 2026: McKinsey Research | Adam Aljahdhami posted on the topic | LinkedIn",
+      "id": "site_1774898341361_t1bqu",
+      "url": "https://www.morganstanley.com/insights/articles/ai-market-trends-institute-2026",
+      "domain": "morganstanley.com",
+      "title": "morganstanley.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=morganstanley.com&sz=64",
+      "checkedAt": "2026-03-30T19:19:11.363Z"
+    },
+    {
+      "id": "site_1774898339923_suja5",
+      "url": "https://setr.stanford.edu/sites/default/files/2026-01/SETR2026_01-AI_web-260109.pdf",
+      "domain": "setr.stanford.edu",
+      "title": "setr.stanford.edu",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
-      "snippet": "Subject:AI Trends and Innovations for 2026 content:As we step into the new year on January 11, 2026, we witness remarkable advancements in artificial intelligence (AI) and their significant impact on various industries. ",
-      "checkedAt": "2026-03-30T19:18:59.964Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=setr.stanford.edu&sz=64",
+      "snippet": "%PDF-1.6 %���� 40490 0 obj >stream h�4�Oo�0 ſ���eΟ\u0015��\"u \u001d\u001c \u0015�i����Z� \u0012���q�X�{�g[��I\u000e �,�2�\"\u0003�s�\u0001�`>G] �tm�m\u001b�)5\u001cw1E�L�ldI+V\u0006\u000e�G�/\u0015����z|-�?1���Φ���) ��\u000eMe�7��������7��d����r�8攺 0\u0000 >stream hޔ�=\u000e�0 ���\u001b$��ԑ�.�,Uņ\u0018*Q!\u0016@\u0014\u0006nO\u001a�0T�t�s���9a�@`�cep*\u0004���\u0002��kl-�+�B`��\b b�*�:�O7@o����U��6#�ڙ��қ�;�C]�\u001c�� z��}��\u001c����>�RZ-��rF��$�)�8�f\u001eG�\u0014-��% \u0012}\u0003ѐA���\u0001�O`H#�O���\u001es�n 4O�(�&���\u0014`\u0000�ˍ� endstream endobj 40492 0 obj >stream h޴[�r�H��O��F�\u001fD�-�211\u0011��������43\u000f\u000e��\u0012!",
+      "checkedAt": "2026-03-30T19:19:01.361Z"
     },
     {
-      "id": "site_1774898339264_qrb25",
+      "id": "site_1774898339882_euq9f",
       "url": "https://jngr5.com/jngr/ai-research-papers-2026/",
       "domain": "jngr5.com",
       "title": "AI Research Papers 2026 — JNGR 5.0 AI Journal",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=jngr5.com&sz=64",
       "snippet": "AI Research Papers 2026 – Journal of Next-Generation Research 5.0 (JNGR 5.0).",
-      "checkedAt": "2026-03-30T19:18:59.305Z"
+      "checkedAt": "2026-03-30T19:18:59.923Z"
     },
     {
-      "id": "site_1774898335363_mkey5",
+      "id": "site_1774898336205_5ksth",
       "url": "https://en.wikipedia.org/wiki/Z.ai",
       "domain": "en.wikipedia.org",
       "title": "Z.ai - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Z.ai - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Description 3 See also 4 References 5 Notes 6 External ",
-      "checkedAt": "2026-03-30T19:18:55.438Z"
+      "checkedAt": "2026-03-30T19:18:56.274Z"
     },
     {
-      "id": "site_1774898335266_7hxor",
+      "id": "site_1774898336124_edo9w",
       "url": "https://en.wikipedia.org/wiki/Perplexity_AI",
       "domain": "en.wikipedia.org",
       "title": "Perplexity AI - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Perplexity AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Business Strategy ",
-      "checkedAt": "2026-03-30T19:18:55.363Z"
+      "checkedAt": "2026-03-30T19:18:56.205Z"
     },
     {
-      "id": "site_1774898334668_bvjv2",
-      "url": "https://www.hireinsouth.com/post/ai-implementation-a-complete-guide",
-      "domain": "hireinsouth.com",
-      "title": "AI Implementation: A Complete Guide for 2026 | South",
+      "id": "site_1774898336047_mqsg1",
+      "url": "https://mediate.com/white-house-2026-national-policy-framework-for-artificial-intelligence/",
+      "domain": "mediate.com",
+      "title": "White House 2026 National Policy Framework for Artificial Intelligence - Mediate.com",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=hireinsouth.com&sz=64",
-      "snippet": "AI Implementation: A Complete Guide for 2026 | South Roles Operations &amp; VAs Sales &amp; Marketing Finance &amp; Accounting IT, Data, &amp; Engineering Construction Medical View All Roles Navs &amp; Footers Pricing Tabs &amp; Accordions Teams Text / Misc Titles Video Resources Delegation Blog Delegation Course LatAm Salary Guide Remote Hiring Guide Latin America Guide Virtual Assistant Guide Navs &amp; Footers Pricing Tabs &amp; Accordions Tea",
-      "checkedAt": "2026-03-30T19:18:55.266Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=mediate.com&sz=64",
+      "snippet": "--> --> White House 2026 National Policy Framework for Artificial Intelligence - Mediate.com Menu Close Find a Mediator Join Mediate University ODR.com Membership Mediator Services Certification Mediate University Statewide Banner FAQ All Topics Newsletter News Video About Mediation Civil Commercial Community Elder Family Online Public Policy Workplace Login FIND A MEDIATOR QUICK LISTS Mediators Listed by State/City Mediators Listed by Practice A",
+      "checkedAt": "2026-03-30T19:18:56.124Z"
     },
     {
-      "id": "site_1774898333891_zpglk",
-      "url": "https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-2hhb",
-      "domain": "dev.to",
-      "title": "Top AI Tools for Documentation | Guide for 2026 - DEV Community",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=dev.to&sz=64",
-      "snippet": "Learn About Top AI Tools for Documentation in 2026 This guide explores the leading AI... Tagged with ai, tooling, documentation, productivity.",
-      "checkedAt": "2026-03-30T19:18:54.667Z"
-    },
-    {
-      "id": "site_1774898333698_3j0iy",
-      "url": "https://medium.com/@cosgn/what-is-ai-a-simple-guide-to-artificial-intelligence-in-2026-8c257412ffa0",
-      "domain": "medium.com",
-      "title": "medium.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=medium.com&sz=64",
-      "checkedAt": "2026-03-30T19:18:53.891Z"
-    },
-    {
-      "id": "site_1774898333524_91dov",
-      "url": "https://drata.com/learn/ai/state-federal-regulations-laws",
-      "domain": "drata.com",
-      "title": "drata.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=drata.com&sz=64",
-      "checkedAt": "2026-03-30T19:18:53.697Z"
-    },
-    {
-      "id": "site_1774898332413_qrk03",
+      "id": "site_1774898335279_jtxuw",
       "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
       "domain": "gunder.com",
       "title": "2026 AI Laws Update: Key Regulations and Practical Guidance | Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=gunder.com&sz=64",
       "snippet": "AI compliance in 2026: Trump’s Dec 2025 EO, Colorado & California frameworks, EU AI Act. What startups, VCs, and enterprises must do now.",
-      "checkedAt": "2026-03-30T19:18:53.524Z"
+      "checkedAt": "2026-03-30T19:18:56.047Z"
     },
     {
-      "id": "site_1774898330345_0j133",
+      "id": "site_1774898335182_8otu3",
+      "url": "https://medium.com/@vicki-larson/ai-act-compliance-checklist-your-2026-survival-guide-with-free-template-44cdcd8fbf8e",
+      "domain": "medium.com",
+      "title": "medium.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medium.com&sz=64",
+      "checkedAt": "2026-03-30T19:18:55.279Z"
+    },
+    {
+      "id": "site_1774898335119_yee6g",
+      "url": "https://www.kiteworks.com/cybersecurity-risk-management/ai-regulation-2026-business-compliance-guide/",
+      "domain": "kiteworks.com",
+      "title": "kiteworks.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kiteworks.com&sz=64",
+      "checkedAt": "2026-03-30T19:18:55.182Z"
+    },
+    {
+      "id": "site_1774898334975_xqj22",
+      "url": "https://www.truefuturemedia.com/articles/ai-compliance-laws-businesses-2026?srsltid=AfmBOop9dx-Yw0qZH_39z9AjCKZT_lgh_rfXm_PThT62r9PCqU41J6Wq",
+      "domain": "truefuturemedia.com",
+      "title": "AI Compliance Laws for Businesses: What You Must Know in 2026 &mdash; TrueFuture Media",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=truefuturemedia.com&sz=64",
+      "snippet": "Learn what AI compliance laws for businesses require in 2026, from the EU AI Act to Colorado SB 205, and the steps your company must take to stay compliant.",
+      "checkedAt": "2026-03-30T19:18:55.119Z"
+    },
+    {
+      "id": "site_1774898328168_dp7t9",
       "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
       "domain": "go.microsoft.com",
       "title": "Microsoft Services Agreement",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Services Agreement This is the Trace Id: a19742ffe491722f62b827a784102ab5 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-      "checkedAt": "2026-03-30T19:18:50.711Z"
+      "snippet": "Microsoft Services Agreement This is the Trace Id: e0004831a8301242941e47b5590fd4d0 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+      "checkedAt": "2026-03-30T19:18:48.966Z"
     },
     {
-      "id": "site_1774898329895_v78br",
+      "id": "site_1774898327570_hwtgk",
       "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
       "domain": "go.microsoft.com",
       "title": "Microsoft Privacy Statement – Microsoft privacy",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 476a558fc8e24bbfb049ff7f60357fe9 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-      "checkedAt": "2026-03-30T19:18:50.345Z"
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: c2bfb56a6d5e720f1e188a5ee89bc333 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-03-30T19:18:48.168Z"
     },
     {
-      "id": "site_1774898329627_qr0jd",
+      "id": "site_1774898326704_hb9lq",
       "url": "https://www.zhihu.com/question/1903860201389548284",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T19:18:49.895Z"
+      "checkedAt": "2026-03-30T19:18:47.570Z"
     },
     {
-      "id": "site_1774898329561_wiqk0",
+      "id": "site_1774898326549_dvrk6",
       "url": "https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026",
       "domain": "progress.com",
       "title": "The 6 AI Trends That Will Actually Matter in 2026 | Progress",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=progress.com&sz=64",
       "snippet": "If 2023–2024 was pilots and prototypes; 2025–2026 will be orchestration, governance and scale. The signal is consistent—adoption is widespread and the most business impact will be in redesigned workflows and hard-wiring ",
-      "checkedAt": "2026-03-30T19:18:49.627Z"
+      "checkedAt": "2026-03-30T19:18:46.704Z"
     },
     {
-      "id": "site_1774898329432_sq6jy",
+      "id": "site_1774898325508_g8mxg",
       "url": "https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026",
       "domain": "hai.stanford.edu",
       "title": "hai.stanford.edu",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=hai.stanford.edu&sz=64",
       "snippet": "self.__next_f.push([1,\"mation campaigns, and help citizens make more informed decisions about the information they consume online.\\u003c/p\\u003e33:T438,\\u003ctable\\u003e\\u003ctbody\\u003e\\u003ctr\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eName\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eRole\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e",
-      "checkedAt": "2026-03-30T19:18:49.561Z"
+      "checkedAt": "2026-03-30T19:18:46.549Z"
     },
     {
-      "id": "site_1774898329403_mxzb0",
+      "id": "site_1774898325103_u8zfs",
       "url": "https://washingtondc.jhu.edu/news/ai-in-2026/",
       "domain": "washingtondc.jhu.edu",
       "title": "washingtondc.jhu.edu",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=washingtondc.jhu.edu&sz=64",
-      "checkedAt": "2026-03-30T19:18:49.432Z"
+      "checkedAt": "2026-03-30T19:18:45.508Z"
     },
     {
-      "id": "site_1774898329370_8amut",
+      "id": "site_1774898324106_4cngc",
       "url": "https://mitsloan.mit.edu/ideas-made-to-matter/action-items-ai-decision-makers-2026",
       "domain": "mitsloan.mit.edu",
       "title": "Action items for AI decision makers in 2026 | MIT Sloan",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=mitsloan.mit.edu&sz=64",
       "snippet": "Action items for AI decision makers in 2026 | MIT Sloan Skip to main content MIT Sloan logo academics Ideas Made to Matter Values Events Alumni Faculty About Executive Education academics contact facebook instagram linkedin twitter youtube Choose the human path for AI. John C Head III Dean Rick Locke on the future of work. contact Search Main Menu close search Back to Menu Which program is right for you? MBA Through intellectual rigor and experie",
-      "checkedAt": "2026-03-30T19:18:49.403Z"
+      "checkedAt": "2026-03-30T19:18:45.102Z"
     },
     {
-      "id": "site_1774898329291_nmhbu",
+      "id": "site_1774898323992_8j0b4",
       "url": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
       "domain": "pwc.com",
       "title": "pwc.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=pwc.com&sz=64",
-      "checkedAt": "2026-03-30T19:18:49.370Z"
+      "checkedAt": "2026-03-30T19:18:44.105Z"
     }
   ],
   "citations": [
@@ -268,21 +386,21 @@
     },
     {
       "id": 6,
+      "url": "https://www.truefuturemedia.com/articles/ai-compliance-laws-businesses-2026?srsltid=AfmBOop9dx-Yw0qZH_39z9AjCKZT_lgh_rfXm_PThT62r9PCqU41J6Wq",
+      "domain": "truefuturemedia.com",
+      "title": "AI Compliance Laws for Businesses: What You Must Know in 2026 &mdash; TrueFuture Media"
+    },
+    {
+      "id": 7,
       "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
       "domain": "gunder.com",
       "title": "2026 AI Laws Update: Key Regulations and Practical Guidance | Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP"
     },
     {
-      "id": 7,
-      "url": "https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-2hhb",
-      "domain": "dev.to",
-      "title": "Top AI Tools for Documentation | Guide for 2026 - DEV Community"
-    },
-    {
       "id": 8,
-      "url": "https://www.hireinsouth.com/post/ai-implementation-a-complete-guide",
-      "domain": "hireinsouth.com",
-      "title": "AI Implementation: A Complete Guide for 2026 | South"
+      "url": "https://mediate.com/white-house-2026-national-policy-framework-for-artificial-intelligence/",
+      "domain": "mediate.com",
+      "title": "White House 2026 National Policy Framework for Artificial Intelligence - Mediate.com"
     },
     {
       "id": 9,
@@ -304,9 +422,9 @@
     },
     {
       "id": 12,
-      "url": "https://www.linkedin.com/posts/adam-aljahdhami-550586218_subjectai-trends-and-innovations-for-2026-activity-7416072100479717376-Fsiq",
-      "domain": "linkedin.com",
-      "title": "AI Trends and Innovations for 2026: McKinsey Research | Adam Aljahdhami posted on the topic | LinkedIn"
+      "url": "https://setr.stanford.edu/sites/default/files/2026-01/SETR2026_01-AI_web-260109.pdf",
+      "domain": "setr.stanford.edu",
+      "title": "setr.stanford.edu"
     },
     {
       "id": 13,
@@ -316,25 +434,125 @@
     },
     {
       "id": 14,
-      "url": "https://setr.stanford.edu/technology/artificial-intelligence/2026",
-      "domain": "setr.stanford.edu",
-      "title": "Artificial Intelligence | Stanford Emerging Technology Review"
-    },
-    {
-      "id": 15,
       "url": "https://en.wikipedia.org/wiki/Generative_AI",
       "domain": "en.wikipedia.org",
       "title": "Generative AI - Wikipedia"
+    },
+    {
+      "id": 15,
+      "url": "https://en.wikipedia.org/wiki/Anthropic",
+      "domain": "en.wikipedia.org",
+      "title": "Anthropic - Wikipedia"
+    },
+    {
+      "id": 16,
+      "url": "https://www.linkedin.com/pulse/ai-transformation-2026-26-predictions-redefining-cx-ex-saltz-gulko-twspf",
+      "domain": "linkedin.com",
+      "title": "AI Transformation 2026: 26 Predictions Redefining CX, EX, Design, and Product Innovation"
+    },
+    {
+      "id": 17,
+      "url": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
+      "domain": "deloitte.com",
+      "title": "The State of AI in the Enterprise - 2026 AI report | Deloitte US"
+    },
+    {
+      "id": 18,
+      "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
+      "domain": "news.microsoft.com",
+      "title": "What’s next in AI: 7 trends to watch in 2026"
+    },
+    {
+      "id": 19,
+      "url": "https://en.wikipedia.org/wiki/India_AI_Impact_Summit_2026",
+      "domain": "en.wikipedia.org",
+      "title": "India AI Impact Summit 2026 - Wikipedia"
+    },
+    {
+      "id": 20,
+      "url": "https://en.wikipedia.org/wiki/OpenAI",
+      "domain": "en.wikipedia.org",
+      "title": "OpenAI - Wikipedia"
+    },
+    {
+      "id": 21,
+      "url": "https://www.pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list",
+      "domain": "pluralsight.com",
+      "title": "The best AI models in 2026: What model to pick for your use case | Pluralsight"
+    },
+    {
+      "id": 22,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rovfbw/i_made_a_list_of_every_ai_benchmark_that_still/",
+      "domain": "reddit.com",
+      "title": "Reddit - The heart of the internet"
+    },
+    {
+      "id": 23,
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxv5k3/ai_in_2026_some_interesting_stats_from_the_us/",
+      "domain": "reddit.com",
+      "title": "Reddit - The heart of the internet"
+    },
+    {
+      "id": 24,
+      "url": "https://llm-stats.com/",
+      "domain": "llm-stats.com",
+      "title": "AI Leaderboards 2026 - Compare and rank the best AI models"
+    },
+    {
+      "id": 25,
+      "url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
+      "domain": "en.wikipedia.org",
+      "title": "Grok (chatbot) - Wikipedia"
     }
   ],
   "notes": [
     {
+      "citationId": 25,
+      "summary": "Grok (chatbot) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 OpenAI 1.2 "
+    },
+    {
+      "citationId": 24,
+      "summary": "Comprehensive AI leaderboards and rankings comparing the best models across coding, math, writing, image generation, and more. Compare performance, pricing, context windows, and benchmark scores across top AI models."
+    },
+    {
+      "citationId": 23,
+      "summary": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-"
+    },
+    {
+      "citationId": 22,
+      "summary": "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-"
+    },
+    {
+      "citationId": 21,
+      "summary": "The AI race isn"
+    },
+    {
+      "citationId": 20,
+      "summary": "OpenAI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Founding 2 Corporate structure Toggle Corporate structure subse"
+    },
+    {
+      "citationId": 19,
+      "summary": "India AI Impact Summit 2026 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Programme Toggle Programme su"
+    },
+    {
+      "citationId": 18,
+      "summary": "Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency."
+    },
+    {
+      "citationId": 17,
+      "summary": "Explore the Deloitte AI Institute’s State of AI in the Enterprise report tracking AI investments, adoption, impacts on business, and challenges throughout 2025."
+    },
+    {
+      "citationId": 16,
+      "summary": "Originally published on: https://www.eglobalis."
+    },
+    {
       "citationId": 15,
-      "summary": "Generative AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2 "
+      "summary": "Anthropic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Business structure Toggle Business structure subse"
     },
     {
       "citationId": 14,
-      "summary": "Artificial Intelligence | Stanford Emerging Technology Review Stanford University About Technology Areas People News Events SUBSCRIBE test --> explore 2023 technology focus areas Artificial Intelligence Artificial Intelligence Artificial Intelligence Biotechnology and Synthetic Biology Biotechnology and Synthetic Biology Biotechnology and Synthetic Biology Cryptography Cryptography Cryptography and Computer Security Energy Technologies 2026 techn"
+      "summary": "Generative AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2 "
     },
     {
       "citationId": 13,
@@ -342,7 +560,7 @@
     },
     {
       "citationId": 12,
-      "summary": "Subject:AI Trends and Innovations for 2026 content:As we step into the new year on January 11, 2026, we witness remarkable advancements in artificial intelligence (AI) and their significant impact on various industries. "
+      "summary": "%PDF-1.6 %���� 40490 0 obj >stream h�4�Oo�0 ſ���eΟ\u0015��\"u \u001d\u001c \u0015�i����Z� \u0012���q�X�{�g[��I\u000e �,�2�\"\u0003�s�\u0001�`>G] �tm�m\u001b�)5\u001cw1E�L�ldI+V\u0006\u000e�G�/\u0015����z|-�?1���Φ���) ��\u000eMe�7��������7��d����r�8攺 0\u0000 >stream hޔ�=\u000e�0 ���\u001b$��ԑ�.�,Uņ\u0018*Q!\u0016@\u0014\u0006nO\u001a�0T�t�s���9a�@`�cep*\u0004���\u0002��kl-�+�B`��\b b�*�:�O7@o����U��6#�ڙ��қ�;�C]�\u001c�� z��}��\u001c����>�RZ-��rF��$�)�8�f\u001eG�\u0014-��% \u0012}\u0003ѐA���\u0001�O`H#�O���\u001es�n 4O�(�&���\u0014`\u0000�ˍ� endstream endobj 40492 0 obj >stream h޴[�r�H��O��F�\u001fD�-�211\u0011��������43\u000f\u000e��\u0012!"
     },
     {
       "citationId": 11,
@@ -358,23 +576,23 @@
     },
     {
       "citationId": 8,
-      "summary": "AI Implementation: A Complete Guide for 2026 | South Roles Operations &amp; VAs Sales &amp; Marketing Finance &amp; Accounting IT, Data, &amp; Engineering Construction Medical View All Roles Navs &amp; Footers Pricing Tabs &amp; Accordions Teams Text / Misc Titles Video Resources Delegation Blog Delegation Course LatAm Salary Guide Remote Hiring Guide Latin America Guide Virtual Assistant Guide Navs &amp; Footers Pricing Tabs &amp; Accordions Tea"
+      "summary": "--> --> White House 2026 National Policy Framework for Artificial Intelligence - Mediate.com Menu Close Find a Mediator Join Mediate University ODR.com Membership Mediator Services Certification Mediate University Statewide Banner FAQ All Topics Newsletter News Video About Mediation Civil Commercial Community Elder Family Online Public Policy Workplace Login FIND A MEDIATOR QUICK LISTS Mediators Listed by State/City Mediators Listed by Practice A"
     },
     {
       "citationId": 7,
-      "summary": "Learn About Top AI Tools for Documentation in 2026 This guide explores the leading AI... Tagged with ai, tooling, documentation, productivity."
-    },
-    {
-      "citationId": 6,
       "summary": "AI compliance in 2026: Trump’s Dec 2025 EO, Colorado & California frameworks, EU AI Act. What startups, VCs, and enterprises must do now."
     },
     {
+      "citationId": 6,
+      "summary": "Learn what AI compliance laws for businesses require in 2026, from the EU AI Act to Colorado SB 205, and the steps your company must take to stay compliant."
+    },
+    {
       "citationId": 5,
-      "summary": "Microsoft Services Agreement This is the Trace Id: a19742ffe491722f62b827a784102ab5 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
+      "summary": "Microsoft Services Agreement This is the Trace Id: e0004831a8301242941e47b5590fd4d0 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
     },
     {
       "citationId": 4,
-      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 476a558fc8e24bbfb049ff7f60357fe9 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: c2bfb56a6d5e720f1e188a5ee89bc333 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
     },
     {
       "citationId": 3,
@@ -391,44 +609,68 @@
   ],
   "events": [
     {
-      "id": "ev_1774898340920_zxnu4",
-      "at": "2026-03-30T19:19:00.921Z",
+      "id": "ev_1774898368042_nn0mp",
+      "at": "2026-03-30T19:19:28.042Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 25."
+    },
+    {
+      "id": "ev_1774898365266_pr91i",
+      "at": "2026-03-30T19:19:25.266Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 benchmark comparison"
+    },
+    {
+      "id": "ev_1774898365266_i6re3",
+      "at": "2026-03-30T19:19:25.266Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 20."
+    },
+    {
+      "id": "ev_1774898352354_v631h",
+      "at": "2026-03-30T19:19:12.354Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 industry analysis 2025 2026"
+    },
+    {
+      "id": "ev_1774898352354_h7uew",
+      "at": "2026-03-30T19:19:12.354Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1774898335438_soovi",
-      "at": "2026-03-30T19:18:55.438Z",
+      "id": "ev_1774898336274_l3abs",
+      "at": "2026-03-30T19:18:56.274Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 latest research paper"
     },
     {
-      "id": "ev_1774898335438_et5k6",
-      "at": "2026-03-30T19:18:55.438Z",
+      "id": "ev_1774898336274_65xbh",
+      "at": "2026-03-30T19:18:56.274Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1774898330711_nc5xn",
-      "at": "2026-03-30T19:18:50.711Z",
+      "id": "ev_1774898334233_0qaes",
+      "at": "2026-03-30T19:18:54.233Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026 official documentation"
     },
     {
-      "id": "ev_1774898330711_3fdgw",
-      "at": "2026-03-30T19:18:50.711Z",
+      "id": "ev_1774898328966_3w07p",
+      "at": "2026-03-30T19:18:48.966Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1774898328334_ljvns",
-      "at": "2026-03-30T19:18:48.334Z",
+      "id": "ev_1774898322217_vmdas",
+      "at": "2026-03-30T19:18:42.217Z",
       "phase": "analyzing",
       "message": "Running query: ai in 2026"
     },
     {
-      "id": "ev_1774898328334_m973t",
-      "at": "2026-03-30T19:18:48.334Z",
+      "id": "ev_1774898322216_1kx50",
+      "at": "2026-03-30T19:18:42.216Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -446,29 +688,32 @@
     }
   ],
   "learnedSoFar": [
+    "Grok (chatbot) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 OpenAI 1.2 ",
+    "Comprehensive AI leaderboards and rankings comparing the best models across coding, math, writing, image generation, and more. Compare performance, pricing, context windows, and benchmark scores across top AI models.",
+    "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
+    "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
+    "The AI race isn",
+    "OpenAI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Founding 2 Corporate structure Toggle Corporate structure subse",
+    "India AI Impact Summit 2026 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Programme Toggle Programme su",
+    "Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.",
+    "Explore the Deloitte AI Institute’s State of AI in the Enterprise report tracking AI investments, adoption, impacts on business, and challenges throughout 2025.",
+    "Originally published on: https://www.eglobalis.",
+    "Anthropic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Business structure Toggle Business structure subse",
     "Generative AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2 ",
-    "Artificial Intelligence | Stanford Emerging Technology Review Stanford University About Technology Areas People News Events SUBSCRIBE test --> explore 2023 technology focus areas Artificial Intelligence Artificial Intelligence Artificial Intelligence Biotechnology and Synthetic Biology Biotechnology and Synthetic Biology Biotechnology and Synthetic Biology Cryptography Cryptography Cryptography and Computer Security Energy Technologies 2026 techn",
     "The World Development Report 2026 explores how artificial intelligence is reshaping development as a general‑purpose technology.",
-    "Subject:AI Trends and Innovations for 2026 content:As we step into the new year on January 11, 2026, we witness remarkable advancements in artificial intelligence (AI) and their significant impact on various industries. ",
+    "%PDF-1.6 %���� 40490 0 obj >stream h�4�Oo�0 ſ���eΟ\u0015��\"u \u001d\u001c \u0015�i����Z� \u0012���q�X�{�g[��I\u000e �,�2�\"\u0003�s�\u0001�`>G] �tm�m\u001b�)5\u001cw1E�L�ldI+V\u0006\u000e�G�/\u0015����z|-�?1���Φ���) ��\u000eMe�7��������7��d����r�8攺 0\u0000 >stream hޔ�=\u000e�0 ���\u001b$��ԑ�.�,Uņ\u0018*Q!\u0016@\u0014\u0006nO\u001a�0T�t�s���9a�@`�cep*\u0004���\u0002��kl-�+�B`��\b b�*�:�O7@o����U��6#�ڙ��қ�;�C]�\u001c�� z��}��\u001c����>�RZ-��rF��$�)�8�f\u001eG�\u0014-��% \u0012}\u0003ѐA���\u0001�O`H#�O���\u001es�n 4O�(�&���\u0014`\u0000�ˍ� endstream endobj 40492 0 obj >stream h޴[�r�H��O��F�\u001fD�-�211\u0011��������43\u000f\u000e��\u0012!",
     "AI Research Papers 2026 – Journal of Next-Generation Research 5.0 (JNGR 5.0).",
     "Z.ai - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Description 3 See also 4 References 5 Notes 6 External ",
     "Perplexity AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Business Strategy ",
-    "AI Implementation: A Complete Guide for 2026 | South Roles Operations &amp; VAs Sales &amp; Marketing Finance &amp; Accounting IT, Data, &amp; Engineering Construction Medical View All Roles Navs &amp; Footers Pricing Tabs &amp; Accordions Teams Text / Misc Titles Video Resources Delegation Blog Delegation Course LatAm Salary Guide Remote Hiring Guide Latin America Guide Virtual Assistant Guide Navs &amp; Footers Pricing Tabs &amp; Accordions Tea",
-    "Learn About Top AI Tools for Documentation in 2026 This guide explores the leading AI... Tagged with ai, tooling, documentation, productivity.",
-    "AI compliance in 2026: Trump’s Dec 2025 EO, Colorado & California frameworks, EU AI Act. What startups, VCs, and enterprises must do now.",
-    "Microsoft Services Agreement This is the Trace Id: a19742ffe491722f62b827a784102ab5 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-    "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 476a558fc8e24bbfb049ff7f60357fe9 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-    "If 2023–2024 was pilots and prototypes; 2025–2026 will be orchestration, governance and scale. The signal is consistent—adoption is widespread and the most business impact will be in redesigned workflows and hard-wiring ",
-    "self.__next_f.push([1,\"mation campaigns, and help citizens make more informed decisions about the information they consume online.\\u003c/p\\u003e33:T438,\\u003ctable\\u003e\\u003ctbody\\u003e\\u003ctr\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eName\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eRole\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e",
-    "Action items for AI decision makers in 2026 | MIT Sloan Skip to main content MIT Sloan logo academics Ideas Made to Matter Values Events Alumni Faculty About Executive Education academics contact facebook instagram linkedin twitter youtube Choose the human path for AI. John C Head III Dean Rick Locke on the future of work. contact Search Main Menu close search Back to Menu Which program is right for you? MBA Through intellectual rigor and experie"
+    "--> --> White House 2026 National Policy Framework for Artificial Intelligence - Mediate.com Menu Close Find a Mediator Join Mediate University ODR.com Membership Mediator Services Certification Mediate University Statewide Banner FAQ All Topics Newsletter News Video About Mediation Civil Commercial Community Elder Family Online Public Policy Workplace Login FIND A MEDIATOR QUICK LISTS Mediators Listed by State/City Mediators Listed by Practice A"
   ],
   "stats": {
-    "sourcesAnalyzed": 15,
-    "tokensUsedEstimate": 1447,
-    "depthScore": 11,
+    "sourcesAnalyzed": 25,
+    "tokensUsedEstimate": 2320,
+    "depthScore": 17,
     "queriesGenerated": 24,
-    "iterations": 3,
-    "uniqueDomains": 12
+    "iterations": 5,
+    "uniqueDomains": 17
   },
   "control": {
     "paused": false,
