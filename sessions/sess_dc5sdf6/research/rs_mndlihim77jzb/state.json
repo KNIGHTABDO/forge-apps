@@ -3,16 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how to learn anatomy by heart",
   "createdAt": "2026-03-30T19:43:18.576Z",
-  "updatedAt": "2026-03-30T19:46:07.862Z",
-  "lastAdvancedAt": "2026-03-30T19:45:57.469Z",
+  "updatedAt": "2026-03-30T19:46:31.897Z",
+  "lastAdvancedAt": "2026-03-30T19:46:20.919Z",
   "phase": "analyzing",
-  "progress": 20,
-  "etaMinutes": 33,
+  "progress": 21,
+  "etaMinutes": 32,
   "planDraft": "1. Define the scope of anatomical learning requirements: Establish a clear boundary between clinical anatomy (surface, cross-sectional, and medical imaging), systemic anatomy (systems-based approach), and regional anatomy (topographical). Identify whether the goal is rote memorization for high-stakes examinations or deep conceptual understanding for medical practice, as this determines whether to prioritize mnemonic-heavy resources or structural-functional integration.\n\n2. Execute a broad search fan-out across diverse learning methodologies: Perform a comprehensive search covering evidence-based pedagogical strategies, including spaced repetition systems (Anki, Quizlet), visual-spatial modalities (3D anatomy software, cadaveric dissection guides), and cognitive psychological techniques (active recall, Feynman technique, and the method of loci). Gather data on the efficacy of various resources, ranging from high-yield medical board prep materials to foundational textbooks like Gray’s Anatomy.\n\n3. Conduct a comparative analysis of retention and comprehension efficacy: Evaluate the gathered methodologies by contrasting passive study habits—such as repetitive reading or highlighting—against active strategies. Analyze the trade-offs between \"memorizing by heart\" (pattern recognition) and \"understanding by mechanism\" (physiological correlation), determining which techniques optimize long-term retention versus short-term recall.\n\n4. Identify evidence gaps and potential cognitive bottlenecks: Examine where current research identifies \"failure points\" in anatomical education, such as the difficulty of maintaining memory recall over long durations or the limitations of 2D atlas study for 3D spatial reasoning. Determine if there is a deficiency in current advice regarding the transition from theoretical memorization to clinical application in live patient settings.\n\n5. Synthesize findings into a hierarchical mastery framework: Develop a structured, tiered roadmap that sequences the learning process. This should move from foundational structural memorization (using mnemonics and active recall) to advanced functional integration (linking structure to clinical pathology). Produce a final guide that prioritizes high-impact habits while providing a strategy for continuous review to prevent the decay of acquired anatomical knowledge.",
   "planApproved": true,
   "pendingQueries": [
-    "how to learn anatomy by heart metrics",
-    "how to learn anatomy by heart review",
     "how to learn anatomy by heart \"pdf\"",
     "how to learn anatomy by heart site:edu",
     "how to learn anatomy by heart site:gov",
@@ -36,573 +34,608 @@
     "how to learn anatomy by heart timeline and adoption",
     "how to learn anatomy by heart open source tools",
     "how to learn anatomy by heart enterprise usage",
-    "how to learn anatomy by heart \"case study\""
+    "how to learn anatomy by heart \"case study\"",
+    "how to learn anatomy by heart metrics",
+    "how to learn anatomy by heart review"
   ],
   "websites": [
     {
-      "id": "site_1774899957277_jbo59",
+      "id": "site_1774899991238_wahto",
+      "url": "https://leveluprn.com/blogs/medical-surgical-nursing/cardiovascular-1-introduction-anatomy-physiology-review?srsltid=AfmBOoqy92nb7En0PJojy01npqiun9qu9v1jBNxtnDiTUaWkvHTPtY8x",
+      "domain": "leveluprn.com",
+      "title": "Cardiovascular System Anatomy & Physiology Review - For Nurses",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=leveluprn.com&sz=64",
+      "snippet": "A&P review of cardiovascular system, including components/functions, pericardium, heart wall layers, chambers of the heart, heart valves, & blood flow through the heart.",
+      "checkedAt": "2026-03-30T19:46:31.897Z"
+    },
+    {
+      "id": "site_1774899980672_0ghkp",
+      "url": "https://medictests.com/units/cardiovascular-anatomy-basics",
+      "domain": "medictests.com",
+      "title": "Cardiovascular Anatomy Basics for EMS Students",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medictests.com&sz=64",
+      "snippet": "Learn core cardiovascular concepts, including the cardiac cycle and pulse types, vital for EMS students like EMTs and paramedics.",
+      "checkedAt": "2026-03-30T19:46:20.919Z"
+    },
+    {
+      "id": "site_1774899980098_ys35i",
+      "url": "https://www.nature.com/articles/s42256-025-01035-5",
+      "domain": "nature.com",
+      "title": "A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics | Nature Machine Intelligence",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=nature.com&sz=64",
+      "snippet": "Understanding the structure and motion of the heart is crucial for diagnosing and managing cardiovascular diseases, the leading cause of global death. There is wide variation in cardiac shape and motion patterns, influen",
+      "checkedAt": "2026-03-30T19:46:20.672Z"
+    },
+    {
+      "id": "site_1774899958776_yzbqr",
       "url": "https://www.labster.com/blog/5-creative-ways-teach-anatomy-physiology",
       "domain": "labster.com",
       "title": "5 Creative Ways to Teach Anatomy and Physiology",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=labster.com&sz=64",
       "snippet": "5 Creative Ways to Teach Anatomy and Physiology Contact Us Get Support Community Login Content Catalog Simulations All Simulations Browse hundreds of immersive science lab simulations. 3D Chemistry Models Learn key chemistry concepts with interactive 3D models. Browse by Courses Discover recommended simulations that align directly with your course’s curriculum. Learning Concepts Explore curated sets of interactive simulations designed to reinforc",
-      "checkedAt": "2026-03-30T19:45:57.469Z"
+      "checkedAt": "2026-03-30T19:45:58.829Z"
     },
     {
-      "id": "site_1774899957276_yxr0w",
+      "id": "site_1774899958776_ilz71",
       "url": "https://www.bodyviz.com/filesimages/Pages/Learn%20More/Related%20Research%20and%20Sources/Best%20Anatomy%20Teaching%20Practices.pdf",
       "domain": "bodyviz.com",
       "title": "bodyviz.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=bodyviz.com&sz=64",
-      "checkedAt": "2026-03-30T19:45:57.277Z"
+      "checkedAt": "2026-03-30T19:45:58.776Z"
     },
     {
-      "id": "site_1774899946320_ckmql",
+      "id": "site_1774899947887_r0na3",
       "url": "https://ico.libguides.com/anatomy/free-resources",
       "domain": "ico.libguides.com",
       "title": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=ico.libguides.com&sz=64",
       "snippet": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may",
-      "checkedAt": "2026-03-30T19:45:46.765Z"
+      "checkedAt": "2026-03-30T19:45:48.083Z"
     },
     {
-      "id": "site_1774899945871_ovyqf",
+      "id": "site_1774899947667_x15yg",
       "url": "https://laneguides.stanford.edu/medical-education/anatomy",
       "domain": "laneguides.stanford.edu",
       "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=laneguides.stanford.edu&sz=64",
       "snippet": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru",
-      "checkedAt": "2026-03-30T19:45:46.320Z"
+      "checkedAt": "2026-03-30T19:45:47.887Z"
     },
     {
-      "id": "site_1774899945019_m03xo",
+      "id": "site_1774899947379_9agjf",
       "url": "https://discourse.slicer.org/t/open-source-human-anatomy-atlas/17734",
       "domain": "discourse.slicer.org",
       "title": "Open source Human Anatomy Atlas - OpenAnatomy - 3D Slicer Community",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=discourse.slicer.org&sz=64",
       "snippet": "Hello everybody, You may like to see the first steps towards what should become a full open source 3D human anatomy atlas; you can now download the .blend files (Blender offers great options to organize and visualize th&",
-      "checkedAt": "2026-03-30T19:45:45.871Z"
+      "checkedAt": "2026-03-30T19:45:47.667Z"
     },
     {
-      "id": "site_1774899944627_9ni3m",
+      "id": "site_1774899947249_825sh",
       "url": "https://www.openanatomy.org/",
       "domain": "openanatomy.org",
       "title": "The Open Anatomy Project | The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and ope",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=openanatomy.org&sz=64",
       "snippet": "The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and open-source software throughout the world.",
-      "checkedAt": "2026-03-30T19:45:45.019Z"
+      "checkedAt": "2026-03-30T19:45:47.379Z"
     },
     {
-      "id": "site_1774899944133_l6l85",
+      "id": "site_1774899946655_mjvfk",
       "url": "https://anatomytool.org/content/best-open-anatomy-learning-resources",
       "domain": "anatomytool.org",
       "title": "Best Open Anatomy Learning Resources | AnatomyTOOL",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=anatomytool.org&sz=64",
       "snippet": "Best Open Anatomy Learning Resources | AnatomyTOOL Region System Collections Embryology Microscopy Dissections Radiology Clinical Anatomy Documents Images Videos 3D models, games Lessons. quizzes Viewers Create & edit content Take quiz Create account / Forgot password About Project Open Anatomy Learning Materials (TOOL2) Manuals Anatomy Learning Resources Credits Medical disclaimer Legal information Donate Sponsor Contact Open 3D Model Archive Re",
-      "checkedAt": "2026-03-30T19:45:44.627Z"
+      "checkedAt": "2026-03-30T19:45:47.249Z"
     },
     {
-      "id": "site_1774899933637_txp18",
+      "id": "site_1774899936356_og14v",
       "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-learn-anatomy-with-mnemonics",
       "domain": "kenhub.com",
       "title": "How to learn anatomy with mnemonics: Tips and examples | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "How to learn anatomy with mnemonics: Tips and examples | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;fo",
-      "checkedAt": "2026-03-30T19:45:33.710Z"
+      "checkedAt": "2026-03-30T19:45:36.429Z"
     },
     {
-      "id": "site_1774899933530_plz5d",
+      "id": "site_1774899936194_ilojk",
       "url": "https://www.kenhub.com/en/library/anatomy/embryology-of-the-heart",
       "domain": "kenhub.com",
       "title": "Heart embryology and congenital heart problems | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "Heart embryology and congenital heart problems | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style",
-      "checkedAt": "2026-03-30T19:45:33.637Z"
+      "checkedAt": "2026-03-30T19:45:36.356Z"
     },
     {
-      "id": "site_1774899933476_urz7y",
+      "id": "site_1774899936045_7j6u4",
       "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-5-development-of-the-heart",
       "domain": "openstax.org",
       "title": "19.5 Development of the Heart - Anatomy and Physiology 2e | OpenStax",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=openstax.org&sz=64",
       "snippet": "The human heart is the first functional organ to develop. It begins beating and pumping blood around day 21 or 22, a mere three weeks after fertilizatio...",
-      "checkedAt": "2026-03-30T19:45:33.530Z"
+      "checkedAt": "2026-03-30T19:45:36.194Z"
     },
     {
-      "id": "site_1774899922355_fg6yl",
+      "id": "site_1774899925370_javi8",
       "url": "https://pubmed.ncbi.nlm.nih.gov/33068329/",
       "domain": "pubmed.ncbi.nlm.nih.gov",
       "title": "Spending Wisely: The Role of Cost and Value Research in the Pursuit of Advancing Anatomical Sciences Education",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pubmed.ncbi.nlm.nih.gov&sz=64",
       "snippet": "Studies of \"cost and value\" in anatomical sciences education examine not only what works, but at what cost, thus evaluating the inputs and outputs of education. This research provides insights into how to use available r",
-      "checkedAt": "2026-03-30T19:45:22.700Z"
+      "checkedAt": "2026-03-30T19:45:25.591Z"
     },
     {
-      "id": "site_1774899911177_tqiiy",
+      "id": "site_1774899914719_b6q02",
       "url": "https://link.springer.com/article/10.1186/s12909-019-1590-2",
       "domain": "link.springer.com",
       "title": "Teaching anatomy using an active and engaging learning strategy | BMC Medical Education | Springer Nature Link",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=link.springer.com&sz=64",
       "snippet": "Various evidence-based and student-centered strategies such as team-based learning (TBL), case-based learning (CBL), and flipped classroom have been recent",
-      "checkedAt": "2026-03-30T19:45:11.707Z"
+      "checkedAt": "2026-03-30T19:45:15.111Z"
     },
     {
-      "id": "site_1774899900469_lq8p3",
+      "id": "site_1774899903528_epijz",
       "url": "https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID}",
       "domain": "help.askmediagroup.com",
-      "title": "help.askmediagroup.com",
-      "status": "failed",
+      "title": "Ask Media Group",
+      "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=help.askmediagroup.com&sz=64",
-      "checkedAt": "2026-03-30T19:45:00.727Z"
+      "snippet": "Ask Media Group Categories Frequently Asked Questions Contact Us Promoted articles How do I stop receiving push notifications in Microsoft Edge browser? How do I stop receiving push notifications in Google Chrome? Ask Media Group About - Privacy - Terms - Cookie Policy - Careers - Help - Feedback - &copy;2022 Ask Media Group, LLC.",
+      "checkedAt": "2026-03-30T19:45:03.897Z"
     },
     {
-      "id": "site_1774899900320_c09ih",
+      "id": "site_1774899903494_kw3ih",
       "url": "https://code.jquery.com/jquery-3.7.0.min.js",
       "domain": "code.jquery.com",
       "title": "code.jquery.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=code.jquery.com&sz=64",
       "snippet": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
-      "checkedAt": "2026-03-30T19:45:00.469Z"
+      "checkedAt": "2026-03-30T19:45:03.528Z"
     },
     {
-      "id": "site_1774899900151_h3xv5",
+      "id": "site_1774899903442_1ayx2",
       "url": "https://fonts.googleapis.com",
       "domain": "fonts.googleapis.com",
       "title": "fonts.googleapis.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=fonts.googleapis.com&sz=64",
-      "checkedAt": "2026-03-30T19:45:00.320Z"
+      "checkedAt": "2026-03-30T19:45:03.494Z"
     },
     {
-      "id": "site_1774899899985_kc3rv",
+      "id": "site_1774899903392_7q5gm",
       "url": "https://fonts.gstatic.com/",
       "domain": "fonts.gstatic.com",
       "title": "fonts.gstatic.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=fonts.gstatic.com&sz=64",
-      "checkedAt": "2026-03-30T19:45:00.151Z"
+      "checkedAt": "2026-03-30T19:45:03.442Z"
     },
     {
-      "id": "site_1774899899985_dj1tg",
-      "url": "https://ioer.ilsharedlearning.org/ContentDocs/0e72182c-8480-47fa-b39c-f25e6e9a33c9/285/14.5_-_Instructor_Guide_(Cardio).pdf",
-      "domain": "ioer.ilsharedlearning.org",
-      "title": "ioer.ilsharedlearning.org",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=ioer.ilsharedlearning.org&sz=64",
-      "checkedAt": "2026-03-30T19:44:59.985Z"
-    },
-    {
-      "id": "site_1774899899810_nuiqd",
-      "url": "https://anatomage.com/case-studies/",
-      "domain": "anatomage.com",
-      "title": "anatomage.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=anatomage.com&sz=64",
-      "checkedAt": "2026-03-30T19:44:59.985Z"
-    },
-    {
-      "id": "site_1774899899549_tr38d",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/8712252/",
-      "domain": "pubmed.ncbi.nlm.nih.gov",
-      "title": "Directed case study method for teaching human anatomy and physiology",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pubmed.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "A mastery of human anatomy and physiology requires a familiarity with a vast number of details about the human body. A directed method of case analysis is described that helps students deepen and solidify their understan",
-      "checkedAt": "2026-03-30T19:44:59.810Z"
-    },
-    {
-      "id": "site_1774899889153_ithox",
+      "id": "site_1774899903328_516mg",
       "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
-      "checkedAt": "2026-03-30T19:44:49.222Z"
+      "checkedAt": "2026-03-30T19:45:03.392Z"
     },
     {
-      "id": "site_1774899889061_bwq9z",
+      "id": "site_1774899903300_86jim",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
-      "checkedAt": "2026-03-30T19:44:49.153Z"
+      "checkedAt": "2026-03-30T19:45:03.328Z"
     },
     {
-      "id": "site_1774899888925_ydegn",
+      "id": "site_1774899903300_8nbeg",
+      "url": "https://ioer.ilsharedlearning.org/ContentDocs/0e72182c-8480-47fa-b39c-f25e6e9a33c9/285/14.5_-_Instructor_Guide_(Cardio).pdf",
+      "domain": "ioer.ilsharedlearning.org",
+      "title": "ioer.ilsharedlearning.org",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ioer.ilsharedlearning.org&sz=64",
+      "checkedAt": "2026-03-30T19:45:03.300Z"
+    },
+    {
+      "id": "site_1774899903249_jarpo",
+      "url": "https://anatomage.com/case-studies/",
+      "domain": "anatomage.com",
+      "title": "anatomage.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=anatomage.com&sz=64",
+      "checkedAt": "2026-03-30T19:45:03.300Z"
+    },
+    {
+      "id": "site_1774899903062_fypa0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8712252/",
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "title": "Directed case study method for teaching human anatomy and physiology",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pubmed.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "A mastery of human anatomy and physiology requires a familiarity with a vast number of details about the human body. A directed method of case analysis is described that helps students deepen and solidify their understan",
+      "checkedAt": "2026-03-30T19:45:03.249Z"
+    },
+    {
+      "id": "site_1774899892551_ie2bm",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-      "checkedAt": "2026-03-30T19:44:49.061Z"
+      "checkedAt": "2026-03-30T19:44:52.590Z"
     },
     {
-      "id": "site_1774899888750_mnvpp",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2214854X21000492",
-      "domain": "sciencedirect.com",
-      "title": "sciencedirect.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sciencedirect.com&sz=64",
-      "checkedAt": "2026-03-30T19:44:48.925Z"
-    },
-    {
-      "id": "site_1774899888682_pm9ky",
-      "url": "https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning",
-      "domain": "kenhub.com",
-      "title": "Common mistakes that hinder your anatomy learning | Kenhub",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
-      "snippet": "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
-      "checkedAt": "2026-03-30T19:44:48.750Z"
-    },
-    {
-      "id": "site_1774899888366_g3tpj",
-      "url": "https://xr.jmir.org/2025/1/e74429",
-      "domain": "xr.jmir.org",
-      "title": "JMIR XR and Spatial Computing (JMXR) - Virtual Reality Application for Teaching Complex Congenital Heart Defect Anatomy: Design and Developm",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=xr.jmir.org&sz=64",
-      "snippet": "Background: Medical education continues to face challenges relative to teaching complex human cardiac anatomy to a broad range of learners, especially in the subject of congenital heart defects. Traditional educational m",
-      "checkedAt": "2026-03-30T19:44:48.682Z"
-    },
-    {
-      "id": "site_1774899877665_v7gg1",
+      "id": "site_1774899892517_y0imd",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-      "checkedAt": "2026-03-30T19:44:37.785Z"
+      "checkedAt": "2026-03-30T19:44:52.551Z"
     },
     {
-      "id": "site_1774899877302_bg6jl",
+      "id": "site_1774899892103_6lpgu",
       "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
       "domain": "go.microsoft.com",
       "title": "Microsoft Services Agreement",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Services Agreement This is the Trace Id: 4dfb7a1fab2a370dcd8c93b901cba423 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-      "checkedAt": "2026-03-30T19:44:37.665Z"
+      "snippet": "Microsoft Services Agreement This is the Trace Id: 60d846f09ca2bb09977051b998bf9fd3 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+      "checkedAt": "2026-03-30T19:44:52.517Z"
     },
     {
-      "id": "site_1774899876207_9bltw",
+      "id": "site_1774899891912_9j1rh",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214854X21000492",
+      "domain": "sciencedirect.com",
+      "title": "sciencedirect.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=sciencedirect.com&sz=64",
+      "checkedAt": "2026-03-30T19:44:52.103Z"
+    },
+    {
+      "id": "site_1774899891842_al49m",
+      "url": "https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning",
+      "domain": "kenhub.com",
+      "title": "Common mistakes that hinder your anatomy learning | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
+      "checkedAt": "2026-03-30T19:44:51.912Z"
+    },
+    {
+      "id": "site_1774899891412_yg3m8",
+      "url": "https://xr.jmir.org/2025/1/e74429",
+      "domain": "xr.jmir.org",
+      "title": "JMIR XR and Spatial Computing (JMXR) - Virtual Reality Application for Teaching Complex Congenital Heart Defect Anatomy: Design and Developm",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=xr.jmir.org&sz=64",
+      "snippet": "Background: Medical education continues to face challenges relative to teaching complex human cardiac anatomy to a broad range of learners, especially in the subject of congenital heart defects. Traditional educational m",
+      "checkedAt": "2026-03-30T19:44:51.842Z"
+    },
+    {
+      "id": "site_1774899880587_ptid1",
       "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
       "domain": "go.microsoft.com",
       "title": "Microsoft Privacy Statement – Microsoft privacy",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: b141f4bea9b61b3a50819b7c2f6deae1 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-      "checkedAt": "2026-03-30T19:44:37.302Z"
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 850179aebe1627f08070d510c3411fcb Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-03-30T19:44:40.960Z"
     },
     {
-      "id": "site_1774899875610_bbv91",
+      "id": "site_1774899880257_4gz3o",
       "url": "https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769",
       "domain": "learn.lboro.ac.uk",
       "title": "Log in to the site | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy",
-      "checkedAt": "2026-03-30T19:44:36.207Z"
+      "checkedAt": "2026-03-30T19:44:40.587Z"
     },
     {
-      "id": "site_1774899874800_6zdzi",
-      "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
-      "domain": "instituteofhumananatomy.com",
-      "title": "How to Study Anatomy: 5 Proven Memory Techniques",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=instituteofhumananatomy.com&sz=64",
-      "snippet": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
-      "checkedAt": "2026-03-30T19:44:35.610Z"
-    },
-    {
-      "id": "site_1774899874660_3pnw4",
-      "url": "https://journals.lww.com/njca/fulltext/2025/07000/evaluating_anatomy_teaching_learning_methods_.8.aspx",
-      "domain": "journals.lww.com",
-      "title": "journals.lww.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=journals.lww.com&sz=64",
-      "checkedAt": "2026-03-30T19:44:34.800Z"
-    },
-    {
-      "id": "site_1774899864156_luvne",
+      "id": "site_1774899879923_2htvl",
       "url": "https://learn.lboro.ac.uk/user/profile.php",
       "domain": "learn.lboro.ac.uk",
       "title": "learn.lboro.ac.uk",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can",
-      "checkedAt": "2026-03-30T19:44:24.488Z"
+      "checkedAt": "2026-03-30T19:44:40.257Z"
     },
     {
-      "id": "site_1774899863745_9rijj",
+      "id": "site_1774899879639_omh2f",
       "url": "https://www.zhihu.com/question/334068950",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T19:44:24.156Z"
+      "checkedAt": "2026-03-30T19:44:39.923Z"
     },
     {
-      "id": "site_1774899863369_l155x",
+      "id": "site_1774899879263_0nwlv",
       "url": "https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course",
       "domain": "learn.lboro.ac.uk",
       "title": "Search | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module",
-      "checkedAt": "2026-03-30T19:44:23.745Z"
+      "checkedAt": "2026-03-30T19:44:39.639Z"
     },
     {
-      "id": "site_1774899863311_wghh9",
-      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
-      "domain": "medicine.stmatthews.edu",
-      "title": "How to Study Anatomy in Medical School: A Complete Guide",
+      "id": "site_1774899876705_2ff49",
+      "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
+      "domain": "instituteofhumananatomy.com",
+      "title": "How to Study Anatomy: 5 Proven Memory Techniques",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=medicine.stmatthews.edu&sz=64",
-      "snippet": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
-      "checkedAt": "2026-03-30T19:44:23.369Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=instituteofhumananatomy.com&sz=64",
+      "snippet": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
+      "checkedAt": "2026-03-30T19:44:39.263Z"
     },
     {
-      "id": "site_1774899863276_lros7",
-      "url": "https://www.classcentral.com/report/best-human-anatomy-courses/",
-      "domain": "classcentral.com",
-      "title": "classcentral.com",
+      "id": "site_1774899876670_e8i6z",
+      "url": "https://journals.lww.com/njca/fulltext/2025/07000/evaluating_anatomy_teaching_learning_methods_.8.aspx",
+      "domain": "journals.lww.com",
+      "title": "journals.lww.com",
       "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=classcentral.com&sz=64",
-      "checkedAt": "2026-03-30T19:44:23.311Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=journals.lww.com&sz=64",
+      "checkedAt": "2026-03-30T19:44:36.705Z"
     },
     {
-      "id": "site_1774899863105_fbmh6",
-      "url": "https://voka.io/best-anatomy-apps/",
-      "domain": "voka.io",
-      "title": "10+ Best anatomy apps in 2026 - Voka",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
-      "snippet": "Discover 2026&#039;s top-rated anatomy apps. Our review compares 10 leading apps by features, pricing, and learning styles to help you choose the best tool for your needs.",
-      "checkedAt": "2026-03-30T19:44:23.276Z"
-    },
-    {
-      "id": "site_1774899863050_xxgaz",
-      "url": "https://vervecollege.edu/trends-in-teaching-anatomy-and-physiology/",
-      "domain": "vervecollege.edu",
-      "title": "vervecollege.edu",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=vervecollege.edu&sz=64",
-      "checkedAt": "2026-03-30T19:44:23.105Z"
-    },
-    {
-      "id": "site_1774899862545_z6hw2",
-      "url": "https://www.coursera.org/courses?query=anatomy",
-      "domain": "coursera.org",
-      "title": "Best Anatomy Courses & Certificates [2026] | Coursera",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=coursera.org&sz=64",
-      "snippet": "Anatomy courses can help you learn human body systems, muscle and bone structures, and organ functions. Compare course options to find what fits your goals. Enroll for free.",
-      "checkedAt": "2026-03-30T19:44:23.050Z"
-    },
-    {
-      "id": "site_1774899850934_23ok9",
+      "id": "site_1774899865330_pefjt",
       "url": "https://www.zhihu.com/en/answer/1916294508",
       "domain": "zhihu.com",
       "title": "安全验证 - 知乎",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
       "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
-      "checkedAt": "2026-03-30T19:44:11.882Z"
+      "checkedAt": "2026-03-30T19:44:26.083Z"
     },
     {
-      "id": "site_1774899850363_kp3d7",
+      "id": "site_1774899864934_ezbgq",
       "url": "https://learn.lboro.ac.uk/search/index.php",
       "domain": "learn.lboro.ac.uk",
       "title": "Global search | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My",
-      "checkedAt": "2026-03-30T19:44:10.934Z"
+      "checkedAt": "2026-03-30T19:44:25.330Z"
     },
     {
-      "id": "site_1774899849841_78dgi",
+      "id": "site_1774899864870_0qbws",
+      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
+      "domain": "medicine.stmatthews.edu",
+      "title": "How to Study Anatomy in Medical School: A Complete Guide",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medicine.stmatthews.edu&sz=64",
+      "snippet": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
+      "checkedAt": "2026-03-30T19:44:24.934Z"
+    },
+    {
+      "id": "site_1774899864834_eixbg",
+      "url": "https://www.classcentral.com/report/best-human-anatomy-courses/",
+      "domain": "classcentral.com",
+      "title": "classcentral.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=classcentral.com&sz=64",
+      "checkedAt": "2026-03-30T19:44:24.870Z"
+    },
+    {
+      "id": "site_1774899864701_2uxu0",
+      "url": "https://voka.io/best-anatomy-apps/",
+      "domain": "voka.io",
+      "title": "10+ Best anatomy apps in 2026 - Voka",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
+      "snippet": "Discover 2026&#039;s top-rated anatomy apps. Our review compares 10 leading apps by features, pricing, and learning styles to help you choose the best tool for your needs.",
+      "checkedAt": "2026-03-30T19:44:24.834Z"
+    },
+    {
+      "id": "site_1774899864646_qki9c",
+      "url": "https://vervecollege.edu/trends-in-teaching-anatomy-and-physiology/",
+      "domain": "vervecollege.edu",
+      "title": "vervecollege.edu",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=vervecollege.edu&sz=64",
+      "checkedAt": "2026-03-30T19:44:24.701Z"
+    },
+    {
+      "id": "site_1774899864051_v1ytp",
+      "url": "https://www.coursera.org/courses?query=anatomy",
+      "domain": "coursera.org",
+      "title": "Best Anatomy Courses & Certificates [2026] | Coursera",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=coursera.org&sz=64",
+      "snippet": "Anatomy courses can help you learn human body systems, muscle and bone structures, and organ functions. Compare course options to find what fits your goals. Enroll for free.",
+      "checkedAt": "2026-03-30T19:44:24.645Z"
+    },
+    {
+      "id": "site_1774899853363_ijoly",
       "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
       "domain": "learn.lboro.ac.uk",
       "title": "All modules | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "All modules | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My M",
-      "checkedAt": "2026-03-30T19:44:10.363Z"
+      "checkedAt": "2026-03-30T19:44:13.909Z"
     },
     {
-      "id": "site_1774899849841_yszfr",
-      "url": "https://sc.edu/study/colleges_schools/public_health/documents/cvs/cv_winkelmann.pdf",
-      "domain": "sc.edu",
-      "title": "sc.edu",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sc.edu&sz=64",
-      "checkedAt": "2026-03-30T19:44:09.841Z"
-    },
-    {
-      "id": "site_1774899849841_fawvs",
-      "url": "https://uwf.edu/media/university-of-west-florida/colleges/cse/cvs/guttmann-cv-02142026.pdf",
-      "domain": "uwf.edu",
-      "title": "uwf.edu",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=uwf.edu&sz=64",
-      "checkedAt": "2026-03-30T19:44:09.841Z"
-    },
-    {
-      "id": "site_1774899848281_s1eh6",
-      "url": "https://dental.ufl.edu/profile/nonabur-venkatesh/",
-      "domain": "dental.ufl.edu",
-      "title": "Venkatesh Nonabur &raquo; College of Dentistry &raquo; University of Florida",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=dental.ufl.edu&sz=64",
-      "snippet": "undefined",
-      "checkedAt": "2026-03-30T19:44:09.841Z"
-    },
-    {
-      "id": "site_1774899847370_xd58h",
+      "id": "site_1774899852378_ohga4",
       "url": "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=1598&context=hlrc",
       "domain": "scholarworks.waldenu.edu",
       "title": "scholarworks.waldenu.edu",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=scholarworks.waldenu.edu&sz=64",
-      "checkedAt": "2026-03-30T19:44:08.281Z"
+      "checkedAt": "2026-03-30T19:44:13.363Z"
     },
     {
-      "id": "site_1774899846928_dt7sc",
+      "id": "site_1774899851214_8gst8",
+      "url": "https://physiology.med.ufl.edu/profile/makki-nadja/",
+      "domain": "physiology.med.ufl.edu",
+      "title": "Nadja Makki &raquo; Department of Physiology and Aging &raquo; College of Medicine &raquo; University of Florida",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=physiology.med.ufl.edu&sz=64",
+      "snippet": "undefined",
+      "checkedAt": "2026-03-30T19:44:12.378Z"
+    },
+    {
+      "id": "site_1774899847464_7y5pk",
+      "url": "https://medicine.iu.edu/faculty-labs/wu",
+      "domain": "medicine.iu.edu",
+      "title": "Wu Lab | Research | IU School of Medicine",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medicine.iu.edu&sz=64",
+      "snippet": "Wu Lab | Research | IU School of Medicine Skip to main content Indiana University School of Medicine Indiana University School of Medicine Menu Expertise Toggle Sub-navigation --> Alzheimer&#39;s Disease --> --> Alzheimer&#39;s Disease --> Indiana Health --> --> Indiana Health --> Precision Health Initiative --> --> Precision Health Initiative --> Musculoskeletal Health --> --> Musculoskeletal Health --> Traumatic Brain Injury --> --> Traumatic B",
+      "checkedAt": "2026-03-30T19:44:11.213Z"
+    },
+    {
+      "id": "site_1774899847179_d16mn",
       "url": "https://essaywriter.org/anatomy-research-paper-topics",
       "domain": "essaywriter.org",
       "title": "70 Anatomy Research Paper Topics [2026 Updated] - EssayWriter",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=essaywriter.org&sz=64",
       "snippet": "FREE Anatomy research paper topics. Find inspiration and motivation to prepare your own 1 st -class anatomy paper. Need extra help? We have writers!",
-      "checkedAt": "2026-03-30T19:44:07.370Z"
+      "checkedAt": "2026-03-30T19:44:07.464Z"
     },
     {
-      "id": "site_1774899836178_cdwog",
+      "id": "site_1774899846933_2fi3p",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how",
+      "checkedAt": "2026-03-30T19:44:07.179Z"
+    },
+    {
+      "id": "site_1774899836165_19skc",
       "url": "https://learn.lboro.ac.uk/course/index.php",
       "domain": "learn.lboro.ac.uk",
       "title": "Module categories | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Module categories | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Lear",
-      "checkedAt": "2026-03-30T19:43:56.538Z"
+      "checkedAt": "2026-03-30T19:43:56.516Z"
     },
     {
-      "id": "site_1774899835829_3012q",
+      "id": "site_1774899835913_3djy3",
       "url": "https://learn.lboro.ac.uk/mod/forum/discuss.php?d=494667",
       "domain": "learn.lboro.ac.uk",
       "title": "Learn: Learn Rollover completed | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Learn: Learn Rollover completed | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search inp",
-      "checkedAt": "2026-03-30T19:43:56.178Z"
+      "checkedAt": "2026-03-30T19:43:56.165Z"
     },
     {
-      "id": "site_1774899835295_846qk",
+      "id": "site_1774899835305_1l1b9",
       "url": "https://learn.lboro.ac.uk/",
       "domain": "learn.lboro.ac.uk",
       "title": "Learn | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Loughborough University Virtual Learning Environment.",
-      "checkedAt": "2026-03-30T19:43:55.829Z"
+      "checkedAt": "2026-03-30T19:43:55.913Z"
     },
     {
-      "id": "site_1774899834749_znzsb",
+      "id": "site_1774899834765_hrorw",
       "url": "https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/",
       "domain": "texasheart.org",
       "title": "Heart Anatomy | The Texas Heart Institute®",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=texasheart.org&sz=64",
       "snippet": "Heart Anatomy: Your heart is located between your lungs in the middle of your chest, behind and slightly to the left of your breastbone.",
-      "checkedAt": "2026-03-30T19:43:55.295Z"
+      "checkedAt": "2026-03-30T19:43:55.304Z"
     },
     {
-      "id": "site_1774899834749_g4zvq",
+      "id": "site_1774899834765_tofet",
       "url": "https://gsbs.uth.edu/files/outreach/Anatomy%20of%20the%20Heart.pdf",
       "domain": "gsbs.uth.edu",
       "title": "gsbs.uth.edu",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=gsbs.uth.edu&sz=64",
-      "checkedAt": "2026-03-30T19:43:54.749Z"
+      "checkedAt": "2026-03-30T19:43:54.765Z"
     },
     {
-      "id": "site_1774899834276_ur2k0",
+      "id": "site_1774899834280_syrme",
       "url": "https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy/",
       "domain": "courses.lumenlearning.com",
       "title": "Heart Anatomy | Anatomy and Physiology II",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=courses.lumenlearning.com&sz=64",
       "snippet": "Heart Anatomy | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 3: The Cardiovascular System: The Heart Search for: Heart Anatomy Learning Objectives By the end of this section, you will be able to: Describe the location and position of the heart within the body cavity Describe the internal and external anatomy of the heart Identify the tissue layers of the heart Relate the structure of the heart to its function as",
-      "checkedAt": "2026-03-30T19:43:54.749Z"
+      "checkedAt": "2026-03-30T19:43:54.764Z"
     },
     {
-      "id": "site_1774899823478_jnf5n",
+      "id": "site_1774899818206_kc99t",
       "url": "https://voka.io/how-to-memorize-anatomy-and-physiology/",
       "domain": "voka.io",
       "title": "Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
       "snippet": "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
-      "checkedAt": "2026-03-30T19:43:43.808Z"
+      "checkedAt": "2026-03-30T19:43:38.554Z"
     },
     {
-      "id": "site_1774899823408_6rjg9",
+      "id": "site_1774899818148_0759s",
       "url": "https://www.kenhub.com/en/library/learning-strategies/4-steps-to-memorize-anatomical-terms",
       "domain": "kenhub.com",
       "title": "Anatomical terms: How to memorize them in 4 steps | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "Anatomical terms: How to memorize them in 4 steps | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
-      "checkedAt": "2026-03-30T19:43:43.478Z"
+      "checkedAt": "2026-03-30T19:43:38.206Z"
     },
     {
-      "id": "site_1774899823314_ay9fr",
+      "id": "site_1774899817869_vfwb5",
       "url": "https://www.magneticmemorymethod.com/how-to-memorize-anatomy/",
       "domain": "magneticmemorymethod.com",
       "title": "How to Memorize Anatomy for Med School (Without Flashcards)",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=magneticmemorymethod.com&sz=64",
       "snippet": "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
-      "checkedAt": "2026-03-30T19:43:43.407Z"
+      "checkedAt": "2026-03-30T19:43:38.148Z"
     },
     {
-      "id": "site_1774899823130_5zdl9",
+      "id": "site_1774899817589_l1too",
       "url": "https://www.kenhub.com/en/library/anatomy/heart",
       "domain": "kenhub.com",
       "title": "Heart anatomy: Structure, valves, coronary vessels | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "Heart anatomy: Structure, valves, coronary vessels | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-s",
-      "checkedAt": "2026-03-30T19:43:43.314Z"
+      "checkedAt": "2026-03-30T19:43:37.868Z"
     },
     {
-      "id": "site_1774899822185_579k2",
+      "id": "site_1774899816647_vdav5",
       "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
       "domain": "anatomy.app",
       "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=anatomy.app&sz=64",
       "snippet": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
-      "checkedAt": "2026-03-30T19:43:43.130Z"
+      "checkedAt": "2026-03-30T19:43:37.589Z"
     }
   ],
   "citations": [
@@ -668,33 +701,33 @@
     },
     {
       "id": 11,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC"
+    },
+    {
+      "id": 12,
       "url": "https://essaywriter.org/anatomy-research-paper-topics",
       "domain": "essaywriter.org",
       "title": "70 Anatomy Research Paper Topics [2026 Updated] - EssayWriter"
     },
     {
-      "id": 12,
-      "url": "https://dental.ufl.edu/profile/nonabur-venkatesh/",
-      "domain": "dental.ufl.edu",
-      "title": "Venkatesh Nonabur &raquo; College of Dentistry &raquo; University of Florida"
-    },
-    {
       "id": 13,
-      "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
-      "domain": "learn.lboro.ac.uk",
-      "title": "All modules | Learn"
+      "url": "https://medicine.iu.edu/faculty-labs/wu",
+      "domain": "medicine.iu.edu",
+      "title": "Wu Lab | Research | IU School of Medicine"
     },
     {
       "id": 14,
-      "url": "https://learn.lboro.ac.uk/search/index.php",
-      "domain": "learn.lboro.ac.uk",
-      "title": "Global search | Learn"
+      "url": "https://physiology.med.ufl.edu/profile/makki-nadja/",
+      "domain": "physiology.med.ufl.edu",
+      "title": "Nadja Makki &raquo; Department of Physiology and Aging &raquo; College of Medicine &raquo; University of Florida"
     },
     {
       "id": 15,
-      "url": "https://www.zhihu.com/en/answer/1916294508",
-      "domain": "zhihu.com",
-      "title": "安全验证 - 知乎"
+      "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
+      "domain": "learn.lboro.ac.uk",
+      "title": "All modules | Learn"
     },
     {
       "id": 16,
@@ -716,15 +749,15 @@
     },
     {
       "id": 19,
-      "url": "https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course",
+      "url": "https://learn.lboro.ac.uk/search/index.php",
       "domain": "learn.lboro.ac.uk",
-      "title": "Search | Learn"
+      "title": "Global search | Learn"
     },
     {
       "id": 20,
-      "url": "https://learn.lboro.ac.uk/user/profile.php",
-      "domain": "learn.lboro.ac.uk",
-      "title": "learn.lboro.ac.uk"
+      "url": "https://www.zhihu.com/en/answer/1916294508",
+      "domain": "zhihu.com",
+      "title": "安全验证 - 知乎"
     },
     {
       "id": 21,
@@ -734,27 +767,27 @@
     },
     {
       "id": 22,
+      "url": "https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Search | Learn"
+    },
+    {
+      "id": 23,
+      "url": "https://learn.lboro.ac.uk/user/profile.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "learn.lboro.ac.uk"
+    },
+    {
+      "id": 24,
       "url": "https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769",
       "domain": "learn.lboro.ac.uk",
       "title": "Log in to the site | Learn"
     },
     {
-      "id": 23,
+      "id": 25,
       "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
       "domain": "go.microsoft.com",
       "title": "Microsoft Privacy Statement – Microsoft privacy"
-    },
-    {
-      "id": 24,
-      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Services Agreement"
-    },
-    {
-      "id": 25,
-      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
-      "domain": "s.yimg.com",
-      "title": "s.yimg.com"
     },
     {
       "id": 26,
@@ -770,19 +803,19 @@
     },
     {
       "id": 28,
-      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
-      "domain": "s.yimg.com",
-      "title": "s.yimg.com"
+      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Services Agreement"
     },
     {
       "id": 29,
-      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com"
     },
     {
       "id": 30,
-      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com"
     },
@@ -794,125 +827,185 @@
     },
     {
       "id": 32,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 33,
+      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 34,
       "url": "https://code.jquery.com/jquery-3.7.0.min.js",
       "domain": "code.jquery.com",
       "title": "code.jquery.com"
     },
     {
-      "id": 33,
+      "id": 35,
+      "url": "https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID}",
+      "domain": "help.askmediagroup.com",
+      "title": "Ask Media Group"
+    },
+    {
+      "id": 36,
       "url": "https://link.springer.com/article/10.1186/s12909-019-1590-2",
       "domain": "link.springer.com",
       "title": "Teaching anatomy using an active and engaging learning strategy | BMC Medical Education | Springer Nature Link"
     },
     {
-      "id": 34,
+      "id": 37,
       "url": "https://pubmed.ncbi.nlm.nih.gov/33068329/",
       "domain": "pubmed.ncbi.nlm.nih.gov",
       "title": "Spending Wisely: The Role of Cost and Value Research in the Pursuit of Advancing Anatomical Sciences Education"
     },
     {
-      "id": 35,
+      "id": 38,
       "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-5-development-of-the-heart",
       "domain": "openstax.org",
       "title": "19.5 Development of the Heart - Anatomy and Physiology 2e | OpenStax"
     },
     {
-      "id": 36,
+      "id": 39,
       "url": "https://www.kenhub.com/en/library/anatomy/embryology-of-the-heart",
       "domain": "kenhub.com",
       "title": "Heart embryology and congenital heart problems | Kenhub"
     },
     {
-      "id": 37,
+      "id": 40,
       "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-learn-anatomy-with-mnemonics",
       "domain": "kenhub.com",
       "title": "How to learn anatomy with mnemonics: Tips and examples | Kenhub"
     },
     {
-      "id": 38,
+      "id": 41,
       "url": "https://anatomytool.org/content/best-open-anatomy-learning-resources",
       "domain": "anatomytool.org",
       "title": "Best Open Anatomy Learning Resources | AnatomyTOOL"
     },
     {
-      "id": 39,
+      "id": 42,
       "url": "https://www.openanatomy.org/",
       "domain": "openanatomy.org",
       "title": "The Open Anatomy Project | The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and ope"
     },
     {
-      "id": 40,
+      "id": 43,
       "url": "https://discourse.slicer.org/t/open-source-human-anatomy-atlas/17734",
       "domain": "discourse.slicer.org",
       "title": "Open source Human Anatomy Atlas - OpenAnatomy - 3D Slicer Community"
     },
     {
-      "id": 41,
+      "id": 44,
       "url": "https://laneguides.stanford.edu/medical-education/anatomy",
       "domain": "laneguides.stanford.edu",
       "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr"
     },
     {
-      "id": 42,
+      "id": 45,
       "url": "https://ico.libguides.com/anatomy/free-resources",
       "domain": "ico.libguides.com",
       "title": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry"
     },
     {
-      "id": 43,
+      "id": 46,
       "url": "https://www.labster.com/blog/5-creative-ways-teach-anatomy-physiology",
       "domain": "labster.com",
       "title": "5 Creative Ways to Teach Anatomy and Physiology"
+    },
+    {
+      "id": 47,
+      "url": "https://www.nature.com/articles/s42256-025-01035-5",
+      "domain": "nature.com",
+      "title": "A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics | Nature Machine Intelligence"
+    },
+    {
+      "id": 48,
+      "url": "https://medictests.com/units/cardiovascular-anatomy-basics",
+      "domain": "medictests.com",
+      "title": "Cardiovascular Anatomy Basics for EMS Students"
+    },
+    {
+      "id": 49,
+      "url": "https://leveluprn.com/blogs/medical-surgical-nursing/cardiovascular-1-introduction-anatomy-physiology-review?srsltid=AfmBOoqy92nb7En0PJojy01npqiun9qu9v1jBNxtnDiTUaWkvHTPtY8x",
+      "domain": "leveluprn.com",
+      "title": "Cardiovascular System Anatomy & Physiology Review - For Nurses"
     }
   ],
   "notes": [
     {
-      "citationId": 43,
+      "citationId": 49,
+      "summary": "A&P review of cardiovascular system, including components/functions, pericardium, heart wall layers, chambers of the heart, heart valves, & blood flow through the heart."
+    },
+    {
+      "citationId": 48,
+      "summary": "Learn core cardiovascular concepts, including the cardiac cycle and pulse types, vital for EMS students like EMTs and paramedics."
+    },
+    {
+      "citationId": 47,
+      "summary": "Understanding the structure and motion of the heart is crucial for diagnosing and managing cardiovascular diseases, the leading cause of global death. There is wide variation in cardiac shape and motion patterns, influen"
+    },
+    {
+      "citationId": 46,
       "summary": "5 Creative Ways to Teach Anatomy and Physiology Contact Us Get Support Community Login Content Catalog Simulations All Simulations Browse hundreds of immersive science lab simulations. 3D Chemistry Models Learn key chemistry concepts with interactive 3D models. Browse by Courses Discover recommended simulations that align directly with your course’s curriculum. Learning Concepts Explore curated sets of interactive simulations designed to reinforc"
     },
     {
-      "citationId": 42,
+      "citationId": 45,
       "summary": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may"
     },
     {
-      "citationId": 41,
+      "citationId": 44,
       "summary": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru"
     },
     {
-      "citationId": 40,
+      "citationId": 43,
       "summary": "Hello everybody, You may like to see the first steps towards what should become a full open source 3D human anatomy atlas; you can now download the .blend files (Blender offers great options to organize and visualize th&"
     },
     {
-      "citationId": 39,
+      "citationId": 42,
       "summary": "The Open Anatomy Project is developing a system for distributing free, open, high-quality anatomy atlases and open-source software throughout the world."
     },
     {
-      "citationId": 38,
+      "citationId": 41,
       "summary": "Best Open Anatomy Learning Resources | AnatomyTOOL Region System Collections Embryology Microscopy Dissections Radiology Clinical Anatomy Documents Images Videos 3D models, games Lessons. quizzes Viewers Create & edit content Take quiz Create account / Forgot password About Project Open Anatomy Learning Materials (TOOL2) Manuals Anatomy Learning Resources Credits Medical disclaimer Legal information Donate Sponsor Contact Open 3D Model Archive Re"
     },
     {
-      "citationId": 37,
+      "citationId": 40,
       "summary": "How to learn anatomy with mnemonics: Tips and examples | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;fo"
     },
     {
-      "citationId": 36,
+      "citationId": 39,
       "summary": "Heart embryology and congenital heart problems | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style"
     },
     {
-      "citationId": 35,
+      "citationId": 38,
       "summary": "The human heart is the first functional organ to develop. It begins beating and pumping blood around day 21 or 22, a mere three weeks after fertilizatio..."
     },
     {
-      "citationId": 34,
+      "citationId": 37,
       "summary": "Studies of \"cost and value\" in anatomical sciences education examine not only what works, but at what cost, thus evaluating the inputs and outputs of education. This research provides insights into how to use available r"
     },
     {
-      "citationId": 33,
+      "citationId": 36,
       "summary": "Various evidence-based and student-centered strategies such as team-based learning (TBL), case-based learning (CBL), and flipped classroom have been recent"
     },
     {
-      "citationId": 32,
+      "citationId": 35,
+      "summary": "Ask Media Group Categories Frequently Asked Questions Contact Us Promoted articles How do I stop receiving push notifications in Microsoft Edge browser? How do I stop receiving push notifications in Google Chrome? Ask Media Group About - Privacy - Terms - Cookie Policy - Careers - Help - Feedback - &copy;2022 Ask Media Group, LLC."
+    },
+    {
+      "citationId": 34,
       "summary": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r"
+    },
+    {
+      "citationId": 33,
+      "summary": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh"
+    },
+    {
+      "citationId": 32,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
     },
     {
       "citationId": 31,
@@ -920,15 +1013,15 @@
     },
     {
       "citationId": 30,
-      "summary": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh"
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW"
     },
     {
       "citationId": 29,
-      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+"
     },
     {
       "citationId": 28,
-      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW"
+      "summary": "Microsoft Services Agreement This is the Trace Id: 60d846f09ca2bb09977051b998bf9fd3 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
     },
     {
       "citationId": 27,
@@ -940,19 +1033,19 @@
     },
     {
       "citationId": 25,
-      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+"
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 850179aebe1627f08070d510c3411fcb Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
     },
     {
       "citationId": 24,
-      "summary": "Microsoft Services Agreement This is the Trace Id: 4dfb7a1fab2a370dcd8c93b901cba423 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
+      "summary": "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy"
     },
     {
       "citationId": 23,
-      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: b141f4bea9b61b3a50819b7c2f6deae1 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
+      "summary": "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can"
     },
     {
       "citationId": 22,
-      "summary": "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy"
+      "summary": "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module"
     },
     {
       "citationId": 21,
@@ -960,11 +1053,11 @@
     },
     {
       "citationId": 20,
-      "summary": "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can"
+      "summary": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。"
     },
     {
       "citationId": 19,
-      "summary": "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module"
+      "summary": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My"
     },
     {
       "citationId": 18,
@@ -980,23 +1073,23 @@
     },
     {
       "citationId": 15,
-      "summary": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。"
-    },
-    {
-      "citationId": 14,
-      "summary": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My"
-    },
-    {
-      "citationId": 13,
       "summary": "All modules | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My M"
     },
     {
-      "citationId": 12,
+      "citationId": 14,
       "summary": "undefined"
     },
     {
-      "citationId": 11,
+      "citationId": 13,
+      "summary": "Wu Lab | Research | IU School of Medicine Skip to main content Indiana University School of Medicine Indiana University School of Medicine Menu Expertise Toggle Sub-navigation --> Alzheimer&#39;s Disease --> --> Alzheimer&#39;s Disease --> Indiana Health --> --> Indiana Health --> Precision Health Initiative --> --> Precision Health Initiative --> Musculoskeletal Health --> --> Musculoskeletal Health --> Traumatic Brain Injury --> --> Traumatic B"
+    },
+    {
+      "citationId": 12,
       "summary": "FREE Anatomy research paper topics. Find inspiration and motivation to prepare your own 1 st -class anatomy paper. Need extra help? We have writers!"
+    },
+    {
+      "citationId": 11,
+      "summary": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how"
     },
     {
       "citationId": 10,
@@ -1041,164 +1134,188 @@
   ],
   "events": [
     {
-      "id": "ev_1774899967862_3pgxh",
-      "at": "2026-03-30T19:46:07.862Z",
+      "id": "ev_1774899991897_7vjct",
+      "at": "2026-03-30T19:46:31.897Z",
       "phase": "analyzing",
-      "message": "Analyzed 0 sources this iteration. Total: 43."
+      "message": "Analyzed 1 sources this iteration. Total: 49."
     },
     {
-      "id": "ev_1774899957469_kok0n",
-      "at": "2026-03-30T19:45:57.469Z",
+      "id": "ev_1774899980919_znuvr",
+      "at": "2026-03-30T19:46:20.919Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart review"
+    },
+    {
+      "id": "ev_1774899980919_exhlz",
+      "at": "2026-03-30T19:46:20.919Z",
+      "phase": "analyzing",
+      "message": "Analyzed 2 sources this iteration. Total: 48."
+    },
+    {
+      "id": "ev_1774899969434_io0yk",
+      "at": "2026-03-30T19:46:09.434Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart metrics"
+    },
+    {
+      "id": "ev_1774899969434_pc8y7",
+      "at": "2026-03-30T19:46:09.434Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 46."
+    },
+    {
+      "id": "ev_1774899958829_9fcws",
+      "at": "2026-03-30T19:45:58.829Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart \"case study\""
     },
     {
-      "id": "ev_1774899957469_kgztn",
-      "at": "2026-03-30T19:45:57.469Z",
+      "id": "ev_1774899958829_0aly7",
+      "at": "2026-03-30T19:45:58.829Z",
       "phase": "analyzing",
-      "message": "Analyzed 1 sources this iteration. Total: 43."
+      "message": "Analyzed 1 sources this iteration. Total: 46."
     },
     {
-      "id": "ev_1774899946765_qerpc",
-      "at": "2026-03-30T19:45:46.765Z",
+      "id": "ev_1774899948362_bdic6",
+      "at": "2026-03-30T19:45:48.362Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart enterprise usage"
     },
     {
-      "id": "ev_1774899946765_sxf4o",
-      "at": "2026-03-30T19:45:46.765Z",
+      "id": "ev_1774899948083_zahgl",
+      "at": "2026-03-30T19:45:48.083Z",
       "phase": "analyzing",
-      "message": "Analyzed 5 sources this iteration. Total: 42."
+      "message": "Analyzed 5 sources this iteration. Total: 45."
     },
     {
-      "id": "ev_1774899933710_8giho",
-      "at": "2026-03-30T19:45:33.710Z",
+      "id": "ev_1774899936429_5yx4u",
+      "at": "2026-03-30T19:45:36.429Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart open source tools"
     },
     {
-      "id": "ev_1774899933710_4oize",
-      "at": "2026-03-30T19:45:33.710Z",
+      "id": "ev_1774899936429_0hmcq",
+      "at": "2026-03-30T19:45:36.429Z",
       "phase": "analyzing",
-      "message": "Analyzed 3 sources this iteration. Total: 37."
+      "message": "Analyzed 3 sources this iteration. Total: 40."
     },
     {
-      "id": "ev_1774899922877_9zf51",
-      "at": "2026-03-30T19:45:22.877Z",
+      "id": "ev_1774899925591_ynkcm",
+      "at": "2026-03-30T19:45:25.591Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart timeline and adoption"
     },
     {
-      "id": "ev_1774899922700_37emq",
-      "at": "2026-03-30T19:45:22.701Z",
+      "id": "ev_1774899925591_zqf9o",
+      "at": "2026-03-30T19:45:25.591Z",
       "phase": "analyzing",
-      "message": "Analyzed 1 sources this iteration. Total: 34."
+      "message": "Analyzed 1 sources this iteration. Total: 37."
     },
     {
-      "id": "ev_1774899911707_6nx6y",
-      "at": "2026-03-30T19:45:11.707Z",
+      "id": "ev_1774899915111_dqkh4",
+      "at": "2026-03-30T19:45:15.111Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart economics and costs"
     },
     {
-      "id": "ev_1774899911707_dqnbe",
-      "at": "2026-03-30T19:45:11.707Z",
+      "id": "ev_1774899915111_sz4gx",
+      "at": "2026-03-30T19:45:15.111Z",
       "phase": "analyzing",
-      "message": "Analyzed 1 sources this iteration. Total: 33."
+      "message": "Analyzed 1 sources this iteration. Total: 36."
     },
     {
-      "id": "ev_1774899900727_iqoay",
-      "at": "2026-03-30T19:45:00.727Z",
+      "id": "ev_1774899904079_n6tpi",
+      "at": "2026-03-30T19:45:04.079Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart expert interview"
     },
     {
-      "id": "ev_1774899900727_4jple",
-      "at": "2026-03-30T19:45:00.727Z",
+      "id": "ev_1774899903897_vyq9a",
+      "at": "2026-03-30T19:45:03.897Z",
       "phase": "analyzing",
-      "message": "Analyzed 2 sources this iteration. Total: 32."
+      "message": "Analyzed 5 sources this iteration. Total: 35."
     },
     {
-      "id": "ev_1774899889222_jufes",
-      "at": "2026-03-30T19:44:49.222Z",
+      "id": "ev_1774899892591_maks3",
+      "at": "2026-03-30T19:44:52.591Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart case study"
     },
     {
-      "id": "ev_1774899889222_9kdz3",
-      "at": "2026-03-30T19:44:49.222Z",
+      "id": "ev_1774899892591_nczk2",
+      "at": "2026-03-30T19:44:52.591Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 30."
     },
     {
-      "id": "ev_1774899877785_9sb72",
-      "at": "2026-03-30T19:44:37.785Z",
+      "id": "ev_1774899880960_kpe67",
+      "at": "2026-03-30T19:44:40.960Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart limitations and risks"
     },
     {
-      "id": "ev_1774899877785_zvw9w",
-      "at": "2026-03-30T19:44:37.785Z",
+      "id": "ev_1774899880960_tay0v",
+      "at": "2026-03-30T19:44:40.960Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 25."
     },
     {
-      "id": "ev_1774899864488_krtte",
-      "at": "2026-03-30T19:44:24.488Z",
+      "id": "ev_1774899866084_7zjqm",
+      "at": "2026-03-30T19:44:26.084Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart benchmark comparison"
     },
     {
-      "id": "ev_1774899864488_fxedu",
-      "at": "2026-03-30T19:44:24.488Z",
+      "id": "ev_1774899866083_988iu",
+      "at": "2026-03-30T19:44:26.083Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 20."
     },
     {
-      "id": "ev_1774899852014_ootif",
-      "at": "2026-03-30T19:44:12.014Z",
+      "id": "ev_1774899853909_l4uyy",
+      "at": "2026-03-30T19:44:13.909Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart industry analysis 2025 2026"
     },
     {
-      "id": "ev_1774899851882_cjto2",
-      "at": "2026-03-30T19:44:11.882Z",
+      "id": "ev_1774899853909_lvwuw",
+      "at": "2026-03-30T19:44:13.909Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1774899836539_zz7bj",
-      "at": "2026-03-30T19:43:56.539Z",
+      "id": "ev_1774899836516_hit9k",
+      "at": "2026-03-30T19:43:56.516Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart latest research paper"
     },
     {
-      "id": "ev_1774899836539_zpb3z",
-      "at": "2026-03-30T19:43:56.539Z",
+      "id": "ev_1774899836516_n17mv",
+      "at": "2026-03-30T19:43:56.516Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1774899823808_6cp8e",
-      "at": "2026-03-30T19:43:43.808Z",
+      "id": "ev_1774899823788_6bp6c",
+      "at": "2026-03-30T19:43:43.788Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart official documentation"
     },
     {
-      "id": "ev_1774899823808_gytd7",
-      "at": "2026-03-30T19:43:43.808Z",
+      "id": "ev_1774899818554_sbqvn",
+      "at": "2026-03-30T19:43:38.554Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1774899811844_a3qr1",
-      "at": "2026-03-30T19:43:31.844Z",
+      "id": "ev_1774899805929_5zar3",
+      "at": "2026-03-30T19:43:25.929Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart"
     },
     {
-      "id": "ev_1774899811844_spqd1",
-      "at": "2026-03-30T19:43:31.844Z",
+      "id": "ev_1774899805929_ae8wu",
+      "at": "2026-03-30T19:43:25.929Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -1216,6 +1333,9 @@
     }
   ],
   "learnedSoFar": [
+    "A&P review of cardiovascular system, including components/functions, pericardium, heart wall layers, chambers of the heart, heart valves, & blood flow through the heart.",
+    "Learn core cardiovascular concepts, including the cardiac cycle and pulse types, vital for EMS students like EMTs and paramedics.",
+    "Understanding the structure and motion of the heart is crucial for diagnosing and managing cardiovascular diseases, the leading cause of global death. There is wide variation in cardiac shape and motion patterns, influen",
     "5 Creative Ways to Teach Anatomy and Physiology Contact Us Get Support Community Login Content Catalog Simulations All Simulations Browse hundreds of immersive science lab simulations. 3D Chemistry Models Learn key chemistry concepts with interactive 3D models. Browse by Courses Discover recommended simulations that align directly with your course’s curriculum. Learning Concepts Explore curated sets of interactive simulations designed to reinforc",
     "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may",
     "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru",
@@ -1227,21 +1347,18 @@
     "The human heart is the first functional organ to develop. It begins beating and pumping blood around day 21 or 22, a mere three weeks after fertilizatio...",
     "Studies of \"cost and value\" in anatomical sciences education examine not only what works, but at what cost, thus evaluating the inputs and outputs of education. This research provides insights into how to use available r",
     "Various evidence-based and student-centered strategies such as team-based learning (TBL), case-based learning (CBL), and flipped classroom have been recent",
+    "Ask Media Group Categories Frequently Asked Questions Contact Us Promoted articles How do I stop receiving push notifications in Microsoft Edge browser? How do I stop receiving push notifications in Google Chrome? Ask Media Group About - Privacy - Terms - Cookie Policy - Careers - Help - Feedback - &copy;2022 Ask Media Group, LLC.",
     "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
-    "A mastery of human anatomy and physiology requires a familiarity with a vast number of details about the human body. A directed method of case analysis is described that helps students deepen and solidify their understan",
     ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
-    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
-    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-    "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
-    "Background: Medical education continues to face challenges relative to teaching complex human cardiac anatomy to a broad range of learners, especially in the subject of congenital heart defects. Traditional educational m"
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
   ],
   "stats": {
-    "sourcesAnalyzed": 43,
-    "tokensUsedEstimate": 3989,
-    "depthScore": 31,
+    "sourcesAnalyzed": 49,
+    "tokensUsedEstimate": 4481,
+    "depthScore": 36,
     "queriesGenerated": 24,
-    "iterations": 13,
-    "uniqueDomains": 26
+    "iterations": 15,
+    "uniqueDomains": 32
   },
   "control": {
     "paused": false,
