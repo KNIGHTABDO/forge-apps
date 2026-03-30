@@ -3,17 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how to learn anatomy by heart",
   "createdAt": "2026-03-30T19:31:31.668Z",
-  "updatedAt": "2026-03-30T19:33:43.533Z",
-  "lastAdvancedAt": "2026-03-30T19:33:32.272Z",
+  "updatedAt": "2026-03-30T19:34:19.928Z",
+  "lastAdvancedAt": "2026-03-30T19:34:08.459Z",
   "phase": "analyzing",
-  "progress": 20,
-  "etaMinutes": 32,
+  "progress": 24,
+  "etaMinutes": 30,
   "planDraft": "1. Define Scope and Learning Frameworks: Establish the cognitive parameters of anatomical mastery, distinguishing between memorization (rote learning), conceptual understanding (functional anatomy), and spatial visualization. Identify established pedagogical models such as Bloom’s Taxonomy applied to medical education, and categorize anatomical study into hierarchical levels: gross, microscopic, developmental, and clinical/topographical anatomy.\n\n2. Execute Broad Search and Resource Mapping: Conduct a multi-channel search to aggregate high-efficacy learning methodologies. Query academic databases (PubMed, ERIC) and professional medical education forums for evidence-based techniques, including active recall, spaced repetition, the Method of Loci (memory palaces), and multi-modal visualization (3D atlases vs. cadaveric dissection). Identify top-tier resources such as Gray’s Anatomy, Netter’s, and institutional medical curricula guidelines.\n\n3. Comparative Analysis of Techniques: Evaluate the gathered methodologies based on their efficiency, long-term retention rates, and applicability to different anatomical domains. Contrast the efficacy of traditional drawing and labeling with modern digital integration tools (VR/AR simulation) and mnemonics. Assess which techniques best bridge the gap between abstract textbook terminology and clinical spatial reasoning.\n\n4. Identify Evidence Gaps and Practical Limitations: Critically examine where existing literature fails to address individual learning styles or the \"plateau effect\" in anatomical memorization. Investigate the limitations of rote memorization in the context of high-stakes clinical diagnostic accuracy. Determine if there is a consensus on the optimal sequence of study—whether one should prioritize systemic over regional anatomy for superior mental mapping.\n\n5. Synthesize a Structured Implementation Strategy: Consolidate findings into a coherent, step-by-step roadmap for a learner. Structure this synthesis as a progressive curriculum: beginning with foundational terminology, transitioning to regional spatial modeling using multi-modal tools, implementing a spaced-repetition schedule for retention, and culminating in clinical application exercises. Provide a final summary of recommended resources and psychological strategies to sustain focus and mastery.",
   "planApproved": true,
   "pendingQueries": [
-    "how to learn anatomy by heart timeline and adoption",
-    "how to learn anatomy by heart open source tools",
-    "how to learn anatomy by heart enterprise usage",
     "how to learn anatomy by heart \"case study\"",
     "how to learn anatomy by heart metrics",
     "how to learn anatomy by heart review",
@@ -36,530 +33,674 @@
     "how to learn anatomy by heart limitations and risks",
     "how to learn anatomy by heart case study",
     "how to learn anatomy by heart expert interview",
-    "how to learn anatomy by heart economics and costs"
+    "how to learn anatomy by heart economics and costs",
+    "how to learn anatomy by heart timeline and adoption",
+    "how to learn anatomy by heart open source tools",
+    "how to learn anatomy by heart enterprise usage"
   ],
   "websites": [
     {
-      "id": "site_1774899223440_6emqs",
-      "url": "https://en.wikipedia.org/wiki/Cattle",
+      "id": "site_1774899259674_2w3qh",
+      "url": "https://en.wikipedia.org/wiki/Houston",
       "domain": "en.wikipedia.org",
-      "title": "Cattle - Wikipedia",
+      "title": "Houston - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Cattle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Characteristics Toggle Characteristics subsection 2",
-      "checkedAt": "2026-03-30T19:33:43.533Z"
+      "snippet": "Houston - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early settlement to the ",
+      "checkedAt": "2026-03-30T19:34:19.928Z"
     },
     {
-      "id": "site_1774899223369_fj6w1",
+      "id": "site_1774899259506_49j89",
+      "url": "https://en.wikipedia.org/wiki/Internet",
+      "domain": "en.wikipedia.org",
+      "title": "Internet - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Internet - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 History Toggle History subsection 2.1 1960s 2.2",
+      "checkedAt": "2026-03-30T19:34:19.674Z"
+    },
+    {
+      "id": "site_1774899259396_wxoeb",
+      "url": "https://en.wikipedia.org/wiki/Generation_Z_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "title": "Generation Z in the United States - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Generation Z in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Nomenclature and date range 2 Arts a",
+      "checkedAt": "2026-03-30T19:34:19.506Z"
+    },
+    {
+      "id": "site_1774899259241_fdmep",
+      "url": "https://en.wikipedia.org/wiki/Lost_(TV_series)",
+      "domain": "en.wikipedia.org",
+      "title": "Lost (TV series) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Lost (TV series) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Series overview Toggle Series overview subsection 1.1",
+      "checkedAt": "2026-03-30T19:34:19.396Z"
+    },
+    {
+      "id": "site_1774899258948_cgkvt",
+      "url": "https://en.wikipedia.org/wiki/List_of_Star_Trek_aliens",
+      "domain": "en.wikipedia.org",
+      "title": "List of Star Trek aliens - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "List of Star Trek aliens - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of Star Trek aliens 20 languages Català Čeština Deutsch Esperanto Español Fran",
+      "checkedAt": "2026-03-30T19:34:19.241Z"
+    },
+    {
+      "id": "site_1774899248297_hnf42",
+      "url": "https://ico.libguides.com/anatomy/free-resources",
+      "domain": "ico.libguides.com",
+      "title": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ico.libguides.com&sz=64",
+      "snippet": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may",
+      "checkedAt": "2026-03-30T19:34:08.459Z"
+    },
+    {
+      "id": "site_1774899247892_ryh5j",
+      "url": "https://laneguides.stanford.edu/medical-education/anatomy",
+      "domain": "laneguides.stanford.edu",
+      "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=laneguides.stanford.edu&sz=64",
+      "snippet": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru",
+      "checkedAt": "2026-03-30T19:34:08.297Z"
+    },
+    {
+      "id": "site_1774899247740_8qoct",
+      "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-learn-anatomy-with-mnemonics",
+      "domain": "kenhub.com",
+      "title": "How to learn anatomy with mnemonics: Tips and examples | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "How to learn anatomy with mnemonics: Tips and examples | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;fo",
+      "checkedAt": "2026-03-30T19:34:07.892Z"
+    },
+    {
+      "id": "site_1774899247247_2494w",
+      "url": "https://anatomytool.org/content/best-open-anatomy-learning-resources",
+      "domain": "anatomytool.org",
+      "title": "Best Open Anatomy Learning Resources | AnatomyTOOL",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=anatomytool.org&sz=64",
+      "snippet": "Best Open Anatomy Learning Resources | AnatomyTOOL Region System Collections Embryology Microscopy Dissections Radiology Clinical Anatomy Documents Images Videos 3D models, games Lessons. quizzes Viewers Create & edit content Take quiz Create account / Forgot password About Project Open Anatomy Learning Materials (TOOL2) Manuals Anatomy Learning Resources Credits Medical disclaimer Legal information Donate Sponsor Contact Open 3D Model Archive Re",
+      "checkedAt": "2026-03-30T19:34:07.740Z"
+    },
+    {
+      "id": "site_1774899246844_1mavo",
+      "url": "https://discourse.slicer.org/t/open-source-human-anatomy-atlas/17734",
+      "domain": "discourse.slicer.org",
+      "title": "Open source Human Anatomy Atlas - OpenAnatomy - 3D Slicer Community",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=discourse.slicer.org&sz=64",
+      "snippet": "Hello everybody, You may like to see the first steps towards what should become a full open source 3D human anatomy atlas; you can now download the .blend files (Blender offers great options to organize and visualize th&",
+      "checkedAt": "2026-03-30T19:34:07.247Z"
+    },
+    {
+      "id": "site_1774899236462_yacui",
+      "url": "https://en.wikipedia.org/wiki/LGBTQ_people_in_prison",
+      "domain": "en.wikipedia.org",
+      "title": "LGBTQ people in prison - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "LGBTQ people in prison - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Rates of imprisonment Toggle Rates of imprisonm",
+      "checkedAt": "2026-03-30T19:33:56.535Z"
+    },
+    {
+      "id": "site_1774899236365_ixu3d",
+      "url": "https://en.wikipedia.org/wiki/Bisexuality",
+      "domain": "en.wikipedia.org",
+      "title": "Bisexuality - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Bisexuality - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definitions Toggle Definitions subsection 1.1 Sexual orien",
+      "checkedAt": "2026-03-30T19:33:56.462Z"
+    },
+    {
+      "id": "site_1774899235919_kzwkv",
+      "url": "https://en.wikipedia.org/wiki/Pregnancy",
+      "domain": "en.wikipedia.org",
+      "title": "Pregnancy - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Pregnancy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Demographics Toggle Demographics subsection 2.",
+      "checkedAt": "2026-03-30T19:33:56.365Z"
+    },
+    {
+      "id": "site_1774899234883_ppry7",
+      "url": "https://en.wikipedia.org/wiki/Maddie_Ziegler",
+      "domain": "en.wikipedia.org",
+      "title": "Maddie Ziegler - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Maddie Ziegler - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsect",
+      "checkedAt": "2026-03-30T19:33:55.919Z"
+    },
+    {
+      "id": "site_1774899234681_7nhum",
+      "url": "https://www.kenhub.com/en/library/anatomy/embryology-of-the-heart",
+      "domain": "kenhub.com",
+      "title": "Heart embryology and congenital heart problems | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "Heart embryology and congenital heart problems | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style",
+      "checkedAt": "2026-03-30T19:33:54.883Z"
+    },
+    {
+      "id": "site_1774899224141_e16ga",
       "url": "https://en.wikipedia.org/wiki/Corporate_law",
       "domain": "en.wikipedia.org",
       "title": "Corporate law - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Corporate law - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 History 2 Corpor",
-      "checkedAt": "2026-03-30T19:33:43.440Z"
+      "checkedAt": "2026-03-30T19:33:44.412Z"
     },
     {
-      "id": "site_1774899223113_k00k3",
+      "id": "site_1774899222817_05204",
+      "url": "https://en.wikipedia.org/wiki/Authoritarian_socialism",
+      "domain": "en.wikipedia.org",
+      "title": "Authoritarian socialism - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Authoritarian socialism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Political roots Toggle Political roots subsect",
+      "checkedAt": "2026-03-30T19:33:44.140Z"
+    },
+    {
+      "id": "site_1774899222665_268jz",
       "url": "https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners",
       "domain": "en.wikipedia.org",
       "title": "List of Ig Nobel Prize winners - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "List of Ig Nobel Prize winners - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 1991 Toggle 1991 subsection 1.1 Apocryp",
-      "checkedAt": "2026-03-30T19:33:43.369Z"
+      "checkedAt": "2026-03-30T19:33:42.817Z"
     },
     {
-      "id": "site_1774899222871_v2rx7",
+      "id": "site_1774899222434_35342",
       "url": "https://en.wikipedia.org/wiki/Occupational_licensing",
       "domain": "en.wikipedia.org",
       "title": "Occupational licensing - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Occupational licensing - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Types Toggle Types subsection 2.1 Lic",
-      "checkedAt": "2026-03-30T19:33:43.113Z"
+      "checkedAt": "2026-03-30T19:33:42.665Z"
     },
     {
-      "id": "site_1774899222871_l2tky",
-      "url": "https://www.acenet.edu/Documents/Anatomy-of-College-Tuition.pdf",
-      "domain": "acenet.edu",
-      "title": "acenet.edu",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=acenet.edu&sz=64",
-      "checkedAt": "2026-03-30T19:33:42.871Z"
-    },
-    {
-      "id": "site_1774899222444_ghmjh",
+      "id": "site_1774899221941_ux9jp",
       "url": "https://pubmed.ncbi.nlm.nih.gov/33068329/",
       "domain": "pubmed.ncbi.nlm.nih.gov",
       "title": "Spending Wisely: The Role of Cost and Value Research in the Pursuit of Advancing Anatomical Sciences Education",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pubmed.ncbi.nlm.nih.gov&sz=64",
       "snippet": "Studies of \"cost and value\" in anatomical sciences education examine not only what works, but at what cost, thus evaluating the inputs and outputs of education. This research provides insights into how to use available r",
-      "checkedAt": "2026-03-30T19:33:42.871Z"
+      "checkedAt": "2026-03-30T19:33:42.434Z"
     },
     {
-      "id": "site_1774899211233_0lezc",
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_17",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 17 - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Grey's Anatomy season 17 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-      "checkedAt": "2026-03-30T19:33:32.272Z"
-    },
-    {
-      "id": "site_1774899211055_wkuai",
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_6",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 6 - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Grey's Anatomy season 6 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and",
-      "checkedAt": "2026-03-30T19:33:31.232Z"
-    },
-    {
-      "id": "site_1774899210126_nowbg",
+      "id": "site_1774899211210_em29d",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_18",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 18 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy season 18 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-      "checkedAt": "2026-03-30T19:33:31.055Z"
+      "checkedAt": "2026-03-30T19:33:31.758Z"
     },
     {
-      "id": "site_1774899210032_pat23",
+      "id": "site_1774899211045_bsewb",
       "url": "https://en.wikipedia.org/wiki/Katherine_Heigl",
       "domain": "en.wikipedia.org",
       "title": "Katherine Heigl - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Katherine Heigl - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1992–",
-      "checkedAt": "2026-03-30T19:33:30.126Z"
+      "checkedAt": "2026-03-30T19:33:31.210Z"
     },
     {
-      "id": "site_1774899209739_kr0xx",
+      "id": "site_1774899210977_938se",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_2",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 2 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy season 2 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and",
-      "checkedAt": "2026-03-30T19:33:30.031Z"
+      "checkedAt": "2026-03-30T19:33:31.045Z"
     },
     {
-      "id": "site_1774899198065_kgxca",
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 10 - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-      "checkedAt": "2026-03-30T19:33:19.343Z"
-    },
-    {
-      "id": "site_1774899197935_gb8f7",
+      "id": "site_1774899210621_b2qzq",
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Grey's Anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Series synopsis 3 Cast, characters, and appearan",
-      "checkedAt": "2026-03-30T19:33:18.065Z"
+      "checkedAt": "2026-03-30T19:33:30.977Z"
     },
     {
-      "id": "site_1774899197864_jno3a",
+      "id": "site_1774899210240_nm7gk",
+      "url": "https://link.springer.com/article/10.1186/s12909-019-1590-2",
+      "domain": "link.springer.com",
+      "title": "Teaching anatomy using an active and engaging learning strategy | BMC Medical Education | Springer Nature Link",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=link.springer.com&sz=64",
+      "snippet": "Various evidence-based and student-centered strategies such as team-based learning (TBL), case-based learning (CBL), and flipped classroom have been recent",
+      "checkedAt": "2026-03-30T19:33:30.621Z"
+    },
+    {
+      "id": "site_1774899199636_nklmz",
       "url": "https://en.wikipedia.org/wiki/Rote_learning",
       "domain": "en.wikipedia.org",
       "title": "Rote learning - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Rote learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Versus critical thinking 2 In computer science 3 Learnin",
-      "checkedAt": "2026-03-30T19:33:17.935Z"
+      "checkedAt": "2026-03-30T19:33:19.705Z"
     },
     {
-      "id": "site_1774899197785_4u9yc",
+      "id": "site_1774899199517_wokz7",
       "url": "https://en.wikipedia.org/wiki/Cat_anatomy",
       "domain": "en.wikipedia.org",
       "title": "Cat anatomy - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Cat anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Mouth Toggle Mouth subsection 1.1 Permanent teeth 1.2 Deci",
-      "checkedAt": "2026-03-30T19:33:17.864Z"
+      "checkedAt": "2026-03-30T19:33:19.635Z"
     },
     {
-      "id": "site_1774899197540_0l36q",
+      "id": "site_1774899199406_l0eju",
       "url": "https://en.wikipedia.org/wiki/Gray's_Anatomy_for_Students",
       "domain": "en.wikipedia.org",
       "title": "Gray's Anatomy for Students - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Gray's Anatomy for Students - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History and development 2 Editions 3 Autho",
-      "checkedAt": "2026-03-30T19:33:17.785Z"
+      "checkedAt": "2026-03-30T19:33:19.517Z"
     },
     {
-      "id": "site_1774899197540_j6m2p",
-      "url": "https://ioer.ilsharedlearning.org/ContentDocs/0e72182c-8480-47fa-b39c-f25e6e9a33c9/285/14.5_-_Instructor_Guide_(Cardio).pdf",
-      "domain": "ioer.ilsharedlearning.org",
-      "title": "ioer.ilsharedlearning.org",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=ioer.ilsharedlearning.org&sz=64",
-      "checkedAt": "2026-03-30T19:33:17.540Z"
-    },
-    {
-      "id": "site_1774899186658_vfg02",
-      "url": "https://en.wikipedia.org/wiki/Echocardiography",
-      "domain": "en.wikipedia.org",
-      "title": "Echocardiography - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Echocardiography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Medical uses 2 Types Toggle Types subsection 2.1 Tran",
-      "checkedAt": "2026-03-30T19:33:07.335Z"
-    },
-    {
-      "id": "site_1774899186342_cvo9d",
-      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Services Agreement",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Services Agreement This is the Trace Id: 6a1ded9e90597caf771069ed40d687f2 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-      "checkedAt": "2026-03-30T19:33:06.657Z"
-    },
-    {
-      "id": "site_1774899186079_3xgmv",
-      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Privacy Statement – Microsoft privacy",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 57dfdde1e7c184254d1c6a55a0842ced Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-      "checkedAt": "2026-03-30T19:33:06.342Z"
-    },
-    {
-      "id": "site_1774899185905_ahz1u",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2214854X21000492",
-      "domain": "sciencedirect.com",
-      "title": "sciencedirect.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sciencedirect.com&sz=64",
-      "checkedAt": "2026-03-30T19:33:06.078Z"
-    },
-    {
-      "id": "site_1774899185849_tkqhc",
-      "url": "https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning",
-      "domain": "kenhub.com",
-      "title": "Common mistakes that hinder your anatomy learning | Kenhub",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
-      "snippet": "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
-      "checkedAt": "2026-03-30T19:33:05.904Z"
-    },
-    {
-      "id": "site_1774899185459_e47kn",
-      "url": "https://xr.jmir.org/2025/1/e74429",
-      "domain": "xr.jmir.org",
-      "title": "JMIR XR and Spatial Computing (JMXR) - Virtual Reality Application for Teaching Complex Congenital Heart Defect Anatomy: Design and Developm",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=xr.jmir.org&sz=64",
-      "snippet": "Background: Medical education continues to face challenges relative to teaching complex human cardiac anatomy to a broad range of learners, especially in the subject of congenital heart defects. Traditional educational m",
-      "checkedAt": "2026-03-30T19:33:05.849Z"
-    },
-    {
-      "id": "site_1774899174672_tm4pd",
-      "url": "https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769",
-      "domain": "learn.lboro.ac.uk",
-      "title": "Log in to the site | Learn",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
-      "snippet": "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy",
-      "checkedAt": "2026-03-30T19:32:54.954Z"
-    },
-    {
-      "id": "site_1774899174440_x9s4l",
-      "url": "https://learn.lboro.ac.uk/user/profile.php",
-      "domain": "learn.lboro.ac.uk",
-      "title": "learn.lboro.ac.uk",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
-      "snippet": "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can",
-      "checkedAt": "2026-03-30T19:32:54.672Z"
-    },
-    {
-      "id": "site_1774899174144_kbgts",
-      "url": "https://www.zhihu.com/question/334068950",
-      "domain": "zhihu.com",
-      "title": "zhihu.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-03-30T19:32:54.440Z"
-    },
-    {
-      "id": "site_1774899173797_jucr6",
-      "url": "https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course",
-      "domain": "learn.lboro.ac.uk",
-      "title": "Search | Learn",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
-      "snippet": "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module",
-      "checkedAt": "2026-03-30T19:32:54.144Z"
-    },
-    {
-      "id": "site_1774899172649_cja7j",
-      "url": "https://www.zhihu.com/en/answer/1916294508",
-      "domain": "zhihu.com",
-      "title": "安全验证 - 知乎",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
-      "checkedAt": "2026-03-30T19:32:53.797Z"
-    },
-    {
-      "id": "site_1774899171893_1cor4",
-      "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
-      "domain": "instituteofhumananatomy.com",
-      "title": "How to Study Anatomy: 5 Proven Memory Techniques",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=instituteofhumananatomy.com&sz=64",
-      "snippet": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
-      "checkedAt": "2026-03-30T19:32:52.649Z"
-    },
-    {
-      "id": "site_1774899171862_eobdr",
-      "url": "https://journals.lww.com/njca/fulltext/2025/07000/evaluating_anatomy_teaching_learning_methods_.8.aspx",
-      "domain": "journals.lww.com",
-      "title": "journals.lww.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=journals.lww.com&sz=64",
-      "checkedAt": "2026-03-30T19:32:51.893Z"
-    },
-    {
-      "id": "site_1774899160700_l50va",
-      "url": "https://learn.lboro.ac.uk/search/index.php",
-      "domain": "learn.lboro.ac.uk",
-      "title": "Global search | Learn",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
-      "snippet": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My",
-      "checkedAt": "2026-03-30T19:32:41.093Z"
-    },
-    {
-      "id": "site_1774899160199_ce7cd",
-      "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
-      "domain": "learn.lboro.ac.uk",
-      "title": "All modules | Learn",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
-      "snippet": "All modules | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My M",
-      "checkedAt": "2026-03-30T19:32:40.700Z"
-    },
-    {
-      "id": "site_1774899160137_3poof",
+      "id": "site_1774899199171_qslfo",
       "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
       "domain": "medicine.stmatthews.edu",
       "title": "How to Study Anatomy in Medical School: A Complete Guide",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medicine.stmatthews.edu&sz=64",
       "snippet": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
-      "checkedAt": "2026-03-30T19:32:40.199Z"
+      "checkedAt": "2026-03-30T19:33:19.406Z"
     },
     {
-      "id": "site_1774899160106_nkk95",
+      "id": "site_1774899196030_wk6tv",
+      "url": "https://oercollective.caul.edu.au/anatomical-variation/chapter/cardiovascular-case-studies/",
+      "domain": "oercollective.caul.edu.au",
+      "title": "Cardiovascular Case Studies &#8211; Anatomical Variation: An Australian and New Zealand Context",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=oercollective.caul.edu.au&sz=64",
+      "snippet": "Cardiovascular Case Studies &#8211; Anatomical Variation: An Australian and New Zealand Context \" Skip to content Menu Primary Navigation Home Read Sign in Search in book: Search Want to create or adapt books like this? Learn more about how Pressbooks supports open publishing practices. Book Contents Navigation Contents Introduction About the authors Instructions for academics Acknowledgement of Traditional Owners Acknowledgements Accessibility I",
+      "checkedAt": "2026-03-30T19:33:19.171Z"
+    },
+    {
+      "id": "site_1774899196030_cd2wj",
+      "url": "https://www.monroecc.edu/ArchAnnou.nsf/4348e1fdc948aa3085256b8a005a8e8b/DE4902518BF76D478525898D00673B61/$file/The%20Use%20of%20an%20Electronic%20Cardiovascular%20Model,%20Case-Studies,%20and%20Transparency%20in%20Learning%20and%20Teaching%20Technique%20in%20Undergraduate%20Anatomy%20and%20Physiology.pdf",
+      "domain": "monroecc.edu",
+      "title": "monroecc.edu",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=monroecc.edu&sz=64",
+      "checkedAt": "2026-03-30T19:33:16.030Z"
+    },
+    {
+      "id": "site_1774899196030_vrttc",
+      "url": "https://ioer.ilsharedlearning.org/ContentDocs/0e72182c-8480-47fa-b39c-f25e6e9a33c9/285/14.5_-_Instructor_Guide_(Cardio).pdf",
+      "domain": "ioer.ilsharedlearning.org",
+      "title": "ioer.ilsharedlearning.org",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ioer.ilsharedlearning.org&sz=64",
+      "checkedAt": "2026-03-30T19:33:16.030Z"
+    },
+    {
+      "id": "site_1774899184976_a6sk2",
+      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Services Agreement",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Services Agreement This is the Trace Id: 29a747145708264260da109b203d1e12 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+      "checkedAt": "2026-03-30T19:33:05.491Z"
+    },
+    {
+      "id": "site_1774899184632_qku62",
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Privacy Statement – Microsoft privacy",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e0ed4434810c57e0ecbb4ef219ef16d8 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-03-30T19:33:04.976Z"
+    },
+    {
+      "id": "site_1774899184292_sb8f9",
+      "url": "https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Log in to the site | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy",
+      "checkedAt": "2026-03-30T19:33:04.632Z"
+    },
+    {
+      "id": "site_1774899184011_nilmd",
+      "url": "https://my.clevelandclinic.org/health/body/21704-heart",
+      "domain": "my.clevelandclinic.org",
+      "title": "Heart: Anatomy & Function",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=my.clevelandclinic.org&sz=64",
+      "snippet": "Your heart is the main organ of your cardiovascular system, a network of blood vessels that pumps blood throughout your body.",
+      "checkedAt": "2026-03-30T19:33:04.292Z"
+    },
+    {
+      "id": "site_1774899184011_gttnm",
+      "url": "https://anatomage.com/wp-content/uploads/2023/03/White-Paper-Conceptualize-Difficult-AP-Topics-with-3D-Technology.pdf",
+      "domain": "anatomage.com",
+      "title": "anatomage.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=anatomage.com&sz=64",
+      "checkedAt": "2026-03-30T19:33:04.011Z"
+    },
+    {
+      "id": "site_1774899183959_qcf3f",
+      "url": "https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning",
+      "domain": "kenhub.com",
+      "title": "Common mistakes that hinder your anatomy learning | Kenhub",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
+      "snippet": "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
+      "checkedAt": "2026-03-30T19:33:04.011Z"
+    },
+    {
+      "id": "site_1774899173223_aevvp",
+      "url": "https://learn.lboro.ac.uk/user/profile.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "learn.lboro.ac.uk",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can",
+      "checkedAt": "2026-03-30T19:32:53.567Z"
+    },
+    {
+      "id": "site_1774899172908_9a3dq",
+      "url": "https://www.zhihu.com/question/334068950",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T19:32:53.223Z"
+    },
+    {
+      "id": "site_1774899172538_uemt0",
+      "url": "https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Search | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module",
+      "checkedAt": "2026-03-30T19:32:52.908Z"
+    },
+    {
+      "id": "site_1774899171921_1djpi",
+      "url": "https://www.zhihu.com/en/answer/1916294508",
+      "domain": "zhihu.com",
+      "title": "安全验证 - 知乎",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
+      "checkedAt": "2026-03-30T19:32:52.538Z"
+    },
+    {
+      "id": "site_1774899171505_yloj0",
+      "url": "https://learn.lboro.ac.uk/search/index.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Global search | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My",
+      "checkedAt": "2026-03-30T19:32:51.921Z"
+    },
+    {
+      "id": "site_1774899168442_q0pvx",
+      "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
+      "domain": "instituteofhumananatomy.com",
+      "title": "How to Study Anatomy: 5 Proven Memory Techniques",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=instituteofhumananatomy.com&sz=64",
+      "snippet": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
+      "checkedAt": "2026-03-30T19:32:51.505Z"
+    },
+    {
+      "id": "site_1774899168334_ytrc2",
+      "url": "https://journals.lww.com/njca/fulltext/2025/07000/evaluating_anatomy_teaching_learning_methods_.8.aspx",
+      "domain": "journals.lww.com",
+      "title": "journals.lww.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=journals.lww.com&sz=64",
+      "checkedAt": "2026-03-30T19:32:48.442Z"
+    },
+    {
+      "id": "site_1774899157493_2b0cb",
+      "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
+      "domain": "learn.lboro.ac.uk",
+      "title": "All modules | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "All modules | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My M",
+      "checkedAt": "2026-03-30T19:32:38.173Z"
+    },
+    {
+      "id": "site_1774899157461_oen4h",
       "url": "https://www.classcentral.com/report/best-human-anatomy-courses/",
       "domain": "classcentral.com",
       "title": "classcentral.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=classcentral.com&sz=64",
-      "checkedAt": "2026-03-30T19:32:40.137Z"
+      "checkedAt": "2026-03-30T19:32:37.493Z"
     },
     {
-      "id": "site_1774899159309_xdmn3",
+      "id": "site_1774899157026_rim0j",
+      "url": "https://www.srcmeetings.com/anatomyadvances-2026-bridging-clinical-and-surgical-anatomy-for-medical-progress-home-anatomyadvances.php",
+      "domain": "srcmeetings.com",
+      "title": "Home | Anatomy and Clinical Anatomy � Insights & Resources | AnatomyAdvances 2026: Bridging Clinical and Surgical Anatomy for Medical Progre",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=srcmeetings.com&sz=64",
+      "snippet": "Home | Anatomy and Clinical Anatomy � Insights & Resources | AnatomyAdvances 2026: Bridging Clinical and Surgical Anatomy for Medical Progress Home Sessions submit Abstact Registration Speakers OCM Venue More About Us Tentative Program Exhibition and Sponsorship Privacy Policy Contact Us Buy Ticket --> 25-26 May 2026 Birmingham, UK AnatomyAdvances 2026: Bridging Clinical and Surgical Anatomy for Medical Progress Theme: Connecting Clinical Practic",
+      "checkedAt": "2026-03-30T19:32:37.461Z"
+    },
+    {
+      "id": "site_1774899156944_bdovu",
       "url": "https://voka.io/best-anatomy-apps/",
       "domain": "voka.io",
       "title": "10+ Best anatomy apps in 2026 - Voka",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
       "snippet": "Discover 2026&#039;s top-rated anatomy apps. Our review compares 10 leading apps by features, pricing, and learning styles to help you choose the best tool for your needs.",
-      "checkedAt": "2026-03-30T19:32:40.106Z"
+      "checkedAt": "2026-03-30T19:32:37.026Z"
     },
     {
-      "id": "site_1774899159258_hjkgl",
-      "url": "https://vervecollege.edu/trends-in-teaching-anatomy-and-physiology/",
-      "domain": "vervecollege.edu",
-      "title": "vervecollege.edu",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=vervecollege.edu&sz=64",
-      "checkedAt": "2026-03-30T19:32:39.309Z"
-    },
-    {
-      "id": "site_1774899158714_y6s10",
-      "url": "https://www.coursera.org/courses?query=anatomy",
-      "domain": "coursera.org",
-      "title": "Best Anatomy Courses & Certificates [2026] | Coursera",
+      "id": "site_1774899156535_ujndy",
+      "url": "https://medvisionsim.com/blog/best-anatomy-app-for-medical-students",
+      "domain": "medvisionsim.com",
+      "title": "Best Anatomy App for Medical Students in 2026",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=coursera.org&sz=64",
-      "snippet": "Anatomy courses can help you learn human body systems, muscle and bone structures, and organ functions. Compare course options to find what fits your goals. Enroll for free.",
-      "checkedAt": "2026-03-30T19:32:39.258Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=medvisionsim.com&sz=64",
+      "snippet": "Best Anatomy App for Medical Students in 2026 Simulators Adult patient simulators Leonardo Adult Patient Simulator Lisa Adult Patient Simulator MATT Auscultation Task Trainer Others simulators SVision Anatomy 3D Anatomy Table SonoVision Ultrasound Diagnostic Simulator S Vision Dental Dental Simulation System for Preclinical Training Pediatric patient simulators Arthur Pediatric Patient Simulator Mia Infant Patient Simulator Pediatric MATT Pediatr",
+      "checkedAt": "2026-03-30T19:32:36.944Z"
     },
     {
-      "id": "site_1774899147562_xzvgl",
+      "id": "site_1774899155189_5ypru",
+      "url": "https://voka.io/best-anatomy-physiology-pathology-resources/",
+      "domain": "voka.io",
+      "title": "Best Anatomy, Physiology & Pathology Resources (2026 Guide)",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
+      "snippet": "Master human anatomy, physiology, and pathology. Discover the best learning resources (free and paid) for medical students&#039; success in 2026.",
+      "checkedAt": "2026-03-30T19:32:36.535Z"
+    },
+    {
+      "id": "site_1774899143954_cjm4g",
+      "url": "https://www.tiktok.com/@medschoolbro/video/7594054381964758279",
+      "domain": "tiktok.com",
+      "title": "TikTok - Make Your Day",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=64",
+      "snippet": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133760699237896\",\"webIdCreatedTime\":\"1774899145\",\"odinId\":\"7623133626586104839\",\"nonce\":\"HKHNAJ6ERAgtt_lieKQ_l\",\"botType\":\"others\",\"requestId\":\"63660107774899145728\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720541,75204947,75294819,75331215,75381397,75383832,75583892,75615157,75616570,75",
+      "checkedAt": "2026-03-30T19:32:24.667Z"
+    },
+    {
+      "id": "site_1774899143141_1n9je",
       "url": "https://www.tiktok.com/@drfoxqda/video/7548453549676498198",
       "domain": "tiktok.com",
       "title": "TikTok - Make Your Day",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=64",
-      "snippet": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133779360679445\",\"webIdCreatedTime\":\"1774899149\",\"odinId\":\"7623133604022158343\",\"nonce\":\"dZloZQ1dF-AppBgg73K1r\",\"botType\":\"others\",\"requestId\":\"62719958774899149361\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720540,75204946,75294820,75331216,75381398,75383830,75583892,75589609,75615158,75",
-      "checkedAt": "2026-03-30T19:32:28.174Z"
+      "snippet": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133756560197138\",\"webIdCreatedTime\":\"1774899145\",\"odinId\":\"7623133612351587335\",\"nonce\":\"z2W_M8Q7tXLdDVS7sosY_\",\"botType\":\"others\",\"requestId\":\"65941577774899144991\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720541,75204946,75294819,75331215,75381397,75383831,75583893,75589609,75615158,75",
+      "checkedAt": "2026-03-30T19:32:23.954Z"
     },
     {
-      "id": "site_1774899146942_ll4xr",
-      "url": "https://www.instagram.com/p/DVRQysSETd_/",
-      "domain": "instagram.com",
-      "title": "instagram.com",
+      "id": "site_1774899142942_0g7j7",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1964553/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Anatomy in a Modern Medical Curriculum - PMC",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=instagram.com&sz=64",
-      "snippet": "82 likes, 11 comments - bespokemedicalacademy on February 27, 2026: \"&#064;confidencebylamija&#x2019;s session, Topographic Translation &#x2014; an overview of anatomy with patient case studies and clinical application, ",
-      "checkedAt": "2026-03-30T19:32:27.562Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Anatomy in undergraduate education has been in decline for many years. Some suggest that it has fallen below a safe level. Balances between detail and safety, and assimilation and application of anatomy have yet to be es",
+      "checkedAt": "2026-03-30T19:32:23.141Z"
     },
     {
-      "id": "site_1774899146529_rfhwv",
-      "url": "https://www.facebook.com/carrolltoncityschools/posts/mr-tim-hawig-and-mrs-shannon-brights-chs-anatomy-classes-visited-the-university-/1385682883577181/",
-      "domain": "facebook.com",
-      "title": "Mr. Tim Hawig and Mrs. Shannon... - Carrollton City Schools",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=facebook.com&sz=64",
-      "snippet": "Mr. Tim Hawig and Mrs. Shannon Bright&#039;s CHS anatomy classes visited the University of West Georgia&#039;s Biological and Forensic Anthropology lab, where...",
-      "checkedAt": "2026-03-30T19:32:26.942Z"
-    },
-    {
-      "id": "site_1774899146323_mge7r",
+      "id": "site_1774899142635_kgknh",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
       "domain": "pmc.ncbi.nlm.nih.gov",
       "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
       "snippet": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how",
-      "checkedAt": "2026-03-30T19:32:26.529Z"
+      "checkedAt": "2026-03-30T19:32:22.942Z"
     },
     {
-      "id": "site_1774899145556_k141p",
-      "url": "https://www.linkedin.com/posts/sarah-boyle-b83a23275_anatomy-medicaleducation-brachialplexus-activity-7424483648164442112-JR3J",
-      "domain": "linkedin.com",
-      "title": "Understanding Brachial Plexus Anatomy with Mnemonics | Sarah Boyle posted on the topic | LinkedIn",
+      "id": "site_1774899141024_olwyw",
+      "url": "https://www.redalyc.org/journal/1631/163168638009/html/",
+      "domain": "redalyc.org",
+      "title": "Teaching and learning anatomy. Pedagogical methods, history, the present and tendencies",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
-      "snippet": "🧠 Brachial Plexus: From “Scary Topic” to “I Get It!” I used to hear medical students talk about the brachial plexus as if it were one of the most difficult anatomy topics out there. Honestly, that reputation alone made ",
-      "checkedAt": "2026-03-30T19:32:26.323Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=redalyc.org&sz=64",
+      "snippet": "Human anatomy is a basic science which allows healthcare professionals (in training and graduated) to acquire a detailed and global understanding of what it ...",
+      "checkedAt": "2026-03-30T19:32:22.635Z"
     },
     {
-      "id": "site_1774899134715_zefoi",
+      "id": "site_1774899130404_s9dhu",
       "url": "https://learn.lboro.ac.uk/course/index.php",
       "domain": "learn.lboro.ac.uk",
       "title": "Module categories | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Module categories | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Lear",
-      "checkedAt": "2026-03-30T19:32:15.048Z"
+      "checkedAt": "2026-03-30T19:32:10.783Z"
     },
     {
-      "id": "site_1774899134386_ovdra",
+      "id": "site_1774899130116_0w092",
       "url": "https://learn.lboro.ac.uk/mod/forum/discuss.php?d=494667",
       "domain": "learn.lboro.ac.uk",
       "title": "Learn: Learn Rollover completed | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Learn: Learn Rollover completed | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search inp",
-      "checkedAt": "2026-03-30T19:32:14.715Z"
+      "checkedAt": "2026-03-30T19:32:10.404Z"
     },
     {
-      "id": "site_1774899133897_g8oq7",
+      "id": "site_1774899129415_69ihy",
       "url": "https://learn.lboro.ac.uk/",
       "domain": "learn.lboro.ac.uk",
       "title": "Learn | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Loughborough University Virtual Learning Environment.",
-      "checkedAt": "2026-03-30T19:32:14.386Z"
+      "checkedAt": "2026-03-30T19:32:10.116Z"
     },
     {
-      "id": "site_1774899133383_qbkk2",
+      "id": "site_1774899128362_0i9xm",
       "url": "https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/",
       "domain": "texasheart.org",
       "title": "Heart Anatomy | The Texas Heart Institute®",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=texasheart.org&sz=64",
       "snippet": "Heart Anatomy: Your heart is located between your lungs in the middle of your chest, behind and slightly to the left of your breastbone.",
-      "checkedAt": "2026-03-30T19:32:13.897Z"
+      "checkedAt": "2026-03-30T19:32:09.415Z"
     },
     {
-      "id": "site_1774899133383_ht09p",
+      "id": "site_1774899128362_orte4",
       "url": "https://gsbs.uth.edu/files/outreach/Anatomy%20of%20the%20Heart.pdf",
       "domain": "gsbs.uth.edu",
       "title": "gsbs.uth.edu",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=gsbs.uth.edu&sz=64",
-      "checkedAt": "2026-03-30T19:32:13.383Z"
+      "checkedAt": "2026-03-30T19:32:08.362Z"
     },
     {
-      "id": "site_1774899132892_ikpfe",
+      "id": "site_1774899127329_0dlxl",
       "url": "https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy/",
       "domain": "courses.lumenlearning.com",
       "title": "Heart Anatomy | Anatomy and Physiology II",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=courses.lumenlearning.com&sz=64",
       "snippet": "Heart Anatomy | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 3: The Cardiovascular System: The Heart Search for: Heart Anatomy Learning Objectives By the end of this section, you will be able to: Describe the location and position of the heart within the body cavity Describe the internal and external anatomy of the heart Identify the tissue layers of the heart Relate the structure of the heart to its function as",
-      "checkedAt": "2026-03-30T19:32:13.383Z"
+      "checkedAt": "2026-03-30T19:32:08.362Z"
     },
     {
-      "id": "site_1774899122249_m7vdo",
+      "id": "site_1774899115115_hjgkw",
       "url": "https://voka.io/how-to-memorize-anatomy-and-physiology/",
       "domain": "voka.io",
       "title": "Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
       "snippet": "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
-      "checkedAt": "2026-03-30T19:32:02.413Z"
+      "checkedAt": "2026-03-30T19:31:55.861Z"
     },
     {
-      "id": "site_1774899122197_fea3g",
+      "id": "site_1774899115020_ff9lq",
       "url": "https://www.kenhub.com/en/library/learning-strategies/4-steps-to-memorize-anatomical-terms",
       "domain": "kenhub.com",
       "title": "Anatomical terms: How to memorize them in 4 steps | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "Anatomical terms: How to memorize them in 4 steps | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
-      "checkedAt": "2026-03-30T19:32:02.249Z"
+      "checkedAt": "2026-03-30T19:31:55.115Z"
     },
     {
-      "id": "site_1774899122112_lzun3",
+      "id": "site_1774899114071_frslc",
       "url": "https://www.magneticmemorymethod.com/how-to-memorize-anatomy/",
       "domain": "magneticmemorymethod.com",
       "title": "How to Memorize Anatomy for Med School (Without Flashcards)",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=magneticmemorymethod.com&sz=64",
       "snippet": "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
-      "checkedAt": "2026-03-30T19:32:02.197Z"
+      "checkedAt": "2026-03-30T19:31:55.020Z"
     },
     {
-      "id": "site_1774899122061_p9mzb",
+      "id": "site_1774899113855_r48zd",
       "url": "https://www.kenhub.com/en/library/anatomy/heart",
       "domain": "kenhub.com",
       "title": "Heart anatomy: Structure, valves, coronary vessels | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "Heart anatomy: Structure, valves, coronary vessels | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-s",
-      "checkedAt": "2026-03-30T19:32:02.112Z"
+      "checkedAt": "2026-03-30T19:31:54.071Z"
     },
     {
-      "id": "site_1774899121251_86u1i",
+      "id": "site_1774899112669_gk182",
       "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
       "domain": "anatomy.app",
       "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=anatomy.app&sz=64",
       "snippet": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
-      "checkedAt": "2026-03-30T19:32:02.061Z"
+      "checkedAt": "2026-03-30T19:31:53.855Z"
     }
   ],
   "citations": [
@@ -625,9 +766,9 @@
     },
     {
       "id": 11,
-      "url": "https://www.linkedin.com/posts/sarah-boyle-b83a23275_anatomy-medicaleducation-brachialplexus-activity-7424483648164442112-JR3J",
-      "domain": "linkedin.com",
-      "title": "Understanding Brachial Plexus Anatomy with Mnemonics | Sarah Boyle posted on the topic | LinkedIn"
+      "url": "https://www.redalyc.org/journal/1631/163168638009/html/",
+      "domain": "redalyc.org",
+      "title": "Teaching and learning anatomy. Pedagogical methods, history, the present and tendencies"
     },
     {
       "id": 12,
@@ -637,51 +778,51 @@
     },
     {
       "id": 13,
-      "url": "https://www.facebook.com/carrolltoncityschools/posts/mr-tim-hawig-and-mrs-shannon-brights-chs-anatomy-classes-visited-the-university-/1385682883577181/",
-      "domain": "facebook.com",
-      "title": "Mr. Tim Hawig and Mrs. Shannon... - Carrollton City Schools"
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1964553/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Anatomy in a Modern Medical Curriculum - PMC"
     },
     {
       "id": 14,
-      "url": "https://www.instagram.com/p/DVRQysSETd_/",
-      "domain": "instagram.com",
-      "title": "instagram.com"
-    },
-    {
-      "id": 15,
       "url": "https://www.tiktok.com/@drfoxqda/video/7548453549676498198",
       "domain": "tiktok.com",
       "title": "TikTok - Make Your Day"
     },
     {
+      "id": 15,
+      "url": "https://www.tiktok.com/@medschoolbro/video/7594054381964758279",
+      "domain": "tiktok.com",
+      "title": "TikTok - Make Your Day"
+    },
+    {
       "id": 16,
-      "url": "https://www.coursera.org/courses?query=anatomy",
-      "domain": "coursera.org",
-      "title": "Best Anatomy Courses & Certificates [2026] | Coursera"
+      "url": "https://voka.io/best-anatomy-physiology-pathology-resources/",
+      "domain": "voka.io",
+      "title": "Best Anatomy, Physiology & Pathology Resources (2026 Guide)"
     },
     {
       "id": 17,
+      "url": "https://medvisionsim.com/blog/best-anatomy-app-for-medical-students",
+      "domain": "medvisionsim.com",
+      "title": "Best Anatomy App for Medical Students in 2026"
+    },
+    {
+      "id": 18,
       "url": "https://voka.io/best-anatomy-apps/",
       "domain": "voka.io",
       "title": "10+ Best anatomy apps in 2026 - Voka"
     },
     {
-      "id": 18,
-      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
-      "domain": "medicine.stmatthews.edu",
-      "title": "How to Study Anatomy in Medical School: A Complete Guide"
-    },
-    {
       "id": 19,
-      "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
-      "domain": "learn.lboro.ac.uk",
-      "title": "All modules | Learn"
+      "url": "https://www.srcmeetings.com/anatomyadvances-2026-bridging-clinical-and-surgical-anatomy-for-medical-progress-home-anatomyadvances.php",
+      "domain": "srcmeetings.com",
+      "title": "Home | Anatomy and Clinical Anatomy � Insights & Resources | AnatomyAdvances 2026: Bridging Clinical and Surgical Anatomy for Medical Progre"
     },
     {
       "id": 20,
-      "url": "https://learn.lboro.ac.uk/search/index.php",
+      "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
       "domain": "learn.lboro.ac.uk",
-      "title": "Global search | Learn"
+      "title": "All modules | Learn"
     },
     {
       "id": 21,
@@ -691,117 +832,117 @@
     },
     {
       "id": 22,
+      "url": "https://learn.lboro.ac.uk/search/index.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Global search | Learn"
+    },
+    {
+      "id": 23,
       "url": "https://www.zhihu.com/en/answer/1916294508",
       "domain": "zhihu.com",
       "title": "安全验证 - 知乎"
     },
     {
-      "id": 23,
+      "id": 24,
       "url": "https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course",
       "domain": "learn.lboro.ac.uk",
       "title": "Search | Learn"
     },
     {
-      "id": 24,
+      "id": 25,
       "url": "https://learn.lboro.ac.uk/user/profile.php",
       "domain": "learn.lboro.ac.uk",
       "title": "learn.lboro.ac.uk"
     },
     {
-      "id": 25,
-      "url": "https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769",
-      "domain": "learn.lboro.ac.uk",
-      "title": "Log in to the site | Learn"
-    },
-    {
       "id": 26,
-      "url": "https://xr.jmir.org/2025/1/e74429",
-      "domain": "xr.jmir.org",
-      "title": "JMIR XR and Spatial Computing (JMXR) - Virtual Reality Application for Teaching Complex Congenital Heart Defect Anatomy: Design and Developm"
-    },
-    {
-      "id": 27,
       "url": "https://www.kenhub.com/en/library/learning-strategies/common-mistakes-that-hinder-your-anatomy-learning",
       "domain": "kenhub.com",
       "title": "Common mistakes that hinder your anatomy learning | Kenhub"
     },
     {
+      "id": 27,
+      "url": "https://my.clevelandclinic.org/health/body/21704-heart",
+      "domain": "my.clevelandclinic.org",
+      "title": "Heart: Anatomy & Function"
+    },
+    {
       "id": 28,
+      "url": "https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Log in to the site | Learn"
+    },
+    {
+      "id": 29,
       "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
       "domain": "go.microsoft.com",
       "title": "Microsoft Privacy Statement – Microsoft privacy"
     },
     {
-      "id": 29,
+      "id": 30,
       "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
       "domain": "go.microsoft.com",
       "title": "Microsoft Services Agreement"
     },
     {
-      "id": 30,
-      "url": "https://en.wikipedia.org/wiki/Echocardiography",
-      "domain": "en.wikipedia.org",
-      "title": "Echocardiography - Wikipedia"
+      "id": 31,
+      "url": "https://oercollective.caul.edu.au/anatomical-variation/chapter/cardiovascular-case-studies/",
+      "domain": "oercollective.caul.edu.au",
+      "title": "Cardiovascular Case Studies &#8211; Anatomical Variation: An Australian and New Zealand Context"
     },
     {
-      "id": 31,
+      "id": 32,
+      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
+      "domain": "medicine.stmatthews.edu",
+      "title": "How to Study Anatomy in Medical School: A Complete Guide"
+    },
+    {
+      "id": 33,
       "url": "https://en.wikipedia.org/wiki/Gray's_Anatomy_for_Students",
       "domain": "en.wikipedia.org",
       "title": "Gray's Anatomy for Students - Wikipedia"
     },
     {
-      "id": 32,
+      "id": 34,
       "url": "https://en.wikipedia.org/wiki/Cat_anatomy",
       "domain": "en.wikipedia.org",
       "title": "Cat anatomy - Wikipedia"
     },
     {
-      "id": 33,
+      "id": 35,
       "url": "https://en.wikipedia.org/wiki/Rote_learning",
       "domain": "en.wikipedia.org",
       "title": "Rote learning - Wikipedia"
     },
     {
-      "id": 34,
+      "id": 36,
+      "url": "https://link.springer.com/article/10.1186/s12909-019-1590-2",
+      "domain": "link.springer.com",
+      "title": "Teaching anatomy using an active and engaging learning strategy | BMC Medical Education | Springer Nature Link"
+    },
+    {
+      "id": 37,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy - Wikipedia"
     },
     {
-      "id": 35,
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_10",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 10 - Wikipedia"
-    },
-    {
-      "id": 36,
+      "id": 38,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_2",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 2 - Wikipedia"
     },
     {
-      "id": 37,
+      "id": 39,
       "url": "https://en.wikipedia.org/wiki/Katherine_Heigl",
       "domain": "en.wikipedia.org",
       "title": "Katherine Heigl - Wikipedia"
     },
     {
-      "id": 38,
+      "id": 40,
       "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_18",
       "domain": "en.wikipedia.org",
       "title": "Grey's Anatomy season 18 - Wikipedia"
-    },
-    {
-      "id": 39,
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_6",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 6 - Wikipedia"
-    },
-    {
-      "id": 40,
-      "url": "https://en.wikipedia.org/wiki/Grey's_Anatomy_season_17",
-      "domain": "en.wikipedia.org",
-      "title": "Grey's Anatomy season 17 - Wikipedia"
     },
     {
       "id": 41,
@@ -823,25 +964,175 @@
     },
     {
       "id": 44,
+      "url": "https://en.wikipedia.org/wiki/Authoritarian_socialism",
+      "domain": "en.wikipedia.org",
+      "title": "Authoritarian socialism - Wikipedia"
+    },
+    {
+      "id": 45,
       "url": "https://en.wikipedia.org/wiki/Corporate_law",
       "domain": "en.wikipedia.org",
       "title": "Corporate law - Wikipedia"
     },
     {
-      "id": 45,
-      "url": "https://en.wikipedia.org/wiki/Cattle",
+      "id": 46,
+      "url": "https://www.kenhub.com/en/library/anatomy/embryology-of-the-heart",
+      "domain": "kenhub.com",
+      "title": "Heart embryology and congenital heart problems | Kenhub"
+    },
+    {
+      "id": 47,
+      "url": "https://en.wikipedia.org/wiki/Maddie_Ziegler",
       "domain": "en.wikipedia.org",
-      "title": "Cattle - Wikipedia"
+      "title": "Maddie Ziegler - Wikipedia"
+    },
+    {
+      "id": 48,
+      "url": "https://en.wikipedia.org/wiki/Pregnancy",
+      "domain": "en.wikipedia.org",
+      "title": "Pregnancy - Wikipedia"
+    },
+    {
+      "id": 49,
+      "url": "https://en.wikipedia.org/wiki/Bisexuality",
+      "domain": "en.wikipedia.org",
+      "title": "Bisexuality - Wikipedia"
+    },
+    {
+      "id": 50,
+      "url": "https://en.wikipedia.org/wiki/LGBTQ_people_in_prison",
+      "domain": "en.wikipedia.org",
+      "title": "LGBTQ people in prison - Wikipedia"
+    },
+    {
+      "id": 51,
+      "url": "https://discourse.slicer.org/t/open-source-human-anatomy-atlas/17734",
+      "domain": "discourse.slicer.org",
+      "title": "Open source Human Anatomy Atlas - OpenAnatomy - 3D Slicer Community"
+    },
+    {
+      "id": 52,
+      "url": "https://anatomytool.org/content/best-open-anatomy-learning-resources",
+      "domain": "anatomytool.org",
+      "title": "Best Open Anatomy Learning Resources | AnatomyTOOL"
+    },
+    {
+      "id": 53,
+      "url": "https://www.kenhub.com/en/library/learning-strategies/how-to-learn-anatomy-with-mnemonics",
+      "domain": "kenhub.com",
+      "title": "How to learn anatomy with mnemonics: Tips and examples | Kenhub"
+    },
+    {
+      "id": 54,
+      "url": "https://laneguides.stanford.edu/medical-education/anatomy",
+      "domain": "laneguides.stanford.edu",
+      "title": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Libr"
+    },
+    {
+      "id": 55,
+      "url": "https://ico.libguides.com/anatomy/free-resources",
+      "domain": "ico.libguides.com",
+      "title": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry"
+    },
+    {
+      "id": 56,
+      "url": "https://en.wikipedia.org/wiki/List_of_Star_Trek_aliens",
+      "domain": "en.wikipedia.org",
+      "title": "List of Star Trek aliens - Wikipedia"
+    },
+    {
+      "id": 57,
+      "url": "https://en.wikipedia.org/wiki/Lost_(TV_series)",
+      "domain": "en.wikipedia.org",
+      "title": "Lost (TV series) - Wikipedia"
+    },
+    {
+      "id": 58,
+      "url": "https://en.wikipedia.org/wiki/Generation_Z_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "title": "Generation Z in the United States - Wikipedia"
+    },
+    {
+      "id": 59,
+      "url": "https://en.wikipedia.org/wiki/Internet",
+      "domain": "en.wikipedia.org",
+      "title": "Internet - Wikipedia"
+    },
+    {
+      "id": 60,
+      "url": "https://en.wikipedia.org/wiki/Houston",
+      "domain": "en.wikipedia.org",
+      "title": "Houston - Wikipedia"
     }
   ],
   "notes": [
     {
+      "citationId": 60,
+      "summary": "Houston - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early settlement to the "
+    },
+    {
+      "citationId": 59,
+      "summary": "Internet - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 History Toggle History subsection 2.1 1960s 2.2"
+    },
+    {
+      "citationId": 58,
+      "summary": "Generation Z in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Nomenclature and date range 2 Arts a"
+    },
+    {
+      "citationId": 57,
+      "summary": "Lost (TV series) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Series overview Toggle Series overview subsection 1.1"
+    },
+    {
+      "citationId": 56,
+      "summary": "List of Star Trek aliens - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of Star Trek aliens 20 languages Català Čeština Deutsch Esperanto Español Fran"
+    },
+    {
+      "citationId": 55,
+      "summary": "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may"
+    },
+    {
+      "citationId": 54,
+      "summary": "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru"
+    },
+    {
+      "citationId": 53,
+      "summary": "How to learn anatomy with mnemonics: Tips and examples | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;fo"
+    },
+    {
+      "citationId": 52,
+      "summary": "Best Open Anatomy Learning Resources | AnatomyTOOL Region System Collections Embryology Microscopy Dissections Radiology Clinical Anatomy Documents Images Videos 3D models, games Lessons. quizzes Viewers Create & edit content Take quiz Create account / Forgot password About Project Open Anatomy Learning Materials (TOOL2) Manuals Anatomy Learning Resources Credits Medical disclaimer Legal information Donate Sponsor Contact Open 3D Model Archive Re"
+    },
+    {
+      "citationId": 51,
+      "summary": "Hello everybody, You may like to see the first steps towards what should become a full open source 3D human anatomy atlas; you can now download the .blend files (Blender offers great options to organize and visualize th&"
+    },
+    {
+      "citationId": 50,
+      "summary": "LGBTQ people in prison - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Rates of imprisonment Toggle Rates of imprisonm"
+    },
+    {
+      "citationId": 49,
+      "summary": "Bisexuality - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definitions Toggle Definitions subsection 1.1 Sexual orien"
+    },
+    {
+      "citationId": 48,
+      "summary": "Pregnancy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Demographics Toggle Demographics subsection 2."
+    },
+    {
+      "citationId": 47,
+      "summary": "Maddie Ziegler - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsect"
+    },
+    {
+      "citationId": 46,
+      "summary": "Heart embryology and congenital heart problems | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style"
+    },
+    {
       "citationId": 45,
-      "summary": "Cattle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Characteristics Toggle Characteristics subsection 2"
+      "summary": "Corporate law - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 History 2 Corpor"
     },
     {
       "citationId": 44,
-      "summary": "Corporate law - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 History 2 Corpor"
+      "summary": "Authoritarian socialism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Political roots Toggle Political roots subsect"
     },
     {
       "citationId": 43,
@@ -857,79 +1148,79 @@
     },
     {
       "citationId": 40,
-      "summary": "Grey's Anatomy season 17 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
-    },
-    {
-      "citationId": 39,
-      "summary": "Grey's Anatomy season 6 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
-    },
-    {
-      "citationId": 38,
       "summary": "Grey's Anatomy season 18 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
     },
     {
-      "citationId": 37,
+      "citationId": 39,
       "summary": "Katherine Heigl - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1992–"
     },
     {
-      "citationId": 36,
+      "citationId": 38,
       "summary": "Grey's Anatomy season 2 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and"
     },
     {
-      "citationId": 35,
-      "summary": "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an"
-    },
-    {
-      "citationId": 34,
+      "citationId": 37,
       "summary": "Grey's Anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Series synopsis 3 Cast, characters, and appearan"
     },
     {
-      "citationId": 33,
+      "citationId": 36,
+      "summary": "Various evidence-based and student-centered strategies such as team-based learning (TBL), case-based learning (CBL), and flipped classroom have been recent"
+    },
+    {
+      "citationId": 35,
       "summary": "Rote learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Versus critical thinking 2 In computer science 3 Learnin"
     },
     {
-      "citationId": 32,
+      "citationId": 34,
       "summary": "Cat anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Mouth Toggle Mouth subsection 1.1 Permanent teeth 1.2 Deci"
     },
     {
-      "citationId": 31,
+      "citationId": 33,
       "summary": "Gray's Anatomy for Students - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History and development 2 Editions 3 Autho"
     },
     {
+      "citationId": 32,
+      "summary": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology."
+    },
+    {
+      "citationId": 31,
+      "summary": "Cardiovascular Case Studies &#8211; Anatomical Variation: An Australian and New Zealand Context \" Skip to content Menu Primary Navigation Home Read Sign in Search in book: Search Want to create or adapt books like this? Learn more about how Pressbooks supports open publishing practices. Book Contents Navigation Contents Introduction About the authors Instructions for academics Acknowledgement of Traditional Owners Acknowledgements Accessibility I"
+    },
+    {
       "citationId": 30,
-      "summary": "Echocardiography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Medical uses 2 Types Toggle Types subsection 2.1 Tran"
+      "summary": "Microsoft Services Agreement This is the Trace Id: 29a747145708264260da109b203d1e12 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
     },
     {
       "citationId": 29,
-      "summary": "Microsoft Services Agreement This is the Trace Id: 6a1ded9e90597caf771069ed40d687f2 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e0ed4434810c57e0ecbb4ef219ef16d8 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
     },
     {
       "citationId": 28,
-      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 57dfdde1e7c184254d1c6a55a0842ced Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
-    },
-    {
-      "citationId": 27,
-      "summary": "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st"
-    },
-    {
-      "citationId": 26,
-      "summary": "Background: Medical education continues to face challenges relative to teaching complex human cardiac anatomy to a broad range of learners, especially in the subject of congenital heart defects. Traditional educational m"
-    },
-    {
-      "citationId": 25,
       "summary": "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy"
     },
     {
-      "citationId": 24,
+      "citationId": 27,
+      "summary": "Your heart is the main organ of your cardiovascular system, a network of blood vessels that pumps blood throughout your body."
+    },
+    {
+      "citationId": 26,
+      "summary": "Common mistakes that hinder your anatomy learning | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st"
+    },
+    {
+      "citationId": 25,
       "summary": "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can"
     },
     {
-      "citationId": 23,
+      "citationId": 24,
       "summary": "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module"
     },
     {
-      "citationId": 22,
+      "citationId": 23,
       "summary": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。"
+    },
+    {
+      "citationId": 22,
+      "summary": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My"
     },
     {
       "citationId": 21,
@@ -937,35 +1228,35 @@
     },
     {
       "citationId": 20,
-      "summary": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My"
-    },
-    {
-      "citationId": 19,
       "summary": "All modules | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My M"
     },
     {
-      "citationId": 18,
-      "summary": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology."
+      "citationId": 19,
+      "summary": "Home | Anatomy and Clinical Anatomy � Insights & Resources | AnatomyAdvances 2026: Bridging Clinical and Surgical Anatomy for Medical Progress Home Sessions submit Abstact Registration Speakers OCM Venue More About Us Tentative Program Exhibition and Sponsorship Privacy Policy Contact Us Buy Ticket --> 25-26 May 2026 Birmingham, UK AnatomyAdvances 2026: Bridging Clinical and Surgical Anatomy for Medical Progress Theme: Connecting Clinical Practic"
     },
     {
-      "citationId": 17,
+      "citationId": 18,
       "summary": "Discover 2026&#039;s top-rated anatomy apps. Our review compares 10 leading apps by features, pricing, and learning styles to help you choose the best tool for your needs."
     },
     {
+      "citationId": 17,
+      "summary": "Best Anatomy App for Medical Students in 2026 Simulators Adult patient simulators Leonardo Adult Patient Simulator Lisa Adult Patient Simulator MATT Auscultation Task Trainer Others simulators SVision Anatomy 3D Anatomy Table SonoVision Ultrasound Diagnostic Simulator S Vision Dental Dental Simulation System for Preclinical Training Pediatric patient simulators Arthur Pediatric Patient Simulator Mia Infant Patient Simulator Pediatric MATT Pediatr"
+    },
+    {
       "citationId": 16,
-      "summary": "Anatomy courses can help you learn human body systems, muscle and bone structures, and organ functions. Compare course options to find what fits your goals. Enroll for free."
+      "summary": "Master human anatomy, physiology, and pathology. Discover the best learning resources (free and paid) for medical students&#039; success in 2026."
     },
     {
       "citationId": 15,
-      "summary": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133779360679445\",\"webIdCreatedTime\":\"1774899149\",\"odinId\":\"7623133604022158343\",\"nonce\":\"dZloZQ1dF-AppBgg73K1r\",\"botType\":\"others\",\"requestId\":\"62719958774899149361\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720540,75204946,75294820,75331216,75381398,75383830,75583892,75589609,75615158,75"
+      "summary": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133760699237896\",\"webIdCreatedTime\":\"1774899145\",\"odinId\":\"7623133626586104839\",\"nonce\":\"HKHNAJ6ERAgtt_lieKQ_l\",\"botType\":\"others\",\"requestId\":\"63660107774899145728\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720541,75204947,75294819,75331215,75381397,75383832,75583892,75615157,75616570,75"
     },
     {
       "citationId": 14,
-      "summary": "82 likes, 11 comments - bespokemedicalacademy on February 27, 2026: \"&#064;confidencebylamija&#x2019;s session, Topographic Translation &#x2014; an overview of anatomy with patient case studies and clinical application, "
+      "summary": "TikTok - Make Your Day {\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"MA\",\"appId\":1233,\"appType\":\"m\",\"wid\":\"7623133756560197138\",\"webIdCreatedTime\":\"1774899145\",\"odinId\":\"7623133612351587335\",\"nonce\":\"z2W_M8Q7tXLdDVS7sosY_\",\"botType\":\"others\",\"requestId\":\"65941577774899144991\",\"clusterRegion\":\"ALL_SG\",\"abTestVersion\":{\"versionName\":\"70508271,73720541,75204946,75294819,75331215,75381397,75383831,75583893,75589609,75615158,75"
     },
     {
       "citationId": 13,
-      "summary": "Mr. Tim Hawig and Mrs. Shannon Bright&#039;s CHS anatomy classes visited the University of West Georgia&#039;s Biological and Forensic Anthropology lab, where..."
+      "summary": "Anatomy in undergraduate education has been in decline for many years. Some suggest that it has fallen below a safe level. Balances between detail and safety, and assimilation and application of anatomy have yet to be es"
     },
     {
       "citationId": 12,
@@ -973,7 +1264,7 @@
     },
     {
       "citationId": 11,
-      "summary": "🧠 Brachial Plexus: From “Scary Topic” to “I Get It!” I used to hear medical students talk about the brachial plexus as if it were one of the most difficult anatomy topics out there. Honestly, that reputation alone made "
+      "summary": "Human anatomy is a basic science which allows healthcare professionals (in training and graduated) to acquire a detailed and global understanding of what it ..."
     },
     {
       "citationId": 10,
@@ -1018,116 +1309,152 @@
   ],
   "events": [
     {
-      "id": "ev_1774899223533_16fk9",
-      "at": "2026-03-30T19:33:43.533Z",
+      "id": "ev_1774899259928_gr5j8",
+      "at": "2026-03-30T19:34:19.928Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 60."
+    },
+    {
+      "id": "ev_1774899248459_ijhhg",
+      "at": "2026-03-30T19:34:08.459Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart enterprise usage"
+    },
+    {
+      "id": "ev_1774899248459_hnwvk",
+      "at": "2026-03-30T19:34:08.459Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 55."
+    },
+    {
+      "id": "ev_1774899236536_35arm",
+      "at": "2026-03-30T19:33:56.536Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart open source tools"
+    },
+    {
+      "id": "ev_1774899236536_wcvug",
+      "at": "2026-03-30T19:33:56.536Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 50."
+    },
+    {
+      "id": "ev_1774899224412_y5n1k",
+      "at": "2026-03-30T19:33:44.412Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart timeline and adoption"
+    },
+    {
+      "id": "ev_1774899224412_lv345",
+      "at": "2026-03-30T19:33:44.412Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 45."
     },
     {
-      "id": "ev_1774899212272_1uu33",
-      "at": "2026-03-30T19:33:32.272Z",
+      "id": "ev_1774899211758_htcnl",
+      "at": "2026-03-30T19:33:31.758Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart economics and costs"
     },
     {
-      "id": "ev_1774899212272_03s95",
-      "at": "2026-03-30T19:33:32.272Z",
+      "id": "ev_1774899211758_j7psl",
+      "at": "2026-03-30T19:33:31.758Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 40."
     },
     {
-      "id": "ev_1774899199343_o2914",
-      "at": "2026-03-30T19:33:19.343Z",
+      "id": "ev_1774899199903_835l4",
+      "at": "2026-03-30T19:33:19.903Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart expert interview"
     },
     {
-      "id": "ev_1774899199343_sqeyi",
-      "at": "2026-03-30T19:33:19.343Z",
+      "id": "ev_1774899199705_82f3l",
+      "at": "2026-03-30T19:33:19.705Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 35."
     },
     {
-      "id": "ev_1774899187336_qfywr",
-      "at": "2026-03-30T19:33:07.336Z",
+      "id": "ev_1774899185491_o5lg5",
+      "at": "2026-03-30T19:33:05.491Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart case study"
     },
     {
-      "id": "ev_1774899187336_azwah",
-      "at": "2026-03-30T19:33:07.336Z",
+      "id": "ev_1774899185491_w4fho",
+      "at": "2026-03-30T19:33:05.491Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 30."
     },
     {
-      "id": "ev_1774899174954_w16t2",
-      "at": "2026-03-30T19:32:54.954Z",
+      "id": "ev_1774899173568_0ei5h",
+      "at": "2026-03-30T19:32:53.568Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart limitations and risks"
     },
     {
-      "id": "ev_1774899174954_8b70k",
-      "at": "2026-03-30T19:32:54.954Z",
+      "id": "ev_1774899173568_emd78",
+      "at": "2026-03-30T19:32:53.568Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 25."
     },
     {
-      "id": "ev_1774899161275_h9ijd",
-      "at": "2026-03-30T19:32:41.275Z",
+      "id": "ev_1774899158173_vioqa",
+      "at": "2026-03-30T19:32:38.173Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart benchmark comparison"
     },
     {
-      "id": "ev_1774899161094_3anj1",
-      "at": "2026-03-30T19:32:41.094Z",
+      "id": "ev_1774899158173_7qlet",
+      "at": "2026-03-30T19:32:38.173Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 20."
     },
     {
-      "id": "ev_1774899148175_4ipsr",
-      "at": "2026-03-30T19:32:28.175Z",
+      "id": "ev_1774899144667_qgqdh",
+      "at": "2026-03-30T19:32:24.667Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart industry analysis 2025 2026"
     },
     {
-      "id": "ev_1774899148175_gb3hz",
-      "at": "2026-03-30T19:32:28.175Z",
+      "id": "ev_1774899144667_sfvmg",
+      "at": "2026-03-30T19:32:24.667Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1774899135048_id6lm",
-      "at": "2026-03-30T19:32:15.048Z",
+      "id": "ev_1774899130784_9fwrh",
+      "at": "2026-03-30T19:32:10.784Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart latest research paper"
     },
     {
-      "id": "ev_1774899135048_ot1yz",
-      "at": "2026-03-30T19:32:15.048Z",
+      "id": "ev_1774899130783_zh899",
+      "at": "2026-03-30T19:32:10.783Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1774899122413_omrgg",
-      "at": "2026-03-30T19:32:02.413Z",
+      "id": "ev_1774899117005_flu45",
+      "at": "2026-03-30T19:31:57.005Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart official documentation"
     },
     {
-      "id": "ev_1774899122413_hy1ng",
-      "at": "2026-03-30T19:32:02.413Z",
+      "id": "ev_1774899115862_kplzc",
+      "at": "2026-03-30T19:31:55.862Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1774899111012_ev41s",
-      "at": "2026-03-30T19:31:51.012Z",
+      "id": "ev_1774899101982_e05c0",
+      "at": "2026-03-30T19:31:41.982Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart"
     },
     {
-      "id": "ev_1774899111012_7ev12",
-      "at": "2026-03-30T19:31:51.012Z",
+      "id": "ev_1774899101982_fq1eo",
+      "at": "2026-03-30T19:31:41.982Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -1145,32 +1472,32 @@
     }
   ],
   "learnedSoFar": [
-    "Cattle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Characteristics Toggle Characteristics subsection 2",
+    "Houston - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early settlement to the ",
+    "Internet - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 History Toggle History subsection 2.1 1960s 2.2",
+    "Generation Z in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Nomenclature and date range 2 Arts a",
+    "Lost (TV series) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Series overview Toggle Series overview subsection 1.1",
+    "List of Star Trek aliens - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of Star Trek aliens 20 languages Català Čeština Deutsch Esperanto Español Fran",
+    "Free Resources - Human Anatomy - LibGuides at Illinois College of Optometry Skip to Main Content My Account Library Hours Off-Campus Access Contact Us Find Materials Library Services Library Policies Illinois College of Optometry LibGuides Human Anatomy Free Resources Search this Guide Search Human Anatomy: Free Resources Library resources available for Human Anatomy Find Books Find eBooks Find Articles Multimedia Free Resources Mobile Apps - may",
+    "Anatomy Resources and Clinical Cases for E-learning - Medical Education - Research Guides at Stanford School of Medicine - Lane Medical Library Medical Education In this Guide Access Key Resources Find Books Find Journal Articles AI in MedEd: Curated Papers Anatomy Resources and Clinical Cases for E-learning Find Images for Presentations Research Tools Help Resources for E-Learning Anatomy Complete Anatomy This app provides 3D modelling with stru",
+    "How to learn anatomy with mnemonics: Tips and examples | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;fo",
+    "Best Open Anatomy Learning Resources | AnatomyTOOL Region System Collections Embryology Microscopy Dissections Radiology Clinical Anatomy Documents Images Videos 3D models, games Lessons. quizzes Viewers Create & edit content Take quiz Create account / Forgot password About Project Open Anatomy Learning Materials (TOOL2) Manuals Anatomy Learning Resources Credits Medical disclaimer Legal information Donate Sponsor Contact Open 3D Model Archive Re",
+    "Hello everybody, You may like to see the first steps towards what should become a full open source 3D human anatomy atlas; you can now download the .blend files (Blender offers great options to organize and visualize th&",
+    "LGBTQ people in prison - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Rates of imprisonment Toggle Rates of imprisonm",
+    "Bisexuality - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definitions Toggle Definitions subsection 1.1 Sexual orien",
+    "Pregnancy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Demographics Toggle Demographics subsection 2.",
+    "Maddie Ziegler - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsect",
+    "Heart embryology and congenital heart problems | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-style",
     "Corporate law - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 History 2 Corpor",
-    "List of Ig Nobel Prize winners - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 1991 Toggle 1991 subsection 1.1 Apocryp",
-    "Occupational licensing - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Types Toggle Types subsection 2.1 Lic",
-    "Studies of \"cost and value\" in anatomical sciences education examine not only what works, but at what cost, thus evaluating the inputs and outputs of education. This research provides insights into how to use available r",
-    "Grey's Anatomy season 17 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-    "Grey's Anatomy season 6 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and",
-    "Grey's Anatomy season 18 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-    "Katherine Heigl - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1992–",
-    "Grey's Anatomy season 2 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and",
-    "Grey's Anatomy season 10 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast an",
-    "Grey's Anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Series synopsis 3 Cast, characters, and appearan",
-    "Rote learning - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Versus critical thinking 2 In computer science 3 Learnin",
-    "Cat anatomy - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Mouth Toggle Mouth subsection 1.1 Permanent teeth 1.2 Deci",
-    "Gray's Anatomy for Students - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History and development 2 Editions 3 Autho",
-    "Echocardiography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Medical uses 2 Types Toggle Types subsection 2.1 Tran",
-    "Microsoft Services Agreement This is the Trace Id: 6a1ded9e90597caf771069ed40d687f2 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-    "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: 57dfdde1e7c184254d1c6a55a0842ced Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
+    "Authoritarian socialism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Political roots Toggle Political roots subsect",
+    "List of Ig Nobel Prize winners - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 1991 Toggle 1991 subsection 1.1 Apocryp"
   ],
   "stats": {
-    "sourcesAnalyzed": 45,
-    "tokensUsedEstimate": 4419,
-    "depthScore": 26,
+    "sourcesAnalyzed": 60,
+    "tokensUsedEstimate": 6220,
+    "depthScore": 34,
     "queriesGenerated": 24,
-    "iterations": 9,
-    "uniqueDomains": 20
+    "iterations": 12,
+    "uniqueDomains": 25
   },
   "control": {
     "paused": false,
