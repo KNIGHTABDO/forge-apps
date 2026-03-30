@@ -3,16 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how to learn anatomy by heart",
   "createdAt": "2026-03-30T19:43:18.576Z",
-  "updatedAt": "2026-03-30T19:47:15.358Z",
-  "lastAdvancedAt": "2026-03-30T19:47:04.611Z",
+  "updatedAt": "2026-03-30T19:47:45.829Z",
+  "lastAdvancedAt": "2026-03-30T19:47:34.622Z",
   "phase": "analyzing",
-  "progress": 21,
+  "progress": 22,
   "etaMinutes": 32,
   "planDraft": "1. Define the scope of anatomical learning requirements: Establish a clear boundary between clinical anatomy (surface, cross-sectional, and medical imaging), systemic anatomy (systems-based approach), and regional anatomy (topographical). Identify whether the goal is rote memorization for high-stakes examinations or deep conceptual understanding for medical practice, as this determines whether to prioritize mnemonic-heavy resources or structural-functional integration.\n\n2. Execute a broad search fan-out across diverse learning methodologies: Perform a comprehensive search covering evidence-based pedagogical strategies, including spaced repetition systems (Anki, Quizlet), visual-spatial modalities (3D anatomy software, cadaveric dissection guides), and cognitive psychological techniques (active recall, Feynman technique, and the method of loci). Gather data on the efficacy of various resources, ranging from high-yield medical board prep materials to foundational textbooks like Gray’s Anatomy.\n\n3. Conduct a comparative analysis of retention and comprehension efficacy: Evaluate the gathered methodologies by contrasting passive study habits—such as repetitive reading or highlighting—against active strategies. Analyze the trade-offs between \"memorizing by heart\" (pattern recognition) and \"understanding by mechanism\" (physiological correlation), determining which techniques optimize long-term retention versus short-term recall.\n\n4. Identify evidence gaps and potential cognitive bottlenecks: Examine where current research identifies \"failure points\" in anatomical education, such as the difficulty of maintaining memory recall over long durations or the limitations of 2D atlas study for 3D spatial reasoning. Determine if there is a deficiency in current advice regarding the transition from theoretical memorization to clinical application in live patient settings.\n\n5. Synthesize findings into a hierarchical mastery framework: Develop a structured, tiered roadmap that sequences the learning process. This should move from foundational structural memorization (using mnemonics and active recall) to advanced functional integration (linking structure to clinical pathology). Produce a final guide that prioritizes high-impact habits while providing a strategy for continuous review to prevent the decay of acquired anatomical knowledge.",
   "planApproved": true,
   "pendingQueries": [
-    "how to learn anatomy by heart opinion",
-    "how to learn anatomy by heart official documentation \"case study\"",
     "how to learn anatomy by heart official documentation metrics",
     "how to learn anatomy by heart official documentation review",
     "how to learn anatomy by heart official documentation \"pdf\""
@@ -36,102 +34,124 @@
     "how to learn anatomy by heart \"pdf\"",
     "how to learn anatomy by heart site:edu",
     "how to learn anatomy by heart site:gov",
-    "how to learn anatomy by heart \"analysis\""
+    "how to learn anatomy by heart \"analysis\"",
+    "how to learn anatomy by heart opinion",
+    "how to learn anatomy by heart official documentation \"case study\""
   ],
   "websites": [
     {
-      "id": "site_1774900035228_d9dad",
+      "id": "site_1774900065115_gheqj",
+      "url": "https://autopsy.online/ems-course/",
+      "domain": "autopsy.online",
+      "title": "EMS case study withclinical anatomy fundamentals",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=autopsy.online&sz=64",
+      "snippet": "EMS case study withclinical anatomy fundamentals Autopsy.Online - Learn directly from the body at any level of training. body #gform_wrapper_207 .gform_body .gform_fields .gfield .ginput_container_textarea textarea { font-size: 15px; color: #ffffff; background-color: #00001a; /*background-color: rgba(204,238,255, .85); */ text-align:left; height: 75px; max-width: 45vw; margin: 0px; border-radius: 10px; margin-bottom: 0px; } body #gform_wrapper_20",
+      "checkedAt": "2026-03-30T19:47:45.828Z"
+    },
+    {
+      "id": "site_1774900054494_85tb0",
+      "url": "https://my.clevelandclinic.org/health/body/21704-heart",
+      "domain": "my.clevelandclinic.org",
+      "title": "Heart: Anatomy & Function",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=my.clevelandclinic.org&sz=64",
+      "snippet": "Your heart is the main organ of your cardiovascular system, a network of blood vessels that pumps blood throughout your body.",
+      "checkedAt": "2026-03-30T19:47:34.621Z"
+    },
+    {
+      "id": "site_1774900043819_ebf60",
       "url": "https://www.physio-pedia.com/Anatomy_of_the_Human_Heart",
       "domain": "physio-pedia.com",
       "title": "physio-pedia.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=physio-pedia.com&sz=64",
-      "checkedAt": "2026-03-30T19:47:15.358Z"
+      "checkedAt": "2026-03-30T19:47:23.950Z"
     },
     {
-      "id": "site_1774900003427_f24mb",
+      "id": "site_1774900011978_zhkv0",
       "url": "https://www.clinicalanatomy.ca/labs/411movements.pdf",
       "domain": "clinicalanatomy.ca",
       "title": "clinicalanatomy.ca",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=clinicalanatomy.ca&sz=64",
-      "checkedAt": "2026-03-30T19:46:43.427Z"
+      "checkedAt": "2026-03-30T19:46:51.978Z"
     },
     {
-      "id": "site_1774900003427_g7zdk",
+      "id": "site_1774900011977_nzb68",
       "url": "https://www.heartuniversity.org/wp-content/uploads/normal-cardiac-anatomy.pdf",
       "domain": "heartuniversity.org",
       "title": "heartuniversity.org",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=heartuniversity.org&sz=64",
-      "checkedAt": "2026-03-30T19:46:43.427Z"
+      "checkedAt": "2026-03-30T19:46:51.977Z"
     },
     {
-      "id": "site_1774900003427_h8fdu",
+      "id": "site_1774900011977_zppc3",
       "url": "https://edu.cdhb.health.nz/Hospitals-Services/AToZ/PublishingImages/Pages/Education-and-Development/Module%201%20-%20Anatomy%20and%20Physiology%20of%20the%20Heart%20(2).pdf",
       "domain": "edu.cdhb.health.nz",
       "title": "edu.cdhb.health.nz",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=edu.cdhb.health.nz&sz=64",
-      "checkedAt": "2026-03-30T19:46:43.427Z"
+      "checkedAt": "2026-03-30T19:46:51.977Z"
     },
     {
-      "id": "site_1774900003427_t7jgq",
+      "id": "site_1774900011977_5po9q",
       "url": "https://www.isbe.net/CTEDocuments/HST-L630055.pdf",
       "domain": "isbe.net",
       "title": "isbe.net",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=isbe.net&sz=64",
-      "checkedAt": "2026-03-30T19:46:43.427Z"
+      "checkedAt": "2026-03-30T19:46:51.977Z"
     },
     {
-      "id": "site_1774899992751_gwsph",
+      "id": "site_1774900001402_tzyef",
       "url": "https://leveluprn.com/blogs/medical-surgical-nursing/cardiovascular-1-introduction-anatomy-physiology-review?srsltid=AfmBOoqy92nb7En0PJojy01npqiun9qu9v1jBNxtnDiTUaWkvHTPtY8x",
       "domain": "leveluprn.com",
       "title": "Cardiovascular System Anatomy & Physiology Review - For Nurses",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=leveluprn.com&sz=64",
       "snippet": "A&P review of cardiovascular system, including components/functions, pericardium, heart wall layers, chambers of the heart, heart valves, & blood flow through the heart.",
-      "checkedAt": "2026-03-30T19:46:32.918Z"
+      "checkedAt": "2026-03-30T19:46:41.630Z"
     },
     {
-      "id": "site_1774899982141_p8nhg",
+      "id": "site_1774899990546_mfpcb",
       "url": "https://medictests.com/units/cardiovascular-anatomy-basics",
       "domain": "medictests.com",
       "title": "Cardiovascular Anatomy Basics for EMS Students",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medictests.com&sz=64",
       "snippet": "Learn core cardiovascular concepts, including the cardiac cycle and pulse types, vital for EMS students like EMTs and paramedics.",
-      "checkedAt": "2026-03-30T19:46:22.536Z"
+      "checkedAt": "2026-03-30T19:46:31.159Z"
     },
     {
-      "id": "site_1774899981602_wvqmp",
+      "id": "site_1774899989713_13b2p",
       "url": "https://www.nature.com/articles/s42256-025-01035-5",
       "domain": "nature.com",
       "title": "A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics | Nature Machine Intelligence",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=nature.com&sz=64",
       "snippet": "Understanding the structure and motion of the heart is crucial for diagnosing and managing cardiovascular diseases, the leading cause of global death. There is wide variation in cardiac shape and motion patterns, influen",
-      "checkedAt": "2026-03-30T19:46:22.141Z"
+      "checkedAt": "2026-03-30T19:46:30.546Z"
     },
     {
-      "id": "site_1774899960295_9rzhn",
+      "id": "site_1774899968380_lvu2l",
       "url": "https://www.labster.com/blog/5-creative-ways-teach-anatomy-physiology",
       "domain": "labster.com",
       "title": "5 Creative Ways to Teach Anatomy and Physiology",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=labster.com&sz=64",
       "snippet": "5 Creative Ways to Teach Anatomy and Physiology Contact Us Get Support Community Login Content Catalog Simulations All Simulations Browse hundreds of immersive science lab simulations. 3D Chemistry Models Learn key chemistry concepts with interactive 3D models. Browse by Courses Discover recommended simulations that align directly with your course’s curriculum. Learning Concepts Explore curated sets of interactive simulations designed to reinforc",
-      "checkedAt": "2026-03-30T19:46:00.352Z"
+      "checkedAt": "2026-03-30T19:46:08.783Z"
     },
     {
-      "id": "site_1774899960294_1d92h",
+      "id": "site_1774899968380_cuu48",
       "url": "https://www.bodyviz.com/filesimages/Pages/Learn%20More/Related%20Research%20and%20Sources/Best%20Anatomy%20Teaching%20Practices.pdf",
       "domain": "bodyviz.com",
       "title": "bodyviz.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=bodyviz.com&sz=64",
-      "checkedAt": "2026-03-30T19:46:00.294Z"
+      "checkedAt": "2026-03-30T19:46:08.380Z"
     },
     {
       "id": "site_1774899949681_dvs92",
@@ -977,9 +997,29 @@
       "url": "https://leveluprn.com/blogs/medical-surgical-nursing/cardiovascular-1-introduction-anatomy-physiology-review?srsltid=AfmBOoqy92nb7En0PJojy01npqiun9qu9v1jBNxtnDiTUaWkvHTPtY8x",
       "domain": "leveluprn.com",
       "title": "Cardiovascular System Anatomy & Physiology Review - For Nurses"
+    },
+    {
+      "id": 50,
+      "url": "https://my.clevelandclinic.org/health/body/21704-heart",
+      "domain": "my.clevelandclinic.org",
+      "title": "Heart: Anatomy & Function"
+    },
+    {
+      "id": 51,
+      "url": "https://autopsy.online/ems-course/",
+      "domain": "autopsy.online",
+      "title": "EMS case study withclinical anatomy fundamentals"
     }
   ],
   "notes": [
+    {
+      "citationId": 51,
+      "summary": "EMS case study withclinical anatomy fundamentals Autopsy.Online - Learn directly from the body at any level of training. body #gform_wrapper_207 .gform_body .gform_fields .gfield .ginput_container_textarea textarea { font-size: 15px; color: #ffffff; background-color: #00001a; /*background-color: rgba(204,238,255, .85); */ text-align:left; height: 75px; max-width: 45vw; margin: 0px; border-radius: 10px; margin-bottom: 0px; } body #gform_wrapper_20"
+    },
+    {
+      "citationId": 50,
+      "summary": "Your heart is the main organ of your cardiovascular system, a network of blood vessels that pumps blood throughout your body."
+    },
     {
       "citationId": 49,
       "summary": "A&P review of cardiovascular system, including components/functions, pericardium, heart wall layers, chambers of the heart, heart valves, & blood flow through the heart."
@@ -1179,98 +1219,122 @@
   ],
   "events": [
     {
-      "id": "ev_1774900035358_9vbla",
-      "at": "2026-03-30T19:47:15.358Z",
+      "id": "ev_1774900065828_n7h12",
+      "at": "2026-03-30T19:47:45.829Z",
+      "phase": "analyzing",
+      "message": "Analyzed 1 sources this iteration. Total: 51."
+    },
+    {
+      "id": "ev_1774900054622_v9zfl",
+      "at": "2026-03-30T19:47:34.622Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart official documentation \"case study\""
+    },
+    {
+      "id": "ev_1774900054622_9wmmp",
+      "at": "2026-03-30T19:47:34.622Z",
+      "phase": "analyzing",
+      "message": "Analyzed 1 sources this iteration. Total: 50."
+    },
+    {
+      "id": "ev_1774900043950_1g2es",
+      "at": "2026-03-30T19:47:23.950Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart opinion"
+    },
+    {
+      "id": "ev_1774900043950_4a9fl",
+      "at": "2026-03-30T19:47:23.950Z",
       "phase": "analyzing",
       "message": "Analyzed 0 sources this iteration. Total: 49."
     },
     {
-      "id": "ev_1774900024611_8digi",
-      "at": "2026-03-30T19:47:04.611Z",
+      "id": "ev_1774900033200_4sarv",
+      "at": "2026-03-30T19:47:13.200Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart \"analysis\""
     },
     {
-      "id": "ev_1774900024611_ydkf2",
-      "at": "2026-03-30T19:47:04.611Z",
+      "id": "ev_1774900033200_dn6kf",
+      "at": "2026-03-30T19:47:13.200Z",
       "phase": "analyzing",
       "message": "Analyzed 0 sources this iteration. Total: 49."
     },
     {
-      "id": "ev_1774900014009_aw9wf",
-      "at": "2026-03-30T19:46:54.009Z",
+      "id": "ev_1774900022726_ckqt7",
+      "at": "2026-03-30T19:47:02.726Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart site:gov"
     },
     {
-      "id": "ev_1774900014009_ov6kg",
-      "at": "2026-03-30T19:46:54.009Z",
+      "id": "ev_1774900022577_g2s4l",
+      "at": "2026-03-30T19:47:02.577Z",
       "phase": "analyzing",
       "message": "Analyzed 0 sources this iteration. Total: 49."
     },
     {
-      "id": "ev_1774900003428_93a6x",
-      "at": "2026-03-30T19:46:43.428Z",
+      "id": "ev_1774900011978_f11vj",
+      "at": "2026-03-30T19:46:51.978Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart site:edu"
     },
     {
-      "id": "ev_1774900003428_j5ky3",
-      "at": "2026-03-30T19:46:43.428Z",
+      "id": "ev_1774900011978_ugyfy",
+      "at": "2026-03-30T19:46:51.978Z",
       "phase": "analyzing",
       "message": "Analyzed 0 sources this iteration. Total: 49."
     },
     {
-      "id": "ev_1774899993075_6vvd5",
-      "at": "2026-03-30T19:46:33.075Z",
+      "id": "ev_1774900001630_9fyny",
+      "at": "2026-03-30T19:46:41.630Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart \"pdf\""
     },
     {
-      "id": "ev_1774899992918_cce0o",
-      "at": "2026-03-30T19:46:32.918Z",
+      "id": "ev_1774900001630_ota9p",
+      "at": "2026-03-30T19:46:41.630Z",
       "phase": "analyzing",
       "message": "Analyzed 1 sources this iteration. Total: 49."
     },
     {
-      "id": "ev_1774899982537_zjr9q",
-      "at": "2026-03-30T19:46:22.537Z",
+      "id": "ev_1774899991159_t2c24",
+      "at": "2026-03-30T19:46:31.159Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart review"
     },
     {
-      "id": "ev_1774899982536_60w94",
-      "at": "2026-03-30T19:46:22.537Z",
+      "id": "ev_1774899991159_28dxf",
+      "at": "2026-03-30T19:46:31.159Z",
       "phase": "analyzing",
       "message": "Analyzed 2 sources this iteration. Total: 48."
     },
     {
-      "id": "ev_1774899970961_vefn2",
-      "at": "2026-03-30T19:46:10.961Z",
+      "id": "ev_1774899979081_h3v9r",
+      "at": "2026-03-30T19:46:19.081Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart metrics"
     },
     {
-      "id": "ev_1774899970960_05dpi",
-      "at": "2026-03-30T19:46:10.961Z",
+      "id": "ev_1774899979081_wksiw",
+      "at": "2026-03-30T19:46:19.081Z",
       "phase": "analyzing",
       "message": "Analyzed 0 sources this iteration. Total: 46."
     },
     {
-      "id": "ev_1774899960353_znxiw",
-      "at": "2026-03-30T19:46:00.353Z",
+      "id": "ev_1774899968783_gat1i",
+      "at": "2026-03-30T19:46:08.783Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart \"case study\""
     },
     {
-      "id": "ev_1774899960353_1j9af",
-      "at": "2026-03-30T19:46:00.353Z",
+      "id": "ev_1774899968783_1boqy",
+      "at": "2026-03-30T19:46:08.783Z",
       "phase": "analyzing",
       "message": "Analyzed 1 sources this iteration. Total: 46."
     },
     {
-      "id": "ev_1774899949963_nxnzf",
-      "at": "2026-03-30T19:45:49.963Z",
+      "id": "ev_1774899957968_n52va",
+      "at": "2026-03-30T19:45:57.968Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart enterprise usage"
     },
@@ -1426,6 +1490,8 @@
     }
   ],
   "learnedSoFar": [
+    "EMS case study withclinical anatomy fundamentals Autopsy.Online - Learn directly from the body at any level of training. body #gform_wrapper_207 .gform_body .gform_fields .gfield .ginput_container_textarea textarea { font-size: 15px; color: #ffffff; background-color: #00001a; /*background-color: rgba(204,238,255, .85); */ text-align:left; height: 75px; max-width: 45vw; margin: 0px; border-radius: 10px; margin-bottom: 0px; } body #gform_wrapper_20",
+    "Your heart is the main organ of your cardiovascular system, a network of blood vessels that pumps blood throughout your body.",
     "A&P review of cardiovascular system, including components/functions, pericardium, heart wall layers, chambers of the heart, heart valves, & blood flow through the heart.",
     "Learn core cardiovascular concepts, including the cardiac cycle and pulse types, vital for EMS students like EMTs and paramedics.",
     "Understanding the structure and motion of the heart is crucial for diagnosing and managing cardiovascular diseases, the leading cause of global death. There is wide variation in cardiac shape and motion patterns, influen",
@@ -1441,17 +1507,15 @@
     "Studies of \"cost and value\" in anatomical sciences education examine not only what works, but at what cost, thus evaluating the inputs and outputs of education. This research provides insights into how to use available r",
     "Various evidence-based and student-centered strategies such as team-based learning (TBL), case-based learning (CBL), and flipped classroom have been recent",
     "Ask Media Group Categories Frequently Asked Questions Contact Us Promoted articles How do I stop receiving push notifications in Microsoft Edge browser? How do I stop receiving push notifications in Google Chrome? Ask Media Group About - Privacy - Terms - Cookie Policy - Careers - Help - Feedback - &copy;2022 Ask Media Group, LLC.",
-    "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
-    ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
-    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
+    "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r"
   ],
   "stats": {
-    "sourcesAnalyzed": 49,
-    "tokensUsedEstimate": 4529,
-    "depthScore": 37,
+    "sourcesAnalyzed": 51,
+    "tokensUsedEstimate": 4692,
+    "depthScore": 39,
     "queriesGenerated": 24,
-    "iterations": 19,
-    "uniqueDomains": 32
+    "iterations": 21,
+    "uniqueDomains": 34
   },
   "control": {
     "paused": false,
