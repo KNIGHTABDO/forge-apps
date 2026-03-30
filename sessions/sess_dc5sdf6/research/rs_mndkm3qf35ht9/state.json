@@ -3,16 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T19:18:07.720Z",
-  "updatedAt": "2026-03-30T19:19:28.043Z",
-  "lastAdvancedAt": "2026-03-30T19:19:25.266Z",
+  "updatedAt": "2026-03-30T19:19:35.905Z",
+  "lastAdvancedAt": "2026-03-30T19:19:33.604Z",
   "phase": "analyzing",
-  "progress": 15,
-  "etaMinutes": 35,
+  "progress": 18,
+  "etaMinutes": 34,
   "planDraft": "1. Define research parameters and key technological domains: Establish the scope of the investigation by categorizing \"AI in 2026\" into distinct pillars, including hardware scaling (compute), architectural breakthroughs (agentic workflows, multimodal reasoning), regulatory landscape changes, and industry-specific adoption (healthcare, finance, coding). Define the temporal context by anchoring the research in current 2024-2025 trajectory data to forecast the state of the art 12 to 24 months out.\n\n2. Execute multi-source search fan-out: Conduct a comprehensive scan across disparate data streams. Gather primary intelligence from technical research preprints (arXiv), vendor roadmaps (OpenAI, Google, Anthropic, NVIDIA), venture capital market outlooks, and government policy white papers. Ensure cross-referencing between optimistic marketing projections and pessimistic academic critiques to capture a balanced spectrum of expected outcomes.\n\n3. Identify and validate evidence gaps: Rigorously evaluate the collected data for areas of high uncertainty or conflicting projections. Specifically, focus on the \"scaling wall\" debate, the feasibility of autonomous agent reliability at scale, and potential bottlenecks in energy infrastructure. Distinguish between speculative hype and verifiable engineering milestones to prevent over-indexing on unsubstantiated industry promises.\n\n4. Perform comparative cross-analysis: Synthesize the technical, economic, and regulatory findings to identify points of convergence. Assess how shifting compute constraints might impact the deployment of smaller, specialized models versus massive foundation models. Evaluate the interplay between tightening international AI regulations and the development speed of proprietary versus open-weight models.\n\n5. Synthesize findings into a forward-looking strategic summary: Consolidate the analysis into a final report that maps the most likely AI landscape for 2026. Prioritize actionable insights, highlighting critical inflection points—such as breakthroughs in reasoning capabilities or energy-efficient inference—that would signify the transition from current AI capabilities to the predicted 2026 state. Conclude with a risk-adjusted assessment of what is definitively achievable versus what remains speculative.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 limitations and risks",
-    "ai in 2026 case study",
     "ai in 2026 expert interview",
     "ai in 2026 economics and costs",
     "ai in 2026 timeline and adoption",
@@ -36,9 +34,111 @@
     "ai in 2026 official documentation",
     "ai in 2026 latest research paper",
     "ai in 2026 industry analysis 2025 2026",
-    "ai in 2026 benchmark comparison"
+    "ai in 2026 benchmark comparison",
+    "ai in 2026 limitations and risks",
+    "ai in 2026 case study"
   ],
   "websites": [
+    {
+      "id": "site_1774898375829_qjeqt",
+      "url": "https://en.wikipedia.org/wiki/AI_bubble",
+      "domain": "en.wikipedia.org",
+      "title": "AI bubble - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack",
+      "checkedAt": "2026-03-30T19:19:35.905Z"
+    },
+    {
+      "id": "site_1774898375533_329s1",
+      "url": "https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/",
+      "domain": "sloanreview.mit.edu",
+      "title": "sloanreview.mit.edu",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=sloanreview.mit.edu&sz=64",
+      "snippet": ".t-lg{font-size:4.99995rem;line-height:1}.t-h1,.t-lg{font-family:guyot-headline;font-weight:400}.t-h1{font-size:3.35925rem;line-height:1.19}.article-header__title,.t-h2{font-size:2.799rem;line-height:1.1}.article-header__title,.t-h2,.t-h3{font-family:guyot-headline;font-weight:400}.t-h3{font-size:2.33325rem;line-height:1.09}.t-h4{font-size:1.944rem;line-height:1.29}.t-h4,.t-h5{font-family:guyot-headline;font-weight:400}.t-h5{font-size:1.62rem;lin",
+      "checkedAt": "2026-03-30T19:19:35.829Z"
+    },
+    {
+      "id": "site_1774898374675_s6c5c",
+      "url": "https://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs",
+      "domain": "library.hbs.edu",
+      "title": "AI Trends for 2026: Building &#x27;Change Fitness&#x27; and Balancing Trade-Offs | Working Knowledge",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=library.hbs.edu&sz=64",
+      "snippet": "Harvard Business School faculty share key considerations for leaders planning to scale artificial intelligence.",
+      "checkedAt": "2026-03-30T19:19:35.532Z"
+    },
+    {
+      "id": "site_1774898374384_ancnb",
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "domain": "ibm.com",
+      "title": "The trends that will shape AI and tech in 2026 | IBM",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ibm.com&sz=64",
+      "snippet": "Reporter Anabelle Nicoud spoke to several experts across AI, security, quantum and beyond to better understand where tech will take us in 2026.",
+      "checkedAt": "2026-03-30T19:19:34.675Z"
+    },
+    {
+      "id": "site_1774898374329_su80o",
+      "url": "https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html",
+      "domain": "cio.com",
+      "title": "WEF highlights 32 AI case studies with real-world business impact | CIO",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=cio.com&sz=64",
+      "snippet": "The World Economic Forum, in conjunction with Accenture, sheds light on AI use cases across the globe that are operating at scale to deliver improved business outcomes",
+      "checkedAt": "2026-03-30T19:19:34.384Z"
+    },
+    {
+      "id": "site_1774898372916_pwm1w",
+      "url": "https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "title": "State AI laws in the United States - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "State AI laws in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Categories of state AI",
+      "checkedAt": "2026-03-30T19:19:33.604Z"
+    },
+    {
+      "id": "site_1774898372783_3kktb",
+      "url": "https://bluesoft.com/blog/ai-business-challenges-for-2026-decisions-that-can-no-longer-be-put-off",
+      "domain": "bluesoft.com",
+      "title": "AI Challenges in Business 2026 – Decisions You Can’t Delay",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=bluesoft.com&sz=64",
+      "snippet": "By 2026, AI will be a true test of business strategy. Explore the key challenges and decisions organizations must address today.",
+      "checkedAt": "2026-03-30T19:19:32.915Z"
+    },
+    {
+      "id": "site_1774898372194_0o9hf",
+      "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+      "domain": "internationalaisafetyreport.org",
+      "title": "International AI Safety Report 2026 | International AI Safety Report",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=internationalaisafetyreport.org&sz=64",
+      "snippet": "The second International AI Safety Report, published in February 2026, is the next iteration of the comprehensive review of latest scientific research on the capabilities and risks of general-purpose AI systems. Led by T",
+      "checkedAt": "2026-03-30T19:19:32.783Z"
+    },
+    {
+      "id": "site_1774898372055_gdkp8",
+      "url": "https://www.clarifai.com/blog/ai-risks",
+      "domain": "clarifai.com",
+      "title": "Top AI Risks, Dangers & Challenges in 2026",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=clarifai.com&sz=64",
+      "snippet": "Explore the biggest AI risks and challenges in 2026—from bias and deepfakes to energy use—and how Clarifai helps build safer, responsible AI systems.",
+      "checkedAt": "2026-03-30T19:19:32.194Z"
+    },
+    {
+      "id": "site_1774898371541_gq60g",
+      "url": "https://ebsedu.org/blog/artificial-intelligence-ai-challenges/",
+      "domain": "ebsedu.org",
+      "title": "AI Challenges in 2026: 15 Risks & Limitations Leaders Must Overcome",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ebsedu.org&sz=64",
+      "snippet": "Explore 15 AI challenges in 2026 that leaders face: risks, limitations, and ethical concerns. Overcome barriers to AI adoption with actionable insights.",
+      "checkedAt": "2026-03-30T19:19:32.055Z"
+    },
     {
       "id": "site_1774898367944_6fj53",
       "url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
@@ -503,9 +603,109 @@
       "url": "https://en.wikipedia.org/wiki/Grok_(chatbot)",
       "domain": "en.wikipedia.org",
       "title": "Grok (chatbot) - Wikipedia"
+    },
+    {
+      "id": 26,
+      "url": "https://ebsedu.org/blog/artificial-intelligence-ai-challenges/",
+      "domain": "ebsedu.org",
+      "title": "AI Challenges in 2026: 15 Risks & Limitations Leaders Must Overcome"
+    },
+    {
+      "id": 27,
+      "url": "https://www.clarifai.com/blog/ai-risks",
+      "domain": "clarifai.com",
+      "title": "Top AI Risks, Dangers & Challenges in 2026"
+    },
+    {
+      "id": 28,
+      "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026",
+      "domain": "internationalaisafetyreport.org",
+      "title": "International AI Safety Report 2026 | International AI Safety Report"
+    },
+    {
+      "id": 29,
+      "url": "https://bluesoft.com/blog/ai-business-challenges-for-2026-decisions-that-can-no-longer-be-put-off",
+      "domain": "bluesoft.com",
+      "title": "AI Challenges in Business 2026 – Decisions You Can’t Delay"
+    },
+    {
+      "id": 30,
+      "url": "https://en.wikipedia.org/wiki/State_AI_laws_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "title": "State AI laws in the United States - Wikipedia"
+    },
+    {
+      "id": 31,
+      "url": "https://www.cio.com/article/4122937/davos-from-hype-to-ai-transformation-in-the-economy.html",
+      "domain": "cio.com",
+      "title": "WEF highlights 32 AI case studies with real-world business impact | CIO"
+    },
+    {
+      "id": 32,
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "domain": "ibm.com",
+      "title": "The trends that will shape AI and tech in 2026 | IBM"
+    },
+    {
+      "id": 33,
+      "url": "https://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs",
+      "domain": "library.hbs.edu",
+      "title": "AI Trends for 2026: Building &#x27;Change Fitness&#x27; and Balancing Trade-Offs | Working Knowledge"
+    },
+    {
+      "id": 34,
+      "url": "https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/",
+      "domain": "sloanreview.mit.edu",
+      "title": "sloanreview.mit.edu"
+    },
+    {
+      "id": 35,
+      "url": "https://en.wikipedia.org/wiki/AI_bubble",
+      "domain": "en.wikipedia.org",
+      "title": "AI bubble - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 35,
+      "summary": "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack"
+    },
+    {
+      "citationId": 34,
+      "summary": ".t-lg{font-size:4.99995rem;line-height:1}.t-h1,.t-lg{font-family:guyot-headline;font-weight:400}.t-h1{font-size:3.35925rem;line-height:1.19}.article-header__title,.t-h2{font-size:2.799rem;line-height:1.1}.article-header__title,.t-h2,.t-h3{font-family:guyot-headline;font-weight:400}.t-h3{font-size:2.33325rem;line-height:1.09}.t-h4{font-size:1.944rem;line-height:1.29}.t-h4,.t-h5{font-family:guyot-headline;font-weight:400}.t-h5{font-size:1.62rem;lin"
+    },
+    {
+      "citationId": 33,
+      "summary": "Harvard Business School faculty share key considerations for leaders planning to scale artificial intelligence."
+    },
+    {
+      "citationId": 32,
+      "summary": "Reporter Anabelle Nicoud spoke to several experts across AI, security, quantum and beyond to better understand where tech will take us in 2026."
+    },
+    {
+      "citationId": 31,
+      "summary": "The World Economic Forum, in conjunction with Accenture, sheds light on AI use cases across the globe that are operating at scale to deliver improved business outcomes"
+    },
+    {
+      "citationId": 30,
+      "summary": "State AI laws in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Categories of state AI"
+    },
+    {
+      "citationId": 29,
+      "summary": "By 2026, AI will be a true test of business strategy. Explore the key challenges and decisions organizations must address today."
+    },
+    {
+      "citationId": 28,
+      "summary": "The second International AI Safety Report, published in February 2026, is the next iteration of the comprehensive review of latest scientific research on the capabilities and risks of general-purpose AI systems. Led by T"
+    },
+    {
+      "citationId": 27,
+      "summary": "Explore the biggest AI risks and challenges in 2026—from bias and deepfakes to energy use—and how Clarifai helps build safer, responsible AI systems."
+    },
+    {
+      "citationId": 26,
+      "summary": "Explore 15 AI challenges in 2026 that leaders face: risks, limitations, and ethical concerns. Overcome barriers to AI adoption with actionable insights."
+    },
     {
       "citationId": 25,
       "summary": "Grok (chatbot) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 OpenAI 1.2 "
@@ -609,6 +809,30 @@
   ],
   "events": [
     {
+      "id": "ev_1774898375905_bczsc",
+      "at": "2026-03-30T19:19:35.905Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 35."
+    },
+    {
+      "id": "ev_1774898373604_by36j",
+      "at": "2026-03-30T19:19:33.604Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 case study"
+    },
+    {
+      "id": "ev_1774898373604_qswkn",
+      "at": "2026-03-30T19:19:33.604Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 30."
+    },
+    {
+      "id": "ev_1774898370577_4be58",
+      "at": "2026-03-30T19:19:30.577Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 limitations and risks"
+    },
+    {
       "id": "ev_1774898368042_nn0mp",
       "at": "2026-03-30T19:19:28.042Z",
       "phase": "analyzing",
@@ -688,6 +912,16 @@
     }
   ],
   "learnedSoFar": [
+    "AI bubble - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Speculation Toggle Speculation subsection 2.1 Lack",
+    ".t-lg{font-size:4.99995rem;line-height:1}.t-h1,.t-lg{font-family:guyot-headline;font-weight:400}.t-h1{font-size:3.35925rem;line-height:1.19}.article-header__title,.t-h2{font-size:2.799rem;line-height:1.1}.article-header__title,.t-h2,.t-h3{font-family:guyot-headline;font-weight:400}.t-h3{font-size:2.33325rem;line-height:1.09}.t-h4{font-size:1.944rem;line-height:1.29}.t-h4,.t-h5{font-family:guyot-headline;font-weight:400}.t-h5{font-size:1.62rem;lin",
+    "Harvard Business School faculty share key considerations for leaders planning to scale artificial intelligence.",
+    "Reporter Anabelle Nicoud spoke to several experts across AI, security, quantum and beyond to better understand where tech will take us in 2026.",
+    "The World Economic Forum, in conjunction with Accenture, sheds light on AI use cases across the globe that are operating at scale to deliver improved business outcomes",
+    "State AI laws in the United States - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Categories of state AI",
+    "By 2026, AI will be a true test of business strategy. Explore the key challenges and decisions organizations must address today.",
+    "The second International AI Safety Report, published in February 2026, is the next iteration of the comprehensive review of latest scientific research on the capabilities and risks of general-purpose AI systems. Led by T",
+    "Explore the biggest AI risks and challenges in 2026—from bias and deepfakes to energy use—and how Clarifai helps build safer, responsible AI systems.",
+    "Explore 15 AI challenges in 2026 that leaders face: risks, limitations, and ethical concerns. Overcome barriers to AI adoption with actionable insights.",
     "Grok (chatbot) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background Toggle Background subsection 1.1 OpenAI 1.2 ",
     "Comprehensive AI leaderboards and rankings comparing the best models across coding, math, writing, image generation, and more. Compare performance, pricing, context windows, and benchmark scores across top AI models.",
     "Reddit - The heart of the internet :root,button,html,input,select{font-family:var(--font-sans)}faceplate-expandable-section-helper>details>summary,menu{list-style-type:none}del,ins{text-underline-position:under}ac-activate,ac-call,ac-contents,ac-dispatch,ac-publish,ac-render-template,ac-toggle,ac-track,faceplate-dropdown-menu:not(.connected) [slot=menu],faceplate-hovercard:not(:defined)>[slot=content],shreddit-ad-post:not(:defined) [slot=desktop-",
@@ -695,25 +929,15 @@
     "The AI race isn",
     "OpenAI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Founding 2 Corporate structure Toggle Corporate structure subse",
     "India AI Impact Summit 2026 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Programme Toggle Programme su",
-    "Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.",
-    "Explore the Deloitte AI Institute’s State of AI in the Enterprise report tracking AI investments, adoption, impacts on business, and challenges throughout 2025.",
-    "Originally published on: https://www.eglobalis.",
-    "Anthropic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Business structure Toggle Business structure subse",
-    "Generative AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Early history 1.2 ",
-    "The World Development Report 2026 explores how artificial intelligence is reshaping development as a general‑purpose technology.",
-    "%PDF-1.6 %���� 40490 0 obj >stream h�4�Oo�0 ſ���eΟ\u0015��\"u \u001d\u001c \u0015�i����Z� \u0012���q�X�{�g[��I\u000e �,�2�\"\u0003�s�\u0001�`>G] �tm�m\u001b�)5\u001cw1E�L�ldI+V\u0006\u000e�G�/\u0015����z|-�?1���Φ���) ��\u000eMe�7��������7��d����r�8攺 0\u0000 >stream hޔ�=\u000e�0 ���\u001b$��ԑ�.�,Uņ\u0018*Q!\u0016@\u0014\u0006nO\u001a�0T�t�s���9a�@`�cep*\u0004���\u0002��kl-�+�B`��\b b�*�:�O7@o����U��6#�ڙ��қ�;�C]�\u001c�� z��}��\u001c����>�RZ-��rF��$�)�8�f\u001eG�\u0014-��% \u0012}\u0003ѐA���\u0001�O`H#�O���\u001es�n 4O�(�&���\u0014`\u0000�ˍ� endstream endobj 40492 0 obj >stream h޴[�r�H��O��F�\u001fD�-�211\u0011��������43\u000f\u000e��\u0012!",
-    "AI Research Papers 2026 – Journal of Next-Generation Research 5.0 (JNGR 5.0).",
-    "Z.ai - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Description 3 See also 4 References 5 Notes 6 External ",
-    "Perplexity AI - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Business Strategy ",
-    "--> --> White House 2026 National Policy Framework for Artificial Intelligence - Mediate.com Menu Close Find a Mediator Join Mediate University ODR.com Membership Mediator Services Certification Mediate University Statewide Banner FAQ All Topics Newsletter News Video About Mediation Civil Commercial Community Elder Family Online Public Policy Workplace Login FIND A MEDIATOR QUICK LISTS Mediators Listed by State/City Mediators Listed by Practice A"
+    "Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency."
   ],
   "stats": {
-    "sourcesAnalyzed": 25,
-    "tokensUsedEstimate": 2320,
-    "depthScore": 17,
+    "sourcesAnalyzed": 35,
+    "tokensUsedEstimate": 3064,
+    "depthScore": 25,
     "queriesGenerated": 24,
-    "iterations": 5,
-    "uniqueDomains": 17
+    "iterations": 7,
+    "uniqueDomains": 25
   },
   "control": {
     "paused": false,
