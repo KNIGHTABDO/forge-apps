@@ -3,19 +3,51 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T17:43:24.415Z",
-  "updatedAt": "2026-03-30T17:43:40.864Z",
-  "lastAdvancedAt": "2026-03-30T17:43:39.750Z",
-  "phase": "query_fanout",
-  "progress": 4,
-  "etaMinutes": 45,
+  "updatedAt": "2026-03-30T17:43:42.793Z",
+  "lastAdvancedAt": "2026-03-30T17:43:42.305Z",
+  "phase": "analyzing",
+  "progress": 8,
+  "etaMinutes": 38,
   "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
   "planApproved": true,
-  "pendingQueries": [],
-  "processedQueries": [],
+  "pendingQueries": [
+    "ai in 2026 official documentation",
+    "ai in 2026 latest research paper",
+    "ai in 2026 industry analysis 2025 2026",
+    "ai in 2026 benchmark comparison",
+    "ai in 2026 limitations and risks",
+    "ai in 2026 case study",
+    "ai in 2026 expert interview",
+    "ai in 2026 economics and costs",
+    "ai in 2026 timeline and adoption",
+    "ai in 2026 open source tools",
+    "ai in 2026 enterprise usage"
+  ],
+  "processedQueries": [
+    "ai in 2026"
+  ],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1774892622792_d02ij",
+      "at": "2026-03-30T17:43:42.792Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 0."
+    },
+    {
+      "id": "ev_1774892622305_9l99q",
+      "at": "2026-03-30T17:43:42.305Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026"
+    },
+    {
+      "id": "ev_1774892622305_nh778",
+      "at": "2026-03-30T17:43:42.305Z",
+      "phase": "query_fanout",
+      "message": "Generated 12 additional search vectors."
+    },
     {
       "id": "ev_1774892620864",
       "at": "2026-03-30T17:43:40.864Z",
@@ -33,9 +65,9 @@
   "stats": {
     "sourcesAnalyzed": 0,
     "tokensUsedEstimate": 0,
-    "depthScore": 0,
-    "queriesGenerated": 0,
-    "iterations": 0,
+    "depthScore": 1,
+    "queriesGenerated": 12,
+    "iterations": 1,
     "uniqueDomains": 0
   },
   "control": {
