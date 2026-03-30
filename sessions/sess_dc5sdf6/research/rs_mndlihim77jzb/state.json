@@ -3,17 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "how to learn anatomy by heart",
   "createdAt": "2026-03-30T19:43:18.576Z",
-  "updatedAt": "2026-03-30T19:43:54.994Z",
-  "lastAdvancedAt": "2026-03-30T19:43:40.354Z",
+  "updatedAt": "2026-03-30T19:44:41.482Z",
+  "lastAdvancedAt": "2026-03-30T19:44:28.407Z",
   "phase": "analyzing",
-  "progress": 11,
-  "etaMinutes": 37,
+  "progress": 15,
+  "etaMinutes": 35,
   "planDraft": "1. Define the scope of anatomical learning requirements: Establish a clear boundary between clinical anatomy (surface, cross-sectional, and medical imaging), systemic anatomy (systems-based approach), and regional anatomy (topographical). Identify whether the goal is rote memorization for high-stakes examinations or deep conceptual understanding for medical practice, as this determines whether to prioritize mnemonic-heavy resources or structural-functional integration.\n\n2. Execute a broad search fan-out across diverse learning methodologies: Perform a comprehensive search covering evidence-based pedagogical strategies, including spaced repetition systems (Anki, Quizlet), visual-spatial modalities (3D anatomy software, cadaveric dissection guides), and cognitive psychological techniques (active recall, Feynman technique, and the method of loci). Gather data on the efficacy of various resources, ranging from high-yield medical board prep materials to foundational textbooks like Gray’s Anatomy.\n\n3. Conduct a comparative analysis of retention and comprehension efficacy: Evaluate the gathered methodologies by contrasting passive study habits—such as repetitive reading or highlighting—against active strategies. Analyze the trade-offs between \"memorizing by heart\" (pattern recognition) and \"understanding by mechanism\" (physiological correlation), determining which techniques optimize long-term retention versus short-term recall.\n\n4. Identify evidence gaps and potential cognitive bottlenecks: Examine where current research identifies \"failure points\" in anatomical education, such as the difficulty of maintaining memory recall over long durations or the limitations of 2D atlas study for 3D spatial reasoning. Determine if there is a deficiency in current advice regarding the transition from theoretical memorization to clinical application in live patient settings.\n\n5. Synthesize findings into a hierarchical mastery framework: Develop a structured, tiered roadmap that sequences the learning process. This should move from foundational structural memorization (using mnemonics and active recall) to advanced functional integration (linking structure to clinical pathology). Produce a final guide that prioritizes high-impact habits while providing a strategy for continuous review to prevent the decay of acquired anatomical knowledge.",
   "planApproved": true,
   "pendingQueries": [
-    "how to learn anatomy by heart latest research paper",
-    "how to learn anatomy by heart industry analysis 2025 2026",
-    "how to learn anatomy by heart benchmark comparison",
     "how to learn anatomy by heart limitations and risks",
     "how to learn anatomy by heart case study",
     "how to learn anatomy by heart expert interview",
@@ -36,117 +33,315 @@
   ],
   "processedQueries": [
     "how to learn anatomy by heart",
-    "how to learn anatomy by heart official documentation"
+    "how to learn anatomy by heart official documentation",
+    "how to learn anatomy by heart latest research paper",
+    "how to learn anatomy by heart industry analysis 2025 2026",
+    "how to learn anatomy by heart benchmark comparison"
   ],
   "websites": [
     {
-      "id": "site_1774899834627_rb69w",
+      "id": "site_1774899880895_f72by",
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Privacy Statement – Microsoft privacy",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: cf1e77c6312a40774cc550bbd7089a53 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-03-30T19:44:41.482Z"
+    },
+    {
+      "id": "site_1774899880607_mozzd",
+      "url": "https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Log in to the site | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy",
+      "checkedAt": "2026-03-30T19:44:40.894Z"
+    },
+    {
+      "id": "site_1774899880313_xou3c",
+      "url": "https://learn.lboro.ac.uk/user/profile.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "learn.lboro.ac.uk",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can",
+      "checkedAt": "2026-03-30T19:44:40.607Z"
+    },
+    {
+      "id": "site_1774899880028_enalk",
+      "url": "https://www.zhihu.com/question/334068950",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-03-30T19:44:40.313Z"
+    },
+    {
+      "id": "site_1774899879681_rqwpm",
+      "url": "https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Search | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module",
+      "checkedAt": "2026-03-30T19:44:40.028Z"
+    },
+    {
+      "id": "site_1774899878784_cn73d",
+      "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
+      "domain": "instituteofhumananatomy.com",
+      "title": "How to Study Anatomy: 5 Proven Memory Techniques",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=instituteofhumananatomy.com&sz=64",
+      "snippet": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
+      "checkedAt": "2026-03-30T19:44:39.681Z"
+    },
+    {
+      "id": "site_1774899878752_cz6n2",
+      "url": "https://journals.lww.com/njca/fulltext/2025/07000/evaluating_anatomy_teaching_learning_methods_.8.aspx",
+      "domain": "journals.lww.com",
+      "title": "journals.lww.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=journals.lww.com&sz=64",
+      "checkedAt": "2026-03-30T19:44:38.784Z"
+    },
+    {
+      "id": "site_1774899867803_n0ve7",
+      "url": "https://www.zhihu.com/en/answer/1916294508",
+      "domain": "zhihu.com",
+      "title": "安全验证 - 知乎",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "snippet": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
+      "checkedAt": "2026-03-30T19:44:28.407Z"
+    },
+    {
+      "id": "site_1774899867235_i06gi",
+      "url": "https://learn.lboro.ac.uk/search/index.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Global search | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My",
+      "checkedAt": "2026-03-30T19:44:27.803Z"
+    },
+    {
+      "id": "site_1774899867097_00jty",
+      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
+      "domain": "medicine.stmatthews.edu",
+      "title": "How to Study Anatomy in Medical School: A Complete Guide",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medicine.stmatthews.edu&sz=64",
+      "snippet": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
+      "checkedAt": "2026-03-30T19:44:27.235Z"
+    },
+    {
+      "id": "site_1774899867052_ted4y",
+      "url": "https://www.classcentral.com/report/best-human-anatomy-courses/",
+      "domain": "classcentral.com",
+      "title": "classcentral.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=classcentral.com&sz=64",
+      "checkedAt": "2026-03-30T19:44:27.097Z"
+    },
+    {
+      "id": "site_1774899866753_0naq9",
+      "url": "https://voka.io/best-anatomy-apps/",
+      "domain": "voka.io",
+      "title": "10+ Best anatomy apps in 2026 - Voka",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
+      "snippet": "Discover 2026&#039;s top-rated anatomy apps. Our review compares 10 leading apps by features, pricing, and learning styles to help you choose the best tool for your needs.",
+      "checkedAt": "2026-03-30T19:44:27.052Z"
+    },
+    {
+      "id": "site_1774899866690_afrfo",
+      "url": "https://vervecollege.edu/trends-in-teaching-anatomy-and-physiology/",
+      "domain": "vervecollege.edu",
+      "title": "vervecollege.edu",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=vervecollege.edu&sz=64",
+      "checkedAt": "2026-03-30T19:44:26.753Z"
+    },
+    {
+      "id": "site_1774899866062_x8amq",
+      "url": "https://www.coursera.org/courses?query=anatomy",
+      "domain": "coursera.org",
+      "title": "Best Anatomy Courses & Certificates [2026] | Coursera",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=coursera.org&sz=64",
+      "snippet": "Anatomy courses can help you learn human body systems, muscle and bone structures, and organ functions. Compare course options to find what fits your goals. Enroll for free.",
+      "checkedAt": "2026-03-30T19:44:26.690Z"
+    },
+    {
+      "id": "site_1774899855225_81tlg",
+      "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
+      "domain": "learn.lboro.ac.uk",
+      "title": "All modules | Learn",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
+      "snippet": "All modules | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My M",
+      "checkedAt": "2026-03-30T19:44:15.710Z"
+    },
+    {
+      "id": "site_1774899853931_j9y12",
+      "url": "https://www.youtube.com/watch?v=7ERVxf5eD7k&vl=en",
+      "domain": "youtube.com",
+      "title": "youtube.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=64",
+      "snippet": "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"j9LKadXPLIW41LsPkdOfoQ0\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"action_companion_center_align_descript",
+      "checkedAt": "2026-03-30T19:44:15.225Z"
+    },
+    {
+      "id": "site_1774899853628_xqinf",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how",
+      "checkedAt": "2026-03-30T19:44:13.931Z"
+    },
+    {
+      "id": "site_1774899853149_rka4z",
+      "url": "https://www.cambridge.org/core/journals/cardiology-in-the-young/article/considerations-for-exploring-the-most-appropriate-method-for-residents-learning-anatomy-of-chd/F9A53A57F69A3B3CC7E33759780348CC",
+      "domain": "cambridge.org",
+      "title": "Considerations for exploring the most appropriate method for residents’ learning anatomy of CHD | Cardiology in the Young | Cambridge Core",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=cambridge.org&sz=64",
+      "snippet": "Considerations for exploring the most appropriate method for residents’ learning anatomy of CHD - Volume 33 Issue 6",
+      "checkedAt": "2026-03-30T19:44:13.628Z"
+    },
+    {
+      "id": "site_1774899852726_d8j2j",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1507005/full",
+      "domain": "frontiersin.org",
+      "title": "Frontiers | High-resolution 3D visualization of human hearts with emphases on the cardiac conduction system components—a new platform for me",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=frontiersin.org&sz=64",
+      "snippet": "IntroductionHigh-resolution digitized cardiac anatomical data sets are in huge demand in clinical, basic research and computational settings. They can be lev...",
+      "checkedAt": "2026-03-30T19:44:13.149Z"
+    },
+    {
+      "id": "site_1774899852478_olrrw",
+      "url": "https://www.researchgate.net/publication/356199920_How_to_learn_the_cardiac_anatomy_efficiently_and_interestingly",
+      "domain": "researchgate.net",
+      "title": "researchgate.net",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=researchgate.net&sz=64",
+      "checkedAt": "2026-03-30T19:44:12.726Z"
+    },
+    {
+      "id": "site_1774899841653_ywcev",
       "url": "https://learn.lboro.ac.uk/course/index.php",
       "domain": "learn.lboro.ac.uk",
       "title": "Module categories | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Module categories | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Lear",
-      "checkedAt": "2026-03-30T19:43:54.994Z"
+      "checkedAt": "2026-03-30T19:44:02.016Z"
     },
     {
-      "id": "site_1774899834150_xy1ka",
+      "id": "site_1774899841302_rro2r",
       "url": "https://learn.lboro.ac.uk/mod/forum/discuss.php?d=494667",
       "domain": "learn.lboro.ac.uk",
       "title": "Learn: Learn Rollover completed | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Learn: Learn Rollover completed | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search inp",
-      "checkedAt": "2026-03-30T19:43:54.627Z"
+      "checkedAt": "2026-03-30T19:44:01.653Z"
     },
     {
-      "id": "site_1774899833306_qopfs",
+      "id": "site_1774899840769_3axsx",
       "url": "https://learn.lboro.ac.uk/",
       "domain": "learn.lboro.ac.uk",
       "title": "Learn | Learn",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=learn.lboro.ac.uk&sz=64",
       "snippet": "Loughborough University Virtual Learning Environment.",
-      "checkedAt": "2026-03-30T19:43:54.150Z"
+      "checkedAt": "2026-03-30T19:44:01.302Z"
     },
     {
-      "id": "site_1774899832095_r9s5n",
+      "id": "site_1774899840200_b3jcs",
       "url": "https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/",
       "domain": "texasheart.org",
       "title": "Heart Anatomy | The Texas Heart Institute®",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=texasheart.org&sz=64",
       "snippet": "Heart Anatomy: Your heart is located between your lungs in the middle of your chest, behind and slightly to the left of your breastbone.",
-      "checkedAt": "2026-03-30T19:43:53.305Z"
+      "checkedAt": "2026-03-30T19:44:00.769Z"
     },
     {
-      "id": "site_1774899832095_b39sw",
+      "id": "site_1774899840200_14ftg",
       "url": "https://gsbs.uth.edu/files/outreach/Anatomy%20of%20the%20Heart.pdf",
       "domain": "gsbs.uth.edu",
       "title": "gsbs.uth.edu",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=gsbs.uth.edu&sz=64",
-      "checkedAt": "2026-03-30T19:43:52.095Z"
+      "checkedAt": "2026-03-30T19:44:00.200Z"
     },
     {
-      "id": "site_1774899830761_bjvac",
+      "id": "site_1774899839826_l7co9",
       "url": "https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy/",
       "domain": "courses.lumenlearning.com",
       "title": "Heart Anatomy | Anatomy and Physiology II",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=courses.lumenlearning.com&sz=64",
       "snippet": "Heart Anatomy | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 3: The Cardiovascular System: The Heart Search for: Heart Anatomy Learning Objectives By the end of this section, you will be able to: Describe the location and position of the heart within the body cavity Describe the internal and external anatomy of the heart Identify the tissue layers of the heart Relate the structure of the heart to its function as",
-      "checkedAt": "2026-03-30T19:43:52.094Z"
+      "checkedAt": "2026-03-30T19:44:00.199Z"
     },
     {
-      "id": "site_1774899820183_hrh98",
+      "id": "site_1774899829279_k7lr8",
       "url": "https://voka.io/how-to-memorize-anatomy-and-physiology/",
       "domain": "voka.io",
       "title": "Best Ways to Memorize Anatomy and Physiology: Step-by-Step Success Plan",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=voka.io&sz=64",
       "snippet": "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
-      "checkedAt": "2026-03-30T19:43:40.353Z"
+      "checkedAt": "2026-03-30T19:43:49.447Z"
     },
     {
-      "id": "site_1774899820115_owi4q",
+      "id": "site_1774899829218_atx9q",
       "url": "https://www.kenhub.com/en/library/learning-strategies/4-steps-to-memorize-anatomical-terms",
       "domain": "kenhub.com",
       "title": "Anatomical terms: How to memorize them in 4 steps | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "Anatomical terms: How to memorize them in 4 steps | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
-      "checkedAt": "2026-03-30T19:43:40.183Z"
+      "checkedAt": "2026-03-30T19:43:49.278Z"
     },
     {
-      "id": "site_1774899820024_mndi3",
+      "id": "site_1774899829135_mj9a5",
       "url": "https://www.magneticmemorymethod.com/how-to-memorize-anatomy/",
       "domain": "magneticmemorymethod.com",
       "title": "How to Memorize Anatomy for Med School (Without Flashcards)",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=magneticmemorymethod.com&sz=64",
       "snippet": "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
-      "checkedAt": "2026-03-30T19:43:40.115Z"
+      "checkedAt": "2026-03-30T19:43:49.218Z"
     },
     {
-      "id": "site_1774899819947_efzky",
+      "id": "site_1774899829073_1ovol",
       "url": "https://www.kenhub.com/en/library/anatomy/heart",
       "domain": "kenhub.com",
       "title": "Heart anatomy: Structure, valves, coronary vessels | Kenhub",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=kenhub.com&sz=64",
       "snippet": "Heart anatomy: Structure, valves, coronary vessels | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-s",
-      "checkedAt": "2026-03-30T19:43:40.024Z"
+      "checkedAt": "2026-03-30T19:43:49.135Z"
     },
     {
-      "id": "site_1774899819180_yzxyf",
+      "id": "site_1774899828229_4wxl3",
       "url": "https://anatomy.app/blog/how-to-learn-anatomy-fast",
       "domain": "anatomy.app",
       "title": "How to Learn Anatomy Fast: 7 Techniques and Strategies for Success | Anatomy.app",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=anatomy.app&sz=64",
       "snippet": "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease.",
-      "checkedAt": "2026-03-30T19:43:39.947Z"
+      "checkedAt": "2026-03-30T19:43:49.073Z"
     }
   ],
   "citations": [
@@ -209,9 +404,159 @@
       "url": "https://learn.lboro.ac.uk/course/index.php",
       "domain": "learn.lboro.ac.uk",
       "title": "Module categories | Learn"
+    },
+    {
+      "id": 11,
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1507005/full",
+      "domain": "frontiersin.org",
+      "title": "Frontiers | High-resolution 3D visualization of human hearts with emphases on the cardiac conduction system components—a new platform for me"
+    },
+    {
+      "id": 12,
+      "url": "https://www.cambridge.org/core/journals/cardiology-in-the-young/article/considerations-for-exploring-the-most-appropriate-method-for-residents-learning-anatomy-of-chd/F9A53A57F69A3B3CC7E33759780348CC",
+      "domain": "cambridge.org",
+      "title": "Considerations for exploring the most appropriate method for residents’ learning anatomy of CHD | Cardiology in the Young | Cambridge Core"
+    },
+    {
+      "id": 13,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379743/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "An evidence‐based approach to learning clinical anatomy: A guide for medical students, educators, and administrators - PMC"
+    },
+    {
+      "id": 14,
+      "url": "https://www.youtube.com/watch?v=7ERVxf5eD7k&vl=en",
+      "domain": "youtube.com",
+      "title": "youtube.com"
+    },
+    {
+      "id": 15,
+      "url": "https://learn.lboro.ac.uk/course/index.php?categoryid=128",
+      "domain": "learn.lboro.ac.uk",
+      "title": "All modules | Learn"
+    },
+    {
+      "id": 16,
+      "url": "https://www.coursera.org/courses?query=anatomy",
+      "domain": "coursera.org",
+      "title": "Best Anatomy Courses & Certificates [2026] | Coursera"
+    },
+    {
+      "id": 17,
+      "url": "https://voka.io/best-anatomy-apps/",
+      "domain": "voka.io",
+      "title": "10+ Best anatomy apps in 2026 - Voka"
+    },
+    {
+      "id": 18,
+      "url": "https://medicine.stmatthews.edu/blog/how-to-study-anatomy-in-medical-school-stmatthews",
+      "domain": "medicine.stmatthews.edu",
+      "title": "How to Study Anatomy in Medical School: A Complete Guide"
+    },
+    {
+      "id": 19,
+      "url": "https://learn.lboro.ac.uk/search/index.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Global search | Learn"
+    },
+    {
+      "id": 20,
+      "url": "https://www.zhihu.com/en/answer/1916294508",
+      "domain": "zhihu.com",
+      "title": "安全验证 - 知乎"
+    },
+    {
+      "id": 21,
+      "url": "https://www.instituteofhumananatomy.com/blog/study-anatomy-proven-memory-techniques",
+      "domain": "instituteofhumananatomy.com",
+      "title": "How to Study Anatomy: 5 Proven Memory Techniques"
+    },
+    {
+      "id": 22,
+      "url": "https://learn.lboro.ac.uk/course/search.php?areaids=core_course-course",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Search | Learn"
+    },
+    {
+      "id": 23,
+      "url": "https://learn.lboro.ac.uk/user/profile.php",
+      "domain": "learn.lboro.ac.uk",
+      "title": "learn.lboro.ac.uk"
+    },
+    {
+      "id": 24,
+      "url": "https://learn.lboro.ac.uk/mod/resource/view.php?id=1761769",
+      "domain": "learn.lboro.ac.uk",
+      "title": "Log in to the site | Learn"
+    },
+    {
+      "id": 25,
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Privacy Statement – Microsoft privacy"
     }
   ],
   "notes": [
+    {
+      "citationId": 25,
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: cf1e77c6312a40774cc550bbd7089a53 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
+    },
+    {
+      "citationId": 24,
+      "summary": "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy"
+    },
+    {
+      "citationId": 23,
+      "summary": "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can"
+    },
+    {
+      "citationId": 22,
+      "summary": "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module"
+    },
+    {
+      "citationId": 21,
+      "summary": "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding."
+    },
+    {
+      "citationId": 20,
+      "summary": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。"
+    },
+    {
+      "citationId": 19,
+      "summary": "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My"
+    },
+    {
+      "citationId": 18,
+      "summary": "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology."
+    },
+    {
+      "citationId": 17,
+      "summary": "Discover 2026&#039;s top-rated anatomy apps. Our review compares 10 leading apps by features, pricing, and learning styles to help you choose the best tool for your needs."
+    },
+    {
+      "citationId": 16,
+      "summary": "Anatomy courses can help you learn human body systems, muscle and bone structures, and organ functions. Compare course options to find what fits your goals. Enroll for free."
+    },
+    {
+      "citationId": 15,
+      "summary": "All modules | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My M"
+    },
+    {
+      "citationId": 14,
+      "summary": "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"j9LKadXPLIW41LsPkdOfoQ0\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"action_companion_center_align_descript"
+    },
+    {
+      "citationId": 13,
+      "summary": "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how"
+    },
+    {
+      "citationId": 12,
+      "summary": "Considerations for exploring the most appropriate method for residents’ learning anatomy of CHD - Volume 33 Issue 6"
+    },
+    {
+      "citationId": 11,
+      "summary": "IntroductionHigh-resolution digitized cardiac anatomical data sets are in huge demand in clinical, basic research and computational settings. They can be lev..."
+    },
     {
       "citationId": 10,
       "summary": "Module categories | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Lear"
@@ -255,32 +600,68 @@
   ],
   "events": [
     {
-      "id": "ev_1774899834994_9kfzr",
-      "at": "2026-03-30T19:43:54.994Z",
+      "id": "ev_1774899881482_e8j9f",
+      "at": "2026-03-30T19:44:41.482Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 25."
+    },
+    {
+      "id": "ev_1774899868407_j2cde",
+      "at": "2026-03-30T19:44:28.407Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart benchmark comparison"
+    },
+    {
+      "id": "ev_1774899868407_wb85v",
+      "at": "2026-03-30T19:44:28.407Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 20."
+    },
+    {
+      "id": "ev_1774899855711_sho4n",
+      "at": "2026-03-30T19:44:15.711Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart industry analysis 2025 2026"
+    },
+    {
+      "id": "ev_1774899855710_vpvos",
+      "at": "2026-03-30T19:44:15.711Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 15."
+    },
+    {
+      "id": "ev_1774899842016_2ve7c",
+      "at": "2026-03-30T19:44:02.017Z",
+      "phase": "analyzing",
+      "message": "Running query: how to learn anatomy by heart latest research paper"
+    },
+    {
+      "id": "ev_1774899842016_wibnv",
+      "at": "2026-03-30T19:44:02.016Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1774899820354_uibv0",
-      "at": "2026-03-30T19:43:40.354Z",
+      "id": "ev_1774899829448_nnybm",
+      "at": "2026-03-30T19:43:49.448Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart official documentation"
     },
     {
-      "id": "ev_1774899820354_flkfd",
-      "at": "2026-03-30T19:43:40.354Z",
+      "id": "ev_1774899829448_o3vlv",
+      "at": "2026-03-30T19:43:49.448Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1774899808793_6xyud",
-      "at": "2026-03-30T19:43:28.793Z",
+      "id": "ev_1774899817822_3oo77",
+      "at": "2026-03-30T19:43:37.822Z",
       "phase": "analyzing",
       "message": "Running query: how to learn anatomy by heart"
     },
     {
-      "id": "ev_1774899808793_zw0kh",
-      "at": "2026-03-30T19:43:28.793Z",
+      "id": "ev_1774899817822_xqgcq",
+      "at": "2026-03-30T19:43:37.822Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -298,24 +679,32 @@
     }
   ],
   "learnedSoFar": [
+    "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: cf1e77c6312a40774cc550bbd7089a53 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+    "Log in to the site | Learn Skip to main content Learn Loughborough University Virtual Learning Environment Manual Login To Log in using a manual account please click here Username Password Log in Lost password? Login Single Sign On (SSO) Lost password? Some modules may allow guest access Access as a guest Cookies notice You are not logged in. Learn Acceptable Use Policy",
+    "Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 Calendar My Modules My Modules Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn Calendar My Modules Collapse Expand My Modules Links Collapse Expand ProjectList Reading Lists -->[] [&nbsp;] [&nbsp;&nbsp;] --> Confirm Guests cannot access user profiles. Log in with a full user account to continue. Can",
+    "Search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My Module",
+    "Explore five effective techniques for mastering anatomy, from mnemonics to memory palaces, to enhance retention and understanding.",
+    "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
+    "Global search | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My",
+    "Learn how to study anatomy in medical school with practical tips, anatomy study tools, and proven methods to master human anatomy and physiology.",
+    "Discover 2026&#039;s top-rated anatomy apps. Our review compares 10 leading apps by features, pricing, and learning styles to help you choose the best tool for your needs.",
+    "Anatomy courses can help you learn human body systems, muscle and bone structures, and organ functions. Compare course options to find what fits your goals. Enroll for free.",
+    "All modules | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Learn My M",
+    "(function() {window.ytplayer={}; ytcfg.set({\"CLIENT_CANARY_STATE\":\"none\",\"DEVICE\":\"ceng\\u003dUSER_DEFINED\\u0026cos\\u003dForgeResearchBot\\u0026cosver\\u003d1.0\\u0026cplatform\\u003dDESKTOP\",\"DISABLE_YT_IMG_DELAY_LOADING\":false,\"ELEMENT_POOL_DEFAULT_CAP\":75,\"EVENT_ID\":\"j9LKadXPLIW41LsPkdOfoQ0\",\"EXPERIMENT_FLAGS\":{\"PremiumClientSharedConfig__enable_att_context_processor\":true,\"ab_det_apm\":true,\"ab_det_el_h\":true,\"action_companion_center_align_descript",
+    "The amount of information that medical students learn is voluminous and those who do not use evidence‐based learning strategies may struggle. Research from cognitive and educational psychology provides a blueprint on how",
+    "Considerations for exploring the most appropriate method for residents’ learning anatomy of CHD - Volume 33 Issue 6",
+    "IntroductionHigh-resolution digitized cardiac anatomical data sets are in huge demand in clinical, basic research and computational settings. They can be lev...",
     "Module categories | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search input Log in Lear",
     "Learn: Learn Rollover completed | Learn Skip to main content Side panel Learn Accessibility Size: A+ A- Style: 1 2 3 4 5 6 My Modules My Modules 25CMZ004 - Communication Skills 25PHZ002 - PhysicsMate 25TTZ002 - Academic Scholarship Quiz for MSc./Short Course Students MPQ025 - MSc Course Information &amp; Study Skills Wolfson Apprenticeship Homepage Links ProjectList Reading Lists More Site-wide search Search Close Perform search Toggle search inp",
-    "Loughborough University Virtual Learning Environment.",
-    "Heart Anatomy: Your heart is located between your lungs in the middle of your chest, behind and slightly to the left of your breastbone.",
-    "Heart Anatomy | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 3: The Cardiovascular System: The Heart Search for: Heart Anatomy Learning Objectives By the end of this section, you will be able to: Describe the location and position of the heart within the body cavity Describe the internal and external anatomy of the heart Identify the tissue layers of the heart Relate the structure of the heart to its function as",
-    "Learn effective strategies to memorize anatomy and physiology concepts, improve retention, and understand body systems for long-term success in medical studies.",
-    "Anatomical terms: How to memorize them in 4 steps | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-st",
-    "Learn how to use a Memory Palace to memorize bones, muscles, and nerves 3x faster. Includes step-by-step examples used by top med students.",
-    "Heart anatomy: Structure, valves, coronary vessels | Kenhub @font-face{font-family:\"PlutoSansRegular\";src:url(\"/assets/29357C_0_0-85b95d4ced2d9dd80c19a0b9901806c5f8323642b56e9c5c9683cd25bab573a8.digested.woff2\") format(\"woff2\");font-weight:400;font-style:normal}@font-face{font-family:\"PlutoSansLight\";src:url(\"/assets/29357C_1_0-5f3de7b9aaf027050c5cb075e6b2e40372c1fd70aecd170f72df06980e24a0fe.digested.woff2\") format(\"woff2\");font-weight:400;font-s",
-    "This blog discovers 7 strategies to accelerate anatomy learning and master the subject with ease."
+    "Loughborough University Virtual Learning Environment."
   ],
   "stats": {
-    "sourcesAnalyzed": 10,
-    "tokensUsedEstimate": 835,
-    "depthScore": 7,
+    "sourcesAnalyzed": 25,
+    "tokensUsedEstimate": 2132,
+    "depthScore": 17,
     "queriesGenerated": 24,
-    "iterations": 2,
-    "uniqueDomains": 7
+    "iterations": 5,
+    "uniqueDomains": 16
   },
   "control": {
     "paused": false,
