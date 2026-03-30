@@ -3,15 +3,14 @@
   "sessionId": "sess_dc5sdf6",
   "query": "ai in 2026",
   "createdAt": "2026-03-30T17:43:24.415Z",
-  "updatedAt": "2026-03-30T17:44:05.533Z",
-  "lastAdvancedAt": "2026-03-30T17:44:05.336Z",
+  "updatedAt": "2026-03-30T17:44:07.532Z",
+  "lastAdvancedAt": "2026-03-30T17:44:07.350Z",
   "phase": "analyzing",
   "progress": 8,
   "etaMinutes": 38,
   "planDraft": "1. Scope and constraints for: ai in 2026\n2. Generate broad search fan-out and hypothesis matrix.\n3. Analyze primary and secondary sources iteratively.\n4. Identify evidence gaps and run follow-up searches.\n5. Produce a citable report with confidence and limitations.",
   "planApproved": true,
   "pendingQueries": [
-    "ai in 2026 open source tools",
     "ai in 2026 enterprise usage"
   ],
   "processedQueries": [
@@ -24,12 +23,25 @@
     "ai in 2026 case study",
     "ai in 2026 expert interview",
     "ai in 2026 economics and costs",
-    "ai in 2026 timeline and adoption"
+    "ai in 2026 timeline and adoption",
+    "ai in 2026 open source tools"
   ],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1774892647532_um7gt",
+      "at": "2026-03-30T17:44:07.532Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 0."
+    },
+    {
+      "id": "ev_1774892647350_g162q",
+      "at": "2026-03-30T17:44:07.350Z",
+      "phase": "analyzing",
+      "message": "Running query: ai in 2026 open source tools"
+    },
     {
       "id": "ev_1774892645533_6j5l7",
       "at": "2026-03-30T17:44:05.533Z",
@@ -173,9 +185,9 @@
   "stats": {
     "sourcesAnalyzed": 0,
     "tokensUsedEstimate": 0,
-    "depthScore": 6,
+    "depthScore": 7,
     "queriesGenerated": 12,
-    "iterations": 10,
+    "iterations": 11,
     "uniqueDomains": 0
   },
   "control": {
