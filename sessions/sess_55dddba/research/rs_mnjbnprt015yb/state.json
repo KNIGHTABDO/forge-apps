@@ -3,16 +3,14 @@
   "sessionId": "sess_55dddba",
   "query": "why do we hard breath sometimes",
   "createdAt": "2026-04-03T19:54:03.449Z",
-  "updatedAt": "2026-04-03T19:55:25.819Z",
-  "lastAdvancedAt": "2026-04-03T19:55:22.963Z",
+  "updatedAt": "2026-04-03T19:55:30.244Z",
+  "lastAdvancedAt": "2026-04-03T19:55:29.028Z",
   "phase": "analyzing",
   "progress": 20,
   "etaMinutes": 32,
   "planDraft": "1. Define the Scope: Establish the physiological parameters of \"hard breathing,\" distinguishing between tachypnea (rapid breathing), dyspnea (subjective sensation of breathlessness), and hyperpnea (increased depth/rate due to metabolic demand). Differentiate between transient, exercise-induced causes and pathological or emotional triggers to narrow the search to clinically relevant and common scenarios.\n\n2. Execute Broad Search Fan-out: Utilize academic databases (PubMed, Google Scholar) and medical repositories (Mayo Clinic, Cleveland Clinic) to collect data on the underlying mechanisms of hard breathing. Focus on three primary domains: physiological response to physical exertion, psychological triggers (anxiety/panic), and underlying systemic conditions (cardiopulmonary, metabolic, or environmental factors).\n\n3. Categorize and Analyze Evidence: Organize findings into a tiered framework: primary physiological drivers (e.g., CO2 accumulation, O2 demand), secondary compensatory responses (e.g., autonomic nervous system activation), and acute vs. chronic manifestations. Evaluate the biological signaling pathways, specifically the role of chemoreceptors and the respiratory center in the brainstem, to explain the \"why\" behind the physical action.\n\n4. Identify Evidence Gaps and Ambiguities: Critically evaluate the collected data for areas of uncertainty, such as the threshold between normal physiological adaptation and pathological dyspnea, or the current scientific consensus on the \"air hunger\" sensation during non-exertional states. Flag subjective or anecdotal claims and isolate peer-reviewed, evidence-based conclusions to ensure accuracy.\n\n5. Synthesize and Formalize Findings: Draft a comprehensive explanation that integrates the physical requirements of the body with the neurological and emotional feedback loops. Structure the final output to address why the body initiates hard breathing as a protective or compensatory mechanism, clarifying when it is a normal homeostatic adjustment and when it signals a deviation from health.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes \"analysis\"",
-    "why do we hard breath sometimes opinion",
     "why do we hard breath sometimes official documentation \"case study\"",
     "why do we hard breath sometimes official documentation metrics",
     "why do we hard breath sometimes official documentation review",
@@ -36,9 +34,21 @@
     "why do we hard breath sometimes review",
     "why do we hard breath sometimes \"pdf\"",
     "why do we hard breath sometimes site:edu",
-    "why do we hard breath sometimes site:gov"
+    "why do we hard breath sometimes site:gov",
+    "why do we hard breath sometimes \"analysis\"",
+    "why do we hard breath sometimes opinion"
   ],
   "websites": [
+    {
+      "id": "site_1775246127124_l90q5",
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+      "domain": "healthdirect.gov.au",
+      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthdirect.gov.au&sz=64",
+      "snippet": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing.",
+      "checkedAt": "2026-04-03T19:55:27.151Z"
+    },
     {
       "id": "site_1775246118514_0sbnv",
       "url": "https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Respiratory/Breathing-pattern-disorders-patient-information.pdf",
@@ -825,9 +835,19 @@
       "url": "https://medlineplus.gov/breathingproblems.html",
       "domain": "medlineplus.gov",
       "title": "Breathing Problems | Shortness of Breath | MedlinePlus"
+    },
+    {
+      "id": 45,
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+      "domain": "healthdirect.gov.au",
+      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect"
     }
   ],
   "notes": [
+    {
+      "citationId": 45,
+      "summary": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing."
+    },
     {
       "citationId": 44,
       "summary": "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this."
@@ -1006,6 +1026,30 @@
     }
   ],
   "events": [
+    {
+      "id": "ev_1775246130244_ixkhk",
+      "at": "2026-04-03T19:55:30.244Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 45."
+    },
+    {
+      "id": "ev_1775246129028_7zj3k",
+      "at": "2026-04-03T19:55:29.028Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes opinion"
+    },
+    {
+      "id": "ev_1775246127151_rb4b1",
+      "at": "2026-04-03T19:55:27.151Z",
+      "phase": "analyzing",
+      "message": "Analyzed 1 sources this iteration. Total: 45."
+    },
+    {
+      "id": "ev_1775246125973_jnmw6",
+      "at": "2026-04-03T19:55:25.973Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes \"analysis\""
+    },
     {
       "id": "ev_1775246125819_f8gyd",
       "at": "2026-04-03T19:55:25.819Z",
@@ -1242,6 +1286,7 @@
     }
   ],
   "learnedSoFar": [
+    "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing.",
     "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this.",
     "Dust, fumes and other substances at work can cause asthma. Find out how to recognize this common type of asthma.",
     "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary",
@@ -1258,16 +1303,15 @@
     "Patients who develop breathing pattern disorder can find symptoms become so debilitating they&#039;re unable to live a life that&#039;s normal for them",
     "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
     ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
-    "Breathing difficulty may involve:",
-    "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated."
+    "Breathing difficulty may involve:"
   ],
   "stats": {
-    "sourcesAnalyzed": 44,
-    "tokensUsedEstimate": 3311,
-    "depthScore": 39,
+    "sourcesAnalyzed": 45,
+    "tokensUsedEstimate": 3368,
+    "depthScore": 40,
     "queriesGenerated": 24,
-    "iterations": 18,
-    "uniqueDomains": 37
+    "iterations": 20,
+    "uniqueDomains": 38
   },
   "control": {
     "paused": false,
