@@ -3,15 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:35.843Z",
-  "lastAdvancedAt": "2026-04-03T19:47:32.864Z",
+  "updatedAt": "2026-04-03T19:47:40.381Z",
+  "lastAdvancedAt": "2026-04-03T19:47:36.084Z",
   "phase": "analyzing",
-  "progress": 23,
-  "etaMinutes": 31,
+  "progress": 24,
+  "etaMinutes": 30,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? enterprise usage",
     "why do we hard breath sometimes? \"case study\"",
     "why do we hard breath sometimes? metrics",
     "why do we hard breath sometimes? review",
@@ -36,9 +35,60 @@
     "why do we hard breath sometimes? expert interview",
     "why do we hard breath sometimes? economics and costs",
     "why do we hard breath sometimes? timeline and adoption",
-    "why do we hard breath sometimes? open source tools"
+    "why do we hard breath sometimes? open source tools",
+    "why do we hard breath sometimes? enterprise usage"
   ],
   "websites": [
+    {
+      "id": "site_1775245659868_mbb5r",
+      "url": "https://en.wikipedia.org/wiki/4_Minutes",
+      "domain": "en.wikipedia.org",
+      "title": "4 Minutes - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "4 Minutes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and inspiration 2 Recording and mixing 3 Composition",
+      "checkedAt": "2026-04-03T19:47:40.381Z"
+    },
+    {
+      "id": "site_1775245659207_rzkyu",
+      "url": "https://en.wikipedia.org/wiki/Human_nature",
+      "domain": "en.wikipedia.org",
+      "title": "Human nature - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Human nature - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classical Greek philosophy Toggle Classical Greek philoso",
+      "checkedAt": "2026-04-03T19:47:39.868Z"
+    },
+    {
+      "id": "site_1775245658916_yz6kw",
+      "url": "https://en.wikipedia.org/wiki/Reptile",
+      "domain": "en.wikipedia.org",
+      "title": "Reptile - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Reptile - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Classical ",
+      "checkedAt": "2026-04-03T19:47:39.207Z"
+    },
+    {
+      "id": "site_1775245658632_lo77z",
+      "url": "https://en.wikipedia.org/wiki/Superman",
+      "domain": "en.wikipedia.org",
+      "title": "Superman - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Superman - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Influences 2 Co",
+      "checkedAt": "2026-04-03T19:47:38.916Z"
+    },
+    {
+      "id": "site_1775245657696_v9ppu",
+      "url": "https://www.healthline.com/health/heavy-breathing",
+      "domain": "healthline.com",
+      "title": "Heavy Breathing: Causes, Symptoms, Treatment, and More",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthline.com&sz=64",
+      "snippet": "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions.",
+      "checkedAt": "2026-04-03T19:47:38.631Z"
+    },
     {
       "id": "site_1775245655053_81n44",
       "url": "https://en.wikipedia.org/wiki/Poetry_analysis",
@@ -956,9 +1006,59 @@
       "url": "https://en.wikipedia.org/wiki/Poetry_analysis",
       "domain": "en.wikipedia.org",
       "title": "Poetry analysis - Wikipedia"
+    },
+    {
+      "id": 56,
+      "url": "https://www.healthline.com/health/heavy-breathing",
+      "domain": "healthline.com",
+      "title": "Heavy Breathing: Causes, Symptoms, Treatment, and More"
+    },
+    {
+      "id": 57,
+      "url": "https://en.wikipedia.org/wiki/Superman",
+      "domain": "en.wikipedia.org",
+      "title": "Superman - Wikipedia"
+    },
+    {
+      "id": 58,
+      "url": "https://en.wikipedia.org/wiki/Reptile",
+      "domain": "en.wikipedia.org",
+      "title": "Reptile - Wikipedia"
+    },
+    {
+      "id": 59,
+      "url": "https://en.wikipedia.org/wiki/Human_nature",
+      "domain": "en.wikipedia.org",
+      "title": "Human nature - Wikipedia"
+    },
+    {
+      "id": 60,
+      "url": "https://en.wikipedia.org/wiki/4_Minutes",
+      "domain": "en.wikipedia.org",
+      "title": "4 Minutes - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 60,
+      "summary": "4 Minutes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and inspiration 2 Recording and mixing 3 Composition"
+    },
+    {
+      "citationId": 59,
+      "summary": "Human nature - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classical Greek philosophy Toggle Classical Greek philoso"
+    },
+    {
+      "citationId": 58,
+      "summary": "Reptile - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Classical "
+    },
+    {
+      "citationId": 57,
+      "summary": "Superman - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Influences 2 Co"
+    },
+    {
+      "citationId": 56,
+      "summary": "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions."
+    },
     {
       "citationId": 55,
       "summary": "Poetry analysis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 Meter and Rhym"
@@ -1182,6 +1282,18 @@
   ],
   "events": [
     {
+      "id": "ev_1775245660381_jsaph",
+      "at": "2026-04-03T19:47:40.381Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 60."
+    },
+    {
+      "id": "ev_1775245656084_wkgcb",
+      "at": "2026-04-03T19:47:36.084Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? enterprise usage"
+    },
+    {
       "id": "ev_1775245655836_ft640",
       "at": "2026-04-03T19:47:35.836Z",
       "phase": "analyzing",
@@ -1333,6 +1445,11 @@
     }
   ],
   "learnedSoFar": [
+    "4 Minutes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and inspiration 2 Recording and mixing 3 Composition",
+    "Human nature - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classical Greek philosophy Toggle Classical Greek philoso",
+    "Reptile - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Classical ",
+    "Superman - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Influences 2 Co",
+    "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions.",
     "Poetry analysis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 Meter and Rhym",
     "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11",
     "Dungeons &amp; Dragons - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Play overview Toggle Play overview subsection 1",
@@ -1345,20 +1462,15 @@
     "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20",
     "Fuzzy concept - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins Toggle Origins subsection 1.1 Sorites paradox 1.",
     "David Irving - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Student years Toggle Student years subsectio",
-    "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c",
-    "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
-    "The relationship between health and economic stability is multifaceted and profound, extending to virtually every aspect of our well-being. One area where this connection is particularly evident yet often overlooked is r",
-    "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam",
-    "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
-    "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 "
+    "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c"
   ],
   "stats": {
-    "sourcesAnalyzed": 55,
-    "tokensUsedEstimate": 5199,
-    "depthScore": 30,
+    "sourcesAnalyzed": 60,
+    "tokensUsedEstimate": 5713,
+    "depthScore": 33,
     "queriesGenerated": 24,
-    "iterations": 11,
-    "uniqueDomains": 22
+    "iterations": 12,
+    "uniqueDomains": 23
   },
   "control": {
     "paused": false,
