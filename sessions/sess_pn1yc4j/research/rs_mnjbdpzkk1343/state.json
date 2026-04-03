@@ -1,0 +1,39 @@
+{
+  "id": "rs_mnjbdpzkk1343",
+  "sessionId": "sess_pn1yc4j",
+  "query": "why do we hard breath sometimes?",
+  "createdAt": "2026-04-03T19:46:17.168Z",
+  "updatedAt": "2026-04-03T19:46:21.760Z",
+  "lastAdvancedAt": "2026-04-03T19:46:17.168Z",
+  "phase": "awaiting_plan",
+  "progress": 2,
+  "etaMinutes": 45,
+  "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
+  "planApproved": false,
+  "pendingQueries": [],
+  "processedQueries": [],
+  "websites": [],
+  "citations": [],
+  "notes": [],
+  "events": [
+    {
+      "id": "ev_1775245581759_xpq3y",
+      "at": "2026-04-03T19:46:21.759Z",
+      "phase": "awaiting_plan",
+      "message": "Research session created. Plan draft is ready for review."
+    }
+  ],
+  "learnedSoFar": [],
+  "stats": {
+    "sourcesAnalyzed": 0,
+    "tokensUsedEstimate": 0,
+    "depthScore": 0,
+    "queriesGenerated": 0,
+    "iterations": 0,
+    "uniqueDomains": 0
+  },
+  "control": {
+    "paused": false,
+    "stopped": false
+  }
+}
