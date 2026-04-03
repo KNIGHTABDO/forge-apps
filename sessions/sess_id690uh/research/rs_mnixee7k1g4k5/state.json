@@ -3,31 +3,19 @@
   "sessionId": "sess_id690uh",
   "query": "Why do we get a hardly breathing moments",
   "createdAt": "2026-04-03T13:14:53.936Z",
-  "updatedAt": "2026-04-03T13:15:58.608Z",
-  "lastAdvancedAt": "2026-04-03T13:15:13.352Z",
-  "phase": "query_fanout",
+  "updatedAt": "2026-04-03T13:16:01.489Z",
+  "lastAdvancedAt": "2026-04-03T13:16:01.489Z",
+  "phase": "awaiting_plan",
   "progress": 4,
   "etaMinutes": 45,
   "planDraft": "1. Define Clinical Scope and Terminologies: Conduct an initial mapping of the user query \"hardly breathing moments\" to formal medical terminology. Research the distinction between dyspnea (subjective shortness of breath), apnea (cessation of breathing), tachypnea (rapid breathing), and psychological manifestations such as sighing dyspnea or air hunger associated with anxiety. Establish a scope that categorizes potential causes into respiratory, cardiovascular, neurological, and psychogenic domains.\n\n2. Execute Multi-Domain Search Fan-out: Perform targeted searches across peer-reviewed databases (PubMed, Google Scholar) and reputable health information repositories (Mayo Clinic, Cleveland Clinic, NHS). Use Boolean search strings to isolate specific triggers for intermittent breathing difficulty, such as \"episodic dyspnea causes,\" \"psychosomatic breathing distress,\" \"exercise-induced air hunger,\" and \"nocturnal breathing interruptions.\" Capture data on both physiological conditions (e.g., asthma, GERD) and psychological states (e.g., panic attacks).\n\n3. Categorize and Analyze Pathophysiological Mechanisms: Synthesize findings by analyzing the underlying mechanisms for each identified cause. Map specific symptoms to their diagnostic drivers: differentiate between structural issues (e.g., airway obstruction or cardiac insufficiency), metabolic factors (e.g., hyperventilation-induced hypocapnia), and behavioral triggers. Evaluate the role of the autonomic nervous system in modulating breathing patterns during stress or rest.\n\n4. Identify Evidence Gaps and Confounding Factors: Critically evaluate the research for missing information, specifically focusing on the intersection of \"subclinical\" breathing sensations—where patients report \"hardly breathing\" but show normal oxygen saturation levels. Note gaps in the literature regarding the patient's subjective experience versus objective clinical findings, and look for distinctions between situational anxiety and chronic underlying ailments that remain undiagnosed.\n\n5. Synthesize Findings into a Structured Explanation: Compile the gathered data into a comprehensive report. Structure the synthesis by: A) Categorizing immediate/acute triggers versus chronic health conditions, B) Explaining the neuro-physiological feedback loop of air hunger, C) Providing a section on when these moments transition from benign to medical emergencies, and D) Creating a summary that contextualizes why these moments occur as a complex interaction between body and mind.",
-  "planApproved": true,
+  "planApproved": false,
   "pendingQueries": [],
   "processedQueries": [],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
-    {
-      "id": "ev_1775222158608",
-      "at": "2026-04-03T13:15:58.608Z",
-      "phase": "query_fanout",
-      "message": "Research plan approved. Launching query fan-out."
-    },
-    {
-      "id": "ev_1775222116809",
-      "at": "2026-04-03T13:15:16.810Z",
-      "phase": "query_fanout",
-      "message": "Research plan approved. Launching query fan-out."
-    },
     {
       "id": "ev_1775222100121_mg7uk",
       "at": "2026-04-03T13:15:00.121Z",
@@ -47,6 +35,5 @@
   "control": {
     "paused": false,
     "stopped": false
-  },
-  "planFinal": "1. Define Clinical Scope and Terminologies: Conduct an initial mapping of the user query \"hardly breathing moments\" to formal medical terminology. Research the distinction between dyspnea (subjective shortness of breath), apnea (cessation of breathing), tachypnea (rapid breathing), and psychological manifestations such as sighing dyspnea or air hunger associated with anxiety. Establish a scope that categorizes potential causes into respiratory, cardiovascular, neurological, and psychogenic domains.\n\n2. Execute Multi-Domain Search Fan-out: Perform targeted searches across peer-reviewed databases (PubMed, Google Scholar) and reputable health information repositories (Mayo Clinic, Cleveland Clinic, NHS). Use Boolean search strings to isolate specific triggers for intermittent breathing difficulty, such as \"episodic dyspnea causes,\" \"psychosomatic breathing distress,\" \"exercise-induced air hunger,\" and \"nocturnal breathing interruptions.\" Capture data on both physiological conditions (e.g., asthma, GERD) and psychological states (e.g., panic attacks).\n\n3. Categorize and Analyze Pathophysiological Mechanisms: Synthesize findings by analyzing the underlying mechanisms for each identified cause. Map specific symptoms to their diagnostic drivers: differentiate between structural issues (e.g., airway obstruction or cardiac insufficiency), metabolic factors (e.g., hyperventilation-induced hypocapnia), and behavioral triggers. Evaluate the role of the autonomic nervous system in modulating breathing patterns during stress or rest.\n\n4. Identify Evidence Gaps and Confounding Factors: Critically evaluate the research for missing information, specifically focusing on the intersection of \"subclinical\" breathing sensations—where patients report \"hardly breathing\" but show normal oxygen saturation levels. Note gaps in the literature regarding the patient's subjective experience versus objective clinical findings, and look for distinctions between situational anxiety and chronic underlying ailments that remain undiagnosed.\n\n5. Synthesize Findings into a Structured Explanation: Compile the gathered data into a comprehensive report. Structure the synthesis by: A) Categorizing immediate/acute triggers versus chronic health conditions, B) Explaining the neuro-physiological feedback loop of air hunger, C) Providing a section on when these moments transition from benign to medical emergencies, and D) Creating a summary that contextualizes why these moments occur as a complex interaction between body and mind."
+  }
 }
