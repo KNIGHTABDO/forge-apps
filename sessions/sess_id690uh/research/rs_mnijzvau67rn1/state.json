@@ -3,7 +3,7 @@
   "sessionId": "sess_id690uh",
   "query": "Causes of hardly breathing",
   "createdAt": "2026-04-03T06:59:41.239Z",
-  "updatedAt": "2026-04-03T07:01:54.609Z",
+  "updatedAt": "2026-04-03T07:01:56.471Z",
   "lastAdvancedAt": "2026-04-03T06:59:52.972Z",
   "phase": "query_fanout",
   "progress": 4,
@@ -16,6 +16,18 @@
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1775199716471",
+      "at": "2026-04-03T07:01:56.471Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
+    {
+      "id": "ev_1775199716131",
+      "at": "2026-04-03T07:01:56.131Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
     {
       "id": "ev_1775199714609",
       "at": "2026-04-03T07:01:54.609Z",
