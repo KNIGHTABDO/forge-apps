@@ -3,15 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:48:17.070Z",
-  "lastAdvancedAt": "2026-04-03T19:48:14.075Z",
+  "updatedAt": "2026-04-03T19:48:22.749Z",
+  "lastAdvancedAt": "2026-04-03T19:48:18.144Z",
   "phase": "analyzing",
-  "progress": 35,
+  "progress": 37,
   "etaMinutes": 25,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? official documentation \"case study\"",
     "why do we hard breath sometimes? official documentation metrics",
     "why do we hard breath sometimes? official documentation review",
     "why do we hard breath sometimes? official documentation \"pdf\""
@@ -36,158 +35,209 @@
     "why do we hard breath sometimes? site:edu",
     "why do we hard breath sometimes? site:gov",
     "why do we hard breath sometimes? \"analysis\"",
-    "why do we hard breath sometimes? opinion"
+    "why do we hard breath sometimes? opinion",
+    "why do we hard breath sometimes? official documentation \"case study\""
   ],
   "websites": [
     {
-      "id": "site_1775245696998_1nmo4",
+      "id": "site_1775245702679_dkgp6",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
+      "checkedAt": "2026-04-03T19:48:22.749Z"
+    },
+    {
+      "id": "site_1775245702553_e91t8",
+      "url": "https://en.wikipedia.org/wiki/History_of_medicine",
+      "domain": "en.wikipedia.org",
+      "title": "History of medicine - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc",
+      "checkedAt": "2026-04-03T19:48:22.678Z"
+    },
+    {
+      "id": "site_1775245701815_570zc",
+      "url": "https://en.wikipedia.org/wiki/History_of_diabetes",
+      "domain": "en.wikipedia.org",
+      "title": "History of diabetes - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "History of diabetes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early accounts Toggle Early accounts subsection 1.",
+      "checkedAt": "2026-04-03T19:48:22.553Z"
+    },
+    {
+      "id": "site_1775245701227_5gaek",
+      "url": "https://en.wikipedia.org/wiki/Gaddang_people",
+      "domain": "en.wikipedia.org",
+      "title": "Gaddang people - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Gaddang people - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physical geography 2 A linguistic geography 3 Evolving ",
+      "checkedAt": "2026-04-03T19:48:21.815Z"
+    },
+    {
+      "id": "site_1775245699929_88nkp",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
+      "domain": "ncbi.nlm.nih.gov",
+      "title": "Dyspnea - StatPearls - NCBI Bookshelf",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque",
+      "checkedAt": "2026-04-03T19:48:21.227Z"
+    },
+    {
+      "id": "site_1775245698077_4a3kk",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-      "checkedAt": "2026-04-03T19:48:17.069Z"
+      "checkedAt": "2026-04-03T19:48:18.144Z"
     },
     {
-      "id": "site_1775245696594_2trer",
+      "id": "site_1775245697999_fnyd8",
       "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche_and_free_will",
       "domain": "en.wikipedia.org",
       "title": "Friedrich Nietzsche and free will - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Friedrich Nietzsche and free will - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Schopenhauer Toggle Schopenhauer sub",
-      "checkedAt": "2026-04-03T19:48:16.998Z"
+      "checkedAt": "2026-04-03T19:48:18.077Z"
     },
     {
-      "id": "site_1775245696512_g1vqi",
+      "id": "site_1775245697230_wjozm",
       "url": "https://en.wikipedia.org/wiki/Duran_Duran_(1993_album)",
       "domain": "en.wikipedia.org",
       "title": "Duran Duran (1993 album) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Duran Duran (1993 album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Development and recording Toggle",
-      "checkedAt": "2026-04-03T19:48:16.594Z"
+      "checkedAt": "2026-04-03T19:48:17.999Z"
     },
     {
-      "id": "site_1775245696263_xes5k",
+      "id": "site_1775245697148_eo3fm",
       "url": "https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin",
       "domain": "en.wikipedia.org",
       "title": "Religious views of Charles Darwin - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Religious views of Charles Darwin - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Darwin's religious background Toggle",
-      "checkedAt": "2026-04-03T19:48:16.512Z"
+      "checkedAt": "2026-04-03T19:48:17.230Z"
     },
     {
-      "id": "site_1775245695578_b1h8e",
+      "id": "site_1775245696544_dyzyn",
       "url": "https://en.wikipedia.org/wiki/List_of_Daniel_Tiger's_Neighborhood_episodes",
       "domain": "en.wikipedia.org",
       "title": "List of Daniel Tiger's Neighborhood episodes - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "List of Daniel Tiger's Neighborhood episodes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Series overview 2 Episode",
-      "checkedAt": "2026-04-03T19:48:16.263Z"
+      "checkedAt": "2026-04-03T19:48:17.148Z"
     },
     {
-      "id": "site_1775245693974_4fxzd",
+      "id": "site_1775245695734_am6fz",
       "url": "https://en.wikipedia.org/wiki/Twelfth_Doctor",
       "domain": "en.wikipedia.org",
       "title": "Twelfth Doctor - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Twelfth Doctor - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Casting 1",
-      "checkedAt": "2026-04-03T19:48:14.075Z"
+      "checkedAt": "2026-04-03T19:48:15.818Z"
     },
     {
-      "id": "site_1775245693622_auy22",
+      "id": "site_1775245695644_oe4uc",
       "url": "https://en.wikipedia.org/wiki/Snoring",
       "domain": "en.wikipedia.org",
       "title": "Snoring - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Snoring - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Distinguis",
-      "checkedAt": "2026-04-03T19:48:13.974Z"
+      "checkedAt": "2026-04-03T19:48:15.734Z"
     },
     {
-      "id": "site_1775245693530_u12e3",
+      "id": "site_1775245695564_cb5w5",
       "url": "https://en.wikipedia.org/wiki/Afrikaans_grammar",
       "domain": "en.wikipedia.org",
       "title": "Afrikaans grammar - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Afrikaans grammar - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Standardised Afrikaans 2 Lexical categories Toggle L",
-      "checkedAt": "2026-04-03T19:48:13.622Z"
+      "checkedAt": "2026-04-03T19:48:15.644Z"
     },
     {
-      "id": "site_1775245692939_etil9",
+      "id": "site_1775245695494_4cnn7",
       "url": "https://en.wikipedia.org/wiki/Chinese_creation_myths",
       "domain": "en.wikipedia.org",
       "title": "Chinese creation myths - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Chinese creation myths - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Cosmogonic mythologies Toggle Cosmogonic mythol",
-      "checkedAt": "2026-04-03T19:48:13.530Z"
+      "checkedAt": "2026-04-03T19:48:15.564Z"
     },
     {
-      "id": "site_1775245692015_420by",
+      "id": "site_1775245695123_lhonq",
       "url": "https://www.medicalnewstoday.com/articles/324429",
       "domain": "medicalnewstoday.com",
       "title": "Difficulty breathing: Causes, symptoms, and treatment",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=64",
       "snippet": "People can experience difficulty breathing for a wide range of reasons. In this article, we look at causes, symptoms, and ways to prevent breathing difficulties.",
-      "checkedAt": "2026-04-03T19:48:12.938Z"
+      "checkedAt": "2026-04-03T19:48:15.494Z"
     },
     {
-      "id": "site_1775245691012_1pqg9",
+      "id": "site_1775245694386_3ly99",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-      "checkedAt": "2026-04-03T19:48:11.080Z"
+      "checkedAt": "2026-04-03T19:48:14.457Z"
     },
     {
-      "id": "site_1775245690891_apzol",
-      "url": "https://en.wikipedia.org/wiki/Waterboarding",
+      "id": "site_1775245694046_tm76n",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Clarkson",
       "domain": "en.wikipedia.org",
-      "title": "Waterboarding - Wikipedia",
+      "title": "Jeremy Clarkson - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Waterboarding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origin of the term 2 Technique Toggle Technique subsecti",
-      "checkedAt": "2026-04-03T19:48:11.012Z"
+      "snippet": "Jeremy Clarkson - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Childhood ",
+      "checkedAt": "2026-04-03T19:48:14.382Z"
     },
     {
-      "id": "site_1775245690599_73lk2",
+      "id": "site_1775245693643_zejkp",
       "url": "https://en.wikipedia.org/wiki/Bob_Dylan",
       "domain": "en.wikipedia.org",
       "title": "Bob Dylan - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
-      "checkedAt": "2026-04-03T19:48:10.891Z"
+      "checkedAt": "2026-04-03T19:48:14.046Z"
     },
     {
-      "id": "site_1775245690471_we6le",
+      "id": "site_1775245693489_kwv5g",
       "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
       "domain": "en.wikipedia.org",
       "title": "Arnold Schwarzenegger - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Arnold Schwarzenegger - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Bodybuilding career T",
-      "checkedAt": "2026-04-03T19:48:10.599Z"
+      "checkedAt": "2026-04-03T19:48:13.642Z"
     },
     {
-      "id": "site_1775245690377_tqxhl",
+      "id": "site_1775245693387_4ppmr",
       "url": "https://en.wikipedia.org/wiki/Dennis_Rader",
       "domain": "en.wikipedia.org",
       "title": "Dennis Rader - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Dennis Rader - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Childhood 1.2",
-      "checkedAt": "2026-04-03T19:48:10.471Z"
+      "checkedAt": "2026-04-03T19:48:13.488Z"
     },
     {
       "id": "site_1775245683169_opwly",
@@ -1670,9 +1720,9 @@
     },
     {
       "id": 89,
-      "url": "https://en.wikipedia.org/wiki/Waterboarding",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Clarkson",
       "domain": "en.wikipedia.org",
-      "title": "Waterboarding - Wikipedia"
+      "title": "Jeremy Clarkson - Wikipedia"
     },
     {
       "id": 90,
@@ -1739,9 +1789,59 @@
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com"
+    },
+    {
+      "id": 101,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
+      "domain": "ncbi.nlm.nih.gov",
+      "title": "Dyspnea - StatPearls - NCBI Bookshelf"
+    },
+    {
+      "id": 102,
+      "url": "https://en.wikipedia.org/wiki/Gaddang_people",
+      "domain": "en.wikipedia.org",
+      "title": "Gaddang people - Wikipedia"
+    },
+    {
+      "id": 103,
+      "url": "https://en.wikipedia.org/wiki/History_of_diabetes",
+      "domain": "en.wikipedia.org",
+      "title": "History of diabetes - Wikipedia"
+    },
+    {
+      "id": 104,
+      "url": "https://en.wikipedia.org/wiki/History_of_medicine",
+      "domain": "en.wikipedia.org",
+      "title": "History of medicine - Wikipedia"
+    },
+    {
+      "id": 105,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
     }
   ],
   "notes": [
+    {
+      "citationId": 105,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
+    },
+    {
+      "citationId": 104,
+      "summary": "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc"
+    },
+    {
+      "citationId": 103,
+      "summary": "History of diabetes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early accounts Toggle Early accounts subsection 1."
+    },
+    {
+      "citationId": 102,
+      "summary": "Gaddang people - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physical geography 2 A linguistic geography 3 Evolving "
+    },
+    {
+      "citationId": 101,
+      "summary": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque"
+    },
     {
       "citationId": 100,
       "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW"
@@ -1788,7 +1888,7 @@
     },
     {
       "citationId": 89,
-      "summary": "Waterboarding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origin of the term 2 Technique Toggle Technique subsecti"
+      "summary": "Jeremy Clarkson - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Childhood "
     },
     {
       "citationId": 88,
@@ -2145,38 +2245,50 @@
   ],
   "events": [
     {
-      "id": "ev_1775245697069_4d33r",
-      "at": "2026-04-03T19:48:17.069Z",
+      "id": "ev_1775245702749_yuemz",
+      "at": "2026-04-03T19:48:22.749Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 105."
+    },
+    {
+      "id": "ev_1775245698144_sebyh",
+      "at": "2026-04-03T19:48:18.144Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? official documentation \"case study\""
+    },
+    {
+      "id": "ev_1775245698144_caeca",
+      "at": "2026-04-03T19:48:18.144Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 100."
     },
     {
-      "id": "ev_1775245694075_x8zk4",
-      "at": "2026-04-03T19:48:14.075Z",
+      "id": "ev_1775245695818_e2n9b",
+      "at": "2026-04-03T19:48:15.818Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? opinion"
     },
     {
-      "id": "ev_1775245694075_hqw6f",
-      "at": "2026-04-03T19:48:14.075Z",
+      "id": "ev_1775245695818_l5v1x",
+      "at": "2026-04-03T19:48:15.818Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 95."
     },
     {
-      "id": "ev_1775245691080_e8liw",
-      "at": "2026-04-03T19:48:11.080Z",
+      "id": "ev_1775245694458_jead8",
+      "at": "2026-04-03T19:48:14.458Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? \"analysis\""
     },
     {
-      "id": "ev_1775245691080_9c9dx",
-      "at": "2026-04-03T19:48:11.080Z",
+      "id": "ev_1775245694458_105ef",
+      "at": "2026-04-03T19:48:14.458Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 90."
     },
     {
-      "id": "ev_1775245687818_cx7ro",
-      "at": "2026-04-03T19:48:07.818Z",
+      "id": "ev_1775245690798_jibq9",
+      "at": "2026-04-03T19:48:10.798Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? site:gov"
     },
@@ -2404,6 +2516,11 @@
     }
   ],
   "learnedSoFar": [
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
+    "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc",
+    "History of diabetes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early accounts Toggle Early accounts subsection 1.",
+    "Gaddang people - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physical geography 2 A linguistic geography 3 Evolving ",
+    "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque",
     "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
     "Friedrich Nietzsche and free will - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Schopenhauer Toggle Schopenhauer sub",
     "Duran Duran (1993 album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Development and recording Toggle",
@@ -2415,20 +2532,15 @@
     "Chinese creation myths - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Cosmogonic mythologies Toggle Cosmogonic mythol",
     "People can experience difficulty breathing for a wide range of reasons. In this article, we look at causes, symptoms, and ways to prevent breathing difficulties.",
     "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-    "Waterboarding - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origin of the term 2 Technique Toggle Technique subsecti",
-    "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
-    "Arnold Schwarzenegger - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Bodybuilding career T",
-    "Dennis Rader - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Childhood 1.2",
-    "Indigenous peoples of the Americas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subs",
-    "Geraldo Rivera - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 ABC Ne",
-    "Barbra Streisand - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family 1."
+    "Jeremy Clarkson - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Childhood ",
+    "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2"
   ],
   "stats": {
-    "sourcesAnalyzed": 100,
-    "tokensUsedEstimate": 10233,
-    "depthScore": 46,
+    "sourcesAnalyzed": 105,
+    "tokensUsedEstimate": 10775,
+    "depthScore": 48,
     "queriesGenerated": 24,
-    "iterations": 20,
+    "iterations": 21,
     "uniqueDomains": 26
   },
   "control": {
