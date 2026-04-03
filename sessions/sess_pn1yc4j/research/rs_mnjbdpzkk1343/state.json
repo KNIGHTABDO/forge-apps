@@ -3,15 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:46:39.874Z",
-  "lastAdvancedAt": "2026-04-03T19:46:33.219Z",
+  "updatedAt": "2026-04-03T19:46:49.954Z",
+  "lastAdvancedAt": "2026-04-03T19:46:40.943Z",
   "phase": "analyzing",
-  "progress": 9,
+  "progress": 11,
   "etaMinutes": 37,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? official documentation",
     "why do we hard breath sometimes? latest research paper",
     "why do we hard breath sometimes? industry analysis 2025 2026",
     "why do we hard breath sometimes? benchmark comparison",
@@ -36,67 +35,127 @@
     "why do we hard breath sometimes? official documentation \"pdf\""
   ],
   "processedQueries": [
-    "why do we hard breath sometimes?"
+    "why do we hard breath sometimes?",
+    "why do we hard breath sometimes? official documentation"
   ],
   "websites": [
     {
-      "id": "site_1775245599057_rlx77",
-      "url": "https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890",
-      "domain": "mayoclinic.org",
-      "title": "Shortness of breath Causes - Mayo Clinic",
+      "id": "site_1775245608023_9xnyu",
+      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why什么意思_百度知道",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=mayoclinic.org&sz=64",
-      "snippet": "Trouble breathing can come on suddenly or last for weeks or longer. Most cases are due to heart or lung conditions, but there are many other causes.",
-      "checkedAt": "2026-04-03T19:46:39.873Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
+      "checkedAt": "2026-04-03T19:46:49.954Z"
     },
     {
-      "id": "site_1775245597991_y93vl",
+      "id": "site_1775245606924_i5mqm",
+      "url": "https://www.zhihu.com/question/860917177",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-04-03T19:46:48.023Z"
+    },
+    {
+      "id": "site_1775245605479_ymfv0",
+      "url": "https://zhidao.baidu.com/question/82727586.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why的用法_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣",
+      "checkedAt": "2026-04-03T19:46:46.923Z"
+    },
+    {
+      "id": "site_1775245604636_d3n9r",
+      "url": "https://zhidao.baidu.com/question/134401233120139445.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why有多少种用法，用Why提问有多少种回答_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why",
+      "checkedAt": "2026-04-03T19:46:45.479Z"
+    },
+    {
+      "id": "site_1775245603011_4cnau",
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+      "domain": "healthdirect.gov.au",
+      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthdirect.gov.au&sz=64",
+      "snippet": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing.",
+      "checkedAt": "2026-04-03T19:46:44.636Z"
+    },
+    {
+      "id": "site_1775245602504_5g4uy",
+      "url": "https://www.webmd.com/lung/breathing-problems",
+      "domain": "webmd.com",
+      "title": "Breathing Problems: Causes, Symptoms & Solutions",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
+      "snippet": "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them.",
+      "checkedAt": "2026-04-03T19:46:43.011Z"
+    },
+    {
+      "id": "site_1775245600290_t86y2",
+      "url": "https://www.webmd.com/lung/breathing-problems-unusual-causes",
+      "domain": "webmd.com",
+      "title": "Trouble Breathing: 7 Surprising Reasons",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
+      "snippet": "Heart and lung disease aren’t the only health problems that can cause you to feel winded. Here are some unusual reasons you can’t catch your breath.",
+      "checkedAt": "2026-04-03T19:46:40.941Z"
+    },
+    {
+      "id": "site_1775245599971_gz65e",
       "url": "https://www.healthpartners.com/blog/shortness-of-breath/",
       "domain": "healthpartners.com",
       "title": "Shortness of breath (dyspnea): Causes and symptoms | HealthPartners Blog",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=healthpartners.com&sz=64",
       "snippet": "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do.",
-      "checkedAt": "2026-04-03T19:46:39.057Z"
+      "checkedAt": "2026-04-03T19:46:40.290Z"
     },
     {
-      "id": "site_1775245597461_ozznx",
+      "id": "site_1775245599566_2zv85",
       "url": "https://www.austinpulmonary.com/2025/03/07/what-causes-shortness-of-breath-that-comes-and-goes/",
       "domain": "austinpulmonary.com",
       "title": "austinpulmonary.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=austinpulmonary.com&sz=64",
-      "checkedAt": "2026-04-03T19:46:37.991Z"
+      "checkedAt": "2026-04-03T19:46:39.970Z"
     },
     {
-      "id": "site_1775245596462_1dodd",
+      "id": "site_1775245599444_k0sfw",
       "url": "https://my.clevelandclinic.org/health/symptoms/16942-dyspnea",
       "domain": "my.clevelandclinic.org",
       "title": "Dyspnea (Shortness of Breath): Causes, Symptoms & Treatment",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=my.clevelandclinic.org&sz=64",
       "snippet": "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea.",
-      "checkedAt": "2026-04-03T19:46:37.461Z"
+      "checkedAt": "2026-04-03T19:46:39.566Z"
     },
     {
-      "id": "site_1775245595934_vwaul",
+      "id": "site_1775245598780_j89jw",
       "url": "https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/shortness-of-breath",
       "domain": "lung.org",
       "title": "Shortness of Breath | American Lung Association",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=lung.org&sz=64",
       "snippet": "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider.",
-      "checkedAt": "2026-04-03T19:46:36.462Z"
+      "checkedAt": "2026-04-03T19:46:39.444Z"
     },
     {
-      "id": "site_1775245595413_5babu",
+      "id": "site_1775245598041_i98ln",
       "url": "https://www.medicalnewstoday.com/articles/318210",
       "domain": "medicalnewstoday.com",
       "title": "Heavy breathing: 10 causes and treatments",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=64",
       "snippet": "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them.",
-      "checkedAt": "2026-04-03T19:46:35.933Z"
+      "checkedAt": "2026-04-03T19:46:38.780Z"
     }
   ],
   "citations": [
@@ -126,15 +185,65 @@
     },
     {
       "id": 5,
-      "url": "https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890",
-      "domain": "mayoclinic.org",
-      "title": "Shortness of breath Causes - Mayo Clinic"
+      "url": "https://www.webmd.com/lung/breathing-problems-unusual-causes",
+      "domain": "webmd.com",
+      "title": "Trouble Breathing: 7 Surprising Reasons"
+    },
+    {
+      "id": 6,
+      "url": "https://www.webmd.com/lung/breathing-problems",
+      "domain": "webmd.com",
+      "title": "Breathing Problems: Causes, Symptoms & Solutions"
+    },
+    {
+      "id": 7,
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+      "domain": "healthdirect.gov.au",
+      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect"
+    },
+    {
+      "id": 8,
+      "url": "https://zhidao.baidu.com/question/134401233120139445.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why有多少种用法，用Why提问有多少种回答_百度知道"
+    },
+    {
+      "id": 9,
+      "url": "https://zhidao.baidu.com/question/82727586.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why的用法_百度知道"
+    },
+    {
+      "id": 10,
+      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why什么意思_百度知道"
     }
   ],
   "notes": [
     {
+      "citationId": 10,
+      "summary": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示"
+    },
+    {
+      "citationId": 9,
+      "summary": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣"
+    },
+    {
+      "citationId": 8,
+      "summary": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why"
+    },
+    {
+      "citationId": 7,
+      "summary": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing."
+    },
+    {
+      "citationId": 6,
+      "summary": "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them."
+    },
+    {
       "citationId": 5,
-      "summary": "Trouble breathing can come on suddenly or last for weeks or longer. Most cases are due to heart or lung conditions, but there are many other causes."
+      "summary": "Heart and lung disease aren’t the only health problems that can cause you to feel winded. Here are some unusual reasons you can’t catch your breath."
     },
     {
       "citationId": 4,
@@ -155,20 +264,32 @@
   ],
   "events": [
     {
-      "id": "ev_1775245599874_jcvoa",
-      "at": "2026-04-03T19:46:39.874Z",
+      "id": "ev_1775245609954_e46y2",
+      "at": "2026-04-03T19:46:49.954Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 10."
+    },
+    {
+      "id": "ev_1775245600943_ksthf",
+      "at": "2026-04-03T19:46:40.943Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? official documentation"
+    },
+    {
+      "id": "ev_1775245600942_upbol",
+      "at": "2026-04-03T19:46:40.942Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1775245593221_oj8ps",
-      "at": "2026-04-03T19:46:33.221Z",
+      "id": "ev_1775245596781_ys0ac",
+      "at": "2026-04-03T19:46:36.781Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes?"
     },
     {
-      "id": "ev_1775245593221_ooovo",
-      "at": "2026-04-03T19:46:33.221Z",
+      "id": "ev_1775245596781_pkh7d",
+      "at": "2026-04-03T19:46:36.781Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -186,19 +307,24 @@
     }
   ],
   "learnedSoFar": [
-    "Trouble breathing can come on suddenly or last for weeks or longer. Most cases are due to heart or lung conditions, but there are many other causes.",
+    "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
+    "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣",
+    "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why",
+    "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing.",
+    "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them.",
+    "Heart and lung disease aren’t the only health problems that can cause you to feel winded. Here are some unusual reasons you can’t catch your breath.",
     "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do.",
     "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea.",
     "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider.",
     "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them."
   ],
   "stats": {
-    "sourcesAnalyzed": 5,
-    "tokensUsedEstimate": 268,
-    "depthScore": 4,
+    "sourcesAnalyzed": 10,
+    "tokensUsedEstimate": 483,
+    "depthScore": 7,
     "queriesGenerated": 24,
-    "iterations": 1,
-    "uniqueDomains": 5
+    "iterations": 2,
+    "uniqueDomains": 7
   },
   "control": {
     "paused": false,
