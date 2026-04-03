@@ -3,15 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:51.366Z",
-  "lastAdvancedAt": "2026-04-03T19:47:48.091Z",
+  "updatedAt": "2026-04-03T19:47:55.555Z",
+  "lastAdvancedAt": "2026-04-03T19:47:52.384Z",
   "phase": "analyzing",
-  "progress": 29,
-  "etaMinutes": 29,
+  "progress": 30,
+  "etaMinutes": 28,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? \"pdf\"",
     "why do we hard breath sometimes? site:edu",
     "why do we hard breath sometimes? site:gov",
     "why do we hard breath sometimes? \"analysis\"",
@@ -36,58 +35,154 @@
     "why do we hard breath sometimes? enterprise usage",
     "why do we hard breath sometimes? \"case study\"",
     "why do we hard breath sometimes? metrics",
-    "why do we hard breath sometimes? review"
+    "why do we hard breath sometimes? review",
+    "why do we hard breath sometimes? \"pdf\""
   ],
   "websites": [
     {
-      "id": "site_1775245671070_t22tf",
+      "id": "site_1775245675298_ova8t",
+      "url": "https://en.wikipedia.org/wiki/Cadet_Org",
+      "domain": "en.wikipedia.org",
+      "title": "Cadet Org - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Cadet Org - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and policies 2 Life in the Cadet Org Toggle Life in ",
+      "checkedAt": "2026-04-03T19:47:55.555Z"
+    },
+    {
+      "id": "site_1775245675181_n5rps",
+      "url": "https://en.wikipedia.org/wiki/Carole_Bayer_Sager",
+      "domain": "en.wikipedia.org",
+      "title": "Carole Bayer Sager - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Carole Bayer Sager - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and career 2 Solo albums 3 Songwriting 4",
+      "checkedAt": "2026-04-03T19:47:55.298Z"
+    },
+    {
+      "id": "site_1775245675104_np1ys",
+      "url": "https://en.wikipedia.org/wiki/Random_checkpoint",
+      "domain": "en.wikipedia.org",
+      "title": "Random checkpoint - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
+      "checkedAt": "2026-04-03T19:47:55.181Z"
+    },
+    {
+      "id": "site_1775245674998_4mpwl",
+      "url": "https://en.wikipedia.org/wiki/Bigu_(grain_avoidance)",
+      "domain": "en.wikipedia.org",
+      "title": "Bigu (grain avoidance) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Bigu (grain avoidance) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Agricultural mythology 3 Grains i",
+      "checkedAt": "2026-04-03T19:47:55.103Z"
+    },
+    {
+      "id": "site_1775245674901_s6vkp",
+      "url": "https://en.wikipedia.org/wiki/George_Jones_singles_discography",
+      "domain": "en.wikipedia.org",
+      "title": "George Jones singles discography - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "George Jones singles discography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 As a solo artist Toggle As a solo art",
+      "checkedAt": "2026-04-03T19:47:54.998Z"
+    },
+    {
+      "id": "site_1775245674556_fc24c",
+      "url": "https://www.mskcc.org/pdf/cancer-care/patient-education/shortness-breath-dyspnea",
+      "domain": "mskcc.org",
+      "title": "mskcc.org",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=mskcc.org&sz=64",
+      "checkedAt": "2026-04-03T19:47:54.901Z"
+    },
+    {
+      "id": "site_1775245674556_kg6ot",
+      "url": "https://portal.ct.gov/-/media/DDS/FactSheets/FSBreathingDifficulty.pdf",
+      "domain": "portal.ct.gov",
+      "title": "portal.ct.gov",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=portal.ct.gov&sz=64",
+      "checkedAt": "2026-04-03T19:47:54.556Z"
+    },
+    {
+      "id": "site_1775245674556_1tvd4",
+      "url": "https://www.thoracic.org/patients/patient-resources/resources/sudden-breathlessness.pdf",
+      "domain": "thoracic.org",
+      "title": "thoracic.org",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=thoracic.org&sz=64",
+      "checkedAt": "2026-04-03T19:47:54.556Z"
+    },
+    {
+      "id": "site_1775245674556_084wo",
+      "url": "https://www.wsh.nhs.uk/CMS-Documents/Patient-leaflets/Physiotherapy/6350-1-Breathlessness-and-how-to-manage-it.pdf",
+      "domain": "wsh.nhs.uk",
+      "title": "wsh.nhs.uk",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=wsh.nhs.uk&sz=64",
+      "checkedAt": "2026-04-03T19:47:54.556Z"
+    },
+    {
+      "id": "site_1775245674555_8887n",
+      "url": "https://www.sfh-tr.nhs.uk/media/k0jpsjq2/pil202509-03-db-dysfunctional-breathing.pdf",
+      "domain": "sfh-tr.nhs.uk",
+      "title": "sfh-tr.nhs.uk",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=sfh-tr.nhs.uk&sz=64",
+      "checkedAt": "2026-04-03T19:47:54.556Z"
+    },
+    {
+      "id": "site_1775245672291_p3qmt",
       "url": "https://en.wikipedia.org/wiki/Synchronicity_(The_Police_album)",
       "domain": "en.wikipedia.org",
       "title": "Synchronicity (The Police album) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Synchronicity (The Police album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Recording 2 Album cover 3 Release 4 C",
-      "checkedAt": "2026-04-03T19:47:51.366Z"
+      "checkedAt": "2026-04-03T19:47:52.384Z"
     },
     {
-      "id": "site_1775245670854_12kyy",
+      "id": "site_1775245672218_w3cs8",
       "url": "https://en.wikipedia.org/wiki/Just_for_One_Day_(musical)",
       "domain": "en.wikipedia.org",
       "title": "Just for One Day (musical) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Just for One Day (musical) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Synopsis Toggle Synopsis subse",
-      "checkedAt": "2026-04-03T19:47:51.070Z"
+      "checkedAt": "2026-04-03T19:47:52.290Z"
     },
     {
-      "id": "site_1775245670452_ij4iz",
+      "id": "site_1775245672148_oeifx",
       "url": "https://en.wikipedia.org/wiki/Yank_Crime",
       "domain": "en.wikipedia.org",
       "title": "Yank Crime - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Yank Crime - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Reception Toggle Reception subsection 1.1 Initial 1.2 Legac",
-      "checkedAt": "2026-04-03T19:47:50.854Z"
+      "checkedAt": "2026-04-03T19:47:52.218Z"
     },
     {
-      "id": "site_1775245670353_cq0mj",
+      "id": "site_1775245672067_dyaen",
       "url": "https://en.wikipedia.org/wiki/Invincible_season_1",
       "domain": "en.wikipedia.org",
       "title": "Invincible season 1 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Invincible season 1 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and cha",
-      "checkedAt": "2026-04-03T19:47:50.452Z"
+      "checkedAt": "2026-04-03T19:47:52.148Z"
     },
     {
-      "id": "site_1775245669715_rwa15",
+      "id": "site_1775245671766_5zc6y",
       "url": "https://en.wikipedia.org/wiki/Psycho_Synner",
       "domain": "en.wikipedia.org",
       "title": "Psycho Synner - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Psycho Synner - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Spencer's departur",
-      "checkedAt": "2026-04-03T19:47:50.352Z"
+      "checkedAt": "2026-04-03T19:47:52.067Z"
     },
     {
       "id": "site_1775245667453_1bvit",
@@ -1294,9 +1389,59 @@
       "url": "https://en.wikipedia.org/wiki/Synchronicity_(The_Police_album)",
       "domain": "en.wikipedia.org",
       "title": "Synchronicity (The Police album) - Wikipedia"
+    },
+    {
+      "id": 76,
+      "url": "https://en.wikipedia.org/wiki/George_Jones_singles_discography",
+      "domain": "en.wikipedia.org",
+      "title": "George Jones singles discography - Wikipedia"
+    },
+    {
+      "id": 77,
+      "url": "https://en.wikipedia.org/wiki/Bigu_(grain_avoidance)",
+      "domain": "en.wikipedia.org",
+      "title": "Bigu (grain avoidance) - Wikipedia"
+    },
+    {
+      "id": 78,
+      "url": "https://en.wikipedia.org/wiki/Random_checkpoint",
+      "domain": "en.wikipedia.org",
+      "title": "Random checkpoint - Wikipedia"
+    },
+    {
+      "id": 79,
+      "url": "https://en.wikipedia.org/wiki/Carole_Bayer_Sager",
+      "domain": "en.wikipedia.org",
+      "title": "Carole Bayer Sager - Wikipedia"
+    },
+    {
+      "id": 80,
+      "url": "https://en.wikipedia.org/wiki/Cadet_Org",
+      "domain": "en.wikipedia.org",
+      "title": "Cadet Org - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 80,
+      "summary": "Cadet Org - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and policies 2 Life in the Cadet Org Toggle Life in "
+    },
+    {
+      "citationId": 79,
+      "summary": "Carole Bayer Sager - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and career 2 Solo albums 3 Songwriting 4"
+    },
+    {
+      "citationId": 78,
+      "summary": "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra"
+    },
+    {
+      "citationId": 77,
+      "summary": "Bigu (grain avoidance) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Agricultural mythology 3 Grains i"
+    },
+    {
+      "citationId": 76,
+      "summary": "George Jones singles discography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 As a solo artist Toggle As a solo art"
+    },
     {
       "citationId": 75,
       "summary": "Synchronicity (The Police album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Recording 2 Album cover 3 Release 4 C"
@@ -1600,14 +1745,26 @@
   ],
   "events": [
     {
-      "id": "ev_1775245671366_224ia",
-      "at": "2026-04-03T19:47:51.366Z",
+      "id": "ev_1775245675555_6i0g3",
+      "at": "2026-04-03T19:47:55.555Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 80."
+    },
+    {
+      "id": "ev_1775245672384_s409c",
+      "at": "2026-04-03T19:47:52.384Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? \"pdf\""
+    },
+    {
+      "id": "ev_1775245672384_295jv",
+      "at": "2026-04-03T19:47:52.384Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 75."
     },
     {
-      "id": "ev_1775245668091_v390u",
-      "at": "2026-04-03T19:47:48.091Z",
+      "id": "ev_1775245671018_gelja",
+      "at": "2026-04-03T19:47:51.018Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? review"
     },
@@ -1799,6 +1956,11 @@
     }
   ],
   "learnedSoFar": [
+    "Cadet Org - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and policies 2 Life in the Cadet Org Toggle Life in ",
+    "Carole Bayer Sager - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and career 2 Solo albums 3 Songwriting 4",
+    "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
+    "Bigu (grain avoidance) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Agricultural mythology 3 Grains i",
+    "George Jones singles discography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 As a solo artist Toggle As a solo art",
     "Synchronicity (The Police album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Recording 2 Album cover 3 Release 4 C",
     "Just for One Day (musical) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Synopsis Toggle Synopsis subse",
     "Yank Crime - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Reception Toggle Reception subsection 1.1 Initial 1.2 Legac",
@@ -1811,19 +1973,14 @@
     "Respiration is a vital physiological process that facilitates the exchange of gases between the body and the external environment. A carefully balanced system exists, involving multiple organs that work in concert to ens",
     "Face masks during the COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Types of masks Toggle Types of",
     "Iron Man 2 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsection 3.1 D",
-    "Cremation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ancient 1.2 Middle Age",
-    "American Anti-Slavery Society - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ba",
-    "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary",
-    "List of musical supergroups - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 List of groups Toggle List of groups subse",
-    "4 Minutes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and inspiration 2 Recording and mixing 3 Composition",
-    "Human nature - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classical Greek philosophy Toggle Classical Greek philoso"
+    "Cremation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ancient 1.2 Middle Age"
   ],
   "stats": {
-    "sourcesAnalyzed": 75,
-    "tokensUsedEstimate": 7283,
-    "depthScore": 39,
+    "sourcesAnalyzed": 80,
+    "tokensUsedEstimate": 7886,
+    "depthScore": 41,
     "queriesGenerated": 24,
-    "iterations": 15,
+    "iterations": 16,
     "uniqueDomains": 25
   },
   "control": {
