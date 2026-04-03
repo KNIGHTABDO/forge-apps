@@ -3,31 +3,19 @@
   "sessionId": "sess_id690uh",
   "query": "Causes of hardly breathing",
   "createdAt": "2026-04-03T06:59:41.239Z",
-  "updatedAt": "2026-04-03T07:01:05.787Z",
-  "lastAdvancedAt": "2026-04-03T06:59:52.972Z",
-  "phase": "query_fanout",
+  "updatedAt": "2026-04-03T07:01:07.915Z",
+  "lastAdvancedAt": "2026-04-03T07:01:07.915Z",
+  "phase": "awaiting_plan",
   "progress": 4,
   "etaMinutes": 45,
   "planDraft": "1. Define Clinical Scope and Categorization: Establish the medical parameters for dyspnea (shortness of breath) by classifying potential causes into physiological systems—specifically pulmonary (e.g., asthma, COPD, pneumonia), cardiovascular (e.g., heart failure, arrhythmias), and systemic or psychogenic origins (e.g., anemia, anxiety, metabolic acidosis).\n\n2. Implement Structured Search Fan-out: Utilize high-authority medical databases such as PubMed, Cochrane Library, and clinical resource platforms like UpToDate or Merck Manuals. Execute targeted searches combining medical terminology with symptom descriptors to capture both acute, life-threatening causes (e.g., pulmonary embolism, anaphylaxis) and chronic, underlying etiologies.\n\n3. Execute Evidence-Based Comparative Analysis: Evaluate the findings to distinguish between common diagnostic presentations and rare underlying pathologies. Analyze the correlation between reported \"difficulty breathing\" and objective clinical markers, such as oxygen saturation levels, respiratory rate, and comorbid health conditions, ensuring the information remains grounded in peer-reviewed clinical guidelines.\n\n4. Identify Knowledge and Evidence Gaps: Assess the retrieved data for limitations, such as the distinction between subjective breathlessness (dyspnea) and objective respiratory distress. Pinpoint areas where clinical guidance varies based on patient demographics—such as age, physical fitness, and existing medical history—to ensure the research accounts for the subjective nature of the complaint.\n\n5. Synthesize Clinical Findings and Risk Warnings: Organize the research into a cohesive report that prioritizes diagnostic urgency. Conclude by outlining the critical symptoms that necessitate immediate emergency intervention versus conditions that require longitudinal clinical management, while emphasizing the imperative for professional medical evaluation over self-diagnosis.",
-  "planApproved": true,
+  "planApproved": false,
   "pendingQueries": [],
   "processedQueries": [],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
-    {
-      "id": "ev_1775199665787",
-      "at": "2026-04-03T07:01:05.787Z",
-      "phase": "query_fanout",
-      "message": "Research plan approved. Launching query fan-out."
-    },
-    {
-      "id": "ev_1775199595158",
-      "at": "2026-04-03T06:59:55.158Z",
-      "phase": "query_fanout",
-      "message": "Research plan approved. Launching query fan-out."
-    },
     {
       "id": "ev_1775199584663_nclgp",
       "at": "2026-04-03T06:59:44.663Z",
@@ -47,6 +35,5 @@
   "control": {
     "paused": false,
     "stopped": false
-  },
-  "planFinal": "1. Define Clinical Scope and Categorization: Establish the medical parameters for dyspnea (shortness of breath) by classifying potential causes into physiological systems—specifically pulmonary (e.g., asthma, COPD, pneumonia), cardiovascular (e.g., heart failure, arrhythmias), and systemic or psychogenic origins (e.g., anemia, anxiety, metabolic acidosis).\n\n2. Implement Structured Search Fan-out: Utilize high-authority medical databases such as PubMed, Cochrane Library, and clinical resource platforms like UpToDate or Merck Manuals. Execute targeted searches combining medical terminology with symptom descriptors to capture both acute, life-threatening causes (e.g., pulmonary embolism, anaphylaxis) and chronic, underlying etiologies.\n\n3. Execute Evidence-Based Comparative Analysis: Evaluate the findings to distinguish between common diagnostic presentations and rare underlying pathologies. Analyze the correlation between reported \"difficulty breathing\" and objective clinical markers, such as oxygen saturation levels, respiratory rate, and comorbid health conditions, ensuring the information remains grounded in peer-reviewed clinical guidelines.\n\n4. Identify Knowledge and Evidence Gaps: Assess the retrieved data for limitations, such as the distinction between subjective breathlessness (dyspnea) and objective respiratory distress. Pinpoint areas where clinical guidance varies based on patient demographics—such as age, physical fitness, and existing medical history—to ensure the research accounts for the subjective nature of the complaint.\n\n5. Synthesize Clinical Findings and Risk Warnings: Organize the research into a cohesive report that prioritizes diagnostic urgency. Conclude by outlining the critical symptoms that necessitate immediate emergency intervention versus conditions that require longitudinal clinical management, while emphasizing the imperative for professional medical evaluation over self-diagnosis."
+  }
 }
