@@ -3,19 +3,630 @@
   "sessionId": "sess_55dddba",
   "query": "why do we hard breath sometimes",
   "createdAt": "2026-04-03T19:54:03.449Z",
-  "updatedAt": "2026-04-03T19:54:12.984Z",
-  "lastAdvancedAt": "2026-04-03T19:54:03.449Z",
-  "phase": "query_fanout",
-  "progress": 2,
-  "etaMinutes": 45,
+  "updatedAt": "2026-04-03T19:54:36.298Z",
+  "lastAdvancedAt": "2026-04-03T19:54:33.510Z",
+  "phase": "analyzing",
+  "progress": 15,
+  "etaMinutes": 35,
   "planDraft": "1. Define the Scope: Establish the physiological parameters of \"hard breathing,\" distinguishing between tachypnea (rapid breathing), dyspnea (subjective sensation of breathlessness), and hyperpnea (increased depth/rate due to metabolic demand). Differentiate between transient, exercise-induced causes and pathological or emotional triggers to narrow the search to clinically relevant and common scenarios.\n\n2. Execute Broad Search Fan-out: Utilize academic databases (PubMed, Google Scholar) and medical repositories (Mayo Clinic, Cleveland Clinic) to collect data on the underlying mechanisms of hard breathing. Focus on three primary domains: physiological response to physical exertion, psychological triggers (anxiety/panic), and underlying systemic conditions (cardiopulmonary, metabolic, or environmental factors).\n\n3. Categorize and Analyze Evidence: Organize findings into a tiered framework: primary physiological drivers (e.g., CO2 accumulation, O2 demand), secondary compensatory responses (e.g., autonomic nervous system activation), and acute vs. chronic manifestations. Evaluate the biological signaling pathways, specifically the role of chemoreceptors and the respiratory center in the brainstem, to explain the \"why\" behind the physical action.\n\n4. Identify Evidence Gaps and Ambiguities: Critically evaluate the collected data for areas of uncertainty, such as the threshold between normal physiological adaptation and pathological dyspnea, or the current scientific consensus on the \"air hunger\" sensation during non-exertional states. Flag subjective or anecdotal claims and isolate peer-reviewed, evidence-based conclusions to ensure accuracy.\n\n5. Synthesize and Formalize Findings: Draft a comprehensive explanation that integrates the physical requirements of the body with the neurological and emotional feedback loops. Structure the final output to address why the body initiates hard breathing as a protective or compensatory mechanism, clarifying when it is a normal homeostatic adjustment and when it signals a deviation from health.",
   "planApproved": true,
-  "pendingQueries": [],
-  "processedQueries": [],
-  "websites": [],
-  "citations": [],
-  "notes": [],
+  "pendingQueries": [
+    "why do we hard breath sometimes limitations and risks",
+    "why do we hard breath sometimes case study",
+    "why do we hard breath sometimes expert interview",
+    "why do we hard breath sometimes economics and costs",
+    "why do we hard breath sometimes timeline and adoption",
+    "why do we hard breath sometimes open source tools",
+    "why do we hard breath sometimes enterprise usage",
+    "why do we hard breath sometimes \"case study\"",
+    "why do we hard breath sometimes metrics",
+    "why do we hard breath sometimes review",
+    "why do we hard breath sometimes \"pdf\"",
+    "why do we hard breath sometimes site:edu",
+    "why do we hard breath sometimes site:gov",
+    "why do we hard breath sometimes \"analysis\"",
+    "why do we hard breath sometimes opinion",
+    "why do we hard breath sometimes official documentation \"case study\"",
+    "why do we hard breath sometimes official documentation metrics",
+    "why do we hard breath sometimes official documentation review",
+    "why do we hard breath sometimes official documentation \"pdf\""
+  ],
+  "processedQueries": [
+    "why do we hard breath sometimes",
+    "why do we hard breath sometimes official documentation",
+    "why do we hard breath sometimes latest research paper",
+    "why do we hard breath sometimes industry analysis 2025 2026",
+    "why do we hard breath sometimes benchmark comparison"
+  ],
+  "websites": [
+    {
+      "id": "site_1775246076245_xkp7h",
+      "url": "https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID}",
+      "domain": "help.askmediagroup.com",
+      "title": "help.askmediagroup.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=help.askmediagroup.com&sz=64",
+      "checkedAt": "2026-04-03T19:54:36.298Z"
+    },
+    {
+      "id": "site_1775246076206_xbuco",
+      "url": "https://code.jquery.com/jquery-3.7.0.min.js",
+      "domain": "code.jquery.com",
+      "title": "code.jquery.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=code.jquery.com&sz=64",
+      "snippet": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
+      "checkedAt": "2026-04-03T19:54:36.245Z"
+    },
+    {
+      "id": "site_1775246076172_coaoq",
+      "url": "https://fonts.googleapis.com",
+      "domain": "fonts.googleapis.com",
+      "title": "fonts.googleapis.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=fonts.googleapis.com&sz=64",
+      "checkedAt": "2026-04-03T19:54:36.206Z"
+    },
+    {
+      "id": "site_1775246076154_hmoy2",
+      "url": "https://fonts.gstatic.com/",
+      "domain": "fonts.gstatic.com",
+      "title": "fonts.gstatic.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=fonts.gstatic.com&sz=64",
+      "checkedAt": "2026-04-03T19:54:36.172Z"
+    },
+    {
+      "id": "site_1775246075446_thel4",
+      "url": "https://www.healthline.com/health/heavy-breathing",
+      "domain": "healthline.com",
+      "title": "Heavy Breathing: Causes, Symptoms, Treatment, and More",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthline.com&sz=64",
+      "snippet": "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions.",
+      "checkedAt": "2026-04-03T19:54:36.154Z"
+    },
+    {
+      "id": "site_1775246075402_b9xwh",
+      "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
+      "domain": "library.hbs.edu",
+      "title": "When Benchmarks Don’t Work | Working Knowledge",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=library.hbs.edu&sz=64",
+      "snippet": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
+      "checkedAt": "2026-04-03T19:54:35.446Z"
+    },
+    {
+      "id": "site_1775246074775_manyc",
+      "url": "https://www.linkedin.com/posts/zainhas_i-just-read-why-benchmarking-is-hard-and-activity-7412940963570085889-N47q",
+      "domain": "linkedin.com",
+      "title": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a hig",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
+      "snippet": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
+      "checkedAt": "2026-04-03T19:54:35.402Z"
+    },
+    {
+      "id": "site_1775246073316_4hawo",
+      "url": "https://ide.group/2025/01/the-future-of-respiratory-care-trends-and-predictions-for-device-manufacturers/",
+      "domain": "ide.group",
+      "title": "Future Trends in Respiratory Care Manufacturing",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ide.group&sz=64",
+      "snippet": "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
+      "checkedAt": "2026-04-03T19:54:33.510Z"
+    },
+    {
+      "id": "site_1775246073226_sg3kg",
+      "url": "https://www.coherentmarketinsights.com/industry-reports/respiratory-care-market",
+      "domain": "coherentmarketinsights.com",
+      "title": "Respiratory Care Market Size to Hit USD 62.10Bn By 2033",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=coherentmarketinsights.com&sz=64",
+      "snippet": "Respiratory Care Market size is estimated to be valued at USD 31.46 Bn in 2026 and is expected to expand at a CAGR of 10.2% reaching USD 62.10 Bn by 2033.",
+      "checkedAt": "2026-04-03T19:54:33.316Z"
+    },
+    {
+      "id": "site_1775246071414_lhppt",
+      "url": "https://www.finhabits.com/last-week-of-2025-key-market-lessons-to-start-2026-with-clarity/",
+      "domain": "finhabits.com",
+      "title": "2025 is gone: Key market lessons to start 2026 with clarity - Finhabits",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=finhabits.com&sz=64",
+      "snippet": "2025 is gone: Key market lessons to start 2026 with clarity - Finhabits img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.betterdocs-single-category-wrapper{flex:1 0 calc(100%/var(--column,3) - var(--gap,15)*1px)}@media only screen and (max-width:767px){.betterdocs-single-category-wrapper{flex:1 0 calc(50% - var(--gap,15)*1px)}}@media only screen and (max-width:425px){.betterdocs-single-category-wrapper{flex:1 0 calc",
+      "checkedAt": "2026-04-03T19:54:33.226Z"
+    },
+    {
+      "id": "site_1775246071376_izcea",
+      "url": "https://www.courthousenews.com/markets-thrived-in-2025-but-outlook-for-2026-looks-murky/",
+      "domain": "courthousenews.com",
+      "title": "Markets thrived in 2025, but outlook for 2026 looks murky | Courthouse News Service",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=courthousenews.com&sz=64",
+      "snippet": "Markets thrived in 2025, but outlook for 2026 looks murky | Courthouse News Service Updates to our Terms of Use We are updating our Terms of Use. Please carefully review the updated Terms before proceeding to our website. I agree to the Terms of Use and acknowledge that my information will be used as described in the Privacy Policy Submit Log in to CasePortal Wednesday, April 23, 2025 Free Litigation Reports Find Judicial Opinions Home Appeals Ar",
+      "checkedAt": "2026-04-03T19:54:31.414Z"
+    },
+    {
+      "id": "site_1775246071341_4xbv4",
+      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/03/31/breathe-initiative-trends-for-2025/",
+      "domain": "globalwellnessinstitute.org",
+      "title": "Breathe Initiative Trends for 2025 - Global Wellness Institute",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=globalwellnessinstitute.org&sz=64",
+      "snippet": "Breathe Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascrip",
+      "checkedAt": "2026-04-03T19:54:31.376Z"
+    },
+    {
+      "id": "site_1775246067372_lzopl",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
+      "domain": "sciencedaily.com",
+      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=64",
+      "snippet": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
+      "checkedAt": "2026-04-03T19:54:27.442Z"
+    },
+    {
+      "id": "site_1775246067323_iwwyl",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Breathlessness and the brain: the role of expectation - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
+      "checkedAt": "2026-04-03T19:54:27.372Z"
+    },
+    {
+      "id": "site_1775246066856_u9c40",
+      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
+      "domain": "frontiersin.org",
+      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=frontiersin.org&sz=64",
+      "snippet": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms",
+      "checkedAt": "2026-04-03T19:54:27.323Z"
+    },
+    {
+      "id": "site_1775246066792_5790j",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631149/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Underlying conditions contributing to breathlessness in the population - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
+      "checkedAt": "2026-04-03T19:54:26.856Z"
+    },
+    {
+      "id": "site_1775246066541_9c2bk",
+      "url": "https://health.au.dk/en/display/artikel/nyt-studie-hjernens-rytme-foelger-din-vejrtraekning",
+      "domain": "health.au.dk",
+      "title": "New study: How breathing shapes our brain",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=health.au.dk&sz=64",
+      "snippet": "We breathe to survive. But a breath of fresh air does more than fill our lungs. New research from Aarhus University indicates that breathing impacts our emotions, attention and how we can process the outside world.",
+      "checkedAt": "2026-04-03T19:54:26.792Z"
+    },
+    {
+      "id": "site_1775246063271_e9fru",
+      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
+      "checkedAt": "2026-04-03T19:54:23.283Z"
+    },
+    {
+      "id": "site_1775246063267_gscla",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
+      "checkedAt": "2026-04-03T19:54:23.271Z"
+    },
+    {
+      "id": "site_1775246063255_qr7lq",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
+      "checkedAt": "2026-04-03T19:54:23.267Z"
+    },
+    {
+      "id": "site_1775246063241_pkna5",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
+      "checkedAt": "2026-04-03T19:54:23.255Z"
+    },
+    {
+      "id": "site_1775246063056_vq4uh",
+      "url": "https://healthcare.utah.edu/cardiovascular/conditions/shortness-of-breath-dyspnea",
+      "domain": "healthcare.utah.edu",
+      "title": "Shortness of Breath (Dyspnea) | University of Utah Health",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthcare.utah.edu&sz=64",
+      "snippet": "If you have difficulty catching your breath, feel intense tightening in your chest, or feel like you’re suffocating, you are suffering from dyspnea—also called shortness of breath.",
+      "checkedAt": "2026-04-03T19:54:23.241Z"
+    },
+    {
+      "id": "site_1775246063056_a70tp",
+      "url": "https://portal.ct.gov/-/media/DDS/FactSheets/FSBreathingDifficulty.pdf",
+      "domain": "portal.ct.gov",
+      "title": "portal.ct.gov",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=portal.ct.gov&sz=64",
+      "checkedAt": "2026-04-03T19:54:23.056Z"
+    },
+    {
+      "id": "site_1775246058821_9jcvm",
+      "url": "https://www.healthpartners.com/blog/shortness-of-breath/",
+      "domain": "healthpartners.com",
+      "title": "Shortness of breath (dyspnea): Causes and symptoms | HealthPartners Blog",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthpartners.com&sz=64",
+      "snippet": "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do.",
+      "checkedAt": "2026-04-03T19:54:19.136Z"
+    },
+    {
+      "id": "site_1775246058755_41fmx",
+      "url": "https://www.austinpulmonary.com/2025/03/07/what-causes-shortness-of-breath-that-comes-and-goes/",
+      "domain": "austinpulmonary.com",
+      "title": "What Causes Shortness of Breath That Comes and Goes?",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=austinpulmonary.com&sz=64",
+      "snippet": "This article will look at shortness of breath that comes and goes, how a lung doctor can help, and when you should seek care.",
+      "checkedAt": "2026-04-03T19:54:18.820Z"
+    },
+    {
+      "id": "site_1775246058598_zljky",
+      "url": "https://my.clevelandclinic.org/health/symptoms/16942-dyspnea",
+      "domain": "my.clevelandclinic.org",
+      "title": "Dyspnea (Shortness of Breath): Causes, Symptoms & Treatment",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=my.clevelandclinic.org&sz=64",
+      "snippet": "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea.",
+      "checkedAt": "2026-04-03T19:54:18.755Z"
+    },
+    {
+      "id": "site_1775246058348_asmm1",
+      "url": "https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/shortness-of-breath",
+      "domain": "lung.org",
+      "title": "Shortness of Breath | American Lung Association",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=lung.org&sz=64",
+      "snippet": "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider.",
+      "checkedAt": "2026-04-03T19:54:18.598Z"
+    },
+    {
+      "id": "site_1775246058215_t7mg8",
+      "url": "https://www.medicalnewstoday.com/articles/318210",
+      "domain": "medicalnewstoday.com",
+      "title": "Heavy breathing: 10 causes and treatments",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=64",
+      "snippet": "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them.",
+      "checkedAt": "2026-04-03T19:54:18.348Z"
+    }
+  ],
+  "citations": [
+    {
+      "id": 1,
+      "url": "https://www.medicalnewstoday.com/articles/318210",
+      "domain": "medicalnewstoday.com",
+      "title": "Heavy breathing: 10 causes and treatments"
+    },
+    {
+      "id": 2,
+      "url": "https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/shortness-of-breath",
+      "domain": "lung.org",
+      "title": "Shortness of Breath | American Lung Association"
+    },
+    {
+      "id": 3,
+      "url": "https://my.clevelandclinic.org/health/symptoms/16942-dyspnea",
+      "domain": "my.clevelandclinic.org",
+      "title": "Dyspnea (Shortness of Breath): Causes, Symptoms & Treatment"
+    },
+    {
+      "id": 4,
+      "url": "https://www.austinpulmonary.com/2025/03/07/what-causes-shortness-of-breath-that-comes-and-goes/",
+      "domain": "austinpulmonary.com",
+      "title": "What Causes Shortness of Breath That Comes and Goes?"
+    },
+    {
+      "id": 5,
+      "url": "https://www.healthpartners.com/blog/shortness-of-breath/",
+      "domain": "healthpartners.com",
+      "title": "Shortness of breath (dyspnea): Causes and symptoms | HealthPartners Blog"
+    },
+    {
+      "id": 6,
+      "url": "https://healthcare.utah.edu/cardiovascular/conditions/shortness-of-breath-dyspnea",
+      "domain": "healthcare.utah.edu",
+      "title": "Shortness of Breath (Dyspnea) | University of Utah Health"
+    },
+    {
+      "id": 7,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 8,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 9,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 10,
+      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 11,
+      "url": "https://health.au.dk/en/display/artikel/nyt-studie-hjernens-rytme-foelger-din-vejrtraekning",
+      "domain": "health.au.dk",
+      "title": "New study: How breathing shapes our brain"
+    },
+    {
+      "id": 12,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631149/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Underlying conditions contributing to breathlessness in the population - PMC"
+    },
+    {
+      "id": 13,
+      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
+      "domain": "frontiersin.org",
+      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments"
+    },
+    {
+      "id": 14,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Breathlessness and the brain: the role of expectation - PMC"
+    },
+    {
+      "id": 15,
+      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
+      "domain": "sciencedaily.com",
+      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily"
+    },
+    {
+      "id": 16,
+      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/03/31/breathe-initiative-trends-for-2025/",
+      "domain": "globalwellnessinstitute.org",
+      "title": "Breathe Initiative Trends for 2025 - Global Wellness Institute"
+    },
+    {
+      "id": 17,
+      "url": "https://www.courthousenews.com/markets-thrived-in-2025-but-outlook-for-2026-looks-murky/",
+      "domain": "courthousenews.com",
+      "title": "Markets thrived in 2025, but outlook for 2026 looks murky | Courthouse News Service"
+    },
+    {
+      "id": 18,
+      "url": "https://www.finhabits.com/last-week-of-2025-key-market-lessons-to-start-2026-with-clarity/",
+      "domain": "finhabits.com",
+      "title": "2025 is gone: Key market lessons to start 2026 with clarity - Finhabits"
+    },
+    {
+      "id": 19,
+      "url": "https://www.coherentmarketinsights.com/industry-reports/respiratory-care-market",
+      "domain": "coherentmarketinsights.com",
+      "title": "Respiratory Care Market Size to Hit USD 62.10Bn By 2033"
+    },
+    {
+      "id": 20,
+      "url": "https://ide.group/2025/01/the-future-of-respiratory-care-trends-and-predictions-for-device-manufacturers/",
+      "domain": "ide.group",
+      "title": "Future Trends in Respiratory Care Manufacturing"
+    },
+    {
+      "id": 21,
+      "url": "https://www.linkedin.com/posts/zainhas_i-just-read-why-benchmarking-is-hard-and-activity-7412940963570085889-N47q",
+      "domain": "linkedin.com",
+      "title": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a hig"
+    },
+    {
+      "id": 22,
+      "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
+      "domain": "library.hbs.edu",
+      "title": "When Benchmarks Don’t Work | Working Knowledge"
+    },
+    {
+      "id": 23,
+      "url": "https://www.healthline.com/health/heavy-breathing",
+      "domain": "healthline.com",
+      "title": "Heavy Breathing: Causes, Symptoms, Treatment, and More"
+    },
+    {
+      "id": 24,
+      "url": "https://code.jquery.com/jquery-3.7.0.min.js",
+      "domain": "code.jquery.com",
+      "title": "code.jquery.com"
+    }
+  ],
+  "notes": [
+    {
+      "citationId": 24,
+      "summary": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r"
+    },
+    {
+      "citationId": 23,
+      "summary": "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions."
+    },
+    {
+      "citationId": 22,
+      "summary": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A"
+    },
+    {
+      "citationId": 21,
+      "summary": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol"
+    },
+    {
+      "citationId": 20,
+      "summary": "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights."
+    },
+    {
+      "citationId": 19,
+      "summary": "Respiratory Care Market size is estimated to be valued at USD 31.46 Bn in 2026 and is expected to expand at a CAGR of 10.2% reaching USD 62.10 Bn by 2033."
+    },
+    {
+      "citationId": 18,
+      "summary": "2025 is gone: Key market lessons to start 2026 with clarity - Finhabits img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.betterdocs-single-category-wrapper{flex:1 0 calc(100%/var(--column,3) - var(--gap,15)*1px)}@media only screen and (max-width:767px){.betterdocs-single-category-wrapper{flex:1 0 calc(50% - var(--gap,15)*1px)}}@media only screen and (max-width:425px){.betterdocs-single-category-wrapper{flex:1 0 calc"
+    },
+    {
+      "citationId": 17,
+      "summary": "Markets thrived in 2025, but outlook for 2026 looks murky | Courthouse News Service Updates to our Terms of Use We are updating our Terms of Use. Please carefully review the updated Terms before proceeding to our website. I agree to the Terms of Use and acknowledge that my information will be used as described in the Privacy Policy Submit Log in to CasePortal Wednesday, April 23, 2025 Free Litigation Reports Find Judicial Opinions Home Appeals Ar"
+    },
+    {
+      "citationId": 16,
+      "summary": "Breathe Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascrip"
+    },
+    {
+      "citationId": 15,
+      "summary": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
+    },
+    {
+      "citationId": 14,
+      "summary": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
+    },
+    {
+      "citationId": 13,
+      "summary": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms"
+    },
+    {
+      "citationId": 12,
+      "summary": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am"
+    },
+    {
+      "citationId": 11,
+      "summary": "We breathe to survive. But a breath of fresh air does more than fill our lungs. New research from Aarhus University indicates that breathing impacts our emotions, attention and how we can process the outside world."
+    },
+    {
+      "citationId": 10,
+      "summary": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh"
+    },
+    {
+      "citationId": 9,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
+    },
+    {
+      "citationId": 8,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW"
+    },
+    {
+      "citationId": 7,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+"
+    },
+    {
+      "citationId": 6,
+      "summary": "If you have difficulty catching your breath, feel intense tightening in your chest, or feel like you’re suffocating, you are suffering from dyspnea—also called shortness of breath."
+    },
+    {
+      "citationId": 5,
+      "summary": "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do."
+    },
+    {
+      "citationId": 4,
+      "summary": "This article will look at shortness of breath that comes and goes, how a lung doctor can help, and when you should seek care."
+    },
+    {
+      "citationId": 3,
+      "summary": "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea."
+    },
+    {
+      "citationId": 2,
+      "summary": "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider."
+    },
+    {
+      "citationId": 1,
+      "summary": "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them."
+    }
+  ],
   "events": [
+    {
+      "id": "ev_1775246076298_gmqe9",
+      "at": "2026-04-03T19:54:36.298Z",
+      "phase": "analyzing",
+      "message": "Analyzed 4 sources this iteration. Total: 24."
+    },
+    {
+      "id": "ev_1775246073510_8ctkq",
+      "at": "2026-04-03T19:54:33.510Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes benchmark comparison"
+    },
+    {
+      "id": "ev_1775246073510_6yb4h",
+      "at": "2026-04-03T19:54:33.510Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 20."
+    },
+    {
+      "id": "ev_1775246067442_vvgmr",
+      "at": "2026-04-03T19:54:27.442Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes industry analysis 2025 2026"
+    },
+    {
+      "id": "ev_1775246067442_3v026",
+      "at": "2026-04-03T19:54:27.442Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 15."
+    },
+    {
+      "id": "ev_1775246063283_4fslu",
+      "at": "2026-04-03T19:54:23.283Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes latest research paper"
+    },
+    {
+      "id": "ev_1775246063283_5cc86",
+      "at": "2026-04-03T19:54:23.283Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 10."
+    },
+    {
+      "id": "ev_1775246059137_3jwkx",
+      "at": "2026-04-03T19:54:19.137Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes official documentation"
+    },
+    {
+      "id": "ev_1775246059137_qnz2l",
+      "at": "2026-04-03T19:54:19.137Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1775246057558_cpazq",
+      "at": "2026-04-03T19:54:17.558Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes"
+    },
+    {
+      "id": "ev_1775246057558_mi0hw",
+      "at": "2026-04-03T19:54:17.558Z",
+      "phase": "query_fanout",
+      "message": "Generated 24 additional search vectors."
+    },
     {
       "id": "ev_1775246052983",
       "at": "2026-04-03T19:54:12.984Z",
@@ -29,14 +640,33 @@
       "message": "Research session created. Plan draft is ready for review."
     }
   ],
-  "learnedSoFar": [],
+  "learnedSoFar": [
+    "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
+    "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions.",
+    "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
+    "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
+    "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
+    "Respiratory Care Market size is estimated to be valued at USD 31.46 Bn in 2026 and is expected to expand at a CAGR of 10.2% reaching USD 62.10 Bn by 2033.",
+    "2025 is gone: Key market lessons to start 2026 with clarity - Finhabits img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.betterdocs-single-category-wrapper{flex:1 0 calc(100%/var(--column,3) - var(--gap,15)*1px)}@media only screen and (max-width:767px){.betterdocs-single-category-wrapper{flex:1 0 calc(50% - var(--gap,15)*1px)}}@media only screen and (max-width:425px){.betterdocs-single-category-wrapper{flex:1 0 calc",
+    "Markets thrived in 2025, but outlook for 2026 looks murky | Courthouse News Service Updates to our Terms of Use We are updating our Terms of Use. Please carefully review the updated Terms before proceeding to our website. I agree to the Terms of Use and acknowledge that my information will be used as described in the Privacy Policy Submit Log in to CasePortal Wednesday, April 23, 2025 Free Litigation Reports Find Judicial Opinions Home Appeals Ar",
+    "Breathe Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascrip",
+    "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
+    "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
+    "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms",
+    "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
+    "We breathe to survive. But a breath of fresh air does more than fill our lungs. New research from Aarhus University indicates that breathing impacts our emotions, attention and how we can process the outside world.",
+    ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+"
+  ],
   "stats": {
-    "sourcesAnalyzed": 0,
-    "tokensUsedEstimate": 0,
-    "depthScore": 0,
-    "queriesGenerated": 0,
-    "iterations": 0,
-    "uniqueDomains": 0
+    "sourcesAnalyzed": 24,
+    "tokensUsedEstimate": 1901,
+    "depthScore": 19,
+    "queriesGenerated": 24,
+    "iterations": 5,
+    "uniqueDomains": 20
   },
   "control": {
     "paused": false,
