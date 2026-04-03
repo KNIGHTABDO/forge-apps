@@ -3,15 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:55.555Z",
-  "lastAdvancedAt": "2026-04-03T19:47:52.384Z",
+  "updatedAt": "2026-04-03T19:48:03.259Z",
+  "lastAdvancedAt": "2026-04-03T19:47:56.971Z",
   "phase": "analyzing",
-  "progress": 30,
-  "etaMinutes": 28,
+  "progress": 31,
+  "etaMinutes": 27,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? site:edu",
     "why do we hard breath sometimes? site:gov",
     "why do we hard breath sometimes? \"analysis\"",
     "why do we hard breath sometimes? opinion",
@@ -36,9 +35,60 @@
     "why do we hard breath sometimes? \"case study\"",
     "why do we hard breath sometimes? metrics",
     "why do we hard breath sometimes? review",
-    "why do we hard breath sometimes? \"pdf\""
+    "why do we hard breath sometimes? \"pdf\"",
+    "why do we hard breath sometimes? site:edu"
   ],
   "websites": [
+    {
+      "id": "site_1775245682371_gak63",
+      "url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "domain": "en.wikipedia.org",
+      "title": "Bob Dylan - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
+      "checkedAt": "2026-04-03T19:48:03.259Z"
+    },
+    {
+      "id": "site_1775245682175_z3nsh",
+      "url": "https://en.wikipedia.org/wiki/Geraldo_Rivera",
+      "domain": "en.wikipedia.org",
+      "title": "Geraldo Rivera - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Geraldo Rivera - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 ABC Ne",
+      "checkedAt": "2026-04-03T19:48:02.371Z"
+    },
+    {
+      "id": "site_1775245681609_w0sts",
+      "url": "https://en.wikipedia.org/wiki/Dionysus",
+      "domain": "en.wikipedia.org",
+      "title": "Dionysus - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Dionysus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name Toggle Name subsection 1.1 Etymology 1.2 Meaning and var",
+      "checkedAt": "2026-04-03T19:48:02.175Z"
+    },
+    {
+      "id": "site_1775245681143_hgkv3",
+      "url": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+      "domain": "en.wikipedia.org",
+      "title": "Barbra Streisand - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Barbra Streisand - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family 1.",
+      "checkedAt": "2026-04-03T19:48:01.609Z"
+    },
+    {
+      "id": "site_1775245680240_ziq0x",
+      "url": "https://en.wikipedia.org/wiki/Relations_between_Nazi_Germany_and_the_Arab_world",
+      "domain": "en.wikipedia.org",
+      "title": "Relations between Nazi Germany and the Arab world - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Relations between Nazi Germany and the Arab world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Nazi Germany and the",
+      "checkedAt": "2026-04-03T19:48:01.142Z"
+    },
     {
       "id": "site_1775245675298_ova8t",
       "url": "https://en.wikipedia.org/wiki/Cadet_Org",
@@ -1419,9 +1469,59 @@
       "url": "https://en.wikipedia.org/wiki/Cadet_Org",
       "domain": "en.wikipedia.org",
       "title": "Cadet Org - Wikipedia"
+    },
+    {
+      "id": 81,
+      "url": "https://en.wikipedia.org/wiki/Relations_between_Nazi_Germany_and_the_Arab_world",
+      "domain": "en.wikipedia.org",
+      "title": "Relations between Nazi Germany and the Arab world - Wikipedia"
+    },
+    {
+      "id": 82,
+      "url": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+      "domain": "en.wikipedia.org",
+      "title": "Barbra Streisand - Wikipedia"
+    },
+    {
+      "id": 83,
+      "url": "https://en.wikipedia.org/wiki/Dionysus",
+      "domain": "en.wikipedia.org",
+      "title": "Dionysus - Wikipedia"
+    },
+    {
+      "id": 84,
+      "url": "https://en.wikipedia.org/wiki/Geraldo_Rivera",
+      "domain": "en.wikipedia.org",
+      "title": "Geraldo Rivera - Wikipedia"
+    },
+    {
+      "id": 85,
+      "url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "domain": "en.wikipedia.org",
+      "title": "Bob Dylan - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 85,
+      "summary": "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2"
+    },
+    {
+      "citationId": 84,
+      "summary": "Geraldo Rivera - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 ABC Ne"
+    },
+    {
+      "citationId": 83,
+      "summary": "Dionysus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name Toggle Name subsection 1.1 Etymology 1.2 Meaning and var"
+    },
+    {
+      "citationId": 82,
+      "summary": "Barbra Streisand - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family 1."
+    },
+    {
+      "citationId": 81,
+      "summary": "Relations between Nazi Germany and the Arab world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Nazi Germany and the"
+    },
     {
       "citationId": 80,
       "summary": "Cadet Org - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and policies 2 Life in the Cadet Org Toggle Life in "
@@ -1745,6 +1845,18 @@
   ],
   "events": [
     {
+      "id": "ev_1775245683259_22zvz",
+      "at": "2026-04-03T19:48:03.259Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 85."
+    },
+    {
+      "id": "ev_1775245676971_jsohh",
+      "at": "2026-04-03T19:47:56.971Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? site:edu"
+    },
+    {
       "id": "ev_1775245675555_6i0g3",
       "at": "2026-04-03T19:47:55.555Z",
       "phase": "analyzing",
@@ -1956,6 +2068,11 @@
     }
   ],
   "learnedSoFar": [
+    "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
+    "Geraldo Rivera - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 ABC Ne",
+    "Dionysus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name Toggle Name subsection 1.1 Etymology 1.2 Meaning and var",
+    "Barbra Streisand - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family 1.",
+    "Relations between Nazi Germany and the Arab world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Nazi Germany and the",
     "Cadet Org - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and policies 2 Life in the Cadet Org Toggle Life in ",
     "Carole Bayer Sager - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and career 2 Solo albums 3 Songwriting 4",
     "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
@@ -1968,19 +2085,14 @@
     "Psycho Synner - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Spencer's departur",
     "Shark - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Evolutionary history Toggle Evolutionary history sub",
     "Font - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Spelling and etymology 2 Metal type 3 Characteristics Toggle Char",
-    "Meshuggah - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Formation and Contradi",
-    "<p style=\"color: #424240; background-color: #ffffff; margin-right: 0px; margin-bottom: 1.5rem; margin-left: 0px; padding: 0px; line-height: inherit;\">Ever feel as though you can&rsquo;t catch your breath? A Pulmonologist",
-    "Respiration is a vital physiological process that facilitates the exchange of gases between the body and the external environment. A carefully balanced system exists, involving multiple organs that work in concert to ens",
-    "Face masks during the COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Types of masks Toggle Types of",
-    "Iron Man 2 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsection 3.1 D",
-    "Cremation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ancient 1.2 Middle Age"
+    "Meshuggah - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Formation and Contradi"
   ],
   "stats": {
-    "sourcesAnalyzed": 80,
-    "tokensUsedEstimate": 7886,
-    "depthScore": 41,
+    "sourcesAnalyzed": 85,
+    "tokensUsedEstimate": 8489,
+    "depthScore": 42,
     "queriesGenerated": 24,
-    "iterations": 16,
+    "iterations": 17,
     "uniqueDomains": 25
   },
   "control": {
