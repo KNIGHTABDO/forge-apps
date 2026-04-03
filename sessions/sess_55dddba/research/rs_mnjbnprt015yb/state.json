@@ -3,15 +3,14 @@
   "sessionId": "sess_55dddba",
   "query": "why do we hard breath sometimes",
   "createdAt": "2026-04-03T19:54:03.449Z",
-  "updatedAt": "2026-04-03T19:55:03.196Z",
-  "lastAdvancedAt": "2026-04-03T19:55:00.529Z",
+  "updatedAt": "2026-04-03T19:55:05.335Z",
+  "lastAdvancedAt": "2026-04-03T19:55:04.706Z",
   "phase": "analyzing",
   "progress": 18,
   "etaMinutes": 33,
   "planDraft": "1. Define the Scope: Establish the physiological parameters of \"hard breathing,\" distinguishing between tachypnea (rapid breathing), dyspnea (subjective sensation of breathlessness), and hyperpnea (increased depth/rate due to metabolic demand). Differentiate between transient, exercise-induced causes and pathological or emotional triggers to narrow the search to clinically relevant and common scenarios.\n\n2. Execute Broad Search Fan-out: Utilize academic databases (PubMed, Google Scholar) and medical repositories (Mayo Clinic, Cleveland Clinic) to collect data on the underlying mechanisms of hard breathing. Focus on three primary domains: physiological response to physical exertion, psychological triggers (anxiety/panic), and underlying systemic conditions (cardiopulmonary, metabolic, or environmental factors).\n\n3. Categorize and Analyze Evidence: Organize findings into a tiered framework: primary physiological drivers (e.g., CO2 accumulation, O2 demand), secondary compensatory responses (e.g., autonomic nervous system activation), and acute vs. chronic manifestations. Evaluate the biological signaling pathways, specifically the role of chemoreceptors and the respiratory center in the brainstem, to explain the \"why\" behind the physical action.\n\n4. Identify Evidence Gaps and Ambiguities: Critically evaluate the collected data for areas of uncertainty, such as the threshold between normal physiological adaptation and pathological dyspnea, or the current scientific consensus on the \"air hunger\" sensation during non-exertional states. Flag subjective or anecdotal claims and isolate peer-reviewed, evidence-based conclusions to ensure accuracy.\n\n5. Synthesize and Formalize Findings: Draft a comprehensive explanation that integrates the physical requirements of the body with the neurological and emotional feedback loops. Structure the final output to address why the body initiates hard breathing as a protective or compensatory mechanism, clarifying when it is a normal homeostatic adjustment and when it signals a deviation from health.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes timeline and adoption",
     "why do we hard breath sometimes open source tools",
     "why do we hard breath sometimes enterprise usage",
     "why do we hard breath sometimes \"case study\"",
@@ -36,77 +35,78 @@
     "why do we hard breath sometimes limitations and risks",
     "why do we hard breath sometimes case study",
     "why do we hard breath sometimes expert interview",
-    "why do we hard breath sometimes economics and costs"
+    "why do we hard breath sometimes economics and costs",
+    "why do we hard breath sometimes timeline and adoption"
   ],
   "websites": [
     {
-      "id": "site_1775246102052_mjgto",
+      "id": "site_1775246104696_mo95c",
       "url": "https://4dmedical.com/breathing-easy-the-interplay-between-economic-stability-and-lung-health/",
       "domain": "4dmedical.com",
       "title": "Breathing Easy: The Interplay Between Economic Stability and Lung Health - 4DMedical",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=4dmedical.com&sz=64",
       "snippet": "The relationship between health and economic stability is multifaceted and profound, extending to virtually every aspect of our well-being. One area where this connection is particularly evident yet often overlooked is r",
-      "checkedAt": "2026-04-03T19:55:03.196Z"
+      "checkedAt": "2026-04-03T19:55:04.706Z"
     },
     {
-      "id": "site_1775246102039_946h6",
+      "id": "site_1775246104687_75pz3",
       "url": "https://equitablegrowth.org/respiratory-health-disparities-in-the-united-states-and-their-economic-repercussions/",
       "domain": "equitablegrowth.org",
       "title": "Respiratory health disparities in the United States and their economic repercussions - Equitable Growth",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=equitablegrowth.org&sz=64",
       "snippet": "Respiratory health disparities in the United States and their economic repercussions - Equitable Growth Skip to content Donate Get Updates Issues Competition Families Inequality &amp; Mobility Labor Tax &amp; Macroeconomics Insights &#038; Expertise Value Added Engage Elevating Research Who We Are Connect with an Expert Events About Us Contact Press In the Media Books Careers Terms of Use Privacy Policy Search Connect with us Washington Center fo",
-      "checkedAt": "2026-04-03T19:55:02.052Z"
+      "checkedAt": "2026-04-03T19:55:04.696Z"
     },
     {
-      "id": "site_1775246101994_9a6ny",
+      "id": "site_1775246104643_j07lt",
       "url": "https://nddmed.com/blog/2020/hidden-costs-of-respiratory-care/",
       "domain": "nddmed.com",
       "title": "Understanding the hidden costs of respiratory care",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=nddmed.com&sz=64",
       "snippet": "Understanding the hidden costs of respiratory care Some site features are not available with your current browser version. Please consider updating your browser. Some site features may not work properly if you don't have JavaScript enabled. Meet Buddy, your new spirometry coach Why ndd About us Our values Partnerships Clinical research Testimonials Case studies Careers Contact us News Conferences Technology TrueFlow Technology - How it works True",
-      "checkedAt": "2026-04-03T19:55:02.039Z"
+      "checkedAt": "2026-04-03T19:55:04.687Z"
     },
     {
-      "id": "site_1775246090527_jy2ib",
+      "id": "site_1775246093933_cocdb",
       "url": "https://www.npr.org/transcripts/862963172",
       "domain": "npr.org",
       "title": "npr.org",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=npr.org&sz=64",
-      "checkedAt": "2026-04-03T19:55:00.529Z"
+      "checkedAt": "2026-04-03T19:55:03.935Z"
     },
     {
-      "id": "site_1775246090315_hefxd",
+      "id": "site_1775246093486_f4lze",
       "url": "https://int.livhospital.com/why-do-i-get-shortness-of-breath-when-speaking/",
       "domain": "int.livhospital.com",
       "title": "Why Do I Get Shortness of Breath When Speaking?",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=int.livhospital.com&sz=64",
       "snippet": "Discover the causes of shortness of breath when speaking, including vocal fold issues, lung conditions, and more. Learn how to manage speech-related dyspnea.",
-      "checkedAt": "2026-04-03T19:54:50.527Z"
+      "checkedAt": "2026-04-03T19:54:53.933Z"
     },
     {
-      "id": "site_1775246090261_j10lh",
+      "id": "site_1775246093479_dmqxi",
       "url": "https://www.cnn.com/audio/podcasts/chasing-life/episodes/5a65b0b6-af5f-11f0-b3f6-4708f839833e",
       "domain": "cnn.com",
       "title": "Why You're Breathing Wrong, and How to Fix It - Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=cnn.com&sz=64",
       "snippet": "Chronic disease, anxiety, ADHD, and even the shape of a person",
-      "checkedAt": "2026-04-03T19:54:50.315Z"
+      "checkedAt": "2026-04-03T19:54:53.486Z"
     },
     {
-      "id": "site_1775246090124_l6g2p",
+      "id": "site_1775246093343_nkf2e",
       "url": "https://awcim.arizona.edu/podcast/episode15_nestor.html",
       "domain": "awcim.arizona.edu",
       "title": "Episode #15 The Power of Breath with James Nestor: Andrew Weil Center for Integrative Medicine",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=awcim.arizona.edu&sz=64",
       "snippet": "Episode #15 The Power of Breath with James Nestor: Andrew Weil Center for Integrative Medicine --> &nbsp; Open main menu Home Education &blacktriangledown; Open submenu Catalog Fellowship &blacktriangledown; Open submenu Fellowship Curriculum Fellowship Faculty Experiential Weeks How to Apply to the Fellowship Fellowship Tuition, Payment Schedule, and Scholarships Fellowship Q&A with Center Directors & Alumni Fellowship FAQ Integrative Health & L",
-      "checkedAt": "2026-04-03T19:54:50.261Z"
+      "checkedAt": "2026-04-03T19:54:53.479Z"
     },
     {
       "id": "site_1775246084828_5wfna",
@@ -851,26 +851,38 @@
   ],
   "events": [
     {
-      "id": "ev_1775246103196_lcjqy",
-      "at": "2026-04-03T19:55:03.196Z",
+      "id": "ev_1775246105335_iyl2j",
+      "at": "2026-04-03T19:55:05.335Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 38."
+    },
+    {
+      "id": "ev_1775246104706_xdeh2",
+      "at": "2026-04-03T19:55:04.706Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes timeline and adoption"
+    },
+    {
+      "id": "ev_1775246104706_j1qdk",
+      "at": "2026-04-03T19:55:04.706Z",
       "phase": "analyzing",
       "message": "Analyzed 3 sources this iteration. Total: 38."
     },
     {
-      "id": "ev_1775246100529_8y1cg",
-      "at": "2026-04-03T19:55:00.529Z",
+      "id": "ev_1775246103935_9s2hk",
+      "at": "2026-04-03T19:55:03.935Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes economics and costs"
     },
     {
-      "id": "ev_1775246100529_wx86o",
-      "at": "2026-04-03T19:55:00.529Z",
+      "id": "ev_1775246103935_8i6by",
+      "at": "2026-04-03T19:55:03.935Z",
       "phase": "analyzing",
       "message": "Analyzed 3 sources this iteration. Total: 35."
     },
     {
-      "id": "ev_1775246089762_swhvl",
-      "at": "2026-04-03T19:54:49.762Z",
+      "id": "ev_1775246092760_3zaz2",
+      "at": "2026-04-03T19:54:52.760Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes expert interview"
     },
@@ -1002,7 +1014,7 @@
     "tokensUsedEstimate": 2867,
     "depthScore": 31,
     "queriesGenerated": 24,
-    "iterations": 9,
+    "iterations": 10,
     "uniqueDomains": 33
   },
   "control": {
