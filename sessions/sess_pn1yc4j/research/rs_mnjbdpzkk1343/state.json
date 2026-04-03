@@ -3,15 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:06.738Z",
-  "lastAdvancedAt": "2026-04-03T19:47:02.102Z",
+  "updatedAt": "2026-04-03T19:47:09.316Z",
+  "lastAdvancedAt": "2026-04-03T19:47:07.554Z",
   "phase": "analyzing",
-  "progress": 15,
-  "etaMinutes": 35,
+  "progress": 16,
+  "etaMinutes": 34,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? limitations and risks",
     "why do we hard breath sometimes? case study",
     "why do we hard breath sometimes? expert interview",
     "why do we hard breath sometimes? economics and costs",
@@ -36,226 +35,277 @@
     "why do we hard breath sometimes? official documentation",
     "why do we hard breath sometimes? latest research paper",
     "why do we hard breath sometimes? industry analysis 2025 2026",
-    "why do we hard breath sometimes? benchmark comparison"
+    "why do we hard breath sometimes? benchmark comparison",
+    "why do we hard breath sometimes? limitations and risks"
   ],
   "websites": [
     {
-      "id": "site_1775245626500_j8ofq",
+      "id": "site_1775245629242_zf7hb",
+      "url": "https://en.wikipedia.org/wiki/Random_checkpoint",
+      "domain": "en.wikipedia.org",
+      "title": "Random checkpoint - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
+      "checkedAt": "2026-04-03T19:47:09.316Z"
+    },
+    {
+      "id": "site_1775245629018_23u5b",
+      "url": "https://en.wikipedia.org/wiki/Kermit_Gosnell",
+      "domain": "en.wikipedia.org",
+      "title": "Kermit Gosnell - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me",
+      "checkedAt": "2026-04-03T19:47:09.242Z"
+    },
+    {
+      "id": "site_1775245628934_3y17z",
+      "url": "https://en.wikipedia.org/wiki/Open_world",
+      "domain": "en.wikipedia.org",
+      "title": "Open world - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1",
+      "checkedAt": "2026-04-03T19:47:09.018Z"
+    },
+    {
+      "id": "site_1775245628267_j5yob",
+      "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
+      "domain": "en.wikipedia.org",
+      "title": "Fermi paradox - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2",
+      "checkedAt": "2026-04-03T19:47:08.934Z"
+    },
+    {
+      "id": "site_1775245628153_xe0ao",
+      "url": "https://www.webmd.com/lung/breathing-problems-causes-tests-treatments",
+      "domain": "webmd.com",
+      "title": "Breathing Problems: Causes, Tests, Solutions and Home Treatments",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
+      "snippet": "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated.",
+      "checkedAt": "2026-04-03T19:47:08.267Z"
+    },
+    {
+      "id": "site_1775245627430_oev9l",
       "url": "https://en.wikipedia.org/wiki/Empire",
       "domain": "en.wikipedia.org",
       "title": "Empire - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio",
-      "checkedAt": "2026-04-03T19:47:06.738Z"
+      "checkedAt": "2026-04-03T19:47:07.554Z"
     },
     {
-      "id": "site_1775245626278_cnk9z",
+      "id": "site_1775245627248_pn0v8",
       "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
       "domain": "en.wikipedia.org",
       "title": "COVID-19 pandemic - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem",
-      "checkedAt": "2026-04-03T19:47:06.500Z"
+      "checkedAt": "2026-04-03T19:47:07.430Z"
     },
     {
-      "id": "site_1775245626201_hswz6",
+      "id": "site_1775245627146_52gom",
       "url": "https://en.wikipedia.org/wiki/Menstrual_cup",
       "domain": "en.wikipedia.org",
       "title": "Menstrual cup - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2.",
-      "checkedAt": "2026-04-03T19:47:06.278Z"
+      "checkedAt": "2026-04-03T19:47:07.248Z"
     },
     {
-      "id": "site_1775245624824_5degd",
-      "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
-      "domain": "library.hbs.edu",
-      "title": "When Benchmarks Don’t Work | Working Knowledge",
+      "id": "site_1775245626903_fmzmt",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29799307/",
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "title": "Comparison of breathing patterns, pressure, volume, and flow characteristics of three breathing techniques to encourage lung inflation in he",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=library.hbs.edu&sz=64",
-      "snippet": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
-      "checkedAt": "2026-04-03T19:47:06.201Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=pubmed.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "<span><b><i>Background</i></b>: It is important to encourage lung inflation to prevent postsurgical pulmonary complications and we compared three breathing techniques that place different emphasis on inspiratory flow and",
+      "checkedAt": "2026-04-03T19:47:07.146Z"
     },
     {
-      "id": "site_1775245624071_78d10",
+      "id": "site_1775245626247_mpvjd",
       "url": "https://www.linkedin.com/posts/zainhas_i-just-read-why-benchmarking-is-hard-and-activity-7412940963570085889-N47q",
       "domain": "linkedin.com",
       "title": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a hig",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
       "snippet": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
-      "checkedAt": "2026-04-03T19:47:04.823Z"
+      "checkedAt": "2026-04-03T19:47:06.902Z"
     },
     {
-      "id": "site_1775245621660_9khmd",
+      "id": "site_1775245621109_dwypf",
       "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
       "domain": "go.microsoft.com",
       "title": "Microsoft Services Agreement",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Services Agreement This is the Trace Id: f0244e31a4260dfa3a2065b2d5b50f77 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-      "checkedAt": "2026-04-03T19:47:02.102Z"
+      "snippet": "Microsoft Services Agreement This is the Trace Id: caeef617b720ee39319f0dda431d3a66 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+      "checkedAt": "2026-04-03T19:47:01.597Z"
     },
     {
-      "id": "site_1775245621530_pwnve",
+      "id": "site_1775245620980_dpzew",
       "url": "https://www.ndtv.com/health/breathing-has-become-harder-for-many-no-thanks-to-air-pollution-what-lungs-need-as-you-enter-2026-9848860",
       "domain": "ndtv.com",
       "title": "ndtv.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=ndtv.com&sz=64",
-      "checkedAt": "2026-04-03T19:47:01.660Z"
+      "checkedAt": "2026-04-03T19:47:01.109Z"
     },
     {
-      "id": "site_1775245621096_3h41p",
+      "id": "site_1775245620282_2cg6k",
       "url": "https://finance.yahoo.com/news/inhaler-solution-market-trends-analysis-154100960.html",
       "domain": "finance.yahoo.com",
       "title": "Inhaler Solution Market Trends Analysis Report 2026-2033",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64",
       "snippet": "Key market opportunities in the inhaler solution market include the rising demand driven by increased respiratory disorders like asthma and COPD, expanding access to medicines in low and middle-income countries (LMICs), ",
-      "checkedAt": "2026-04-03T19:47:01.530Z"
+      "checkedAt": "2026-04-03T19:47:00.980Z"
     },
     {
-      "id": "site_1775245620470_x3fpj",
+      "id": "site_1775245619598_ao41w",
       "url": "https://finance.yahoo.com/news/respiratory-care-devices-market-landscape-084100054.html",
       "domain": "finance.yahoo.com",
       "title": "Respiratory Care Devices Market Landscape Report 2025-2030 Featuring Major Players - Koninklijke Philips, Medtronic, ResMed, Fisher & Paykel",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64",
       "snippet": "The global respiratory care devices market is projected to grow from USD 23.6 billion in 2025 to USD 33.6 billion by 2030, with a CAGR of 7.3%. This growth is driven by increasing respiratory diseases due to aging, smoki",
-      "checkedAt": "2026-04-03T19:47:01.096Z"
+      "checkedAt": "2026-04-03T19:47:00.282Z"
     },
     {
-      "id": "site_1775245619280_ebpy3",
+      "id": "site_1775245618383_oh9cd",
       "url": "https://ide.group/2025/01/the-future-of-respiratory-care-trends-and-predictions-for-device-manufacturers/",
       "domain": "ide.group",
       "title": "Future Trends in Respiratory Care Manufacturing",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=ide.group&sz=64",
       "snippet": "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
-      "checkedAt": "2026-04-03T19:47:00.470Z"
+      "checkedAt": "2026-04-03T19:46:59.598Z"
     },
     {
-      "id": "site_1775245619218_s2d5l",
+      "id": "site_1775245617898_dr91o",
       "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/04/02/respiratory-wellness-initiative-trends-for-2025/",
       "domain": "globalwellnessinstitute.org",
       "title": "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=globalwellnessinstitute.org&sz=64",
       "snippet": "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascript\" id",
-      "checkedAt": "2026-04-03T19:46:59.280Z"
+      "checkedAt": "2026-04-03T19:46:58.383Z"
     },
     {
-      "id": "site_1775245618365_i9pln",
+      "id": "site_1775245615629_01ilz",
       "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
       "domain": "go.microsoft.com",
       "title": "Microsoft Privacy Statement – Microsoft privacy",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e3963a7e782cd6bb913328792d0c9443 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-      "checkedAt": "2026-04-03T19:46:58.663Z"
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: eec9d17f6c2196eaa747f2130050f34d Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-04-03T19:46:56.441Z"
     },
     {
-      "id": "site_1775245617488_ek591",
-      "url": "https://www.health.harvard.edu/heart-health/unmasking-the-varied-causes-of-breathlessness-and-fatigue",
-      "domain": "health.harvard.edu",
-      "title": "Unmasking the varied causes of breathlessness and fatigue - Harvard Health",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=health.harvard.edu&sz=64",
-      "snippet": "Cardiopulmonary exercise testing (CPET) can help diagnose unusual causes of breathlessness, such as pulmonary hypertension or heart failure with preserved ejection fraction. CPET collects information about a person&#039;",
-      "checkedAt": "2026-04-03T19:46:58.364Z"
-    },
-    {
-      "id": "site_1775245616583_b7t36",
-      "url": "https://news.flinders.edu.au/blog/2025/12/18/chronic-breathlessness-emerging-as-a-hidden-strain-on-hospitals/",
-      "domain": "news.flinders.edu.au",
-      "title": "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=news.flinders.edu.au&sz=64",
-      "snippet": "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News Skip to content Study Research Engage Alumni Giving About Quick links bookmark_border Current students Staff Library Flinders dashboard (Okta) Flinders Learning Online (FLO) Campus map: Bedford Park Staff directory Jobs at Flinders search Toggle navigation close --> News home chevron_right News chevron_right Chronic breathlessness emerging as a hidden strain on hospitals",
-      "checkedAt": "2026-04-03T19:46:57.488Z"
-    },
-    {
-      "id": "site_1775245616393_6u3lb",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Breathlessness and the brain: the role of expectation - PMC",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
-      "checkedAt": "2026-04-03T19:46:56.583Z"
-    },
-    {
-      "id": "site_1775245615966_q30d4",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
-      "domain": "sciencedaily.com",
-      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=64",
-      "snippet": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
-      "checkedAt": "2026-04-03T19:46:56.393Z"
-    },
-    {
-      "id": "site_1775245610763_ss3id",
+      "id": "site_1775245614720_98kwn",
       "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
       "domain": "zhidao.baidu.com",
       "title": "why什么意思_百度知道",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
       "snippet": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
-      "checkedAt": "2026-04-03T19:46:51.584Z"
+      "checkedAt": "2026-04-03T19:46:55.629Z"
     },
     {
-      "id": "site_1775245610484_2b95x",
+      "id": "site_1775245614444_pobcv",
       "url": "https://www.zhihu.com/question/860917177",
       "domain": "zhihu.com",
       "title": "zhihu.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-04-03T19:46:50.763Z"
+      "checkedAt": "2026-04-03T19:46:54.719Z"
     },
     {
-      "id": "site_1775245608346_qbqu3",
+      "id": "site_1775245614128_16ma4",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Breathlessness and the brain: the role of expectation - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
+      "checkedAt": "2026-04-03T19:46:54.444Z"
+    },
+    {
+      "id": "site_1775245613390_l1r71",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
+      "domain": "sciencedaily.com",
+      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=64",
+      "snippet": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
+      "checkedAt": "2026-04-03T19:46:54.128Z"
+    },
+    {
+      "id": "site_1775245612917_eoads",
+      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
+      "domain": "frontiersin.org",
+      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=frontiersin.org&sz=64",
+      "snippet": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms",
+      "checkedAt": "2026-04-03T19:46:53.390Z"
+    },
+    {
+      "id": "site_1775245608331_b7vq0",
       "url": "https://zhidao.baidu.com/question/82727586.html",
       "domain": "zhidao.baidu.com",
       "title": "why的用法_百度知道",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
       "snippet": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣",
-      "checkedAt": "2026-04-03T19:46:50.484Z"
+      "checkedAt": "2026-04-03T19:46:49.324Z"
     },
     {
-      "id": "site_1775245605899_b1kak",
+      "id": "site_1775245605693_l1q1n",
       "url": "https://zhidao.baidu.com/question/134401233120139445.html",
       "domain": "zhidao.baidu.com",
       "title": "why有多少种用法，用Why提问有多少种回答_百度知道",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
       "snippet": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why",
-      "checkedAt": "2026-04-03T19:46:48.346Z"
+      "checkedAt": "2026-04-03T19:46:48.331Z"
     },
     {
-      "id": "site_1775245605847_t63uj",
-      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
-      "domain": "healthdirect.gov.au",
-      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect",
+      "id": "site_1775245605011_ibs23",
+      "url": "https://medlineplus.gov/breathingproblems.html",
+      "domain": "medlineplus.gov",
+      "title": "Breathing Problems | Shortness of Breath | MedlinePlus",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=healthdirect.gov.au&sz=64",
-      "snippet": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing.",
-      "checkedAt": "2026-04-03T19:46:45.899Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=medlineplus.gov&sz=64",
+      "snippet": "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this.",
+      "checkedAt": "2026-04-03T19:46:45.693Z"
     },
     {
-      "id": "site_1775245605745_qzezx",
+      "id": "site_1775245603839_lxv0u",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
+      "domain": "ncbi.nlm.nih.gov",
+      "title": "Dyspnea - StatPearls - NCBI Bookshelf",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque",
+      "checkedAt": "2026-04-03T19:46:45.011Z"
+    },
+    {
+      "id": "site_1775245603710_j5ljx",
       "url": "https://www.webmd.com/lung/breathing-problems",
       "domain": "webmd.com",
       "title": "Breathing Problems: Causes, Symptoms & Solutions",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
       "snippet": "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them.",
-      "checkedAt": "2026-04-03T19:46:45.847Z"
+      "checkedAt": "2026-04-03T19:46:43.839Z"
     },
     {
       "id": "site_1775245599057_rlx77",
@@ -356,51 +406,51 @@
     },
     {
       "id": 7,
-      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
-      "domain": "healthdirect.gov.au",
-      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect"
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
+      "domain": "ncbi.nlm.nih.gov",
+      "title": "Dyspnea - StatPearls - NCBI Bookshelf"
     },
     {
       "id": 8,
+      "url": "https://medlineplus.gov/breathingproblems.html",
+      "domain": "medlineplus.gov",
+      "title": "Breathing Problems | Shortness of Breath | MedlinePlus"
+    },
+    {
+      "id": 9,
       "url": "https://zhidao.baidu.com/question/134401233120139445.html",
       "domain": "zhidao.baidu.com",
       "title": "why有多少种用法，用Why提问有多少种回答_百度知道"
     },
     {
-      "id": 9,
+      "id": 10,
       "url": "https://zhidao.baidu.com/question/82727586.html",
       "domain": "zhidao.baidu.com",
       "title": "why的用法_百度知道"
     },
     {
-      "id": 10,
-      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
-      "domain": "zhidao.baidu.com",
-      "title": "why什么意思_百度知道"
+      "id": 11,
+      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
+      "domain": "frontiersin.org",
+      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments"
     },
     {
-      "id": 11,
+      "id": 12,
       "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
       "domain": "sciencedaily.com",
       "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily"
     },
     {
-      "id": 12,
+      "id": 13,
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
       "domain": "pmc.ncbi.nlm.nih.gov",
       "title": "Breathlessness and the brain: the role of expectation - PMC"
     },
     {
-      "id": 13,
-      "url": "https://news.flinders.edu.au/blog/2025/12/18/chronic-breathlessness-emerging-as-a-hidden-strain-on-hospitals/",
-      "domain": "news.flinders.edu.au",
-      "title": "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News"
-    },
-    {
       "id": 14,
-      "url": "https://www.health.harvard.edu/heart-health/unmasking-the-varied-causes-of-breathlessness-and-fatigue",
-      "domain": "health.harvard.edu",
-      "title": "Unmasking the varied causes of breathlessness and fatigue - Harvard Health"
+      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why什么意思_百度知道"
     },
     {
       "id": 15,
@@ -446,9 +496,9 @@
     },
     {
       "id": 22,
-      "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
-      "domain": "library.hbs.edu",
-      "title": "When Benchmarks Don’t Work | Working Knowledge"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29799307/",
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "title": "Comparison of breathing patterns, pressure, volume, and flow characteristics of three breathing techniques to encourage lung inflation in he"
     },
     {
       "id": 23,
@@ -467,9 +517,59 @@
       "url": "https://en.wikipedia.org/wiki/Empire",
       "domain": "en.wikipedia.org",
       "title": "Empire - Wikipedia"
+    },
+    {
+      "id": 26,
+      "url": "https://www.webmd.com/lung/breathing-problems-causes-tests-treatments",
+      "domain": "webmd.com",
+      "title": "Breathing Problems: Causes, Tests, Solutions and Home Treatments"
+    },
+    {
+      "id": 27,
+      "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
+      "domain": "en.wikipedia.org",
+      "title": "Fermi paradox - Wikipedia"
+    },
+    {
+      "id": 28,
+      "url": "https://en.wikipedia.org/wiki/Open_world",
+      "domain": "en.wikipedia.org",
+      "title": "Open world - Wikipedia"
+    },
+    {
+      "id": 29,
+      "url": "https://en.wikipedia.org/wiki/Kermit_Gosnell",
+      "domain": "en.wikipedia.org",
+      "title": "Kermit Gosnell - Wikipedia"
+    },
+    {
+      "id": 30,
+      "url": "https://en.wikipedia.org/wiki/Random_checkpoint",
+      "domain": "en.wikipedia.org",
+      "title": "Random checkpoint - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 30,
+      "summary": "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra"
+    },
+    {
+      "citationId": 29,
+      "summary": "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me"
+    },
+    {
+      "citationId": 28,
+      "summary": "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1"
+    },
+    {
+      "citationId": 27,
+      "summary": "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2"
+    },
+    {
+      "citationId": 26,
+      "summary": "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated."
+    },
     {
       "citationId": 25,
       "summary": "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio"
@@ -484,7 +584,7 @@
     },
     {
       "citationId": 22,
-      "summary": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A"
+      "summary": "<span><b><i>Background</i></b>: It is important to encourage lung inflation to prevent postsurgical pulmonary complications and we compared three breathing techniques that place different emphasis on inspiratory flow and"
     },
     {
       "citationId": 21,
@@ -492,7 +592,7 @@
     },
     {
       "citationId": 20,
-      "summary": "Microsoft Services Agreement This is the Trace Id: f0244e31a4260dfa3a2065b2d5b50f77 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
+      "summary": "Microsoft Services Agreement This is the Trace Id: caeef617b720ee39319f0dda431d3a66 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
     },
     {
       "citationId": 19,
@@ -512,39 +612,39 @@
     },
     {
       "citationId": 15,
-      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e3963a7e782cd6bb913328792d0c9443 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: eec9d17f6c2196eaa747f2130050f34d Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
     },
     {
       "citationId": 14,
-      "summary": "Cardiopulmonary exercise testing (CPET) can help diagnose unusual causes of breathlessness, such as pulmonary hypertension or heart failure with preserved ejection fraction. CPET collects information about a person&#039;"
-    },
-    {
-      "citationId": 13,
-      "summary": "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News Skip to content Study Research Engage Alumni Giving About Quick links bookmark_border Current students Staff Library Flinders dashboard (Okta) Flinders Learning Online (FLO) Campus map: Bedford Park Staff directory Jobs at Flinders search Toggle navigation close --> News home chevron_right News chevron_right Chronic breathlessness emerging as a hidden strain on hospitals"
-    },
-    {
-      "citationId": 12,
-      "summary": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
-    },
-    {
-      "citationId": 11,
-      "summary": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
-    },
-    {
-      "citationId": 10,
       "summary": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示"
     },
     {
-      "citationId": 9,
+      "citationId": 13,
+      "summary": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
+    },
+    {
+      "citationId": 12,
+      "summary": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
+    },
+    {
+      "citationId": 11,
+      "summary": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms"
+    },
+    {
+      "citationId": 10,
       "summary": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣"
     },
     {
-      "citationId": 8,
+      "citationId": 9,
       "summary": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why"
     },
     {
+      "citationId": 8,
+      "summary": "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this."
+    },
+    {
       "citationId": 7,
-      "summary": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing."
+      "summary": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque"
     },
     {
       "citationId": 6,
@@ -573,50 +673,62 @@
   ],
   "events": [
     {
-      "id": "ev_1775245626738_pcux9",
-      "at": "2026-04-03T19:47:06.738Z",
+      "id": "ev_1775245629316_nq334",
+      "at": "2026-04-03T19:47:09.316Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 30."
+    },
+    {
+      "id": "ev_1775245627554_57kdb",
+      "at": "2026-04-03T19:47:07.554Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? limitations and risks"
+    },
+    {
+      "id": "ev_1775245627554_bk6r7",
+      "at": "2026-04-03T19:47:07.554Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 25."
     },
     {
-      "id": "ev_1775245622102_5g7em",
-      "at": "2026-04-03T19:47:02.102Z",
+      "id": "ev_1775245622929_eql7a",
+      "at": "2026-04-03T19:47:02.929Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? benchmark comparison"
     },
     {
-      "id": "ev_1775245622102_7wl5p",
-      "at": "2026-04-03T19:47:02.102Z",
+      "id": "ev_1775245621597_w0bbp",
+      "at": "2026-04-03T19:47:01.597Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 20."
     },
     {
-      "id": "ev_1775245618663_yl11u",
-      "at": "2026-04-03T19:46:58.663Z",
+      "id": "ev_1775245616441_oox2j",
+      "at": "2026-04-03T19:46:56.441Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? industry analysis 2025 2026"
     },
     {
-      "id": "ev_1775245618663_sy4w6",
-      "at": "2026-04-03T19:46:58.663Z",
+      "id": "ev_1775245616441_f8e2f",
+      "at": "2026-04-03T19:46:56.441Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1775245611584_6tkob",
-      "at": "2026-04-03T19:46:51.584Z",
+      "id": "ev_1775245609324_yrykh",
+      "at": "2026-04-03T19:46:49.324Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? latest research paper"
     },
     {
-      "id": "ev_1775245611584_sf9eo",
-      "at": "2026-04-03T19:46:51.584Z",
+      "id": "ev_1775245609324_jrzis",
+      "at": "2026-04-03T19:46:49.324Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1775245605022_726y7",
-      "at": "2026-04-03T19:46:45.022Z",
+      "id": "ev_1775245601990_bjkok",
+      "at": "2026-04-03T19:46:41.990Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? official documentation"
     },
@@ -652,31 +764,31 @@
     }
   ],
   "learnedSoFar": [
+    "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
+    "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me",
+    "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1",
+    "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2",
+    "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated.",
     "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio",
     "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem",
     "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2.",
-    "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
+    "<span><b><i>Background</i></b>: It is important to encourage lung inflation to prevent postsurgical pulmonary complications and we compared three breathing techniques that place different emphasis on inspiratory flow and",
     "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
-    "Microsoft Services Agreement This is the Trace Id: f0244e31a4260dfa3a2065b2d5b50f77 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+    "Microsoft Services Agreement This is the Trace Id: caeef617b720ee39319f0dda431d3a66 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
     "Key market opportunities in the inhaler solution market include the rising demand driven by increased respiratory disorders like asthma and COPD, expanding access to medicines in low and middle-income countries (LMICs), ",
     "The global respiratory care devices market is projected to grow from USD 23.6 billion in 2025 to USD 33.6 billion by 2030, with a CAGR of 7.3%. This growth is driven by increasing respiratory diseases due to aging, smoki",
     "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
     "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascript\" id",
-    "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e3963a7e782cd6bb913328792d0c9443 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-    "Cardiopulmonary exercise testing (CPET) can help diagnose unusual causes of breathlessness, such as pulmonary hypertension or heart failure with preserved ejection fraction. CPET collects information about a person&#039;",
-    "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News Skip to content Study Research Engage Alumni Giving About Quick links bookmark_border Current students Staff Library Flinders dashboard (Okta) Flinders Learning Online (FLO) Campus map: Bedford Park Staff directory Jobs at Flinders search Toggle navigation close --> News home chevron_right News chevron_right Chronic breathlessness emerging as a hidden strain on hospitals",
-    "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
-    "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
+    "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: eec9d17f6c2196eaa747f2130050f34d Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
     "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
-    "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣",
-    "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why"
+    "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
   ],
   "stats": {
-    "sourcesAnalyzed": 25,
-    "tokensUsedEstimate": 1904,
-    "depthScore": 18,
+    "sourcesAnalyzed": 30,
+    "tokensUsedEstimate": 2307,
+    "depthScore": 20,
     "queriesGenerated": 24,
-    "iterations": 5,
+    "iterations": 6,
     "uniqueDomains": 19
   },
   "control": {
