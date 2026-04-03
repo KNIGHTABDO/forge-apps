@@ -3,16 +3,14 @@
   "sessionId": "sess_55dddba",
   "query": "why do we hard breath sometimes",
   "createdAt": "2026-04-03T19:54:03.449Z",
-  "updatedAt": "2026-04-03T19:55:33.905Z",
-  "lastAdvancedAt": "2026-04-03T19:55:31.977Z",
+  "updatedAt": "2026-04-03T19:55:39.174Z",
+  "lastAdvancedAt": "2026-04-03T19:55:37.789Z",
   "phase": "analyzing",
   "progress": 21,
   "etaMinutes": 32,
   "planDraft": "1. Define the Scope: Establish the physiological parameters of \"hard breathing,\" distinguishing between tachypnea (rapid breathing), dyspnea (subjective sensation of breathlessness), and hyperpnea (increased depth/rate due to metabolic demand). Differentiate between transient, exercise-induced causes and pathological or emotional triggers to narrow the search to clinically relevant and common scenarios.\n\n2. Execute Broad Search Fan-out: Utilize academic databases (PubMed, Google Scholar) and medical repositories (Mayo Clinic, Cleveland Clinic) to collect data on the underlying mechanisms of hard breathing. Focus on three primary domains: physiological response to physical exertion, psychological triggers (anxiety/panic), and underlying systemic conditions (cardiopulmonary, metabolic, or environmental factors).\n\n3. Categorize and Analyze Evidence: Organize findings into a tiered framework: primary physiological drivers (e.g., CO2 accumulation, O2 demand), secondary compensatory responses (e.g., autonomic nervous system activation), and acute vs. chronic manifestations. Evaluate the biological signaling pathways, specifically the role of chemoreceptors and the respiratory center in the brainstem, to explain the \"why\" behind the physical action.\n\n4. Identify Evidence Gaps and Ambiguities: Critically evaluate the collected data for areas of uncertainty, such as the threshold between normal physiological adaptation and pathological dyspnea, or the current scientific consensus on the \"air hunger\" sensation during non-exertional states. Flag subjective or anecdotal claims and isolate peer-reviewed, evidence-based conclusions to ensure accuracy.\n\n5. Synthesize and Formalize Findings: Draft a comprehensive explanation that integrates the physical requirements of the body with the neurological and emotional feedback loops. Structure the final output to address why the body initiates hard breathing as a protective or compensatory mechanism, clarifying when it is a normal homeostatic adjustment and when it signals a deviation from health.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes official documentation metrics",
-    "why do we hard breath sometimes official documentation review",
     "why do we hard breath sometimes official documentation \"pdf\""
   ],
   "processedQueries": [
@@ -36,9 +34,21 @@
     "why do we hard breath sometimes site:gov",
     "why do we hard breath sometimes \"analysis\"",
     "why do we hard breath sometimes opinion",
-    "why do we hard breath sometimes official documentation \"case study\""
+    "why do we hard breath sometimes official documentation \"case study\"",
+    "why do we hard breath sometimes official documentation metrics",
+    "why do we hard breath sometimes official documentation review"
   ],
   "websites": [
+    {
+      "id": "site_1775246139035_y1ir5",
+      "url": "https://www.webmd.com/lung/breathing-problems",
+      "domain": "webmd.com",
+      "title": "Breathing Problems: Causes, Symptoms & Solutions",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
+      "snippet": "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them.",
+      "checkedAt": "2026-04-03T19:55:39.173Z"
+    },
     {
       "id": "site_1775246133869_zx6cx",
       "url": "https://www.merckmanuals.com/professional/multimedia/case-study/shortness-of-breath-in-a-68-yr-old-man",
@@ -873,9 +883,19 @@
       "url": "https://www.merckmanuals.com/professional/multimedia/case-study/shortness-of-breath-in-a-68-yr-old-man",
       "domain": "merckmanuals.com",
       "title": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-Merck Manual Professional Edition"
+    },
+    {
+      "id": 48,
+      "url": "https://www.webmd.com/lung/breathing-problems",
+      "domain": "webmd.com",
+      "title": "Breathing Problems: Causes, Symptoms & Solutions"
     }
   ],
   "notes": [
+    {
+      "citationId": 48,
+      "summary": "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them."
+    },
     {
       "citationId": 47,
       "summary": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-Merck Manual Professional Edition honeypot link skip to main content Professional Consumer Merck Manual Professional Version MEDICAL TOPICS RESOURCES DRUG INFO COMMENTARY PROCEDURES QUIZZES ABOUT US MEDICAL TOPICS RESOURCES &lt; Case studies Shortness of Breath in a 68-Yr-Old Man About Disclaimer Permissions Privacy Cookie Preferences Terms of use Partnerships Contact Us Global Medical Knowledge "
@@ -1066,6 +1086,30 @@
     }
   ],
   "events": [
+    {
+      "id": "ev_1775246139174_mdqz5",
+      "at": "2026-04-03T19:55:39.174Z",
+      "phase": "analyzing",
+      "message": "Analyzed 1 sources this iteration. Total: 48."
+    },
+    {
+      "id": "ev_1775246137789_k6hi9",
+      "at": "2026-04-03T19:55:37.789Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes official documentation review"
+    },
+    {
+      "id": "ev_1775246136775_ot5f9",
+      "at": "2026-04-03T19:55:36.775Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 47."
+    },
+    {
+      "id": "ev_1775246134972_infbe",
+      "at": "2026-04-03T19:55:34.972Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes official documentation metrics"
+    },
     {
       "id": "ev_1775246133905_qv8dl",
       "at": "2026-04-03T19:55:33.905Z",
@@ -1338,6 +1382,7 @@
     }
   ],
   "learnedSoFar": [
+    "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them.",
     "Case-Study: Shortness of Breath in a 68-Yr-Old Man-Merck Manual Professional Edition honeypot link skip to main content Professional Consumer Merck Manual Professional Version MEDICAL TOPICS RESOURCES DRUG INFO COMMENTARY PROCEDURES QUIZZES ABOUT US MEDICAL TOPICS RESOURCES &lt; Case studies Shortness of Breath in a 68-Yr-Old Man About Disclaimer Permissions Privacy Cookie Preferences Terms of use Partnerships Contact Us Global Medical Knowledge ",
     "Case 1: Shortness of Breath Case 1: Shortness of Breath Welcome to medmalreviewer.com! The purpose of this site is to improve doctor’s medical knowledge and documentation by reviewing real-life malpractice cases. The first case is below. These cases are presented in long form, deep dive fashion, and I&#8217;ll try to post one each month. Each case is broken down into 5 posts. To see more info about the website, here are links to the About Page an",
     "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing.",
@@ -1354,15 +1399,14 @@
     "Chronic disease, anxiety, ADHD, and even the shape of a person",
     "Episode #15 The Power of Breath with James Nestor: Andrew Weil Center for Integrative Medicine --> &nbsp; Open main menu Home Education &blacktriangledown; Open submenu Catalog Fellowship &blacktriangledown; Open submenu Fellowship Curriculum Fellowship Faculty Experiential Weeks How to Apply to the Fellowship Fellowship Tuition, Payment Schedule, and Scholarships Fellowship Q&A with Center Directors & Alumni Fellowship FAQ Integrative Health & L",
     "This case illustrates the importance of looking at the bigger picture when considering a patient’s respiratory symptoms.",
-    "Patients who develop breathing pattern disorder can find symptoms become so debilitating they&#039;re unable to live a life that&#039;s normal for them",
-    "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r"
+    "Patients who develop breathing pattern disorder can find symptoms become so debilitating they&#039;re unable to live a life that&#039;s normal for them"
   ],
   "stats": {
-    "sourcesAnalyzed": 47,
-    "tokensUsedEstimate": 3622,
+    "sourcesAnalyzed": 48,
+    "tokensUsedEstimate": 3675,
     "depthScore": 41,
     "queriesGenerated": 24,
-    "iterations": 21,
+    "iterations": 23,
     "uniqueDomains": 40
   },
   "control": {
