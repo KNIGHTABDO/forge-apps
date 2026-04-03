@@ -3,19 +3,175 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:46:32.867Z",
-  "lastAdvancedAt": "2026-04-03T19:46:30.118Z",
-  "phase": "query_fanout",
-  "progress": 4,
-  "etaMinutes": 45,
+  "updatedAt": "2026-04-03T19:46:39.874Z",
+  "lastAdvancedAt": "2026-04-03T19:46:33.219Z",
+  "phase": "analyzing",
+  "progress": 9,
+  "etaMinutes": 37,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
-  "pendingQueries": [],
-  "processedQueries": [],
-  "websites": [],
-  "citations": [],
-  "notes": [],
+  "pendingQueries": [
+    "why do we hard breath sometimes? official documentation",
+    "why do we hard breath sometimes? latest research paper",
+    "why do we hard breath sometimes? industry analysis 2025 2026",
+    "why do we hard breath sometimes? benchmark comparison",
+    "why do we hard breath sometimes? limitations and risks",
+    "why do we hard breath sometimes? case study",
+    "why do we hard breath sometimes? expert interview",
+    "why do we hard breath sometimes? economics and costs",
+    "why do we hard breath sometimes? timeline and adoption",
+    "why do we hard breath sometimes? open source tools",
+    "why do we hard breath sometimes? enterprise usage",
+    "why do we hard breath sometimes? \"case study\"",
+    "why do we hard breath sometimes? metrics",
+    "why do we hard breath sometimes? review",
+    "why do we hard breath sometimes? \"pdf\"",
+    "why do we hard breath sometimes? site:edu",
+    "why do we hard breath sometimes? site:gov",
+    "why do we hard breath sometimes? \"analysis\"",
+    "why do we hard breath sometimes? opinion",
+    "why do we hard breath sometimes? official documentation \"case study\"",
+    "why do we hard breath sometimes? official documentation metrics",
+    "why do we hard breath sometimes? official documentation review",
+    "why do we hard breath sometimes? official documentation \"pdf\""
+  ],
+  "processedQueries": [
+    "why do we hard breath sometimes?"
+  ],
+  "websites": [
+    {
+      "id": "site_1775245599057_rlx77",
+      "url": "https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890",
+      "domain": "mayoclinic.org",
+      "title": "Shortness of breath Causes - Mayo Clinic",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=mayoclinic.org&sz=64",
+      "snippet": "Trouble breathing can come on suddenly or last for weeks or longer. Most cases are due to heart or lung conditions, but there are many other causes.",
+      "checkedAt": "2026-04-03T19:46:39.873Z"
+    },
+    {
+      "id": "site_1775245597991_y93vl",
+      "url": "https://www.healthpartners.com/blog/shortness-of-breath/",
+      "domain": "healthpartners.com",
+      "title": "Shortness of breath (dyspnea): Causes and symptoms | HealthPartners Blog",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthpartners.com&sz=64",
+      "snippet": "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do.",
+      "checkedAt": "2026-04-03T19:46:39.057Z"
+    },
+    {
+      "id": "site_1775245597461_ozznx",
+      "url": "https://www.austinpulmonary.com/2025/03/07/what-causes-shortness-of-breath-that-comes-and-goes/",
+      "domain": "austinpulmonary.com",
+      "title": "austinpulmonary.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=austinpulmonary.com&sz=64",
+      "checkedAt": "2026-04-03T19:46:37.991Z"
+    },
+    {
+      "id": "site_1775245596462_1dodd",
+      "url": "https://my.clevelandclinic.org/health/symptoms/16942-dyspnea",
+      "domain": "my.clevelandclinic.org",
+      "title": "Dyspnea (Shortness of Breath): Causes, Symptoms & Treatment",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=my.clevelandclinic.org&sz=64",
+      "snippet": "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea.",
+      "checkedAt": "2026-04-03T19:46:37.461Z"
+    },
+    {
+      "id": "site_1775245595934_vwaul",
+      "url": "https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/shortness-of-breath",
+      "domain": "lung.org",
+      "title": "Shortness of Breath | American Lung Association",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=lung.org&sz=64",
+      "snippet": "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider.",
+      "checkedAt": "2026-04-03T19:46:36.462Z"
+    },
+    {
+      "id": "site_1775245595413_5babu",
+      "url": "https://www.medicalnewstoday.com/articles/318210",
+      "domain": "medicalnewstoday.com",
+      "title": "Heavy breathing: 10 causes and treatments",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=64",
+      "snippet": "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them.",
+      "checkedAt": "2026-04-03T19:46:35.933Z"
+    }
+  ],
+  "citations": [
+    {
+      "id": 1,
+      "url": "https://www.medicalnewstoday.com/articles/318210",
+      "domain": "medicalnewstoday.com",
+      "title": "Heavy breathing: 10 causes and treatments"
+    },
+    {
+      "id": 2,
+      "url": "https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/shortness-of-breath",
+      "domain": "lung.org",
+      "title": "Shortness of Breath | American Lung Association"
+    },
+    {
+      "id": 3,
+      "url": "https://my.clevelandclinic.org/health/symptoms/16942-dyspnea",
+      "domain": "my.clevelandclinic.org",
+      "title": "Dyspnea (Shortness of Breath): Causes, Symptoms & Treatment"
+    },
+    {
+      "id": 4,
+      "url": "https://www.healthpartners.com/blog/shortness-of-breath/",
+      "domain": "healthpartners.com",
+      "title": "Shortness of breath (dyspnea): Causes and symptoms | HealthPartners Blog"
+    },
+    {
+      "id": 5,
+      "url": "https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890",
+      "domain": "mayoclinic.org",
+      "title": "Shortness of breath Causes - Mayo Clinic"
+    }
+  ],
+  "notes": [
+    {
+      "citationId": 5,
+      "summary": "Trouble breathing can come on suddenly or last for weeks or longer. Most cases are due to heart or lung conditions, but there are many other causes."
+    },
+    {
+      "citationId": 4,
+      "summary": "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do."
+    },
+    {
+      "citationId": 3,
+      "summary": "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea."
+    },
+    {
+      "citationId": 2,
+      "summary": "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider."
+    },
+    {
+      "citationId": 1,
+      "summary": "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them."
+    }
+  ],
   "events": [
+    {
+      "id": "ev_1775245599874_jcvoa",
+      "at": "2026-04-03T19:46:39.874Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1775245593221_oj8ps",
+      "at": "2026-04-03T19:46:33.221Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes?"
+    },
+    {
+      "id": "ev_1775245593221_ooovo",
+      "at": "2026-04-03T19:46:33.221Z",
+      "phase": "query_fanout",
+      "message": "Generated 24 additional search vectors."
+    },
     {
       "id": "ev_1775245592866",
       "at": "2026-04-03T19:46:32.866Z",
@@ -29,14 +185,20 @@
       "message": "Research session created. Plan draft is ready for review."
     }
   ],
-  "learnedSoFar": [],
+  "learnedSoFar": [
+    "Trouble breathing can come on suddenly or last for weeks or longer. Most cases are due to heart or lung conditions, but there are many other causes.",
+    "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do.",
+    "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea.",
+    "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider.",
+    "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them."
+  ],
   "stats": {
-    "sourcesAnalyzed": 0,
-    "tokensUsedEstimate": 0,
-    "depthScore": 0,
-    "queriesGenerated": 0,
-    "iterations": 0,
-    "uniqueDomains": 0
+    "sourcesAnalyzed": 5,
+    "tokensUsedEstimate": 268,
+    "depthScore": 4,
+    "queriesGenerated": 24,
+    "iterations": 1,
+    "uniqueDomains": 5
   },
   "control": {
     "paused": false,
