@@ -3,16 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:48:03.259Z",
-  "lastAdvancedAt": "2026-04-03T19:47:56.971Z",
+  "updatedAt": "2026-04-03T19:48:12.147Z",
+  "lastAdvancedAt": "2026-04-03T19:48:08.599Z",
   "phase": "analyzing",
-  "progress": 31,
-  "etaMinutes": 27,
+  "progress": 34,
+  "etaMinutes": 26,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? site:gov",
-    "why do we hard breath sometimes? \"analysis\"",
     "why do we hard breath sometimes? opinion",
     "why do we hard breath sometimes? official documentation \"case study\"",
     "why do we hard breath sometimes? official documentation metrics",
@@ -36,203 +34,305 @@
     "why do we hard breath sometimes? metrics",
     "why do we hard breath sometimes? review",
     "why do we hard breath sometimes? \"pdf\"",
-    "why do we hard breath sometimes? site:edu"
+    "why do we hard breath sometimes? site:edu",
+    "why do we hard breath sometimes? site:gov",
+    "why do we hard breath sometimes? \"analysis\""
   ],
   "websites": [
     {
-      "id": "site_1775245682371_gak63",
+      "id": "site_1775245691532_vveqx",
+      "url": "https://en.wikipedia.org/wiki/Twelfth_Doctor",
+      "domain": "en.wikipedia.org",
+      "title": "Twelfth Doctor - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Twelfth Doctor - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Casting 1",
+      "checkedAt": "2026-04-03T19:48:12.147Z"
+    },
+    {
+      "id": "site_1775245691310_e5fkv",
+      "url": "https://en.wikipedia.org/wiki/Snoring",
+      "domain": "en.wikipedia.org",
+      "title": "Snoring - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Snoring - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Distinguis",
+      "checkedAt": "2026-04-03T19:48:11.532Z"
+    },
+    {
+      "id": "site_1775245691198_bx742",
+      "url": "https://en.wikipedia.org/wiki/Afrikaans_grammar",
+      "domain": "en.wikipedia.org",
+      "title": "Afrikaans grammar - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Afrikaans grammar - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Standardised Afrikaans 2 Lexical categories Toggle L",
+      "checkedAt": "2026-04-03T19:48:11.310Z"
+    },
+    {
+      "id": "site_1775245690983_bk33x",
+      "url": "https://en.wikipedia.org/wiki/Chinese_creation_myths",
+      "domain": "en.wikipedia.org",
+      "title": "Chinese creation myths - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Chinese creation myths - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Cosmogonic mythologies Toggle Cosmogonic mythol",
+      "checkedAt": "2026-04-03T19:48:11.198Z"
+    },
+    {
+      "id": "site_1775245690519_iwte3",
+      "url": "https://www.medicalnewstoday.com/articles/324429",
+      "domain": "medicalnewstoday.com",
+      "title": "Difficulty breathing: Causes, symptoms, and treatment",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=64",
+      "snippet": "People can experience difficulty breathing for a wide range of reasons. In this article, we look at causes, symptoms, and ways to prevent breathing difficulties.",
+      "checkedAt": "2026-04-03T19:48:10.983Z"
+    },
+    {
+      "id": "site_1775245688404_y8a20",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
+      "checkedAt": "2026-04-03T19:48:08.599Z"
+    },
+    {
+      "id": "site_1775245688179_kvgnp",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
+      "checkedAt": "2026-04-03T19:48:08.404Z"
+    },
+    {
+      "id": "site_1775245687349_1zbmz",
       "url": "https://en.wikipedia.org/wiki/Bob_Dylan",
       "domain": "en.wikipedia.org",
       "title": "Bob Dylan - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
-      "checkedAt": "2026-04-03T19:48:03.259Z"
+      "checkedAt": "2026-04-03T19:48:08.179Z"
     },
     {
-      "id": "site_1775245682175_z3nsh",
+      "id": "site_1775245687204_0ax3x",
+      "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+      "domain": "en.wikipedia.org",
+      "title": "Arnold Schwarzenegger - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Arnold Schwarzenegger - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Bodybuilding career T",
+      "checkedAt": "2026-04-03T19:48:07.349Z"
+    },
+    {
+      "id": "site_1775245687101_px08h",
+      "url": "https://en.wikipedia.org/wiki/Dennis_Rader",
+      "domain": "en.wikipedia.org",
+      "title": "Dennis Rader - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Dennis Rader - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Childhood 1.2",
+      "checkedAt": "2026-04-03T19:48:07.204Z"
+    },
+    {
+      "id": "site_1775245683169_opwly",
+      "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
+      "domain": "en.wikipedia.org",
+      "title": "Indigenous peoples of the Americas - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Indigenous peoples of the Americas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subs",
+      "checkedAt": "2026-04-03T19:48:03.387Z"
+    },
+    {
+      "id": "site_1775245682274_4el6x",
       "url": "https://en.wikipedia.org/wiki/Geraldo_Rivera",
       "domain": "en.wikipedia.org",
       "title": "Geraldo Rivera - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Geraldo Rivera - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 ABC Ne",
-      "checkedAt": "2026-04-03T19:48:02.371Z"
+      "checkedAt": "2026-04-03T19:48:03.169Z"
     },
     {
-      "id": "site_1775245681609_w0sts",
-      "url": "https://en.wikipedia.org/wiki/Dionysus",
-      "domain": "en.wikipedia.org",
-      "title": "Dionysus - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Dionysus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name Toggle Name subsection 1.1 Etymology 1.2 Meaning and var",
-      "checkedAt": "2026-04-03T19:48:02.175Z"
-    },
-    {
-      "id": "site_1775245681143_hgkv3",
+      "id": "site_1775245682126_di0g6",
       "url": "https://en.wikipedia.org/wiki/Barbra_Streisand",
       "domain": "en.wikipedia.org",
       "title": "Barbra Streisand - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Barbra Streisand - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family 1.",
-      "checkedAt": "2026-04-03T19:48:01.609Z"
+      "checkedAt": "2026-04-03T19:48:02.274Z"
     },
     {
-      "id": "site_1775245680240_ziq0x",
+      "id": "site_1775245681555_274el",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Sondheim",
+      "domain": "en.wikipedia.org",
+      "title": "Stephen Sondheim - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Stephen Sondheim - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education Toggle Early life and educat",
+      "checkedAt": "2026-04-03T19:48:02.126Z"
+    },
+    {
+      "id": "site_1775245680895_v5zdu",
       "url": "https://en.wikipedia.org/wiki/Relations_between_Nazi_Germany_and_the_Arab_world",
       "domain": "en.wikipedia.org",
       "title": "Relations between Nazi Germany and the Arab world - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Relations between Nazi Germany and the Arab world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Nazi Germany and the",
-      "checkedAt": "2026-04-03T19:48:01.142Z"
+      "checkedAt": "2026-04-03T19:48:01.555Z"
     },
     {
-      "id": "site_1775245675298_ova8t",
+      "id": "site_1775245677825_xidjj",
       "url": "https://en.wikipedia.org/wiki/Cadet_Org",
       "domain": "en.wikipedia.org",
       "title": "Cadet Org - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Cadet Org - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and policies 2 Life in the Cadet Org Toggle Life in ",
-      "checkedAt": "2026-04-03T19:47:55.555Z"
+      "checkedAt": "2026-04-03T19:47:58.509Z"
     },
     {
-      "id": "site_1775245675181_n5rps",
+      "id": "site_1775245677314_uzv2c",
       "url": "https://en.wikipedia.org/wiki/Carole_Bayer_Sager",
       "domain": "en.wikipedia.org",
       "title": "Carole Bayer Sager - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Carole Bayer Sager - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and career 2 Solo albums 3 Songwriting 4",
-      "checkedAt": "2026-04-03T19:47:55.298Z"
+      "checkedAt": "2026-04-03T19:47:57.825Z"
     },
     {
-      "id": "site_1775245675104_np1ys",
+      "id": "site_1775245676256_0apfs",
       "url": "https://en.wikipedia.org/wiki/Random_checkpoint",
       "domain": "en.wikipedia.org",
       "title": "Random checkpoint - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
-      "checkedAt": "2026-04-03T19:47:55.181Z"
+      "checkedAt": "2026-04-03T19:47:57.314Z"
     },
     {
-      "id": "site_1775245674998_4mpwl",
+      "id": "site_1775245676148_qjjd0",
       "url": "https://en.wikipedia.org/wiki/Bigu_(grain_avoidance)",
       "domain": "en.wikipedia.org",
       "title": "Bigu (grain avoidance) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Bigu (grain avoidance) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Agricultural mythology 3 Grains i",
-      "checkedAt": "2026-04-03T19:47:55.103Z"
+      "checkedAt": "2026-04-03T19:47:56.256Z"
     },
     {
-      "id": "site_1775245674901_s6vkp",
+      "id": "site_1775245676062_gs188",
       "url": "https://en.wikipedia.org/wiki/George_Jones_singles_discography",
       "domain": "en.wikipedia.org",
       "title": "George Jones singles discography - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "George Jones singles discography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 As a solo artist Toggle As a solo art",
-      "checkedAt": "2026-04-03T19:47:54.998Z"
+      "checkedAt": "2026-04-03T19:47:56.148Z"
     },
     {
-      "id": "site_1775245674556_fc24c",
-      "url": "https://www.mskcc.org/pdf/cancer-care/patient-education/shortness-breath-dyspnea",
-      "domain": "mskcc.org",
-      "title": "mskcc.org",
+      "id": "site_1775245676062_ln7m4",
+      "url": "https://emergencymedicinecases.com/wp-content/uploads/2017/02/The-Physiologically-Difficult-Airway.pdf",
+      "domain": "emergencymedicinecases.com",
+      "title": "emergencymedicinecases.com",
       "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=mskcc.org&sz=64",
-      "checkedAt": "2026-04-03T19:47:54.901Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=emergencymedicinecases.com&sz=64",
+      "checkedAt": "2026-04-03T19:47:56.062Z"
     },
     {
-      "id": "site_1775245674556_kg6ot",
+      "id": "site_1775245676050_efs9z",
+      "url": "https://scielo.org.za/pdf/samj/v106n1/13.pdf",
+      "domain": "scielo.org.za",
+      "title": "scielo.org.za",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=scielo.org.za&sz=64",
+      "checkedAt": "2026-04-03T19:47:56.062Z"
+    },
+    {
+      "id": "site_1775245676050_cwras",
+      "url": "https://www.thoracic.org/patients/patient-resources/resources/breathlessness.pdf",
+      "domain": "thoracic.org",
+      "title": "thoracic.org",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=thoracic.org&sz=64",
+      "checkedAt": "2026-04-03T19:47:56.050Z"
+    },
+    {
+      "id": "site_1775245676050_6qmbh",
+      "url": "https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Respiratory/Breathing-pattern-disorders-patient-information.pdf",
+      "domain": "uhs.nhs.uk",
+      "title": "uhs.nhs.uk",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=uhs.nhs.uk&sz=64",
+      "checkedAt": "2026-04-03T19:47:56.050Z"
+    },
+    {
+      "id": "site_1775245676050_9tva8",
       "url": "https://portal.ct.gov/-/media/DDS/FactSheets/FSBreathingDifficulty.pdf",
       "domain": "portal.ct.gov",
       "title": "portal.ct.gov",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=portal.ct.gov&sz=64",
-      "checkedAt": "2026-04-03T19:47:54.556Z"
+      "checkedAt": "2026-04-03T19:47:56.050Z"
     },
     {
-      "id": "site_1775245674556_1tvd4",
-      "url": "https://www.thoracic.org/patients/patient-resources/resources/sudden-breathlessness.pdf",
-      "domain": "thoracic.org",
-      "title": "thoracic.org",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=thoracic.org&sz=64",
-      "checkedAt": "2026-04-03T19:47:54.556Z"
-    },
-    {
-      "id": "site_1775245674556_084wo",
-      "url": "https://www.wsh.nhs.uk/CMS-Documents/Patient-leaflets/Physiotherapy/6350-1-Breathlessness-and-how-to-manage-it.pdf",
-      "domain": "wsh.nhs.uk",
-      "title": "wsh.nhs.uk",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=wsh.nhs.uk&sz=64",
-      "checkedAt": "2026-04-03T19:47:54.556Z"
-    },
-    {
-      "id": "site_1775245674555_8887n",
-      "url": "https://www.sfh-tr.nhs.uk/media/k0jpsjq2/pil202509-03-db-dysfunctional-breathing.pdf",
-      "domain": "sfh-tr.nhs.uk",
-      "title": "sfh-tr.nhs.uk",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sfh-tr.nhs.uk&sz=64",
-      "checkedAt": "2026-04-03T19:47:54.556Z"
-    },
-    {
-      "id": "site_1775245672291_p3qmt",
+      "id": "site_1775245671070_t22tf",
       "url": "https://en.wikipedia.org/wiki/Synchronicity_(The_Police_album)",
       "domain": "en.wikipedia.org",
       "title": "Synchronicity (The Police album) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Synchronicity (The Police album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Recording 2 Album cover 3 Release 4 C",
-      "checkedAt": "2026-04-03T19:47:52.384Z"
+      "checkedAt": "2026-04-03T19:47:51.366Z"
     },
     {
-      "id": "site_1775245672218_w3cs8",
+      "id": "site_1775245670854_12kyy",
       "url": "https://en.wikipedia.org/wiki/Just_for_One_Day_(musical)",
       "domain": "en.wikipedia.org",
       "title": "Just for One Day (musical) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Just for One Day (musical) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Synopsis Toggle Synopsis subse",
-      "checkedAt": "2026-04-03T19:47:52.290Z"
+      "checkedAt": "2026-04-03T19:47:51.070Z"
     },
     {
-      "id": "site_1775245672148_oeifx",
+      "id": "site_1775245670452_ij4iz",
       "url": "https://en.wikipedia.org/wiki/Yank_Crime",
       "domain": "en.wikipedia.org",
       "title": "Yank Crime - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Yank Crime - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Reception Toggle Reception subsection 1.1 Initial 1.2 Legac",
-      "checkedAt": "2026-04-03T19:47:52.218Z"
+      "checkedAt": "2026-04-03T19:47:50.854Z"
     },
     {
-      "id": "site_1775245672067_dyaen",
+      "id": "site_1775245670353_cq0mj",
       "url": "https://en.wikipedia.org/wiki/Invincible_season_1",
       "domain": "en.wikipedia.org",
       "title": "Invincible season 1 - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Invincible season 1 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and cha",
-      "checkedAt": "2026-04-03T19:47:52.148Z"
+      "checkedAt": "2026-04-03T19:47:50.452Z"
     },
     {
-      "id": "site_1775245671766_5zc6y",
+      "id": "site_1775245669715_rwa15",
       "url": "https://en.wikipedia.org/wiki/Psycho_Synner",
       "domain": "en.wikipedia.org",
       "title": "Psycho Synner - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Psycho Synner - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Spencer's departur",
-      "checkedAt": "2026-04-03T19:47:52.067Z"
+      "checkedAt": "2026-04-03T19:47:50.352Z"
     },
     {
       "id": "site_1775245667453_1bvit",
@@ -1478,15 +1578,15 @@
     },
     {
       "id": 82,
-      "url": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Sondheim",
       "domain": "en.wikipedia.org",
-      "title": "Barbra Streisand - Wikipedia"
+      "title": "Stephen Sondheim - Wikipedia"
     },
     {
       "id": 83,
-      "url": "https://en.wikipedia.org/wiki/Dionysus",
+      "url": "https://en.wikipedia.org/wiki/Barbra_Streisand",
       "domain": "en.wikipedia.org",
-      "title": "Dionysus - Wikipedia"
+      "title": "Barbra Streisand - Wikipedia"
     },
     {
       "id": 84,
@@ -1496,15 +1596,115 @@
     },
     {
       "id": 85,
+      "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
+      "domain": "en.wikipedia.org",
+      "title": "Indigenous peoples of the Americas - Wikipedia"
+    },
+    {
+      "id": 86,
+      "url": "https://en.wikipedia.org/wiki/Dennis_Rader",
+      "domain": "en.wikipedia.org",
+      "title": "Dennis Rader - Wikipedia"
+    },
+    {
+      "id": 87,
+      "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+      "domain": "en.wikipedia.org",
+      "title": "Arnold Schwarzenegger - Wikipedia"
+    },
+    {
+      "id": 88,
       "url": "https://en.wikipedia.org/wiki/Bob_Dylan",
       "domain": "en.wikipedia.org",
       "title": "Bob Dylan - Wikipedia"
+    },
+    {
+      "id": 89,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 90,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 91,
+      "url": "https://www.medicalnewstoday.com/articles/324429",
+      "domain": "medicalnewstoday.com",
+      "title": "Difficulty breathing: Causes, symptoms, and treatment"
+    },
+    {
+      "id": 92,
+      "url": "https://en.wikipedia.org/wiki/Chinese_creation_myths",
+      "domain": "en.wikipedia.org",
+      "title": "Chinese creation myths - Wikipedia"
+    },
+    {
+      "id": 93,
+      "url": "https://en.wikipedia.org/wiki/Afrikaans_grammar",
+      "domain": "en.wikipedia.org",
+      "title": "Afrikaans grammar - Wikipedia"
+    },
+    {
+      "id": 94,
+      "url": "https://en.wikipedia.org/wiki/Snoring",
+      "domain": "en.wikipedia.org",
+      "title": "Snoring - Wikipedia"
+    },
+    {
+      "id": 95,
+      "url": "https://en.wikipedia.org/wiki/Twelfth_Doctor",
+      "domain": "en.wikipedia.org",
+      "title": "Twelfth Doctor - Wikipedia"
     }
   ],
   "notes": [
     {
-      "citationId": 85,
+      "citationId": 95,
+      "summary": "Twelfth Doctor - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Casting 1"
+    },
+    {
+      "citationId": 94,
+      "summary": "Snoring - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Distinguis"
+    },
+    {
+      "citationId": 93,
+      "summary": "Afrikaans grammar - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Standardised Afrikaans 2 Lexical categories Toggle L"
+    },
+    {
+      "citationId": 92,
+      "summary": "Chinese creation myths - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Cosmogonic mythologies Toggle Cosmogonic mythol"
+    },
+    {
+      "citationId": 91,
+      "summary": "People can experience difficulty breathing for a wide range of reasons. In this article, we look at causes, symptoms, and ways to prevent breathing difficulties."
+    },
+    {
+      "citationId": 90,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW"
+    },
+    {
+      "citationId": 89,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+"
+    },
+    {
+      "citationId": 88,
       "summary": "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2"
+    },
+    {
+      "citationId": 87,
+      "summary": "Arnold Schwarzenegger - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Bodybuilding career T"
+    },
+    {
+      "citationId": 86,
+      "summary": "Dennis Rader - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Childhood 1.2"
+    },
+    {
+      "citationId": 85,
+      "summary": "Indigenous peoples of the Americas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subs"
     },
     {
       "citationId": 84,
@@ -1512,11 +1712,11 @@
     },
     {
       "citationId": 83,
-      "summary": "Dionysus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name Toggle Name subsection 1.1 Etymology 1.2 Meaning and var"
+      "summary": "Barbra Streisand - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family 1."
     },
     {
       "citationId": 82,
-      "summary": "Barbra Streisand - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family 1."
+      "summary": "Stephen Sondheim - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education Toggle Early life and educat"
     },
     {
       "citationId": 81,
@@ -1845,38 +2045,62 @@
   ],
   "events": [
     {
-      "id": "ev_1775245683259_22zvz",
-      "at": "2026-04-03T19:48:03.259Z",
+      "id": "ev_1775245692147_poktw",
+      "at": "2026-04-03T19:48:12.147Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 95."
+    },
+    {
+      "id": "ev_1775245688599_6zgxh",
+      "at": "2026-04-03T19:48:08.599Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? \"analysis\""
+    },
+    {
+      "id": "ev_1775245688599_gj3gb",
+      "at": "2026-04-03T19:48:08.599Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 90."
+    },
+    {
+      "id": "ev_1775245684782_5w46q",
+      "at": "2026-04-03T19:48:04.782Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? site:gov"
+    },
+    {
+      "id": "ev_1775245683387_zc7jw",
+      "at": "2026-04-03T19:48:03.387Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 85."
     },
     {
-      "id": "ev_1775245676971_jsohh",
-      "at": "2026-04-03T19:47:56.971Z",
+      "id": "ev_1775245678509_8z7y1",
+      "at": "2026-04-03T19:47:58.509Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? site:edu"
     },
     {
-      "id": "ev_1775245675555_6i0g3",
-      "at": "2026-04-03T19:47:55.555Z",
+      "id": "ev_1775245678509_8v5rx",
+      "at": "2026-04-03T19:47:58.509Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 80."
     },
     {
-      "id": "ev_1775245672384_s409c",
-      "at": "2026-04-03T19:47:52.384Z",
+      "id": "ev_1775245674007_t7uvj",
+      "at": "2026-04-03T19:47:54.008Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? \"pdf\""
     },
     {
-      "id": "ev_1775245672384_295jv",
-      "at": "2026-04-03T19:47:52.384Z",
+      "id": "ev_1775245671366_224ia",
+      "at": "2026-04-03T19:47:51.366Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 75."
     },
     {
-      "id": "ev_1775245671018_gelja",
-      "at": "2026-04-03T19:47:51.018Z",
+      "id": "ev_1775245668091_v390u",
+      "at": "2026-04-03T19:47:48.091Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? review"
     },
@@ -2068,32 +2292,32 @@
     }
   ],
   "learnedSoFar": [
+    "Twelfth Doctor - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Casting 1",
+    "Snoring - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Distinguis",
+    "Afrikaans grammar - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Standardised Afrikaans 2 Lexical categories Toggle L",
+    "Chinese creation myths - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Cosmogonic mythologies Toggle Cosmogonic mythol",
+    "People can experience difficulty breathing for a wide range of reasons. In this article, we look at causes, symptoms, and ways to prevent breathing difficulties.",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
     "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2",
+    "Arnold Schwarzenegger - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Bodybuilding career T",
+    "Dennis Rader - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Childhood 1.2",
+    "Indigenous peoples of the Americas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subs",
     "Geraldo Rivera - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 ABC Ne",
-    "Dionysus - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Name Toggle Name subsection 1.1 Etymology 1.2 Meaning and var",
     "Barbra Streisand - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life Toggle Early life subsection 1.1 Family 1.",
+    "Stephen Sondheim - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education Toggle Early life and educat",
     "Relations between Nazi Germany and the Arab world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Nazi Germany and the",
     "Cadet Org - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins and policies 2 Life in the Cadet Org Toggle Life in ",
     "Carole Bayer Sager - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and career 2 Solo albums 3 Songwriting 4",
-    "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
-    "Bigu (grain avoidance) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Agricultural mythology 3 Grains i",
-    "George Jones singles discography - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 As a solo artist Toggle As a solo art",
-    "Synchronicity (The Police album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Recording 2 Album cover 3 Release 4 C",
-    "Just for One Day (musical) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Synopsis Toggle Synopsis subse",
-    "Yank Crime - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Reception Toggle Reception subsection 1.1 Initial 1.2 Legac",
-    "Invincible season 1 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Episodes 2 Cast and characters Toggle Cast and cha",
-    "Psycho Synner - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Spencer's departur",
-    "Shark - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Evolutionary history Toggle Evolutionary history sub",
-    "Font - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Spelling and etymology 2 Metal type 3 Characteristics Toggle Char",
-    "Meshuggah - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Formation and Contradi"
+    "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra"
   ],
   "stats": {
-    "sourcesAnalyzed": 85,
-    "tokensUsedEstimate": 8489,
-    "depthScore": 42,
+    "sourcesAnalyzed": 95,
+    "tokensUsedEstimate": 9617,
+    "depthScore": 45,
     "queriesGenerated": 24,
-    "iterations": 17,
-    "uniqueDomains": 25
+    "iterations": 19,
+    "uniqueDomains": 26
   },
   "control": {
     "paused": false,
