@@ -3,17 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:33.528Z",
-  "lastAdvancedAt": "2026-04-03T19:47:15.900Z",
+  "updatedAt": "2026-04-03T19:47:35.843Z",
+  "lastAdvancedAt": "2026-04-03T19:47:32.864Z",
   "phase": "analyzing",
-  "progress": 19,
-  "etaMinutes": 33,
+  "progress": 23,
+  "etaMinutes": 31,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? economics and costs",
-    "why do we hard breath sometimes? timeline and adoption",
-    "why do we hard breath sometimes? open source tools",
     "why do we hard breath sometimes? enterprise usage",
     "why do we hard breath sometimes? \"case study\"",
     "why do we hard breath sometimes? metrics",
@@ -36,385 +33,538 @@
     "why do we hard breath sometimes? benchmark comparison",
     "why do we hard breath sometimes? limitations and risks",
     "why do we hard breath sometimes? case study",
-    "why do we hard breath sometimes? expert interview"
+    "why do we hard breath sometimes? expert interview",
+    "why do we hard breath sometimes? economics and costs",
+    "why do we hard breath sometimes? timeline and adoption",
+    "why do we hard breath sometimes? open source tools"
   ],
   "websites": [
     {
-      "id": "site_1775245653152_f9io0",
+      "id": "site_1775245655053_81n44",
+      "url": "https://en.wikipedia.org/wiki/Poetry_analysis",
+      "domain": "en.wikipedia.org",
+      "title": "Poetry analysis - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Poetry analysis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 Meter and Rhym",
+      "checkedAt": "2026-04-03T19:47:35.836Z"
+    },
+    {
+      "id": "site_1775245654864_92rrm",
+      "url": "https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full)",
+      "domain": "en.wikipedia.org",
+      "title": "List of Latin phrases (full) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11",
+      "checkedAt": "2026-04-03T19:47:35.053Z"
+    },
+    {
+      "id": "site_1775245654728_skh0r",
+      "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons",
+      "domain": "en.wikipedia.org",
+      "title": "Dungeons & Dragons - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Dungeons &amp; Dragons - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Play overview Toggle Play overview subsection 1",
+      "checkedAt": "2026-04-03T19:47:34.864Z"
+    },
+    {
+      "id": "site_1775245654585_8wgmo",
+      "url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "domain": "en.wikipedia.org",
+      "title": "Android (operating system) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Android (operating system) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2000s",
+      "checkedAt": "2026-04-03T19:47:34.728Z"
+    },
+    {
+      "id": "site_1775245654310_1zsdj",
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda",
+      "domain": "en.wikipedia.org",
+      "title": "The Legend of Zelda - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "The Legend of Zelda - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay Toggle Gameplay subsection 1.1 Overworld ",
+      "checkedAt": "2026-04-03T19:47:34.585Z"
+    },
+    {
+      "id": "site_1775245654309_7zlmn",
+      "url": "https://elifesciences.org/articles/71647.pdf",
+      "domain": "elifesciences.org",
+      "title": "elifesciences.org",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=elifesciences.org&sz=64",
+      "checkedAt": "2026-04-03T19:47:34.309Z"
+    },
+    {
+      "id": "site_1775245652187_40phq",
+      "url": "https://en.wikipedia.org/wiki/Tartan",
+      "domain": "en.wikipedia.org",
+      "title": "Tartan - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Tartan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Weaving and design Toggle Weaving a",
+      "checkedAt": "2026-04-03T19:47:32.863Z"
+    },
+    {
+      "id": "site_1775245651720_rhv32",
+      "url": "https://en.wikipedia.org/wiki/Sexual_Ecology",
+      "domain": "en.wikipedia.org",
+      "title": "Sexual Ecology - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Sexual Ecology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Summary 3 Reception Toggle Reception subse",
+      "checkedAt": "2026-04-03T19:47:32.187Z"
+    },
+    {
+      "id": "site_1775245651425_h5nmb",
+      "url": "https://en.wikipedia.org/wiki/Baby_bottle",
+      "domain": "en.wikipedia.org",
+      "title": "Baby bottle - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Baby bottle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Design considerations Toggle Design considerations subsect",
+      "checkedAt": "2026-04-03T19:47:31.719Z"
+    },
+    {
+      "id": "site_1775245651192_d59bu",
+      "url": "https://en.wikipedia.org/wiki/Elton_John",
+      "domain": "en.wikipedia.org",
+      "title": "Elton John - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Elton John - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection ",
+      "checkedAt": "2026-04-03T19:47:31.425Z"
+    },
+    {
+      "id": "site_1775245651027_atsuh",
+      "url": "https://en.wikipedia.org/wiki/Ariana_Grande",
+      "domain": "en.wikipedia.org",
+      "title": "Ariana Grande - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20",
+      "checkedAt": "2026-04-03T19:47:31.192Z"
+    },
+    {
+      "id": "site_1775245648472_ja7vu",
+      "url": "https://en.wikipedia.org/wiki/Fuzzy_concept",
+      "domain": "en.wikipedia.org",
+      "title": "Fuzzy concept - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Fuzzy concept - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins Toggle Origins subsection 1.1 Sorites paradox 1.",
+      "checkedAt": "2026-04-03T19:47:29.447Z"
+    },
+    {
+      "id": "site_1775245648327_6910h",
+      "url": "https://en.wikipedia.org/wiki/David_Irving",
+      "domain": "en.wikipedia.org",
+      "title": "David Irving - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "David Irving - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Student years Toggle Student years subsectio",
+      "checkedAt": "2026-04-03T19:47:28.472Z"
+    },
+    {
+      "id": "site_1775245648203_rsntw",
+      "url": "https://en.wikipedia.org/wiki/Self-care",
+      "domain": "en.wikipedia.org",
+      "title": "Self-care - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c",
+      "checkedAt": "2026-04-03T19:47:28.327Z"
+    },
+    {
+      "id": "site_1775245647847_k69fo",
+      "url": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians",
+      "domain": "en.wikipedia.org",
+      "title": "Crazy Rich Asians - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
+      "checkedAt": "2026-04-03T19:47:28.203Z"
+    },
+    {
+      "id": "site_1775245646282_cz448",
+      "url": "https://4dmedical.com/breathing-easy-the-interplay-between-economic-stability-and-lung-health/",
+      "domain": "4dmedical.com",
+      "title": "Breathing Easy: The Interplay Between Economic Stability and Lung Health - 4DMedical",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=4dmedical.com&sz=64",
+      "snippet": "The relationship between health and economic stability is multifaceted and profound, extending to virtually every aspect of our well-being. One area where this connection is particularly evident yet often overlooked is r",
+      "checkedAt": "2026-04-03T19:47:27.847Z"
+    },
+    {
+      "id": "site_1775245641674_lupj4",
+      "url": "https://en.wikipedia.org/wiki/Maria_Callas",
+      "domain": "en.wikipedia.org",
+      "title": "Maria Callas - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam",
+      "checkedAt": "2026-04-03T19:47:21.867Z"
+    },
+    {
+      "id": "site_1775245641393_h07fh",
       "url": "https://en.wikipedia.org/wiki/Phil_Collins",
       "domain": "en.wikipedia.org",
       "title": "Phil Collins - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
-      "checkedAt": "2026-04-03T19:47:33.528Z"
+      "checkedAt": "2026-04-03T19:47:21.674Z"
     },
     {
-      "id": "site_1775245652197_sck4s",
+      "id": "site_1775245640921_wgsq6",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bastards",
       "domain": "en.wikipedia.org",
       "title": "Battle of the Bastards - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 ",
-      "checkedAt": "2026-04-03T19:47:33.152Z"
+      "checkedAt": "2026-04-03T19:47:21.392Z"
     },
     {
-      "id": "site_1775245651851_85es6",
+      "id": "site_1775245640677_djp1a",
       "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F",
       "domain": "en.wikipedia.org",
       "title": "When We All Fall Asleep, Where Do We Go? - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music",
-      "checkedAt": "2026-04-03T19:47:32.197Z"
+      "checkedAt": "2026-04-03T19:47:20.921Z"
     },
     {
-      "id": "site_1775245641849_37nkf",
-      "url": "https://www.npr.org/transcripts/862963172",
-      "domain": "npr.org",
-      "title": "npr.org",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=npr.org&sz=64",
-      "checkedAt": "2026-04-03T19:47:31.851Z"
-    },
-    {
-      "id": "site_1775245641219_qhdq2",
-      "url": "https://www.cnn.com/audio/podcasts/chasing-life/episodes/5a65b0b6-af5f-11f0-b3f6-4708f839833e",
-      "domain": "cnn.com",
-      "title": "Why You're Breathing Wrong, and How to Fix It - Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts",
+      "id": "site_1775245639695_sy018",
+      "url": "https://www.felixhospital.com/blogs/expert-care-for-your-breathing-issues-know-about-pulmonologists",
+      "domain": "felixhospital.com",
+      "title": "Expert Care for Your Breathing Issues: Know About Pulmonologists",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=cnn.com&sz=64",
-      "snippet": "Chronic disease, anxiety, ADHD, and even the shape of a person",
-      "checkedAt": "2026-04-03T19:47:21.848Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=felixhospital.com&sz=64",
+      "snippet": "Pulmonologists are expert medical professionals who specialize in diagnosing and treating issues affecting the respiratory system.",
+      "checkedAt": "2026-04-03T19:47:20.677Z"
     },
     {
-      "id": "site_1775245640864_062w0",
-      "url": "https://www.sfijournal.org/article/breathing-from-the-inside-out-an-interview-with-robert-litman",
-      "domain": "sfijournal.org",
-      "title": "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal",
+      "id": "site_1775245634333_5v7ld",
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_Afrikaans_and_Dutch",
+      "domain": "en.wikipedia.org",
+      "title": "Comparison of Afrikaans and Dutch - Wikipedia",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sfijournal.org&sz=64",
-      "snippet": "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal Purchase Current Edition Past Editions Articles About Resources Contact Learn About Rolfing SI Learn About Rolfing SI Breathing from the Inside Out - An Interview with Robert Litman Published: August 2023 ABSTRACT In this interview, Robert Litman shares the story of breath and integration, drawing on his deep background in breath and movement studies. He offers insight ",
-      "checkedAt": "2026-04-03T19:47:21.219Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Comparison of Afrikaans and Dutch - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Mutual intelligibility Toggle Mutual",
+      "checkedAt": "2026-04-03T19:47:14.661Z"
     },
     {
-      "id": "site_1775245635245_l657b",
+      "id": "site_1775245633990_7cexi",
       "url": "https://en.wikipedia.org/wiki/Vomiting",
       "domain": "en.wikipedia.org",
       "title": "Vomiting - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Vomiting - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Complications Toggle Complications subsection 1.1 Aspiration ",
-      "checkedAt": "2026-04-03T19:47:15.900Z"
+      "checkedAt": "2026-04-03T19:47:14.333Z"
     },
     {
-      "id": "site_1775245635073_w3cx6",
+      "id": "site_1775245633509_93udx",
       "url": "https://en.wikipedia.org/wiki/Neiye",
       "domain": "en.wikipedia.org",
       "title": "Neiye - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Neiye - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Book Toggle Book subsection 1.1 Title 1.2 Literary form 1.3 Dati",
-      "checkedAt": "2026-04-03T19:47:15.244Z"
+      "checkedAt": "2026-04-03T19:47:13.990Z"
     },
     {
-      "id": "site_1775245634884_3f55m",
+      "id": "site_1775245632611_wq722",
       "url": "https://en.wikipedia.org/wiki/Xingqi_(circulating_breath)",
       "domain": "en.wikipedia.org",
       "title": "Xingqi (circulating breath) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Xingqi (circulating breath) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Textual examples Toggle Text",
-      "checkedAt": "2026-04-03T19:47:15.073Z"
+      "checkedAt": "2026-04-03T19:47:13.509Z"
     },
     {
-      "id": "site_1775245634686_839ki",
+      "id": "site_1775245632333_5p9fs",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6534396/",
       "domain": "pmc.ncbi.nlm.nih.gov",
       "title": "Dysfunctional breathing: what do we know? - PMC",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
       "snippet": "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary",
-      "checkedAt": "2026-04-03T19:47:14.884Z"
+      "checkedAt": "2026-04-03T19:47:12.610Z"
     },
     {
-      "id": "site_1775245634522_tta88",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631149/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Underlying conditions contributing to breathlessness in the population - PMC",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
-      "checkedAt": "2026-04-03T19:47:14.686Z"
-    },
-    {
-      "id": "site_1775245629548_8mugq",
-      "url": "https://en.wikipedia.org/wiki/Random_checkpoint",
-      "domain": "en.wikipedia.org",
-      "title": "Random checkpoint - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
-      "checkedAt": "2026-04-03T19:47:10.573Z"
-    },
-    {
-      "id": "site_1775245629458_fl51n",
+      "id": "site_1775245630086_56mqc",
       "url": "https://en.wikipedia.org/wiki/Kermit_Gosnell",
       "domain": "en.wikipedia.org",
       "title": "Kermit Gosnell - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me",
-      "checkedAt": "2026-04-03T19:47:09.548Z"
+      "checkedAt": "2026-04-03T19:47:10.696Z"
     },
     {
-      "id": "site_1775245629382_zu04e",
+      "id": "site_1775245630004_0vtwt",
       "url": "https://en.wikipedia.org/wiki/Open_world",
       "domain": "en.wikipedia.org",
       "title": "Open world - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1",
-      "checkedAt": "2026-04-03T19:47:09.457Z"
+      "checkedAt": "2026-04-03T19:47:10.085Z"
     },
     {
-      "id": "site_1775245628674_43vfn",
+      "id": "site_1775245629896_jw8jo",
       "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
       "domain": "en.wikipedia.org",
       "title": "Fermi paradox - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2",
-      "checkedAt": "2026-04-03T19:47:09.382Z"
+      "checkedAt": "2026-04-03T19:47:10.004Z"
     },
     {
-      "id": "site_1775245627870_0iqc2",
-      "url": "https://www.unitypoint.org/news-and-articles/shortness-of-breath-whats-normal",
-      "domain": "unitypoint.org",
-      "title": "Shortness of Breath: What's Normal?",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=unitypoint.org&sz=64",
-      "snippet": "<p style=\"color: #424240; background-color: #ffffff; margin-right: 0px; margin-bottom: 1.5rem; margin-left: 0px; padding: 0px; line-height: inherit;\">Ever feel as though you can&rsquo;t catch your breath? A Pulmonologist",
-      "checkedAt": "2026-04-03T19:47:08.674Z"
-    },
-    {
-      "id": "site_1775245625200_zr14w",
-      "url": "https://en.wikipedia.org/wiki/Preterm_birth",
-      "domain": "en.wikipedia.org",
-      "title": "Preterm birth - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Preterm birth - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Signs and symptoms 2 Causes Toggle Causes subsection 2.1",
-      "checkedAt": "2026-04-03T19:47:05.339Z"
-    },
-    {
-      "id": "site_1775245624317_7ew05",
-      "url": "https://en.wikipedia.org/wiki/List_of_sitcoms_notable_for_negative_reception",
-      "domain": "en.wikipedia.org",
-      "title": "List of sitcoms notable for negative reception - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "List of sitcoms notable for negative reception - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of sitcoms notable for negative reception Add languages ",
-      "checkedAt": "2026-04-03T19:47:05.200Z"
-    },
-    {
-      "id": "site_1775245624197_ira9d",
-      "url": "https://en.wikipedia.org/wiki/Empire",
-      "domain": "en.wikipedia.org",
-      "title": "Empire - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio",
-      "checkedAt": "2026-04-03T19:47:04.317Z"
-    },
-    {
-      "id": "site_1775245623994_uigtb",
-      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
-      "domain": "en.wikipedia.org",
-      "title": "COVID-19 pandemic - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem",
-      "checkedAt": "2026-04-03T19:47:04.197Z"
-    },
-    {
-      "id": "site_1775245623806_yrh3e",
-      "url": "https://en.wikipedia.org/wiki/Menstrual_cup",
-      "domain": "en.wikipedia.org",
-      "title": "Menstrual cup - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2.",
-      "checkedAt": "2026-04-03T19:47:03.994Z"
-    },
-    {
-      "id": "site_1775245621109_dwypf",
-      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Services Agreement",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Services Agreement This is the Trace Id: caeef617b720ee39319f0dda431d3a66 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-      "checkedAt": "2026-04-03T19:47:01.597Z"
-    },
-    {
-      "id": "site_1775245620980_dpzew",
-      "url": "https://www.ndtv.com/health/breathing-has-become-harder-for-many-no-thanks-to-air-pollution-what-lungs-need-as-you-enter-2026-9848860",
-      "domain": "ndtv.com",
-      "title": "ndtv.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=ndtv.com&sz=64",
-      "checkedAt": "2026-04-03T19:47:01.109Z"
-    },
-    {
-      "id": "site_1775245620282_2cg6k",
-      "url": "https://finance.yahoo.com/news/inhaler-solution-market-trends-analysis-154100960.html",
-      "domain": "finance.yahoo.com",
-      "title": "Inhaler Solution Market Trends Analysis Report 2026-2033",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64",
-      "snippet": "Key market opportunities in the inhaler solution market include the rising demand driven by increased respiratory disorders like asthma and COPD, expanding access to medicines in low and middle-income countries (LMICs), ",
-      "checkedAt": "2026-04-03T19:47:00.980Z"
-    },
-    {
-      "id": "site_1775245619598_ao41w",
-      "url": "https://finance.yahoo.com/news/respiratory-care-devices-market-landscape-084100054.html",
-      "domain": "finance.yahoo.com",
-      "title": "Respiratory Care Devices Market Landscape Report 2025-2030 Featuring Major Players - Koninklijke Philips, Medtronic, ResMed, Fisher & Paykel",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64",
-      "snippet": "The global respiratory care devices market is projected to grow from USD 23.6 billion in 2025 to USD 33.6 billion by 2030, with a CAGR of 7.3%. This growth is driven by increasing respiratory diseases due to aging, smoki",
-      "checkedAt": "2026-04-03T19:47:00.282Z"
-    },
-    {
-      "id": "site_1775245618383_oh9cd",
-      "url": "https://ide.group/2025/01/the-future-of-respiratory-care-trends-and-predictions-for-device-manufacturers/",
-      "domain": "ide.group",
-      "title": "Future Trends in Respiratory Care Manufacturing",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=ide.group&sz=64",
-      "snippet": "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
-      "checkedAt": "2026-04-03T19:46:59.598Z"
-    },
-    {
-      "id": "site_1775245617898_dr91o",
-      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/04/02/respiratory-wellness-initiative-trends-for-2025/",
-      "domain": "globalwellnessinstitute.org",
-      "title": "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=globalwellnessinstitute.org&sz=64",
-      "snippet": "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascript\" id",
-      "checkedAt": "2026-04-03T19:46:58.383Z"
-    },
-    {
-      "id": "site_1775245615629_01ilz",
-      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Privacy Statement – Microsoft privacy",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: eec9d17f6c2196eaa747f2130050f34d Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-      "checkedAt": "2026-04-03T19:46:56.441Z"
-    },
-    {
-      "id": "site_1775245614720_98kwn",
-      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
-      "domain": "zhidao.baidu.com",
-      "title": "why什么意思_百度知道",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
-      "snippet": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
-      "checkedAt": "2026-04-03T19:46:55.629Z"
-    },
-    {
-      "id": "site_1775245614444_pobcv",
-      "url": "https://www.zhihu.com/question/860917177",
-      "domain": "zhihu.com",
-      "title": "zhihu.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-04-03T19:46:54.719Z"
-    },
-    {
-      "id": "site_1775245614128_16ma4",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Breathlessness and the brain: the role of expectation - PMC",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
-      "checkedAt": "2026-04-03T19:46:54.444Z"
-    },
-    {
-      "id": "site_1775245613390_l1r71",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
-      "domain": "sciencedaily.com",
-      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=64",
-      "snippet": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
-      "checkedAt": "2026-04-03T19:46:54.128Z"
-    },
-    {
-      "id": "site_1775245612917_eoads",
-      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
-      "domain": "frontiersin.org",
-      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=frontiersin.org&sz=64",
-      "snippet": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms",
-      "checkedAt": "2026-04-03T19:46:53.390Z"
-    },
-    {
-      "id": "site_1775245608331_b7vq0",
-      "url": "https://zhidao.baidu.com/question/82727586.html",
-      "domain": "zhidao.baidu.com",
-      "title": "why的用法_百度知道",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
-      "snippet": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣",
-      "checkedAt": "2026-04-03T19:46:49.324Z"
-    },
-    {
-      "id": "site_1775245605693_l1q1n",
-      "url": "https://zhidao.baidu.com/question/134401233120139445.html",
-      "domain": "zhidao.baidu.com",
-      "title": "why有多少种用法，用Why提问有多少种回答_百度知道",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
-      "snippet": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why",
-      "checkedAt": "2026-04-03T19:46:48.331Z"
-    },
-    {
-      "id": "site_1775245605011_ibs23",
+      "id": "site_1775245629854_wlbnx",
       "url": "https://medlineplus.gov/breathingproblems.html",
       "domain": "medlineplus.gov",
       "title": "Breathing Problems | Shortness of Breath | MedlinePlus",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medlineplus.gov&sz=64",
       "snippet": "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this.",
-      "checkedAt": "2026-04-03T19:46:45.693Z"
+      "checkedAt": "2026-04-03T19:47:09.895Z"
     },
     {
-      "id": "site_1775245603839_lxv0u",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
-      "domain": "ncbi.nlm.nih.gov",
-      "title": "Dyspnea - StatPearls - NCBI Bookshelf",
+      "id": "site_1775245629737_ti413",
+      "url": "https://www.webmd.com/lung/breathing-problems-causes-tests-treatments",
+      "domain": "webmd.com",
+      "title": "Breathing Problems: Causes, Tests, Solutions and Home Treatments",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=ncbi.nlm.nih.gov&sz=64",
-      "snippet": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque",
-      "checkedAt": "2026-04-03T19:46:45.011Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
+      "snippet": "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated.",
+      "checkedAt": "2026-04-03T19:47:09.854Z"
     },
     {
-      "id": "site_1775245603710_j5ljx",
+      "id": "site_1775245626500_j8ofq",
+      "url": "https://en.wikipedia.org/wiki/Empire",
+      "domain": "en.wikipedia.org",
+      "title": "Empire - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio",
+      "checkedAt": "2026-04-03T19:47:06.738Z"
+    },
+    {
+      "id": "site_1775245626278_cnk9z",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+      "domain": "en.wikipedia.org",
+      "title": "COVID-19 pandemic - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem",
+      "checkedAt": "2026-04-03T19:47:06.500Z"
+    },
+    {
+      "id": "site_1775245626201_hswz6",
+      "url": "https://en.wikipedia.org/wiki/Menstrual_cup",
+      "domain": "en.wikipedia.org",
+      "title": "Menstrual cup - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2.",
+      "checkedAt": "2026-04-03T19:47:06.278Z"
+    },
+    {
+      "id": "site_1775245624824_5degd",
+      "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
+      "domain": "library.hbs.edu",
+      "title": "When Benchmarks Don’t Work | Working Knowledge",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=library.hbs.edu&sz=64",
+      "snippet": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
+      "checkedAt": "2026-04-03T19:47:06.201Z"
+    },
+    {
+      "id": "site_1775245624071_78d10",
+      "url": "https://www.linkedin.com/posts/zainhas_i-just-read-why-benchmarking-is-hard-and-activity-7412940963570085889-N47q",
+      "domain": "linkedin.com",
+      "title": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a hig",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
+      "snippet": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
+      "checkedAt": "2026-04-03T19:47:04.823Z"
+    },
+    {
+      "id": "site_1775245621660_9khmd",
+      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Services Agreement",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Services Agreement This is the Trace Id: f0244e31a4260dfa3a2065b2d5b50f77 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+      "checkedAt": "2026-04-03T19:47:02.102Z"
+    },
+    {
+      "id": "site_1775245621530_pwnve",
+      "url": "https://www.ndtv.com/health/breathing-has-become-harder-for-many-no-thanks-to-air-pollution-what-lungs-need-as-you-enter-2026-9848860",
+      "domain": "ndtv.com",
+      "title": "ndtv.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ndtv.com&sz=64",
+      "checkedAt": "2026-04-03T19:47:01.660Z"
+    },
+    {
+      "id": "site_1775245621096_3h41p",
+      "url": "https://finance.yahoo.com/news/inhaler-solution-market-trends-analysis-154100960.html",
+      "domain": "finance.yahoo.com",
+      "title": "Inhaler Solution Market Trends Analysis Report 2026-2033",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64",
+      "snippet": "Key market opportunities in the inhaler solution market include the rising demand driven by increased respiratory disorders like asthma and COPD, expanding access to medicines in low and middle-income countries (LMICs), ",
+      "checkedAt": "2026-04-03T19:47:01.530Z"
+    },
+    {
+      "id": "site_1775245620470_x3fpj",
+      "url": "https://finance.yahoo.com/news/respiratory-care-devices-market-landscape-084100054.html",
+      "domain": "finance.yahoo.com",
+      "title": "Respiratory Care Devices Market Landscape Report 2025-2030 Featuring Major Players - Koninklijke Philips, Medtronic, ResMed, Fisher & Paykel",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64",
+      "snippet": "The global respiratory care devices market is projected to grow from USD 23.6 billion in 2025 to USD 33.6 billion by 2030, with a CAGR of 7.3%. This growth is driven by increasing respiratory diseases due to aging, smoki",
+      "checkedAt": "2026-04-03T19:47:01.096Z"
+    },
+    {
+      "id": "site_1775245619280_ebpy3",
+      "url": "https://ide.group/2025/01/the-future-of-respiratory-care-trends-and-predictions-for-device-manufacturers/",
+      "domain": "ide.group",
+      "title": "Future Trends in Respiratory Care Manufacturing",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ide.group&sz=64",
+      "snippet": "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
+      "checkedAt": "2026-04-03T19:47:00.470Z"
+    },
+    {
+      "id": "site_1775245619218_s2d5l",
+      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/04/02/respiratory-wellness-initiative-trends-for-2025/",
+      "domain": "globalwellnessinstitute.org",
+      "title": "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=globalwellnessinstitute.org&sz=64",
+      "snippet": "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascript\" id",
+      "checkedAt": "2026-04-03T19:46:59.280Z"
+    },
+    {
+      "id": "site_1775245618365_i9pln",
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Privacy Statement – Microsoft privacy",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e3963a7e782cd6bb913328792d0c9443 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-04-03T19:46:58.663Z"
+    },
+    {
+      "id": "site_1775245617488_ek591",
+      "url": "https://www.health.harvard.edu/heart-health/unmasking-the-varied-causes-of-breathlessness-and-fatigue",
+      "domain": "health.harvard.edu",
+      "title": "Unmasking the varied causes of breathlessness and fatigue - Harvard Health",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=health.harvard.edu&sz=64",
+      "snippet": "Cardiopulmonary exercise testing (CPET) can help diagnose unusual causes of breathlessness, such as pulmonary hypertension or heart failure with preserved ejection fraction. CPET collects information about a person&#039;",
+      "checkedAt": "2026-04-03T19:46:58.364Z"
+    },
+    {
+      "id": "site_1775245616583_b7t36",
+      "url": "https://news.flinders.edu.au/blog/2025/12/18/chronic-breathlessness-emerging-as-a-hidden-strain-on-hospitals/",
+      "domain": "news.flinders.edu.au",
+      "title": "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=news.flinders.edu.au&sz=64",
+      "snippet": "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News Skip to content Study Research Engage Alumni Giving About Quick links bookmark_border Current students Staff Library Flinders dashboard (Okta) Flinders Learning Online (FLO) Campus map: Bedford Park Staff directory Jobs at Flinders search Toggle navigation close --> News home chevron_right News chevron_right Chronic breathlessness emerging as a hidden strain on hospitals",
+      "checkedAt": "2026-04-03T19:46:57.488Z"
+    },
+    {
+      "id": "site_1775245616393_6u3lb",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Breathlessness and the brain: the role of expectation - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
+      "checkedAt": "2026-04-03T19:46:56.583Z"
+    },
+    {
+      "id": "site_1775245615966_q30d4",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
+      "domain": "sciencedaily.com",
+      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=64",
+      "snippet": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
+      "checkedAt": "2026-04-03T19:46:56.393Z"
+    },
+    {
+      "id": "site_1775245610763_ss3id",
+      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why什么意思_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
+      "checkedAt": "2026-04-03T19:46:51.584Z"
+    },
+    {
+      "id": "site_1775245610484_2b95x",
+      "url": "https://www.zhihu.com/question/860917177",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-04-03T19:46:50.763Z"
+    },
+    {
+      "id": "site_1775245608346_qbqu3",
+      "url": "https://zhidao.baidu.com/question/82727586.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why的用法_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣",
+      "checkedAt": "2026-04-03T19:46:50.484Z"
+    },
+    {
+      "id": "site_1775245605899_b1kak",
+      "url": "https://zhidao.baidu.com/question/134401233120139445.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why有多少种用法，用Why提问有多少种回答_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why",
+      "checkedAt": "2026-04-03T19:46:48.346Z"
+    },
+    {
+      "id": "site_1775245605847_t63uj",
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+      "domain": "healthdirect.gov.au",
+      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthdirect.gov.au&sz=64",
+      "snippet": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing.",
+      "checkedAt": "2026-04-03T19:46:45.899Z"
+    },
+    {
+      "id": "site_1775245605745_qzezx",
       "url": "https://www.webmd.com/lung/breathing-problems",
       "domain": "webmd.com",
       "title": "Breathing Problems: Causes, Symptoms & Solutions",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
       "snippet": "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them.",
-      "checkedAt": "2026-04-03T19:46:43.839Z"
+      "checkedAt": "2026-04-03T19:46:45.847Z"
     },
     {
       "id": "site_1775245599057_rlx77",
@@ -515,51 +665,51 @@
     },
     {
       "id": 7,
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
-      "domain": "ncbi.nlm.nih.gov",
-      "title": "Dyspnea - StatPearls - NCBI Bookshelf"
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+      "domain": "healthdirect.gov.au",
+      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect"
     },
     {
       "id": 8,
-      "url": "https://medlineplus.gov/breathingproblems.html",
-      "domain": "medlineplus.gov",
-      "title": "Breathing Problems | Shortness of Breath | MedlinePlus"
-    },
-    {
-      "id": 9,
       "url": "https://zhidao.baidu.com/question/134401233120139445.html",
       "domain": "zhidao.baidu.com",
       "title": "why有多少种用法，用Why提问有多少种回答_百度知道"
     },
     {
-      "id": 10,
+      "id": 9,
       "url": "https://zhidao.baidu.com/question/82727586.html",
       "domain": "zhidao.baidu.com",
       "title": "why的用法_百度知道"
     },
     {
-      "id": 11,
-      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
-      "domain": "frontiersin.org",
-      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments"
+      "id": 10,
+      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why什么意思_百度知道"
     },
     {
-      "id": 12,
+      "id": 11,
       "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
       "domain": "sciencedaily.com",
       "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily"
     },
     {
-      "id": 13,
+      "id": 12,
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
       "domain": "pmc.ncbi.nlm.nih.gov",
       "title": "Breathlessness and the brain: the role of expectation - PMC"
     },
     {
+      "id": 13,
+      "url": "https://news.flinders.edu.au/blog/2025/12/18/chronic-breathlessness-emerging-as-a-hidden-strain-on-hospitals/",
+      "domain": "news.flinders.edu.au",
+      "title": "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News"
+    },
+    {
       "id": 14,
-      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
-      "domain": "zhidao.baidu.com",
-      "title": "why什么意思_百度知道"
+      "url": "https://www.health.harvard.edu/heart-health/unmasking-the-varied-causes-of-breathlessness-and-fatigue",
+      "domain": "health.harvard.edu",
+      "title": "Unmasking the varied causes of breathlessness and fatigue - Harvard Health"
     },
     {
       "id": 15,
@@ -599,209 +749,359 @@
     },
     {
       "id": 21,
+      "url": "https://www.linkedin.com/posts/zainhas_i-just-read-why-benchmarking-is-hard-and-activity-7412940963570085889-N47q",
+      "domain": "linkedin.com",
+      "title": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a hig"
+    },
+    {
+      "id": 22,
+      "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
+      "domain": "library.hbs.edu",
+      "title": "When Benchmarks Don’t Work | Working Knowledge"
+    },
+    {
+      "id": 23,
       "url": "https://en.wikipedia.org/wiki/Menstrual_cup",
       "domain": "en.wikipedia.org",
       "title": "Menstrual cup - Wikipedia"
     },
     {
-      "id": 22,
+      "id": 24,
       "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
       "domain": "en.wikipedia.org",
       "title": "COVID-19 pandemic - Wikipedia"
     },
     {
-      "id": 23,
+      "id": 25,
       "url": "https://en.wikipedia.org/wiki/Empire",
       "domain": "en.wikipedia.org",
       "title": "Empire - Wikipedia"
     },
     {
-      "id": 24,
-      "url": "https://en.wikipedia.org/wiki/List_of_sitcoms_notable_for_negative_reception",
-      "domain": "en.wikipedia.org",
-      "title": "List of sitcoms notable for negative reception - Wikipedia"
-    },
-    {
-      "id": 25,
-      "url": "https://en.wikipedia.org/wiki/Preterm_birth",
-      "domain": "en.wikipedia.org",
-      "title": "Preterm birth - Wikipedia"
-    },
-    {
       "id": 26,
-      "url": "https://www.unitypoint.org/news-and-articles/shortness-of-breath-whats-normal",
-      "domain": "unitypoint.org",
-      "title": "Shortness of Breath: What's Normal?"
+      "url": "https://www.webmd.com/lung/breathing-problems-causes-tests-treatments",
+      "domain": "webmd.com",
+      "title": "Breathing Problems: Causes, Tests, Solutions and Home Treatments"
     },
     {
       "id": 27,
+      "url": "https://medlineplus.gov/breathingproblems.html",
+      "domain": "medlineplus.gov",
+      "title": "Breathing Problems | Shortness of Breath | MedlinePlus"
+    },
+    {
+      "id": 28,
       "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
       "domain": "en.wikipedia.org",
       "title": "Fermi paradox - Wikipedia"
     },
     {
-      "id": 28,
+      "id": 29,
       "url": "https://en.wikipedia.org/wiki/Open_world",
       "domain": "en.wikipedia.org",
       "title": "Open world - Wikipedia"
     },
     {
-      "id": 29,
+      "id": 30,
       "url": "https://en.wikipedia.org/wiki/Kermit_Gosnell",
       "domain": "en.wikipedia.org",
       "title": "Kermit Gosnell - Wikipedia"
     },
     {
-      "id": 30,
-      "url": "https://en.wikipedia.org/wiki/Random_checkpoint",
-      "domain": "en.wikipedia.org",
-      "title": "Random checkpoint - Wikipedia"
-    },
-    {
       "id": 31,
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631149/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Underlying conditions contributing to breathlessness in the population - PMC"
-    },
-    {
-      "id": 32,
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6534396/",
       "domain": "pmc.ncbi.nlm.nih.gov",
       "title": "Dysfunctional breathing: what do we know? - PMC"
     },
     {
-      "id": 33,
+      "id": 32,
       "url": "https://en.wikipedia.org/wiki/Xingqi_(circulating_breath)",
       "domain": "en.wikipedia.org",
       "title": "Xingqi (circulating breath) - Wikipedia"
     },
     {
-      "id": 34,
+      "id": 33,
       "url": "https://en.wikipedia.org/wiki/Neiye",
       "domain": "en.wikipedia.org",
       "title": "Neiye - Wikipedia"
     },
     {
-      "id": 35,
+      "id": 34,
       "url": "https://en.wikipedia.org/wiki/Vomiting",
       "domain": "en.wikipedia.org",
       "title": "Vomiting - Wikipedia"
     },
     {
+      "id": 35,
+      "url": "https://en.wikipedia.org/wiki/Comparison_of_Afrikaans_and_Dutch",
+      "domain": "en.wikipedia.org",
+      "title": "Comparison of Afrikaans and Dutch - Wikipedia"
+    },
+    {
       "id": 36,
-      "url": "https://www.sfijournal.org/article/breathing-from-the-inside-out-an-interview-with-robert-litman",
-      "domain": "sfijournal.org",
-      "title": "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal"
+      "url": "https://www.felixhospital.com/blogs/expert-care-for-your-breathing-issues-know-about-pulmonologists",
+      "domain": "felixhospital.com",
+      "title": "Expert Care for Your Breathing Issues: Know About Pulmonologists"
     },
     {
       "id": 37,
-      "url": "https://www.cnn.com/audio/podcasts/chasing-life/episodes/5a65b0b6-af5f-11f0-b3f6-4708f839833e",
-      "domain": "cnn.com",
-      "title": "Why You're Breathing Wrong, and How to Fix It - Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts"
-    },
-    {
-      "id": 38,
       "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F",
       "domain": "en.wikipedia.org",
       "title": "When We All Fall Asleep, Where Do We Go? - Wikipedia"
     },
     {
-      "id": 39,
+      "id": 38,
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bastards",
       "domain": "en.wikipedia.org",
       "title": "Battle of the Bastards - Wikipedia"
     },
     {
-      "id": 40,
+      "id": 39,
       "url": "https://en.wikipedia.org/wiki/Phil_Collins",
       "domain": "en.wikipedia.org",
       "title": "Phil Collins - Wikipedia"
+    },
+    {
+      "id": 40,
+      "url": "https://en.wikipedia.org/wiki/Maria_Callas",
+      "domain": "en.wikipedia.org",
+      "title": "Maria Callas - Wikipedia"
+    },
+    {
+      "id": 41,
+      "url": "https://4dmedical.com/breathing-easy-the-interplay-between-economic-stability-and-lung-health/",
+      "domain": "4dmedical.com",
+      "title": "Breathing Easy: The Interplay Between Economic Stability and Lung Health - 4DMedical"
+    },
+    {
+      "id": 42,
+      "url": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians",
+      "domain": "en.wikipedia.org",
+      "title": "Crazy Rich Asians - Wikipedia"
+    },
+    {
+      "id": 43,
+      "url": "https://en.wikipedia.org/wiki/Self-care",
+      "domain": "en.wikipedia.org",
+      "title": "Self-care - Wikipedia"
+    },
+    {
+      "id": 44,
+      "url": "https://en.wikipedia.org/wiki/David_Irving",
+      "domain": "en.wikipedia.org",
+      "title": "David Irving - Wikipedia"
+    },
+    {
+      "id": 45,
+      "url": "https://en.wikipedia.org/wiki/Fuzzy_concept",
+      "domain": "en.wikipedia.org",
+      "title": "Fuzzy concept - Wikipedia"
+    },
+    {
+      "id": 46,
+      "url": "https://en.wikipedia.org/wiki/Ariana_Grande",
+      "domain": "en.wikipedia.org",
+      "title": "Ariana Grande - Wikipedia"
+    },
+    {
+      "id": 47,
+      "url": "https://en.wikipedia.org/wiki/Elton_John",
+      "domain": "en.wikipedia.org",
+      "title": "Elton John - Wikipedia"
+    },
+    {
+      "id": 48,
+      "url": "https://en.wikipedia.org/wiki/Baby_bottle",
+      "domain": "en.wikipedia.org",
+      "title": "Baby bottle - Wikipedia"
+    },
+    {
+      "id": 49,
+      "url": "https://en.wikipedia.org/wiki/Sexual_Ecology",
+      "domain": "en.wikipedia.org",
+      "title": "Sexual Ecology - Wikipedia"
+    },
+    {
+      "id": 50,
+      "url": "https://en.wikipedia.org/wiki/Tartan",
+      "domain": "en.wikipedia.org",
+      "title": "Tartan - Wikipedia"
+    },
+    {
+      "id": 51,
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda",
+      "domain": "en.wikipedia.org",
+      "title": "The Legend of Zelda - Wikipedia"
+    },
+    {
+      "id": 52,
+      "url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "domain": "en.wikipedia.org",
+      "title": "Android (operating system) - Wikipedia"
+    },
+    {
+      "id": 53,
+      "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons",
+      "domain": "en.wikipedia.org",
+      "title": "Dungeons & Dragons - Wikipedia"
+    },
+    {
+      "id": 54,
+      "url": "https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full)",
+      "domain": "en.wikipedia.org",
+      "title": "List of Latin phrases (full) - Wikipedia"
+    },
+    {
+      "id": 55,
+      "url": "https://en.wikipedia.org/wiki/Poetry_analysis",
+      "domain": "en.wikipedia.org",
+      "title": "Poetry analysis - Wikipedia"
     }
   ],
   "notes": [
     {
+      "citationId": 55,
+      "summary": "Poetry analysis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 Meter and Rhym"
+    },
+    {
+      "citationId": 54,
+      "summary": "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11"
+    },
+    {
+      "citationId": 53,
+      "summary": "Dungeons &amp; Dragons - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Play overview Toggle Play overview subsection 1"
+    },
+    {
+      "citationId": 52,
+      "summary": "Android (operating system) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2000s"
+    },
+    {
+      "citationId": 51,
+      "summary": "The Legend of Zelda - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay Toggle Gameplay subsection 1.1 Overworld "
+    },
+    {
+      "citationId": 50,
+      "summary": "Tartan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Weaving and design Toggle Weaving a"
+    },
+    {
+      "citationId": 49,
+      "summary": "Sexual Ecology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Summary 3 Reception Toggle Reception subse"
+    },
+    {
+      "citationId": 48,
+      "summary": "Baby bottle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Design considerations Toggle Design considerations subsect"
+    },
+    {
+      "citationId": 47,
+      "summary": "Elton John - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection "
+    },
+    {
+      "citationId": 46,
+      "summary": "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20"
+    },
+    {
+      "citationId": 45,
+      "summary": "Fuzzy concept - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins Toggle Origins subsection 1.1 Sorites paradox 1."
+    },
+    {
+      "citationId": 44,
+      "summary": "David Irving - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Student years Toggle Student years subsectio"
+    },
+    {
+      "citationId": 43,
+      "summary": "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c"
+    },
+    {
+      "citationId": 42,
+      "summary": "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio"
+    },
+    {
+      "citationId": 41,
+      "summary": "The relationship between health and economic stability is multifaceted and profound, extending to virtually every aspect of our well-being. One area where this connection is particularly evident yet often overlooked is r"
+    },
+    {
       "citationId": 40,
-      "summary": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197"
+      "summary": "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam"
     },
     {
       "citationId": 39,
-      "summary": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 "
+      "summary": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197"
     },
     {
       "citationId": 38,
-      "summary": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music"
+      "summary": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 "
     },
     {
       "citationId": 37,
-      "summary": "Chronic disease, anxiety, ADHD, and even the shape of a person"
+      "summary": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music"
     },
     {
       "citationId": 36,
-      "summary": "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal Purchase Current Edition Past Editions Articles About Resources Contact Learn About Rolfing SI Learn About Rolfing SI Breathing from the Inside Out - An Interview with Robert Litman Published: August 2023 ABSTRACT In this interview, Robert Litman shares the story of breath and integration, drawing on his deep background in breath and movement studies. He offers insight "
+      "summary": "Pulmonologists are expert medical professionals who specialize in diagnosing and treating issues affecting the respiratory system."
     },
     {
       "citationId": 35,
-      "summary": "Vomiting - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Complications Toggle Complications subsection 1.1 Aspiration "
+      "summary": "Comparison of Afrikaans and Dutch - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Mutual intelligibility Toggle Mutual"
     },
     {
       "citationId": 34,
-      "summary": "Neiye - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Book Toggle Book subsection 1.1 Title 1.2 Literary form 1.3 Dati"
+      "summary": "Vomiting - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Complications Toggle Complications subsection 1.1 Aspiration "
     },
     {
       "citationId": 33,
-      "summary": "Xingqi (circulating breath) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Textual examples Toggle Text"
+      "summary": "Neiye - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Book Toggle Book subsection 1.1 Title 1.2 Literary form 1.3 Dati"
     },
     {
       "citationId": 32,
-      "summary": "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary"
+      "summary": "Xingqi (circulating breath) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Textual examples Toggle Text"
     },
     {
       "citationId": 31,
-      "summary": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am"
+      "summary": "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary"
     },
     {
       "citationId": 30,
-      "summary": "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra"
-    },
-    {
-      "citationId": 29,
       "summary": "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me"
     },
     {
-      "citationId": 28,
+      "citationId": 29,
       "summary": "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1"
     },
     {
-      "citationId": 27,
+      "citationId": 28,
       "summary": "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2"
     },
     {
+      "citationId": 27,
+      "summary": "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this."
+    },
+    {
       "citationId": 26,
-      "summary": "<p style=\"color: #424240; background-color: #ffffff; margin-right: 0px; margin-bottom: 1.5rem; margin-left: 0px; padding: 0px; line-height: inherit;\">Ever feel as though you can&rsquo;t catch your breath? A Pulmonologist"
+      "summary": "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated."
     },
     {
       "citationId": 25,
-      "summary": "Preterm birth - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Signs and symptoms 2 Causes Toggle Causes subsection 2.1"
-    },
-    {
-      "citationId": 24,
-      "summary": "List of sitcoms notable for negative reception - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of sitcoms notable for negative reception Add languages "
-    },
-    {
-      "citationId": 23,
       "summary": "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio"
     },
     {
-      "citationId": 22,
+      "citationId": 24,
       "summary": "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem"
     },
     {
-      "citationId": 21,
+      "citationId": 23,
       "summary": "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2."
     },
     {
+      "citationId": 22,
+      "summary": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A"
+    },
+    {
+      "citationId": 21,
+      "summary": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol"
+    },
+    {
       "citationId": 20,
-      "summary": "Microsoft Services Agreement This is the Trace Id: caeef617b720ee39319f0dda431d3a66 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
+      "summary": "Microsoft Services Agreement This is the Trace Id: f0244e31a4260dfa3a2065b2d5b50f77 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
     },
     {
       "citationId": 19,
@@ -821,39 +1121,39 @@
     },
     {
       "citationId": 15,
-      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: eec9d17f6c2196eaa747f2130050f34d Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e3963a7e782cd6bb913328792d0c9443 Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
     },
     {
       "citationId": 14,
-      "summary": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示"
+      "summary": "Cardiopulmonary exercise testing (CPET) can help diagnose unusual causes of breathlessness, such as pulmonary hypertension or heart failure with preserved ejection fraction. CPET collects information about a person&#039;"
     },
     {
       "citationId": 13,
-      "summary": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
+      "summary": "Chronic breathlessness emerging as a hidden strain on hospitals &#8211; News Skip to content Study Research Engage Alumni Giving About Quick links bookmark_border Current students Staff Library Flinders dashboard (Okta) Flinders Learning Online (FLO) Campus map: Bedford Park Staff directory Jobs at Flinders search Toggle navigation close --> News home chevron_right News chevron_right Chronic breathlessness emerging as a hidden strain on hospitals"
     },
     {
       "citationId": 12,
-      "summary": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
+      "summary": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
     },
     {
       "citationId": 11,
-      "summary": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms"
+      "summary": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
     },
     {
       "citationId": 10,
-      "summary": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣"
+      "summary": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示"
     },
     {
       "citationId": 9,
-      "summary": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why"
+      "summary": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣"
     },
     {
       "citationId": 8,
-      "summary": "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this."
+      "summary": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why"
     },
     {
       "citationId": 7,
-      "summary": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque"
+      "summary": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing."
     },
     {
       "citationId": 6,
@@ -882,86 +1182,122 @@
   ],
   "events": [
     {
-      "id": "ev_1775245653528_6x1xa",
-      "at": "2026-04-03T19:47:33.528Z",
+      "id": "ev_1775245655836_ft640",
+      "at": "2026-04-03T19:47:35.836Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 55."
+    },
+    {
+      "id": "ev_1775245652864_ssg8x",
+      "at": "2026-04-03T19:47:32.864Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? open source tools"
+    },
+    {
+      "id": "ev_1775245652864_zunci",
+      "at": "2026-04-03T19:47:32.864Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 50."
+    },
+    {
+      "id": "ev_1775245649447_eaz6q",
+      "at": "2026-04-03T19:47:29.447Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? timeline and adoption"
+    },
+    {
+      "id": "ev_1775245649447_csshx",
+      "at": "2026-04-03T19:47:29.447Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 45."
+    },
+    {
+      "id": "ev_1775245644759_6mund",
+      "at": "2026-04-03T19:47:24.759Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? economics and costs"
+    },
+    {
+      "id": "ev_1775245641867_e5gxz",
+      "at": "2026-04-03T19:47:21.867Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 40."
     },
     {
-      "id": "ev_1775245635900_43ddq",
-      "at": "2026-04-03T19:47:15.900Z",
+      "id": "ev_1775245635278_czutb",
+      "at": "2026-04-03T19:47:15.278Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? expert interview"
     },
     {
-      "id": "ev_1775245635900_tpvzb",
-      "at": "2026-04-03T19:47:15.900Z",
+      "id": "ev_1775245634661_6unep",
+      "at": "2026-04-03T19:47:14.661Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 35."
     },
     {
-      "id": "ev_1775245631896_d9iv3",
-      "at": "2026-04-03T19:47:11.896Z",
+      "id": "ev_1775245630696_6bk9a",
+      "at": "2026-04-03T19:47:10.696Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? case study"
     },
     {
-      "id": "ev_1775245630573_ystl6",
-      "at": "2026-04-03T19:47:10.573Z",
+      "id": "ev_1775245630696_dealk",
+      "at": "2026-04-03T19:47:10.696Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 30."
     },
     {
-      "id": "ev_1775245625339_6irxo",
-      "at": "2026-04-03T19:47:05.339Z",
+      "id": "ev_1775245629219_dzxxf",
+      "at": "2026-04-03T19:47:09.219Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? limitations and risks"
     },
     {
-      "id": "ev_1775245625339_gfkmu",
-      "at": "2026-04-03T19:47:05.339Z",
+      "id": "ev_1775245626738_pcux9",
+      "at": "2026-04-03T19:47:06.738Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 25."
     },
     {
-      "id": "ev_1775245621715_i6oez",
-      "at": "2026-04-03T19:47:01.715Z",
+      "id": "ev_1775245622102_5g7em",
+      "at": "2026-04-03T19:47:02.102Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? benchmark comparison"
     },
     {
-      "id": "ev_1775245621597_w0bbp",
-      "at": "2026-04-03T19:47:01.597Z",
+      "id": "ev_1775245622102_7wl5p",
+      "at": "2026-04-03T19:47:02.102Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 20."
     },
     {
-      "id": "ev_1775245616441_oox2j",
-      "at": "2026-04-03T19:46:56.441Z",
+      "id": "ev_1775245618663_yl11u",
+      "at": "2026-04-03T19:46:58.663Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? industry analysis 2025 2026"
     },
     {
-      "id": "ev_1775245616441_f8e2f",
-      "at": "2026-04-03T19:46:56.441Z",
+      "id": "ev_1775245618663_sy4w6",
+      "at": "2026-04-03T19:46:58.663Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1775245609324_yrykh",
-      "at": "2026-04-03T19:46:49.324Z",
+      "id": "ev_1775245611584_6tkob",
+      "at": "2026-04-03T19:46:51.584Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? latest research paper"
     },
     {
-      "id": "ev_1775245609324_jrzis",
-      "at": "2026-04-03T19:46:49.324Z",
+      "id": "ev_1775245611584_sf9eo",
+      "at": "2026-04-03T19:46:51.584Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1775245601990_bjkok",
-      "at": "2026-04-03T19:46:41.990Z",
+      "id": "ev_1775245605022_726y7",
+      "at": "2026-04-03T19:46:45.022Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? official documentation"
     },
@@ -997,32 +1333,32 @@
     }
   ],
   "learnedSoFar": [
+    "Poetry analysis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 Meter and Rhym",
+    "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11",
+    "Dungeons &amp; Dragons - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Play overview Toggle Play overview subsection 1",
+    "Android (operating system) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2000s",
+    "The Legend of Zelda - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay Toggle Gameplay subsection 1.1 Overworld ",
+    "Tartan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Weaving and design Toggle Weaving a",
+    "Sexual Ecology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Summary 3 Reception Toggle Reception subse",
+    "Baby bottle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Design considerations Toggle Design considerations subsect",
+    "Elton John - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection ",
+    "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20",
+    "Fuzzy concept - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins Toggle Origins subsection 1.1 Sorites paradox 1.",
+    "David Irving - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Student years Toggle Student years subsectio",
+    "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c",
+    "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
+    "The relationship between health and economic stability is multifaceted and profound, extending to virtually every aspect of our well-being. One area where this connection is particularly evident yet often overlooked is r",
+    "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam",
     "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
-    "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 ",
-    "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music",
-    "Chronic disease, anxiety, ADHD, and even the shape of a person",
-    "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal Purchase Current Edition Past Editions Articles About Resources Contact Learn About Rolfing SI Learn About Rolfing SI Breathing from the Inside Out - An Interview with Robert Litman Published: August 2023 ABSTRACT In this interview, Robert Litman shares the story of breath and integration, drawing on his deep background in breath and movement studies. He offers insight ",
-    "Vomiting - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Complications Toggle Complications subsection 1.1 Aspiration ",
-    "Neiye - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Book Toggle Book subsection 1.1 Title 1.2 Literary form 1.3 Dati",
-    "Xingqi (circulating breath) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Textual examples Toggle Text",
-    "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary",
-    "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
-    "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
-    "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me",
-    "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1",
-    "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2",
-    "<p style=\"color: #424240; background-color: #ffffff; margin-right: 0px; margin-bottom: 1.5rem; margin-left: 0px; padding: 0px; line-height: inherit;\">Ever feel as though you can&rsquo;t catch your breath? A Pulmonologist",
-    "Preterm birth - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Signs and symptoms 2 Causes Toggle Causes subsection 2.1",
-    "List of sitcoms notable for negative reception - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of sitcoms notable for negative reception Add languages ",
-    "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio"
+    "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 "
   ],
   "stats": {
-    "sourcesAnalyzed": 40,
-    "tokensUsedEstimate": 3423,
-    "depthScore": 24,
+    "sourcesAnalyzed": 55,
+    "tokensUsedEstimate": 5199,
+    "depthScore": 30,
     "queriesGenerated": 24,
-    "iterations": 8,
-    "uniqueDomains": 20
+    "iterations": 11,
+    "uniqueDomains": 22
   },
   "control": {
     "paused": false,
