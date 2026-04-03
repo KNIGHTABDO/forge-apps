@@ -3,15 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:48:28.878Z",
-  "lastAdvancedAt": "2026-04-03T19:48:19.454Z",
+  "updatedAt": "2026-04-03T19:48:37.351Z",
+  "lastAdvancedAt": "2026-04-03T19:48:22.343Z",
   "phase": "analyzing",
-  "progress": 37,
-  "etaMinutes": 25,
+  "progress": 38,
+  "etaMinutes": 24,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? official documentation metrics",
     "why do we hard breath sometimes? official documentation review",
     "why do we hard breath sometimes? official documentation \"pdf\""
   ],
@@ -36,108 +35,168 @@
     "why do we hard breath sometimes? site:gov",
     "why do we hard breath sometimes? \"analysis\"",
     "why do we hard breath sometimes? opinion",
-    "why do we hard breath sometimes? official documentation \"case study\""
+    "why do we hard breath sometimes? official documentation \"case study\"",
+    "why do we hard breath sometimes? official documentation metrics"
   ],
   "websites": [
     {
-      "id": "site_1775245708545_qgygq",
+      "id": "site_1775245717072_qzu4s",
+      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
+      "checkedAt": "2026-04-03T19:48:37.351Z"
+    },
+    {
+      "id": "site_1775245716732_9l06j",
+      "url": "https://en.wikipedia.org/wiki/List_of_Egyptian_inventions_and_discoveries",
+      "domain": "en.wikipedia.org",
+      "title": "List of Egyptian inventions and discoveries - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "List of Egyptian inventions and discoveries - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Ancient Egypt Toggle Ancie",
+      "checkedAt": "2026-04-03T19:48:37.072Z"
+    },
+    {
+      "id": "site_1775245714475_tik66",
+      "url": "https://www.merckmanuals.com/home/lung-and-airway-disorders/symptoms-of-lung-disorders/shortness-of-breath",
+      "domain": "merckmanuals.com",
+      "title": "Shortness of Breath - Lung and Airway Disorders - Merck Manual Consumer Version",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=merckmanuals.com&sz=64",
+      "snippet": "Shortness of Breath - Learn about the causes, symptoms, diagnosis & treatment from the Merck Manuals - Medical Consumer Version.",
+      "checkedAt": "2026-04-03T19:48:36.732Z"
+    },
+    {
+      "id": "site_1775245713778_oen27",
+      "url": "https://ufhealth.org/conditions-and-treatments/breathing-difficulty",
+      "domain": "ufhealth.org",
+      "title": "Breathing Difficulty - UF Health",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=ufhealth.org&sz=64",
+      "snippet": "Breathing difficulty may involve: Difficult breathing Uncomfortable breathing Feeling like you are not getting enough air Shortness of breath; Breathlessness;…",
+      "checkedAt": "2026-04-03T19:48:34.475Z"
+    },
+    {
+      "id": "site_1775245712575_j1l77",
+      "url": "https://courses.lumenlearning.com/suny-ap2/chapter/the-process-of-breathing-no-content/",
+      "domain": "courses.lumenlearning.com",
+      "title": "The Process of Breathing | Anatomy and Physiology II",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=courses.lumenlearning.com&sz=64",
+      "snippet": "The Process of Breathing | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 6: The Respiratory System Search for: The Process of Breathing Learning Objectives By the end of this section, you will be able to: Describe the mechanisms that drive breathing Discuss how pressure, volume, and resistance are related List the steps involved in pulmonary ventilation Discuss the physical factors related to breathing Discuss th",
+      "checkedAt": "2026-04-03T19:48:33.778Z"
+    },
+    {
+      "id": "site_1775245702275_nx9ub",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
+      "checkedAt": "2026-04-03T19:48:22.343Z"
+    },
+    {
+      "id": "site_1775245702152_7w7d1",
+      "url": "https://en.wikipedia.org/wiki/History_of_medicine",
+      "domain": "en.wikipedia.org",
+      "title": "History of medicine - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc",
+      "checkedAt": "2026-04-03T19:48:22.275Z"
+    },
+    {
+      "id": "site_1775245702063_ap3ev",
+      "url": "https://en.wikipedia.org/wiki/History_of_diabetes",
+      "domain": "en.wikipedia.org",
+      "title": "History of diabetes - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "History of diabetes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early accounts Toggle Early accounts subsection 1.",
+      "checkedAt": "2026-04-03T19:48:22.152Z"
+    },
+    {
+      "id": "site_1775245701961_hseif",
       "url": "https://en.wikipedia.org/wiki/Gaddang_people",
       "domain": "en.wikipedia.org",
       "title": "Gaddang people - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Gaddang people - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physical geography 2 A linguistic geography 3 Evolving ",
-      "checkedAt": "2026-04-03T19:48:28.878Z"
+      "checkedAt": "2026-04-03T19:48:22.063Z"
     },
     {
-      "id": "site_1775245706353_w90aj",
-      "url": "https://www.merckmanuals.com/professional/multimedia/case-study/shortness-of-breath-in-a-68-yr-old-man",
-      "domain": "merckmanuals.com",
-      "title": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-Merck Manual Professional Edition",
+      "id": "site_1775245700909_tpub1",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
+      "domain": "ncbi.nlm.nih.gov",
+      "title": "Dyspnea - StatPearls - NCBI Bookshelf",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=merckmanuals.com&sz=64",
-      "snippet": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-Merck Manual Professional Edition honeypot link skip to main content Professional Consumer Merck Manual Professional Version MEDICAL TOPICS RESOURCES DRUG INFO COMMENTARY PROCEDURES QUIZZES ABOUT US MEDICAL TOPICS RESOURCES &lt; Case studies Shortness of Breath in a 68-Yr-Old Man About Disclaimer Permissions Privacy Cookie Preferences Terms of use Partnerships Contact Us Global Medical Knowledge ",
-      "checkedAt": "2026-04-03T19:48:28.545Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque",
+      "checkedAt": "2026-04-03T19:48:21.960Z"
     },
     {
-      "id": "site_1775245703614_klqll",
-      "url": "https://www.msdmanuals.com/professional/multimedia/case-study/shortness-of-breath-in-a-68-yr-old-man",
-      "domain": "msdmanuals.com",
-      "title": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-MSD Manual Professional Edition",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=msdmanuals.com&sz=64",
-      "snippet": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-MSD Manual Professional Edition honeypot link skip to main content Professional Consumer MSD Manual Professional Version MEDICAL TOPICS RESOURCES COMMENTARY PROCEDURES QUIZZES ABOUT US MEDICAL TOPICS RESOURCES &lt; Case Studies Shortness of Breath in a 68-Yr-Old Man About us Disclaimer Permissions Privacy Cookie Preferences Terms of use Partnerships Contact Us Global Medical Knowledge Veterinary ",
-      "checkedAt": "2026-04-03T19:48:26.353Z"
+      "id": "site_1775245700909_rcnu8",
+      "url": "https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Respiratory/Breathing-pattern-disorders-patient-information.pdf",
+      "domain": "uhs.nhs.uk",
+      "title": "uhs.nhs.uk",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=uhs.nhs.uk&sz=64",
+      "checkedAt": "2026-04-03T19:48:20.909Z"
     },
     {
-      "id": "site_1775245703291_ahn4s",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12801789/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Experiences and management of breathing and shortness of breath in patients with chronic heart failure – a qualitative study - PMC",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "Shortness of breath is a cardinal symptom of heart failure. However, little is known about patients’ subjective experiences and how patients with chronic heart failure manage shortness of breath. This study aimed to desc",
-      "checkedAt": "2026-04-03T19:48:23.614Z"
-    },
-    {
-      "id": "site_1775245701891_x2rsk",
-      "url": "https://www.medmalreviewer.com/sob-firstpost/",
-      "domain": "medmalreviewer.com",
-      "title": "Case 1: Shortness of Breath",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=medmalreviewer.com&sz=64",
-      "snippet": "Case 1: Shortness of Breath Case 1: Shortness of Breath Welcome to medmalreviewer.com! The purpose of this site is to improve doctor’s medical knowledge and documentation by reviewing real-life malpractice cases. The first case is below. These cases are presented in long form, deep dive fashion, and I&#8217;ll try to post one each month. Each case is broken down into 5 posts. To see more info about the website, here are links to the About Page an",
-      "checkedAt": "2026-04-03T19:48:23.291Z"
-    },
-    {
-      "id": "site_1775245699384_x4kxs",
+      "id": "site_1775245697630_x6f36",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-      "checkedAt": "2026-04-03T19:48:19.454Z"
+      "checkedAt": "2026-04-03T19:48:17.699Z"
     },
     {
-      "id": "site_1775245699310_soj18",
-      "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche_and_free_will",
-      "domain": "en.wikipedia.org",
-      "title": "Friedrich Nietzsche and free will - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Friedrich Nietzsche and free will - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Schopenhauer Toggle Schopenhauer sub",
-      "checkedAt": "2026-04-03T19:48:19.383Z"
-    },
-    {
-      "id": "site_1775245698552_z1pqe",
-      "url": "https://en.wikipedia.org/wiki/Duran_Duran_(1993_album)",
-      "domain": "en.wikipedia.org",
-      "title": "Duran Duran (1993 album) - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Duran Duran (1993 album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Development and recording Toggle",
-      "checkedAt": "2026-04-03T19:48:19.310Z"
-    },
-    {
-      "id": "site_1775245698468_wood3",
+      "id": "site_1775245697531_351ge",
       "url": "https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin",
       "domain": "en.wikipedia.org",
       "title": "Religious views of Charles Darwin - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Religious views of Charles Darwin - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Darwin's religious background Toggle",
-      "checkedAt": "2026-04-03T19:48:18.552Z"
+      "checkedAt": "2026-04-03T19:48:17.630Z"
     },
     {
-      "id": "site_1775245698397_pux1k",
+      "id": "site_1775245697453_nuwtx",
+      "url": "https://en.wikipedia.org/wiki/Duran_Duran_(1993_album)",
+      "domain": "en.wikipedia.org",
+      "title": "Duran Duran (1993 album) - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Duran Duran (1993 album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Development and recording Toggle",
+      "checkedAt": "2026-04-03T19:48:17.531Z"
+    },
+    {
+      "id": "site_1775245697352_fuh8s",
+      "url": "https://en.wikipedia.org/wiki/PUBG%3A_Battlegrounds",
+      "domain": "en.wikipedia.org",
+      "title": "PUBG: Battlegrounds - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "PUBG: Battlegrounds - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay 2 Development Toggle Development subsecti",
+      "checkedAt": "2026-04-03T19:48:17.453Z"
+    },
+    {
+      "id": "site_1775245697281_x6m9v",
       "url": "https://en.wikipedia.org/wiki/List_of_Daniel_Tiger's_Neighborhood_episodes",
       "domain": "en.wikipedia.org",
       "title": "List of Daniel Tiger's Neighborhood episodes - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "List of Daniel Tiger's Neighborhood episodes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Series overview 2 Episode",
-      "checkedAt": "2026-04-03T19:48:18.468Z"
+      "checkedAt": "2026-04-03T19:48:17.352Z"
     },
     {
       "id": "site_1775245692500_uv1vg",
@@ -1768,9 +1827,9 @@
     },
     {
       "id": 97,
-      "url": "https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin",
+      "url": "https://en.wikipedia.org/wiki/PUBG%3A_Battlegrounds",
       "domain": "en.wikipedia.org",
-      "title": "Religious views of Charles Darwin - Wikipedia"
+      "title": "PUBG: Battlegrounds - Wikipedia"
     },
     {
       "id": 98,
@@ -1780,9 +1839,9 @@
     },
     {
       "id": 99,
-      "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche_and_free_will",
+      "url": "https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin",
       "domain": "en.wikipedia.org",
-      "title": "Friedrich Nietzsche and free will - Wikipedia"
+      "title": "Religious views of Charles Darwin - Wikipedia"
     },
     {
       "id": 100,
@@ -1792,55 +1851,105 @@
     },
     {
       "id": 101,
-      "url": "https://www.medmalreviewer.com/sob-firstpost/",
-      "domain": "medmalreviewer.com",
-      "title": "Case 1: Shortness of Breath"
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
+      "domain": "ncbi.nlm.nih.gov",
+      "title": "Dyspnea - StatPearls - NCBI Bookshelf"
     },
     {
       "id": 102,
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12801789/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Experiences and management of breathing and shortness of breath in patients with chronic heart failure – a qualitative study - PMC"
-    },
-    {
-      "id": 103,
-      "url": "https://www.msdmanuals.com/professional/multimedia/case-study/shortness-of-breath-in-a-68-yr-old-man",
-      "domain": "msdmanuals.com",
-      "title": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-MSD Manual Professional Edition"
-    },
-    {
-      "id": 104,
-      "url": "https://www.merckmanuals.com/professional/multimedia/case-study/shortness-of-breath-in-a-68-yr-old-man",
-      "domain": "merckmanuals.com",
-      "title": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-Merck Manual Professional Edition"
-    },
-    {
-      "id": 105,
       "url": "https://en.wikipedia.org/wiki/Gaddang_people",
       "domain": "en.wikipedia.org",
       "title": "Gaddang people - Wikipedia"
+    },
+    {
+      "id": 103,
+      "url": "https://en.wikipedia.org/wiki/History_of_diabetes",
+      "domain": "en.wikipedia.org",
+      "title": "History of diabetes - Wikipedia"
+    },
+    {
+      "id": 104,
+      "url": "https://en.wikipedia.org/wiki/History_of_medicine",
+      "domain": "en.wikipedia.org",
+      "title": "History of medicine - Wikipedia"
+    },
+    {
+      "id": 105,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 106,
+      "url": "https://courses.lumenlearning.com/suny-ap2/chapter/the-process-of-breathing-no-content/",
+      "domain": "courses.lumenlearning.com",
+      "title": "The Process of Breathing | Anatomy and Physiology II"
+    },
+    {
+      "id": 107,
+      "url": "https://ufhealth.org/conditions-and-treatments/breathing-difficulty",
+      "domain": "ufhealth.org",
+      "title": "Breathing Difficulty - UF Health"
+    },
+    {
+      "id": 108,
+      "url": "https://www.merckmanuals.com/home/lung-and-airway-disorders/symptoms-of-lung-disorders/shortness-of-breath",
+      "domain": "merckmanuals.com",
+      "title": "Shortness of Breath - Lung and Airway Disorders - Merck Manual Consumer Version"
+    },
+    {
+      "id": 109,
+      "url": "https://en.wikipedia.org/wiki/List_of_Egyptian_inventions_and_discoveries",
+      "domain": "en.wikipedia.org",
+      "title": "List of Egyptian inventions and discoveries - Wikipedia"
+    },
+    {
+      "id": 110,
+      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
     }
   ],
   "notes": [
     {
+      "citationId": 110,
+      "summary": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh"
+    },
+    {
+      "citationId": 109,
+      "summary": "List of Egyptian inventions and discoveries - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Ancient Egypt Toggle Ancie"
+    },
+    {
+      "citationId": 108,
+      "summary": "Shortness of Breath - Learn about the causes, symptoms, diagnosis & treatment from the Merck Manuals - Medical Consumer Version."
+    },
+    {
+      "citationId": 107,
+      "summary": "Breathing difficulty may involve: Difficult breathing Uncomfortable breathing Feeling like you are not getting enough air Shortness of breath; Breathlessness;…"
+    },
+    {
+      "citationId": 106,
+      "summary": "The Process of Breathing | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 6: The Respiratory System Search for: The Process of Breathing Learning Objectives By the end of this section, you will be able to: Describe the mechanisms that drive breathing Discuss how pressure, volume, and resistance are related List the steps involved in pulmonary ventilation Discuss the physical factors related to breathing Discuss th"
+    },
+    {
       "citationId": 105,
-      "summary": "Gaddang people - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physical geography 2 A linguistic geography 3 Evolving "
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
     },
     {
       "citationId": 104,
-      "summary": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-Merck Manual Professional Edition honeypot link skip to main content Professional Consumer Merck Manual Professional Version MEDICAL TOPICS RESOURCES DRUG INFO COMMENTARY PROCEDURES QUIZZES ABOUT US MEDICAL TOPICS RESOURCES &lt; Case studies Shortness of Breath in a 68-Yr-Old Man About Disclaimer Permissions Privacy Cookie Preferences Terms of use Partnerships Contact Us Global Medical Knowledge "
+      "summary": "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc"
     },
     {
       "citationId": 103,
-      "summary": "Case-Study: Shortness of Breath in a 68-Yr-Old Man-MSD Manual Professional Edition honeypot link skip to main content Professional Consumer MSD Manual Professional Version MEDICAL TOPICS RESOURCES COMMENTARY PROCEDURES QUIZZES ABOUT US MEDICAL TOPICS RESOURCES &lt; Case Studies Shortness of Breath in a 68-Yr-Old Man About us Disclaimer Permissions Privacy Cookie Preferences Terms of use Partnerships Contact Us Global Medical Knowledge Veterinary "
+      "summary": "History of diabetes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early accounts Toggle Early accounts subsection 1."
     },
     {
       "citationId": 102,
-      "summary": "Shortness of breath is a cardinal symptom of heart failure. However, little is known about patients’ subjective experiences and how patients with chronic heart failure manage shortness of breath. This study aimed to desc"
+      "summary": "Gaddang people - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physical geography 2 A linguistic geography 3 Evolving "
     },
     {
       "citationId": 101,
-      "summary": "Case 1: Shortness of Breath Case 1: Shortness of Breath Welcome to medmalreviewer.com! The purpose of this site is to improve doctor’s medical knowledge and documentation by reviewing real-life malpractice cases. The first case is below. These cases are presented in long form, deep dive fashion, and I&#8217;ll try to post one each month. Each case is broken down into 5 posts. To see more info about the website, here are links to the About Page an"
+      "summary": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque"
     },
     {
       "citationId": 100,
@@ -1848,7 +1957,7 @@
     },
     {
       "citationId": 99,
-      "summary": "Friedrich Nietzsche and free will - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Schopenhauer Toggle Schopenhauer sub"
+      "summary": "Religious views of Charles Darwin - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Darwin's religious background Toggle"
     },
     {
       "citationId": 98,
@@ -1856,7 +1965,7 @@
     },
     {
       "citationId": 97,
-      "summary": "Religious views of Charles Darwin - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Darwin's religious background Toggle"
+      "summary": "PUBG: Battlegrounds - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay 2 Development Toggle Development subsecti"
     },
     {
       "citationId": 96,
@@ -2245,26 +2354,38 @@
   ],
   "events": [
     {
-      "id": "ev_1775245708878_h6323",
-      "at": "2026-04-03T19:48:28.878Z",
+      "id": "ev_1775245717351_c2fly",
+      "at": "2026-04-03T19:48:37.351Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 110."
+    },
+    {
+      "id": "ev_1775245702343_tecpd",
+      "at": "2026-04-03T19:48:22.343Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? official documentation metrics"
+    },
+    {
+      "id": "ev_1775245702343_sj9q2",
+      "at": "2026-04-03T19:48:22.343Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 105."
     },
     {
-      "id": "ev_1775245699454_76bfz",
-      "at": "2026-04-03T19:48:19.454Z",
+      "id": "ev_1775245699850_eej0n",
+      "at": "2026-04-03T19:48:19.850Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? official documentation \"case study\""
     },
     {
-      "id": "ev_1775245699454_uf18f",
-      "at": "2026-04-03T19:48:19.454Z",
+      "id": "ev_1775245697699_vpe3t",
+      "at": "2026-04-03T19:48:17.699Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 100."
     },
     {
-      "id": "ev_1775245696776_tqgpn",
-      "at": "2026-04-03T19:48:16.777Z",
+      "id": "ev_1775245693822_2frz1",
+      "at": "2026-04-03T19:48:13.822Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? opinion"
     },
@@ -2516,31 +2637,31 @@
     }
   ],
   "learnedSoFar": [
+    ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
+    "List of Egyptian inventions and discoveries - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Ancient Egypt Toggle Ancie",
+    "Shortness of Breath - Learn about the causes, symptoms, diagnosis & treatment from the Merck Manuals - Medical Consumer Version.",
+    "Breathing difficulty may involve: Difficult breathing Uncomfortable breathing Feeling like you are not getting enough air Shortness of breath; Breathlessness;…",
+    "The Process of Breathing | Anatomy and Physiology II Skip to main content Anatomy and Physiology II Module 6: The Respiratory System Search for: The Process of Breathing Learning Objectives By the end of this section, you will be able to: Describe the mechanisms that drive breathing Discuss how pressure, volume, and resistance are related List the steps involved in pulmonary ventilation Discuss the physical factors related to breathing Discuss th",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
+    "History of medicine - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Prehistoric medicine 2 Ancient medicine Toggle Anc",
+    "History of diabetes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early accounts Toggle Early accounts subsection 1.",
     "Gaddang people - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Physical geography 2 A linguistic geography 3 Evolving ",
-    "Case-Study: Shortness of Breath in a 68-Yr-Old Man-Merck Manual Professional Edition honeypot link skip to main content Professional Consumer Merck Manual Professional Version MEDICAL TOPICS RESOURCES DRUG INFO COMMENTARY PROCEDURES QUIZZES ABOUT US MEDICAL TOPICS RESOURCES &lt; Case studies Shortness of Breath in a 68-Yr-Old Man About Disclaimer Permissions Privacy Cookie Preferences Terms of use Partnerships Contact Us Global Medical Knowledge ",
-    "Case-Study: Shortness of Breath in a 68-Yr-Old Man-MSD Manual Professional Edition honeypot link skip to main content Professional Consumer MSD Manual Professional Version MEDICAL TOPICS RESOURCES COMMENTARY PROCEDURES QUIZZES ABOUT US MEDICAL TOPICS RESOURCES &lt; Case Studies Shortness of Breath in a 68-Yr-Old Man About us Disclaimer Permissions Privacy Cookie Preferences Terms of use Partnerships Contact Us Global Medical Knowledge Veterinary ",
-    "Shortness of breath is a cardinal symptom of heart failure. However, little is known about patients’ subjective experiences and how patients with chronic heart failure manage shortness of breath. This study aimed to desc",
-    "Case 1: Shortness of Breath Case 1: Shortness of Breath Welcome to medmalreviewer.com! The purpose of this site is to improve doctor’s medical knowledge and documentation by reviewing real-life malpractice cases. The first case is below. These cases are presented in long form, deep dive fashion, and I&#8217;ll try to post one each month. Each case is broken down into 5 posts. To see more info about the website, here are links to the About Page an",
+    "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque",
     "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-    "Friedrich Nietzsche and free will - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Schopenhauer Toggle Schopenhauer sub",
-    "Duran Duran (1993 album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Development and recording Toggle",
     "Religious views of Charles Darwin - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Darwin's religious background Toggle",
+    "Duran Duran (1993 album) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Development and recording Toggle",
+    "PUBG: Battlegrounds - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay 2 Development Toggle Development subsecti",
     "List of Daniel Tiger's Neighborhood episodes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Series overview 2 Episode",
     "Twelfth Doctor - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Casting 1",
     "Snoring - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Distinguis",
-    "Afrikaans grammar - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Standardised Afrikaans 2 Lexical categories Toggle L",
-    "Chinese creation myths - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Cosmogonic mythologies Toggle Cosmogonic mythol",
-    "People can experience difficulty breathing for a wide range of reasons. In this article, we look at causes, symptoms, and ways to prevent breathing difficulties.",
-    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-    "Yoga - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Definition Toggle Definition subsection 2.1 In classi",
-    "Bob Dylan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection 2"
+    "Afrikaans grammar - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Standardised Afrikaans 2 Lexical categories Toggle L"
   ],
   "stats": {
-    "sourcesAnalyzed": 105,
-    "tokensUsedEstimate": 10825,
-    "depthScore": 49,
+    "sourcesAnalyzed": 110,
+    "tokensUsedEstimate": 11237,
+    "depthScore": 50,
     "queriesGenerated": 24,
-    "iterations": 21,
+    "iterations": 22,
     "uniqueDomains": 29
   },
   "control": {
