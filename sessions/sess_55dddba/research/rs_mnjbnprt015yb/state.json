@@ -3,8 +3,8 @@
   "sessionId": "sess_55dddba",
   "query": "why do we hard breath sometimes",
   "createdAt": "2026-04-03T19:54:03.449Z",
-  "updatedAt": "2026-04-03T19:54:41.851Z",
-  "lastAdvancedAt": "2026-04-03T19:54:41.303Z",
+  "updatedAt": "2026-04-03T19:54:44.571Z",
+  "lastAdvancedAt": "2026-04-03T19:54:44.026Z",
   "phase": "analyzing",
   "progress": 16,
   "etaMinutes": 34,
@@ -40,331 +40,331 @@
   ],
   "websites": [
     {
-      "id": "site_1775246081825_a9gx9",
+      "id": "site_1775246084564_5pj97",
       "url": "https://code.jquery.com/jquery-3.7.0.min.js",
       "domain": "code.jquery.com",
       "title": "code.jquery.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=code.jquery.com&sz=64",
       "snippet": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
-      "checkedAt": "2026-04-03T19:54:41.851Z"
+      "checkedAt": "2026-04-03T19:54:44.571Z"
     },
     {
-      "id": "site_1775246081795_d9hcg",
+      "id": "site_1775246084542_h8gvy",
       "url": "https://fonts.googleapis.com",
       "domain": "fonts.googleapis.com",
       "title": "fonts.googleapis.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=fonts.googleapis.com&sz=64",
-      "checkedAt": "2026-04-03T19:54:41.825Z"
+      "checkedAt": "2026-04-03T19:54:44.564Z"
     },
     {
-      "id": "site_1775246081790_vrpae",
+      "id": "site_1775246084536_ivw9j",
       "url": "https://fonts.gstatic.com/",
       "domain": "fonts.gstatic.com",
       "title": "fonts.gstatic.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=fonts.gstatic.com&sz=64",
-      "checkedAt": "2026-04-03T19:54:41.795Z"
+      "checkedAt": "2026-04-03T19:54:44.542Z"
     },
     {
-      "id": "site_1775246081777_m93uk",
+      "id": "site_1775246084526_0g2l1",
       "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
-      "checkedAt": "2026-04-03T19:54:41.790Z"
+      "checkedAt": "2026-04-03T19:54:44.536Z"
     },
     {
-      "id": "site_1775246081773_xtefe",
+      "id": "site_1775246084522_40mej",
       "url": "https://medlineplus.gov/ency/article/003075.htm",
       "domain": "medlineplus.gov",
       "title": "Breathing difficulty: MedlinePlus Medical Encyclopedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medlineplus.gov&sz=64",
       "snippet": "Breathing difficulty may involve:",
-      "checkedAt": "2026-04-03T19:54:41.777Z"
+      "checkedAt": "2026-04-03T19:54:44.526Z"
     },
     {
-      "id": "site_1775246081710_67r57",
+      "id": "site_1775246084447_tvq96",
       "url": "https://www.webmd.com/lung/breathing-problems-causes-tests-treatments",
       "domain": "webmd.com",
       "title": "Breathing Problems: Causes, Tests, Solutions and Home Treatments",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
       "snippet": "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated.",
-      "checkedAt": "2026-04-03T19:54:41.773Z"
+      "checkedAt": "2026-04-03T19:54:44.522Z"
     },
     {
-      "id": "site_1775246081692_cewvd",
+      "id": "site_1775246084431_e7ktp",
       "url": "https://www.sjmed.com/newsroom/blog-articles/shortnessofbreath",
       "domain": "sjmed.com",
       "title": "Why You May Have Shortness of Breath and How to Handle It",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=sjmed.com&sz=64",
       "snippet": "Shortness of breath is a common symptom, often dismissed as a minor inconvenience. Yet it can sometimes be indicative of underlying health issues that deserve your attention. Understanding the nuances of this symptom is ",
-      "checkedAt": "2026-04-03T19:54:41.710Z"
+      "checkedAt": "2026-04-03T19:54:44.447Z"
     },
     {
-      "id": "site_1775246080968_fgris",
+      "id": "site_1775246083857_okzcs",
       "url": "https://www.healthline.com/health/heavy-breathing",
       "domain": "healthline.com",
       "title": "Heavy Breathing: Causes, Symptoms, Treatment, and More",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=healthline.com&sz=64",
       "snippet": "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions.",
-      "checkedAt": "2026-04-03T19:54:41.303Z"
+      "checkedAt": "2026-04-03T19:54:44.026Z"
     },
     {
-      "id": "site_1775246080945_ymj7i",
+      "id": "site_1775246083810_61f8p",
       "url": "https://hai.stanford.edu/policy/what-makes-a-good-ai-benchmark",
       "domain": "hai.stanford.edu",
       "title": "hai.stanford.edu",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=hai.stanford.edu&sz=64",
       "snippet": "self.__next_f.push([1,\"mation campaigns, and help citizens make more informed decisions about the information they consume online.\\u003c/p\\u003e33:T438,\\u003ctable\\u003e\\u003ctbody\\u003e\\u003ctr\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eName\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd rowspan=\\\"1\\\" colspan=\\\"1\\\"\\u003e\\u003cp\\u003e\\u003cstrong\\u003eRole\\u003c/strong\\u003e\\u003c/p\\u003e\\u003c/td\\u003e",
-      "checkedAt": "2026-04-03T19:54:40.967Z"
+      "checkedAt": "2026-04-03T19:54:43.857Z"
     },
     {
-      "id": "site_1775246080873_j8n6a",
+      "id": "site_1775246083737_tvj8e",
       "url": "https://vo2master.com/blog/education-series-normal-and-abnormal-breathing-patterns-at-rest/?srsltid=AfmBOoqOd5Ic_dEs1GH1-I1b4TuKzBYkGlMIeP-KkZgpUpStItmO9g3H",
       "domain": "vo2master.com",
       "title": "Normal (and Abnormal) Breathing Patterns at Rest - VO2 Master",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=vo2master.com&sz=64",
       "snippet": "Performance coach Sean Seale chats with Dr. Andrew Sellars, Co-Founder of VO2 Master, about breathing patterns at rest, respiratory frequency and volume.",
-      "checkedAt": "2026-04-03T19:54:40.945Z"
+      "checkedAt": "2026-04-03T19:54:43.810Z"
     },
     {
-      "id": "site_1775246080863_eqkl6",
+      "id": "site_1775246083726_o5bbc",
       "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
       "domain": "library.hbs.edu",
       "title": "When Benchmarks Don’t Work | Working Knowledge",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=library.hbs.edu&sz=64",
       "snippet": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
-      "checkedAt": "2026-04-03T19:54:40.873Z"
+      "checkedAt": "2026-04-03T19:54:43.737Z"
     },
     {
-      "id": "site_1775246080345_p74qv",
+      "id": "site_1775246083183_5h4o2",
       "url": "https://www.linkedin.com/posts/zainhas_i-just-read-why-benchmarking-is-hard-and-activity-7412940963570085889-N47q",
       "domain": "linkedin.com",
       "title": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a hig",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
       "snippet": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
-      "checkedAt": "2026-04-03T19:54:40.863Z"
+      "checkedAt": "2026-04-03T19:54:43.726Z"
     },
     {
-      "id": "site_1775246079809_pgc5e",
+      "id": "site_1775246082668_19x00",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
-      "checkedAt": "2026-04-03T19:54:39.813Z"
+      "checkedAt": "2026-04-03T19:54:42.672Z"
     },
     {
-      "id": "site_1775246079809_9of3y",
+      "id": "site_1775246082667_ynj6m",
       "url": "https://www.lung.org/getmedia/5d8035e5-4e86-4205-b408-865550860783/State-of-the-Air-2025.pdf",
       "domain": "lung.org",
       "title": "lung.org",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=lung.org&sz=64",
-      "checkedAt": "2026-04-03T19:54:39.809Z"
+      "checkedAt": "2026-04-03T19:54:42.668Z"
     },
     {
-      "id": "site_1775246079798_8uokt",
+      "id": "site_1775246082661_jie3h",
       "url": "https://www.healtheffects.org/announcements/insights-air-we-breathe-state-global-air-2025",
       "domain": "healtheffects.org",
       "title": "Insights into the air we breathe: The State of Global Air 2025 | Health Effects Institute",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=healtheffects.org&sz=64",
       "snippet": "Each year, HEI&#039;s State of Global Air report provides updated information on exposure to air pollution and evidence of the related health impacts worldwide. This report is a key resource that quantifies exposure to p",
-      "checkedAt": "2026-04-03T19:54:39.809Z"
+      "checkedAt": "2026-04-03T19:54:42.667Z"
     },
     {
-      "id": "site_1775246079731_831bz",
+      "id": "site_1775246082599_3wdty",
       "url": "https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
       "domain": "deloitte.com",
       "title": "2026 Manufacturing Industry Outlook | Deloitte Insights",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=deloitte.com&sz=64",
       "snippet": "Renewed strategic focus and targeted technology investments could be essential to maintaining a competitive edge in 2026",
-      "checkedAt": "2026-04-03T19:54:39.798Z"
+      "checkedAt": "2026-04-03T19:54:42.661Z"
     },
     {
-      "id": "site_1775246079711_xnc4s",
+      "id": "site_1775246082585_b283u",
       "url": "https://www.cdc.gov/cfa-qualitative-assessments/php/data-research/season-outlook25-26-dec-update.html",
       "domain": "cdc.gov",
       "title": "2025-2026 Respiratory Disease Season Outlook - December Update | CFA: Qualitative Assessments | CDC",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=cdc.gov&sz=64",
       "snippet": "Review an update to the assessment of the respiratory disease season in the U.S.",
-      "checkedAt": "2026-04-03T19:54:39.730Z"
+      "checkedAt": "2026-04-03T19:54:42.599Z"
     },
     {
-      "id": "site_1775246079323_asaim",
+      "id": "site_1775246082202_i3nla",
       "url": "https://ide.group/2025/01/the-future-of-respiratory-care-trends-and-predictions-for-device-manufacturers/",
       "domain": "ide.group",
       "title": "Future Trends in Respiratory Care Manufacturing",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=ide.group&sz=64",
       "snippet": "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
-      "checkedAt": "2026-04-03T19:54:39.711Z"
+      "checkedAt": "2026-04-03T19:54:42.585Z"
     },
     {
-      "id": "site_1775246078923_vj3nj",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631149/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Underlying conditions contributing to breathlessness in the population - PMC",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
-      "checkedAt": "2026-04-03T19:54:38.960Z"
-    },
-    {
-      "id": "site_1775246078025_x70ud",
-      "url": "https://www.nature.com/articles/s41598-025-11728-x",
-      "domain": "nature.com",
-      "title": "Increased breathlessness in post-COVID syndrome despite normal breathing patterns in a rebreathing challenge | Scientific Reports",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=nature.com&sz=64",
-      "snippet": "Severe symptoms in the absence of measurable body pathology are a frequent hallmark of post-COVID syndrome. From a Bayesian Brain perspective, such symptoms can be explained by incorrect internal models that the brain us",
-      "checkedAt": "2026-04-03T19:54:38.923Z"
-    },
-    {
-      "id": "site_1775246077817_sefw1",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
-      "domain": "sciencedaily.com",
-      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=64",
-      "snippet": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
-      "checkedAt": "2026-04-03T19:54:38.025Z"
-    },
-    {
-      "id": "site_1775246077775_e21db",
+      "id": "site_1775246081741_muqpg",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
       "domain": "pmc.ncbi.nlm.nih.gov",
       "title": "Breathlessness and the brain: the role of expectation - PMC",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
       "snippet": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
-      "checkedAt": "2026-04-03T19:54:37.816Z"
+      "checkedAt": "2026-04-03T19:54:41.784Z"
     },
     {
-      "id": "site_1775246077660_dmugp",
+      "id": "site_1775246081702_pto8v",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8672270/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "The physics of human breathing: flow, timing, volume, and pressure parameters for normal, on-demand, and ventilator respiration - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Normal breathing for healthy humans is taken for granted; it occurs without conscious effort using ambient (1-atmosphere) pressure with 21% oxygen (O2) concentration. The body automatically adjusts for stress, exercise, ",
+      "checkedAt": "2026-04-03T19:54:41.741Z"
+    },
+    {
+      "id": "site_1775246081038_2gn7s",
+      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
+      "domain": "frontiersin.org",
+      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=frontiersin.org&sz=64",
+      "snippet": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms",
+      "checkedAt": "2026-04-03T19:54:41.702Z"
+    },
+    {
+      "id": "site_1775246081004_ghrvx",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631149/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Underlying conditions contributing to breathlessness in the population - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
+      "checkedAt": "2026-04-03T19:54:41.038Z"
+    },
+    {
+      "id": "site_1775246080874_cesbt",
       "url": "https://health.au.dk/en/display/artikel/nyt-studie-hjernens-rytme-foelger-din-vejrtraekning",
       "domain": "health.au.dk",
       "title": "New study: How breathing shapes our brain",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=health.au.dk&sz=64",
       "snippet": "We breathe to survive. But a breath of fresh air does more than fill our lungs. New research from Aarhus University indicates that breathing impacts our emotions, attention and how we can process the outside world.",
-      "checkedAt": "2026-04-03T19:54:37.775Z"
+      "checkedAt": "2026-04-03T19:54:41.004Z"
     },
     {
-      "id": "site_1775246074250_2bt5g",
+      "id": "site_1775246077387_so64v",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-      "checkedAt": "2026-04-03T19:54:34.254Z"
+      "checkedAt": "2026-04-03T19:54:37.392Z"
     },
     {
-      "id": "site_1775246074245_1ec7d",
+      "id": "site_1775246077381_u5scl",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-      "checkedAt": "2026-04-03T19:54:34.250Z"
+      "checkedAt": "2026-04-03T19:54:37.387Z"
     },
     {
-      "id": "site_1775246074023_s61qr",
+      "id": "site_1775246077189_3dp4m",
       "url": "https://www.healthinaging.org/tools-and-tips/caregiver-guide-breathing-problems",
       "domain": "healthinaging.org",
       "title": "Caregiver Guide: Breathing Problems | HealthInAging.org",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=healthinaging.org&sz=64",
       "snippet": "aging sometimes brings on breathing problems including chest discomfort, wheezing, coughing, and/or shortness of breath that makes it difficult to perform normal activities. While these symptoms can be common, they shoul",
-      "checkedAt": "2026-04-03T19:54:34.245Z"
+      "checkedAt": "2026-04-03T19:54:37.381Z"
     },
     {
-      "id": "site_1775246073523_ljeey",
+      "id": "site_1775246076564_v6yoc",
       "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
       "domain": "ncbi.nlm.nih.gov",
       "title": "Dyspnea - StatPearls - NCBI Bookshelf",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=ncbi.nlm.nih.gov&sz=64",
       "snippet": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque",
-      "checkedAt": "2026-04-03T19:54:34.023Z"
+      "checkedAt": "2026-04-03T19:54:37.189Z"
     },
     {
-      "id": "site_1775246073518_7w2i2",
+      "id": "site_1775246076545_bo99x",
       "url": "https://medlineplus.gov/ency/article/000007.htm",
       "domain": "medlineplus.gov",
       "title": "Breathing difficulties - first aid: MedlinePlus Medical Encyclopedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medlineplus.gov&sz=64",
       "snippet": "Most people take breathing for granted. People with certain illnesses may have breathing problems that they deal with on a regular basis.",
-      "checkedAt": "2026-04-03T19:54:33.523Z"
+      "checkedAt": "2026-04-03T19:54:36.564Z"
     },
     {
-      "id": "site_1775246072950_u5k6r",
+      "id": "site_1775246076007_ml5za",
       "url": "https://www.healthpartners.com/blog/shortness-of-breath/",
       "domain": "healthpartners.com",
       "title": "Shortness of breath (dyspnea): Causes and symptoms | HealthPartners Blog",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=healthpartners.com&sz=64",
       "snippet": "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do.",
-      "checkedAt": "2026-04-03T19:54:33.066Z"
+      "checkedAt": "2026-04-03T19:54:36.053Z"
     },
     {
-      "id": "site_1775246072905_iiyhv",
+      "id": "site_1775246075963_83tkn",
       "url": "https://www.austinpulmonary.com/2025/03/07/what-causes-shortness-of-breath-that-comes-and-goes/",
       "domain": "austinpulmonary.com",
       "title": "What Causes Shortness of Breath That Comes and Goes?",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=austinpulmonary.com&sz=64",
       "snippet": "This article will look at shortness of breath that comes and goes, how a lung doctor can help, and when you should seek care.",
-      "checkedAt": "2026-04-03T19:54:32.950Z"
+      "checkedAt": "2026-04-03T19:54:36.007Z"
     },
     {
-      "id": "site_1775246072837_ztfws",
+      "id": "site_1775246075874_2qt6k",
       "url": "https://my.clevelandclinic.org/health/symptoms/16942-dyspnea",
       "domain": "my.clevelandclinic.org",
       "title": "Dyspnea (Shortness of Breath): Causes, Symptoms & Treatment",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=my.clevelandclinic.org&sz=64",
       "snippet": "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea.",
-      "checkedAt": "2026-04-03T19:54:32.905Z"
+      "checkedAt": "2026-04-03T19:54:35.963Z"
     },
     {
-      "id": "site_1775246072670_gxfr1",
+      "id": "site_1775246075687_zv11g",
       "url": "https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/shortness-of-breath",
       "domain": "lung.org",
       "title": "Shortness of Breath | American Lung Association",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=lung.org&sz=64",
       "snippet": "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider.",
-      "checkedAt": "2026-04-03T19:54:32.837Z"
+      "checkedAt": "2026-04-03T19:54:35.874Z"
     },
     {
-      "id": "site_1775246072561_e7no6",
+      "id": "site_1775246075264_ejepc",
       "url": "https://www.medicalnewstoday.com/articles/318210",
       "domain": "medicalnewstoday.com",
       "title": "Heavy breathing: 10 causes and treatments",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=64",
       "snippet": "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them.",
-      "checkedAt": "2026-04-03T19:54:32.670Z"
+      "checkedAt": "2026-04-03T19:54:35.687Z"
     }
   ],
   "citations": [
@@ -436,27 +436,27 @@
     },
     {
       "id": 12,
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Breathlessness and the brain: the role of expectation - PMC"
-    },
-    {
-      "id": 13,
-      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
-      "domain": "sciencedaily.com",
-      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily"
-    },
-    {
-      "id": 14,
-      "url": "https://www.nature.com/articles/s41598-025-11728-x",
-      "domain": "nature.com",
-      "title": "Increased breathlessness in post-COVID syndrome despite normal breathing patterns in a rebreathing challenge | Scientific Reports"
-    },
-    {
-      "id": 15,
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631149/",
       "domain": "pmc.ncbi.nlm.nih.gov",
       "title": "Underlying conditions contributing to breathlessness in the population - PMC"
+    },
+    {
+      "id": 13,
+      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
+      "domain": "frontiersin.org",
+      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments"
+    },
+    {
+      "id": 14,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8672270/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "The physics of human breathing: flow, timing, volume, and pressure parameters for normal, on-demand, and ventilator respiration - PMC"
+    },
+    {
+      "id": 15,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Breathlessness and the brain: the role of expectation - PMC"
     },
     {
       "id": 16,
@@ -612,19 +612,19 @@
     },
     {
       "citationId": 15,
-      "summary": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am"
+      "summary": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
     },
     {
       "citationId": 14,
-      "summary": "Severe symptoms in the absence of measurable body pathology are a frequent hallmark of post-COVID syndrome. From a Bayesian Brain perspective, such symptoms can be explained by incorrect internal models that the brain us"
+      "summary": "Normal breathing for healthy humans is taken for granted; it occurs without conscious effort using ambient (1-atmosphere) pressure with 21% oxygen (O2) concentration. The body automatically adjusts for stress, exercise, "
     },
     {
       "citationId": 13,
-      "summary": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
+      "summary": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms"
     },
     {
       "citationId": 12,
-      "summary": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
+      "summary": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am"
     },
     {
       "citationId": 11,
@@ -673,80 +673,80 @@
   ],
   "events": [
     {
-      "id": "ev_1775246081851_0c94b",
-      "at": "2026-04-03T19:54:41.851Z",
+      "id": "ev_1775246084571_5wvyh",
+      "at": "2026-04-03T19:54:44.571Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 30."
     },
     {
-      "id": "ev_1775246081303_5o2i9",
-      "at": "2026-04-03T19:54:41.303Z",
+      "id": "ev_1775246084026_jegym",
+      "at": "2026-04-03T19:54:44.026Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes limitations and risks"
     },
     {
-      "id": "ev_1775246081303_ycq6g",
-      "at": "2026-04-03T19:54:41.303Z",
+      "id": "ev_1775246084026_3khe4",
+      "at": "2026-04-03T19:54:44.026Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 25."
     },
     {
-      "id": "ev_1775246079813_6maps",
-      "at": "2026-04-03T19:54:39.813Z",
+      "id": "ev_1775246082673_se4fz",
+      "at": "2026-04-03T19:54:42.673Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes benchmark comparison"
     },
     {
-      "id": "ev_1775246079813_s4i3g",
-      "at": "2026-04-03T19:54:39.813Z",
+      "id": "ev_1775246082673_axft1",
+      "at": "2026-04-03T19:54:42.673Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 20."
     },
     {
-      "id": "ev_1775246078960_jgb4k",
-      "at": "2026-04-03T19:54:38.960Z",
+      "id": "ev_1775246081784_6zqk8",
+      "at": "2026-04-03T19:54:41.784Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes industry analysis 2025 2026"
     },
     {
-      "id": "ev_1775246078960_2rvi8",
-      "at": "2026-04-03T19:54:38.960Z",
+      "id": "ev_1775246081784_y6c14",
+      "at": "2026-04-03T19:54:41.784Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1775246074254_xds30",
-      "at": "2026-04-03T19:54:34.254Z",
+      "id": "ev_1775246077392_98y46",
+      "at": "2026-04-03T19:54:37.392Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes latest research paper"
     },
     {
-      "id": "ev_1775246074254_9myl8",
-      "at": "2026-04-03T19:54:34.254Z",
+      "id": "ev_1775246077392_1g07m",
+      "at": "2026-04-03T19:54:37.392Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1775246073066_dl88y",
-      "at": "2026-04-03T19:54:33.066Z",
+      "id": "ev_1775246076053_ymijy",
+      "at": "2026-04-03T19:54:36.053Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes official documentation"
     },
     {
-      "id": "ev_1775246073066_iln90",
-      "at": "2026-04-03T19:54:33.066Z",
+      "id": "ev_1775246076053_5vzme",
+      "at": "2026-04-03T19:54:36.053Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1775246071821_lb8gy",
-      "at": "2026-04-03T19:54:31.821Z",
+      "id": "ev_1775246074832_isp1h",
+      "at": "2026-04-03T19:54:34.832Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes"
     },
     {
-      "id": "ev_1775246071821_z5dqq",
-      "at": "2026-04-03T19:54:31.821Z",
+      "id": "ev_1775246074832_p465t",
+      "at": "2026-04-03T19:54:34.832Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -779,17 +779,17 @@
     "Renewed strategic focus and targeted technology investments could be essential to maintaining a competitive edge in 2026",
     "Review an update to the assessment of the respiratory disease season in the U.S.",
     "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
-    "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
-    "Severe symptoms in the absence of measurable body pathology are a frequent hallmark of post-COVID syndrome. From a Bayesian Brain perspective, such symptoms can be explained by incorrect internal models that the brain us",
-    "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
+    "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
+    "Normal breathing for healthy humans is taken for granted; it occurs without conscious effort using ambient (1-atmosphere) pressure with 21% oxygen (O2) concentration. The body automatically adjusts for stress, exercise, ",
+    "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms"
   ],
   "stats": {
     "sourcesAnalyzed": 30,
-    "tokensUsedEstimate": 2189,
+    "tokensUsedEstimate": 2164,
     "depthScore": 23,
     "queriesGenerated": 24,
     "iterations": 6,
-    "uniqueDomains": 25
+    "uniqueDomains": 24
   },
   "control": {
     "paused": false,
