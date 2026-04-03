@@ -3,8 +3,8 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:09.316Z",
-  "lastAdvancedAt": "2026-04-03T19:47:07.554Z",
+  "updatedAt": "2026-04-03T19:47:11.915Z",
+  "lastAdvancedAt": "2026-04-03T19:47:06.781Z",
   "phase": "analyzing",
   "progress": 16,
   "etaMinutes": 34,
@@ -40,331 +40,331 @@
   ],
   "websites": [
     {
-      "id": "site_1775245629242_zf7hb",
+      "id": "site_1775245631211_3qngw",
       "url": "https://en.wikipedia.org/wiki/Random_checkpoint",
       "domain": "en.wikipedia.org",
       "title": "Random checkpoint - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
-      "checkedAt": "2026-04-03T19:47:09.316Z"
+      "checkedAt": "2026-04-03T19:47:11.915Z"
     },
     {
-      "id": "site_1775245629018_23u5b",
+      "id": "site_1775245630508_m4qim",
+      "url": "https://en.wikipedia.org/wiki/The_Culture",
+      "domain": "en.wikipedia.org",
+      "title": "The Culture - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "The Culture - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 Fictional history 3 Society and culture Toggle ",
+      "checkedAt": "2026-04-03T19:47:11.211Z"
+    },
+    {
+      "id": "site_1775245630412_3rpn6",
       "url": "https://en.wikipedia.org/wiki/Kermit_Gosnell",
       "domain": "en.wikipedia.org",
       "title": "Kermit Gosnell - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me",
-      "checkedAt": "2026-04-03T19:47:09.242Z"
+      "checkedAt": "2026-04-03T19:47:10.508Z"
     },
     {
-      "id": "site_1775245628934_3y17z",
+      "id": "site_1775245630337_lfm6c",
       "url": "https://en.wikipedia.org/wiki/Open_world",
       "domain": "en.wikipedia.org",
       "title": "Open world - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1",
-      "checkedAt": "2026-04-03T19:47:09.018Z"
+      "checkedAt": "2026-04-03T19:47:10.412Z"
     },
     {
-      "id": "site_1775245628267_j5yob",
+      "id": "site_1775245630098_itz8j",
       "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
       "domain": "en.wikipedia.org",
       "title": "Fermi paradox - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2",
-      "checkedAt": "2026-04-03T19:47:08.934Z"
+      "checkedAt": "2026-04-03T19:47:10.337Z"
     },
     {
-      "id": "site_1775245628153_xe0ao",
-      "url": "https://www.webmd.com/lung/breathing-problems-causes-tests-treatments",
-      "domain": "webmd.com",
-      "title": "Breathing Problems: Causes, Tests, Solutions and Home Treatments",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
-      "snippet": "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated.",
-      "checkedAt": "2026-04-03T19:47:08.267Z"
-    },
-    {
-      "id": "site_1775245627430_oev9l",
-      "url": "https://en.wikipedia.org/wiki/Empire",
-      "domain": "en.wikipedia.org",
-      "title": "Empire - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio",
-      "checkedAt": "2026-04-03T19:47:07.554Z"
-    },
-    {
-      "id": "site_1775245627248_pn0v8",
+      "id": "site_1775245626564_prx3b",
       "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
       "domain": "en.wikipedia.org",
       "title": "COVID-19 pandemic - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem",
-      "checkedAt": "2026-04-03T19:47:07.430Z"
+      "checkedAt": "2026-04-03T19:47:06.781Z"
     },
     {
-      "id": "site_1775245627146_52gom",
+      "id": "site_1775245626478_ymbjz",
       "url": "https://en.wikipedia.org/wiki/Menstrual_cup",
       "domain": "en.wikipedia.org",
       "title": "Menstrual cup - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2.",
-      "checkedAt": "2026-04-03T19:47:07.248Z"
+      "checkedAt": "2026-04-03T19:47:06.564Z"
     },
     {
-      "id": "site_1775245626903_fmzmt",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/29799307/",
-      "domain": "pubmed.ncbi.nlm.nih.gov",
-      "title": "Comparison of breathing patterns, pressure, volume, and flow characteristics of three breathing techniques to encourage lung inflation in he",
+      "id": "site_1775245626206_l38ox",
+      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Services Agreement",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pubmed.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "<span><b><i>Background</i></b>: It is important to encourage lung inflation to prevent postsurgical pulmonary complications and we compared three breathing techniques that place different emphasis on inspiratory flow and",
-      "checkedAt": "2026-04-03T19:47:07.146Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
+      "snippet": "Microsoft Services Agreement This is the Trace Id: c8d62111377780abd9432426b6bc77c6 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+      "checkedAt": "2026-04-03T19:47:06.478Z"
     },
     {
-      "id": "site_1775245626247_mpvjd",
+      "id": "site_1775245625812_mcepr",
+      "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
+      "domain": "library.hbs.edu",
+      "title": "When Benchmarks Don’t Work | Working Knowledge",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=library.hbs.edu&sz=64",
+      "snippet": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
+      "checkedAt": "2026-04-03T19:47:06.206Z"
+    },
+    {
+      "id": "site_1775245625147_nb778",
       "url": "https://www.linkedin.com/posts/zainhas_i-just-read-why-benchmarking-is-hard-and-activity-7412940963570085889-N47q",
       "domain": "linkedin.com",
       "title": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a hig",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=64",
       "snippet": "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
-      "checkedAt": "2026-04-03T19:47:06.902Z"
+      "checkedAt": "2026-04-03T19:47:05.811Z"
     },
     {
-      "id": "site_1775245621109_dwypf",
-      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "id": "site_1775245621101_ogi10",
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
       "domain": "go.microsoft.com",
-      "title": "Microsoft Services Agreement",
+      "title": "Microsoft Privacy Statement – Microsoft privacy",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Services Agreement This is the Trace Id: caeef617b720ee39319f0dda431d3a66 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-      "checkedAt": "2026-04-03T19:47:01.597Z"
+      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e55c1728300112a78ed38c9b9454786f Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
+      "checkedAt": "2026-04-03T19:47:01.444Z"
     },
     {
-      "id": "site_1775245620980_dpzew",
+      "id": "site_1775245620961_cclv3",
       "url": "https://www.ndtv.com/health/breathing-has-become-harder-for-many-no-thanks-to-air-pollution-what-lungs-need-as-you-enter-2026-9848860",
       "domain": "ndtv.com",
       "title": "ndtv.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=ndtv.com&sz=64",
-      "checkedAt": "2026-04-03T19:47:01.109Z"
+      "checkedAt": "2026-04-03T19:47:01.101Z"
     },
     {
-      "id": "site_1775245620282_2cg6k",
+      "id": "site_1775245620486_dcbvu",
       "url": "https://finance.yahoo.com/news/inhaler-solution-market-trends-analysis-154100960.html",
       "domain": "finance.yahoo.com",
       "title": "Inhaler Solution Market Trends Analysis Report 2026-2033",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64",
       "snippet": "Key market opportunities in the inhaler solution market include the rising demand driven by increased respiratory disorders like asthma and COPD, expanding access to medicines in low and middle-income countries (LMICs), ",
-      "checkedAt": "2026-04-03T19:47:00.980Z"
+      "checkedAt": "2026-04-03T19:47:00.961Z"
     },
     {
-      "id": "site_1775245619598_ao41w",
+      "id": "site_1775245619834_b2lgl",
       "url": "https://finance.yahoo.com/news/respiratory-care-devices-market-landscape-084100054.html",
       "domain": "finance.yahoo.com",
       "title": "Respiratory Care Devices Market Landscape Report 2025-2030 Featuring Major Players - Koninklijke Philips, Medtronic, ResMed, Fisher & Paykel",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64",
       "snippet": "The global respiratory care devices market is projected to grow from USD 23.6 billion in 2025 to USD 33.6 billion by 2030, with a CAGR of 7.3%. This growth is driven by increasing respiratory diseases due to aging, smoki",
-      "checkedAt": "2026-04-03T19:47:00.282Z"
+      "checkedAt": "2026-04-03T19:47:00.486Z"
     },
     {
-      "id": "site_1775245618383_oh9cd",
+      "id": "site_1775245618706_x6dzu",
       "url": "https://ide.group/2025/01/the-future-of-respiratory-care-trends-and-predictions-for-device-manufacturers/",
       "domain": "ide.group",
       "title": "Future Trends in Respiratory Care Manufacturing",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=ide.group&sz=64",
       "snippet": "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
-      "checkedAt": "2026-04-03T19:46:59.598Z"
+      "checkedAt": "2026-04-03T19:46:59.834Z"
     },
     {
-      "id": "site_1775245617898_dr91o",
+      "id": "site_1775245618647_zn4w2",
       "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/04/02/respiratory-wellness-initiative-trends-for-2025/",
       "domain": "globalwellnessinstitute.org",
       "title": "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=globalwellnessinstitute.org&sz=64",
       "snippet": "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascript\" id",
-      "checkedAt": "2026-04-03T19:46:58.383Z"
+      "checkedAt": "2026-04-03T19:46:58.706Z"
     },
     {
-      "id": "site_1775245615629_01ilz",
-      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Privacy Statement – Microsoft privacy",
+      "id": "site_1775245616174_hup4q",
+      "url": "https://medicine.yale.edu/news-article/the-power-of-the-breath/",
+      "domain": "medicine.yale.edu",
+      "title": "The Power of the Breath | Yale School of Medicine",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=go.microsoft.com&sz=64",
-      "snippet": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: eec9d17f6c2196eaa747f2130050f34d Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-      "checkedAt": "2026-04-03T19:46:56.441Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=medicine.yale.edu&sz=64",
+      "snippet": "In this blog post, Karyn Bailey, LCSW, offers advice on the value of deep breathing. This is a step-by-step guide to learning a simple but very effective",
+      "checkedAt": "2026-04-03T19:46:56.905Z"
     },
     {
-      "id": "site_1775245614720_98kwn",
-      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
-      "domain": "zhidao.baidu.com",
-      "title": "why什么意思_百度知道",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
-      "snippet": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
-      "checkedAt": "2026-04-03T19:46:55.629Z"
-    },
-    {
-      "id": "site_1775245614444_pobcv",
-      "url": "https://www.zhihu.com/question/860917177",
-      "domain": "zhihu.com",
-      "title": "zhihu.com",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
-      "checkedAt": "2026-04-03T19:46:54.719Z"
-    },
-    {
-      "id": "site_1775245614128_16ma4",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
+      "id": "site_1775245615975_pstw3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8672270/",
       "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Breathlessness and the brain: the role of expectation - PMC",
+      "title": "The physics of human breathing: flow, timing, volume, and pressure parameters for normal, on-demand, and ventilator respiration - PMC",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
-      "snippet": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos",
-      "checkedAt": "2026-04-03T19:46:54.444Z"
+      "snippet": "Normal breathing for healthy humans is taken for granted; it occurs without conscious effort using ambient (1-atmosphere) pressure with 21% oxygen (O2) concentration. The body automatically adjusts for stress, exercise, ",
+      "checkedAt": "2026-04-03T19:46:56.174Z"
     },
     {
-      "id": "site_1775245613390_l1r71",
+      "id": "site_1775245615606_gzpue",
       "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
       "domain": "sciencedaily.com",
       "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=64",
       "snippet": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a",
-      "checkedAt": "2026-04-03T19:46:54.128Z"
+      "checkedAt": "2026-04-03T19:46:55.975Z"
     },
     {
-      "id": "site_1775245612917_eoads",
+      "id": "site_1775245615422_kadqu",
       "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
       "domain": "frontiersin.org",
       "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=frontiersin.org&sz=64",
       "snippet": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms",
-      "checkedAt": "2026-04-03T19:46:53.390Z"
+      "checkedAt": "2026-04-03T19:46:55.606Z"
     },
     {
-      "id": "site_1775245608331_b7vq0",
+      "id": "site_1775245614999_t0srg",
+      "url": "https://health.au.dk/en/display/artikel/nyt-studie-hjernens-rytme-foelger-din-vejrtraekning",
+      "domain": "health.au.dk",
+      "title": "New study: How breathing shapes our brain",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=health.au.dk&sz=64",
+      "snippet": "We breathe to survive. But a breath of fresh air does more than fill our lungs. New research from Aarhus University indicates that breathing impacts our emotions, attention and how we can process the outside world.",
+      "checkedAt": "2026-04-03T19:46:55.422Z"
+    },
+    {
+      "id": "site_1775245608023_9xnyu",
+      "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
+      "domain": "zhidao.baidu.com",
+      "title": "why什么意思_百度知道",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
+      "snippet": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
+      "checkedAt": "2026-04-03T19:46:49.954Z"
+    },
+    {
+      "id": "site_1775245606924_i5mqm",
+      "url": "https://www.zhihu.com/question/860917177",
+      "domain": "zhihu.com",
+      "title": "zhihu.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=zhihu.com&sz=64",
+      "checkedAt": "2026-04-03T19:46:48.023Z"
+    },
+    {
+      "id": "site_1775245605479_ymfv0",
       "url": "https://zhidao.baidu.com/question/82727586.html",
       "domain": "zhidao.baidu.com",
       "title": "why的用法_百度知道",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
       "snippet": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣",
-      "checkedAt": "2026-04-03T19:46:49.324Z"
+      "checkedAt": "2026-04-03T19:46:46.923Z"
     },
     {
-      "id": "site_1775245605693_l1q1n",
+      "id": "site_1775245604636_d3n9r",
       "url": "https://zhidao.baidu.com/question/134401233120139445.html",
       "domain": "zhidao.baidu.com",
       "title": "why有多少种用法，用Why提问有多少种回答_百度知道",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=zhidao.baidu.com&sz=64",
       "snippet": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why",
-      "checkedAt": "2026-04-03T19:46:48.331Z"
+      "checkedAt": "2026-04-03T19:46:45.479Z"
     },
     {
-      "id": "site_1775245605011_ibs23",
-      "url": "https://medlineplus.gov/breathingproblems.html",
-      "domain": "medlineplus.gov",
-      "title": "Breathing Problems | Shortness of Breath | MedlinePlus",
+      "id": "site_1775245603011_4cnau",
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+      "domain": "healthdirect.gov.au",
+      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=medlineplus.gov&sz=64",
-      "snippet": "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this.",
-      "checkedAt": "2026-04-03T19:46:45.693Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=healthdirect.gov.au&sz=64",
+      "snippet": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing.",
+      "checkedAt": "2026-04-03T19:46:44.636Z"
     },
     {
-      "id": "site_1775245603839_lxv0u",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
-      "domain": "ncbi.nlm.nih.gov",
-      "title": "Dyspnea - StatPearls - NCBI Bookshelf",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=ncbi.nlm.nih.gov&sz=64",
-      "snippet": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque",
-      "checkedAt": "2026-04-03T19:46:45.011Z"
-    },
-    {
-      "id": "site_1775245603710_j5ljx",
+      "id": "site_1775245602504_5g4uy",
       "url": "https://www.webmd.com/lung/breathing-problems",
       "domain": "webmd.com",
       "title": "Breathing Problems: Causes, Symptoms & Solutions",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
       "snippet": "Explore the various types of breathing problems, including COPD, asthma, and sleep apnea. Find out how each condition affects your lungs and ways to manage them.",
-      "checkedAt": "2026-04-03T19:46:43.839Z"
+      "checkedAt": "2026-04-03T19:46:43.011Z"
     },
     {
-      "id": "site_1775245599057_rlx77",
-      "url": "https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890",
-      "domain": "mayoclinic.org",
-      "title": "Shortness of breath Causes - Mayo Clinic",
+      "id": "site_1775245600290_t86y2",
+      "url": "https://www.webmd.com/lung/breathing-problems-unusual-causes",
+      "domain": "webmd.com",
+      "title": "Trouble Breathing: 7 Surprising Reasons",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=mayoclinic.org&sz=64",
-      "snippet": "Trouble breathing can come on suddenly or last for weeks or longer. Most cases are due to heart or lung conditions, but there are many other causes.",
-      "checkedAt": "2026-04-03T19:46:39.873Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=webmd.com&sz=64",
+      "snippet": "Heart and lung disease aren’t the only health problems that can cause you to feel winded. Here are some unusual reasons you can’t catch your breath.",
+      "checkedAt": "2026-04-03T19:46:40.941Z"
     },
     {
-      "id": "site_1775245597991_y93vl",
+      "id": "site_1775245599971_gz65e",
       "url": "https://www.healthpartners.com/blog/shortness-of-breath/",
       "domain": "healthpartners.com",
       "title": "Shortness of breath (dyspnea): Causes and symptoms | HealthPartners Blog",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=healthpartners.com&sz=64",
       "snippet": "When you have shortness of breath (dyspnea), it can feel hard to breathe and get enough air. Learn the causes of sudden and chronic dyspnea, and what to do.",
-      "checkedAt": "2026-04-03T19:46:39.057Z"
+      "checkedAt": "2026-04-03T19:46:40.290Z"
     },
     {
-      "id": "site_1775245597461_ozznx",
+      "id": "site_1775245599566_2zv85",
       "url": "https://www.austinpulmonary.com/2025/03/07/what-causes-shortness-of-breath-that-comes-and-goes/",
       "domain": "austinpulmonary.com",
       "title": "austinpulmonary.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=austinpulmonary.com&sz=64",
-      "checkedAt": "2026-04-03T19:46:37.991Z"
+      "checkedAt": "2026-04-03T19:46:39.970Z"
     },
     {
-      "id": "site_1775245596462_1dodd",
+      "id": "site_1775245599444_k0sfw",
       "url": "https://my.clevelandclinic.org/health/symptoms/16942-dyspnea",
       "domain": "my.clevelandclinic.org",
       "title": "Dyspnea (Shortness of Breath): Causes, Symptoms & Treatment",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=my.clevelandclinic.org&sz=64",
       "snippet": "Dyspnea, or shortness of breath, is the feeling that you can’t get enough air into your lungs. Heart and lung conditions, anxiety and exercise can cause dyspnea.",
-      "checkedAt": "2026-04-03T19:46:37.461Z"
+      "checkedAt": "2026-04-03T19:46:39.566Z"
     },
     {
-      "id": "site_1775245595934_vwaul",
+      "id": "site_1775245598780_j89jw",
       "url": "https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/shortness-of-breath",
       "domain": "lung.org",
       "title": "Shortness of Breath | American Lung Association",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=lung.org&sz=64",
       "snippet": "Shortness of breath, or dyspnea, is the uncomfortable sensation of not getting enough air, which can be a sign of lung or heart issues and warrants attention from your healthcare provider.",
-      "checkedAt": "2026-04-03T19:46:36.462Z"
+      "checkedAt": "2026-04-03T19:46:39.444Z"
     },
     {
-      "id": "site_1775245595413_5babu",
+      "id": "site_1775245598041_i98ln",
       "url": "https://www.medicalnewstoday.com/articles/318210",
       "domain": "medicalnewstoday.com",
       "title": "Heavy breathing: 10 causes and treatments",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=medicalnewstoday.com&sz=64",
       "snippet": "The most common cause of heavy breathing is physical exertion. In this article, learn more about the possible causes of heavy breathing and how to treat them.",
-      "checkedAt": "2026-04-03T19:46:35.933Z"
+      "checkedAt": "2026-04-03T19:46:38.780Z"
     }
   ],
   "citations": [
@@ -394,9 +394,9 @@
     },
     {
       "id": 5,
-      "url": "https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/causes/sym-20050890",
-      "domain": "mayoclinic.org",
-      "title": "Shortness of breath Causes - Mayo Clinic"
+      "url": "https://www.webmd.com/lung/breathing-problems-unusual-causes",
+      "domain": "webmd.com",
+      "title": "Trouble Breathing: 7 Surprising Reasons"
     },
     {
       "id": 6,
@@ -406,57 +406,57 @@
     },
     {
       "id": 7,
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK499965/",
-      "domain": "ncbi.nlm.nih.gov",
-      "title": "Dyspnea - StatPearls - NCBI Bookshelf"
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath",
+      "domain": "healthdirect.gov.au",
+      "title": "Shortness of breath (dyspnoea) - causes, symptoms and treatments | healthdirect"
     },
     {
       "id": 8,
-      "url": "https://medlineplus.gov/breathingproblems.html",
-      "domain": "medlineplus.gov",
-      "title": "Breathing Problems | Shortness of Breath | MedlinePlus"
-    },
-    {
-      "id": 9,
       "url": "https://zhidao.baidu.com/question/134401233120139445.html",
       "domain": "zhidao.baidu.com",
       "title": "why有多少种用法，用Why提问有多少种回答_百度知道"
     },
     {
-      "id": 10,
+      "id": 9,
       "url": "https://zhidao.baidu.com/question/82727586.html",
       "domain": "zhidao.baidu.com",
       "title": "why的用法_百度知道"
     },
     {
-      "id": 11,
-      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
-      "domain": "frontiersin.org",
-      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments"
-    },
-    {
-      "id": 12,
-      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
-      "domain": "sciencedaily.com",
-      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily"
-    },
-    {
-      "id": 13,
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6686955/",
-      "domain": "pmc.ncbi.nlm.nih.gov",
-      "title": "Breathlessness and the brain: the role of expectation - PMC"
-    },
-    {
-      "id": 14,
+      "id": 10,
       "url": "https://zhidao.baidu.com/question/1123424804890081219.html",
       "domain": "zhidao.baidu.com",
       "title": "why什么意思_百度知道"
     },
     {
+      "id": 11,
+      "url": "https://health.au.dk/en/display/artikel/nyt-studie-hjernens-rytme-foelger-din-vejrtraekning",
+      "domain": "health.au.dk",
+      "title": "New study: How breathing shapes our brain"
+    },
+    {
+      "id": 12,
+      "url": "https://www.frontiersin.org/news/2025/11/10/link-between-chronic-fatigue-abnormal-breathing-new-treatments-frontiers-medicine",
+      "domain": "frontiersin.org",
+      "title": "Link found between chronic fatigue and abnormal breathing could lead to new treatments"
+    },
+    {
+      "id": 13,
+      "url": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
+      "domain": "sciencedaily.com",
+      "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion | ScienceDaily"
+    },
+    {
+      "id": 14,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8672270/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "The physics of human breathing: flow, timing, volume, and pressure parameters for normal, on-demand, and ventilator respiration - PMC"
+    },
+    {
       "id": 15,
-      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
-      "domain": "go.microsoft.com",
-      "title": "Microsoft Privacy Statement – Microsoft privacy"
+      "url": "https://medicine.yale.edu/news-article/the-power-of-the-breath/",
+      "domain": "medicine.yale.edu",
+      "title": "The Power of the Breath | Yale School of Medicine"
     },
     {
       "id": 16,
@@ -484,9 +484,9 @@
     },
     {
       "id": 20,
-      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "url": "http://go.microsoft.com/fwlink/?LinkId=521839",
       "domain": "go.microsoft.com",
-      "title": "Microsoft Services Agreement"
+      "title": "Microsoft Privacy Statement – Microsoft privacy"
     },
     {
       "id": 21,
@@ -496,51 +496,51 @@
     },
     {
       "id": 22,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/29799307/",
-      "domain": "pubmed.ncbi.nlm.nih.gov",
-      "title": "Comparison of breathing patterns, pressure, volume, and flow characteristics of three breathing techniques to encourage lung inflation in he"
+      "url": "https://www.library.hbs.edu/working-knowledge/when-benchmarks-dont-work",
+      "domain": "library.hbs.edu",
+      "title": "When Benchmarks Don’t Work | Working Knowledge"
     },
     {
       "id": 23,
+      "url": "http://go.microsoft.com/fwlink/?LinkID=246338",
+      "domain": "go.microsoft.com",
+      "title": "Microsoft Services Agreement"
+    },
+    {
+      "id": 24,
       "url": "https://en.wikipedia.org/wiki/Menstrual_cup",
       "domain": "en.wikipedia.org",
       "title": "Menstrual cup - Wikipedia"
     },
     {
-      "id": 24,
+      "id": 25,
       "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
       "domain": "en.wikipedia.org",
       "title": "COVID-19 pandemic - Wikipedia"
     },
     {
-      "id": 25,
-      "url": "https://en.wikipedia.org/wiki/Empire",
-      "domain": "en.wikipedia.org",
-      "title": "Empire - Wikipedia"
-    },
-    {
       "id": 26,
-      "url": "https://www.webmd.com/lung/breathing-problems-causes-tests-treatments",
-      "domain": "webmd.com",
-      "title": "Breathing Problems: Causes, Tests, Solutions and Home Treatments"
-    },
-    {
-      "id": 27,
       "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
       "domain": "en.wikipedia.org",
       "title": "Fermi paradox - Wikipedia"
     },
     {
-      "id": 28,
+      "id": 27,
       "url": "https://en.wikipedia.org/wiki/Open_world",
       "domain": "en.wikipedia.org",
       "title": "Open world - Wikipedia"
     },
     {
-      "id": 29,
+      "id": 28,
       "url": "https://en.wikipedia.org/wiki/Kermit_Gosnell",
       "domain": "en.wikipedia.org",
       "title": "Kermit Gosnell - Wikipedia"
+    },
+    {
+      "id": 29,
+      "url": "https://en.wikipedia.org/wiki/The_Culture",
+      "domain": "en.wikipedia.org",
+      "title": "The Culture - Wikipedia"
     },
     {
       "id": 30,
@@ -556,35 +556,35 @@
     },
     {
       "citationId": 29,
-      "summary": "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me"
+      "summary": "The Culture - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 Fictional history 3 Society and culture Toggle "
     },
     {
       "citationId": 28,
-      "summary": "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1"
+      "summary": "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me"
     },
     {
       "citationId": 27,
-      "summary": "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2"
+      "summary": "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1"
     },
     {
       "citationId": 26,
-      "summary": "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated."
+      "summary": "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2"
     },
     {
       "citationId": 25,
-      "summary": "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio"
-    },
-    {
-      "citationId": 24,
       "summary": "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem"
     },
     {
-      "citationId": 23,
+      "citationId": 24,
       "summary": "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2."
     },
     {
+      "citationId": 23,
+      "summary": "Microsoft Services Agreement This is the Trace Id: c8d62111377780abd9432426b6bc77c6 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
+    },
+    {
       "citationId": 22,
-      "summary": "<span><b><i>Background</i></b>: It is important to encourage lung inflation to prevent postsurgical pulmonary complications and we compared three breathing techniques that place different emphasis on inspiratory flow and"
+      "summary": "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A"
     },
     {
       "citationId": 21,
@@ -592,7 +592,7 @@
     },
     {
       "citationId": 20,
-      "summary": "Microsoft Services Agreement This is the Trace Id: caeef617b720ee39319f0dda431d3a66 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft "
+      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e55c1728300112a78ed38c9b9454786f Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
     },
     {
       "citationId": 19,
@@ -612,39 +612,39 @@
     },
     {
       "citationId": 15,
-      "summary": "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: eec9d17f6c2196eaa747f2130050f34d Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso"
+      "summary": "In this blog post, Karyn Bailey, LCSW, offers advice on the value of deep breathing. This is a step-by-step guide to learning a simple but very effective"
     },
     {
       "citationId": 14,
-      "summary": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示"
+      "summary": "Normal breathing for healthy humans is taken for granted; it occurs without conscious effort using ambient (1-atmosphere) pressure with 21% oxygen (O2) concentration. The body automatically adjusts for stress, exercise, "
     },
     {
       "citationId": 13,
-      "summary": "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
-    },
-    {
-      "citationId": 12,
       "summary": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
     },
     {
-      "citationId": 11,
+      "citationId": 12,
       "summary": "New study finds that many people with chronic fatigue syndrome experience disordered breathing which may be worsening symptoms"
     },
     {
+      "citationId": 11,
+      "summary": "We breathe to survive. But a breath of fresh air does more than fill our lungs. New research from Aarhus University indicates that breathing impacts our emotions, attention and how we can process the outside world."
+    },
+    {
       "citationId": 10,
-      "summary": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣"
+      "summary": "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示"
     },
     {
       "citationId": 9,
-      "summary": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why"
+      "summary": "why的用法正解看完后 一切解决一、why能引导下列几种从句： 1. 主语从句 Why he took Chinese nationality in 1901 is a question that interests us. 他为什么在1901年取得中国国籍，这是一个使我们很感兴趣"
     },
     {
       "citationId": 8,
-      "summary": "When you have breathing problems, such as shortness of breath, it&#x27;s hard for you to take in the oxygen your body needs. Find out what can cause this."
+      "summary": "why有多少种用法，用Why提问有多少种回答Why由两种用法：1、构成“Why + 一般疑问句”的特殊疑问句；2、用从句中，用来解释理由。用why 提问通常有两种回答：1、Because回答2、The reason回答具体用法如下：一、why"
     },
     {
       "citationId": 7,
-      "summary": "Dyspnea, commonly described as shortness of breath, is a subjective sensation of uncomfortable or difficult breathing arising from diverse medical, environmental, psychological, and physiological factors. Patients freque"
+      "summary": "Shortness of breath (dyspnoea) is when you feel like you cannot get enough air into your lungs. Find out what to do if you have difficulty breathing."
     },
     {
       "citationId": 6,
@@ -652,7 +652,7 @@
     },
     {
       "citationId": 5,
-      "summary": "Trouble breathing can come on suddenly or last for weeks or longer. Most cases are due to heart or lung conditions, but there are many other causes."
+      "summary": "Heart and lung disease aren’t the only health problems that can cause you to feel winded. Here are some unusual reasons you can’t catch your breath."
     },
     {
       "citationId": 4,
@@ -673,80 +673,80 @@
   ],
   "events": [
     {
-      "id": "ev_1775245629316_nq334",
-      "at": "2026-04-03T19:47:09.316Z",
+      "id": "ev_1775245631915_qee1t",
+      "at": "2026-04-03T19:47:11.915Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 30."
     },
     {
-      "id": "ev_1775245627554_57kdb",
-      "at": "2026-04-03T19:47:07.554Z",
+      "id": "ev_1775245626781_r18k5",
+      "at": "2026-04-03T19:47:06.781Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? limitations and risks"
     },
     {
-      "id": "ev_1775245627554_bk6r7",
-      "at": "2026-04-03T19:47:07.554Z",
+      "id": "ev_1775245626781_t7y3n",
+      "at": "2026-04-03T19:47:06.781Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 25."
     },
     {
-      "id": "ev_1775245622929_eql7a",
-      "at": "2026-04-03T19:47:02.929Z",
+      "id": "ev_1775245621444_w3ih4",
+      "at": "2026-04-03T19:47:01.444Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? benchmark comparison"
     },
     {
-      "id": "ev_1775245621597_w0bbp",
-      "at": "2026-04-03T19:47:01.597Z",
+      "id": "ev_1775245621444_6jd5v",
+      "at": "2026-04-03T19:47:01.444Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 20."
     },
     {
-      "id": "ev_1775245616441_oox2j",
-      "at": "2026-04-03T19:46:56.441Z",
+      "id": "ev_1775245616905_doxl0",
+      "at": "2026-04-03T19:46:56.905Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? industry analysis 2025 2026"
     },
     {
-      "id": "ev_1775245616441_f8e2f",
-      "at": "2026-04-03T19:46:56.441Z",
+      "id": "ev_1775245616905_9hiwy",
+      "at": "2026-04-03T19:46:56.905Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1775245609324_yrykh",
-      "at": "2026-04-03T19:46:49.324Z",
+      "id": "ev_1775245610952_85bsj",
+      "at": "2026-04-03T19:46:50.952Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? latest research paper"
     },
     {
-      "id": "ev_1775245609324_jrzis",
-      "at": "2026-04-03T19:46:49.324Z",
+      "id": "ev_1775245609954_e46y2",
+      "at": "2026-04-03T19:46:49.954Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1775245601990_bjkok",
-      "at": "2026-04-03T19:46:41.990Z",
+      "id": "ev_1775245600943_ksthf",
+      "at": "2026-04-03T19:46:40.943Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? official documentation"
     },
     {
-      "id": "ev_1775245599874_jcvoa",
-      "at": "2026-04-03T19:46:39.874Z",
+      "id": "ev_1775245600942_upbol",
+      "at": "2026-04-03T19:46:40.942Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1775245593221_oj8ps",
-      "at": "2026-04-03T19:46:33.221Z",
+      "id": "ev_1775245596781_ys0ac",
+      "at": "2026-04-03T19:46:36.781Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes?"
     },
     {
-      "id": "ev_1775245593221_ooovo",
-      "at": "2026-04-03T19:46:33.221Z",
+      "id": "ev_1775245596781_pkh7d",
+      "at": "2026-04-03T19:46:36.781Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -765,27 +765,27 @@
   ],
   "learnedSoFar": [
     "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
+    "The Culture - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview 2 Fictional history 3 Society and culture Toggle ",
     "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me",
     "Open world - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay and design Toggle Gameplay and design subsection 1",
     "Fermi paradox - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Chain of reasoning 2 History Toggle History subsection 2",
-    "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated.",
-    "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio",
     "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem",
     "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2.",
-    "<span><b><i>Background</i></b>: It is important to encourage lung inflation to prevent postsurgical pulmonary complications and we compared three breathing techniques that place different emphasis on inspiratory flow and",
+    "Microsoft Services Agreement This is the Trace Id: c8d62111377780abd9432426b6bc77c6 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+    "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
     "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
-    "Microsoft Services Agreement This is the Trace Id: caeef617b720ee39319f0dda431d3a66 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
+    "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: e55c1728300112a78ed38c9b9454786f Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
     "Key market opportunities in the inhaler solution market include the rising demand driven by increased respiratory disorders like asthma and COPD, expanding access to medicines in low and middle-income countries (LMICs), ",
     "The global respiratory care devices market is projected to grow from USD 23.6 billion in 2025 to USD 33.6 billion by 2030, with a CAGR of 7.3%. This growth is driven by increasing respiratory diseases due to aging, smoki",
     "Uncover predictions and emerging trends shaping the future of respiratory care, empowering device manufacturers with strategic insights.",
     "Respiratory Wellness Initiative Trends for 2025 - Global Wellness Institute <script type=\"text/javascript\" id",
-    "Microsoft Privacy Statement – Microsoft privacy This is the Trace Id: eec9d17f6c2196eaa747f2130050f34d Skip to main content Microsoft Privacy Privacy Privacy Home Privacy dashboard Privacy report Privacy settings Privacy Statement Consumer Health Data Privacy Policy More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft Teams OneNote Microso",
-    "why什么意思 why的意思是为什么，一般用在句子的开头进行询问。why用作疑问副词，也用作关系副词，还用作连接副词，可以引导名词从句，译为为什么；why用作感叹词，主要表示吃惊、承认、认可；why用作名词，表示",
-    "Breathlessness debilitates countless people with a wide range of common diseases. For some people, the experience of breathlessness is poorly explained by the findings of medical tests. This disparity complicates diagnos"
+    "In this blog post, Karyn Bailey, LCSW, offers advice on the value of deep breathing. This is a step-by-step guide to learning a simple but very effective",
+    "Normal breathing for healthy humans is taken for granted; it occurs without conscious effort using ambient (1-atmosphere) pressure with 21% oxygen (O2) concentration. The body automatically adjusts for stress, exercise, ",
+    "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms. The likely culprit is dysautonomia, a disruption in how the body controls blood vessels a"
   ],
   "stats": {
     "sourcesAnalyzed": 30,
-    "tokensUsedEstimate": 2307,
+    "tokensUsedEstimate": 2363,
     "depthScore": 20,
     "queriesGenerated": 24,
     "iterations": 6,
