@@ -3,19 +3,25 @@
   "sessionId": "sess_55dddba",
   "query": "why do we hard breath sometimes",
   "createdAt": "2026-04-03T19:54:03.449Z",
-  "updatedAt": "2026-04-03T19:54:09.371Z",
+  "updatedAt": "2026-04-03T19:54:12.984Z",
   "lastAdvancedAt": "2026-04-03T19:54:03.449Z",
-  "phase": "awaiting_plan",
+  "phase": "query_fanout",
   "progress": 2,
   "etaMinutes": 45,
   "planDraft": "1. Define the Scope: Establish the physiological parameters of \"hard breathing,\" distinguishing between tachypnea (rapid breathing), dyspnea (subjective sensation of breathlessness), and hyperpnea (increased depth/rate due to metabolic demand). Differentiate between transient, exercise-induced causes and pathological or emotional triggers to narrow the search to clinically relevant and common scenarios.\n\n2. Execute Broad Search Fan-out: Utilize academic databases (PubMed, Google Scholar) and medical repositories (Mayo Clinic, Cleveland Clinic) to collect data on the underlying mechanisms of hard breathing. Focus on three primary domains: physiological response to physical exertion, psychological triggers (anxiety/panic), and underlying systemic conditions (cardiopulmonary, metabolic, or environmental factors).\n\n3. Categorize and Analyze Evidence: Organize findings into a tiered framework: primary physiological drivers (e.g., CO2 accumulation, O2 demand), secondary compensatory responses (e.g., autonomic nervous system activation), and acute vs. chronic manifestations. Evaluate the biological signaling pathways, specifically the role of chemoreceptors and the respiratory center in the brainstem, to explain the \"why\" behind the physical action.\n\n4. Identify Evidence Gaps and Ambiguities: Critically evaluate the collected data for areas of uncertainty, such as the threshold between normal physiological adaptation and pathological dyspnea, or the current scientific consensus on the \"air hunger\" sensation during non-exertional states. Flag subjective or anecdotal claims and isolate peer-reviewed, evidence-based conclusions to ensure accuracy.\n\n5. Synthesize and Formalize Findings: Draft a comprehensive explanation that integrates the physical requirements of the body with the neurological and emotional feedback loops. Structure the final output to address why the body initiates hard breathing as a protective or compensatory mechanism, clarifying when it is a normal homeostatic adjustment and when it signals a deviation from health.",
-  "planApproved": false,
+  "planApproved": true,
   "pendingQueries": [],
   "processedQueries": [],
   "websites": [],
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1775246052983",
+      "at": "2026-04-03T19:54:12.984Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
     {
       "id": "ev_1775246049371_k2tx3",
       "at": "2026-04-03T19:54:09.371Z",
@@ -35,5 +41,6 @@
   "control": {
     "paused": false,
     "stopped": false
-  }
+  },
+  "planFinal": "1. Define the Scope: Establish the physiological parameters of \"hard breathing,\" distinguishing between tachypnea (rapid breathing), dyspnea (subjective sensation of breathlessness), and hyperpnea (increased depth/rate due to metabolic demand). Differentiate between transient, exercise-induced causes and pathological or emotional triggers to narrow the search to clinically relevant and common scenarios.\n\n2. Execute Broad Search Fan-out: Utilize academic databases (PubMed, Google Scholar) and medical repositories (Mayo Clinic, Cleveland Clinic) to collect data on the underlying mechanisms of hard breathing. Focus on three primary domains: physiological response to physical exertion, psychological triggers (anxiety/panic), and underlying systemic conditions (cardiopulmonary, metabolic, or environmental factors).\n\n3. Categorize and Analyze Evidence: Organize findings into a tiered framework: primary physiological drivers (e.g., CO2 accumulation, O2 demand), secondary compensatory responses (e.g., autonomic nervous system activation), and acute vs. chronic manifestations. Evaluate the biological signaling pathways, specifically the role of chemoreceptors and the respiratory center in the brainstem, to explain the \"why\" behind the physical action.\n\n4. Identify Evidence Gaps and Ambiguities: Critically evaluate the collected data for areas of uncertainty, such as the threshold between normal physiological adaptation and pathological dyspnea, or the current scientific consensus on the \"air hunger\" sensation during non-exertional states. Flag subjective or anecdotal claims and isolate peer-reviewed, evidence-based conclusions to ensure accuracy.\n\n5. Synthesize and Formalize Findings: Draft a comprehensive explanation that integrates the physical requirements of the body with the neurological and emotional feedback loops. Structure the final output to address why the body initiates hard breathing as a protective or compensatory mechanism, clarifying when it is a normal homeostatic adjustment and when it signals a deviation from health."
 }
