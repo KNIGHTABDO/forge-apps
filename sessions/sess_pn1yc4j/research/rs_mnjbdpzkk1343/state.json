@@ -3,8 +3,8 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:28.131Z",
-  "lastAdvancedAt": "2026-04-03T19:47:13.758Z",
+  "updatedAt": "2026-04-03T19:47:33.528Z",
+  "lastAdvancedAt": "2026-04-03T19:47:15.900Z",
   "phase": "analyzing",
   "progress": 19,
   "etaMinutes": 33,
@@ -40,113 +40,113 @@
   ],
   "websites": [
     {
-      "id": "site_1775245647920_vtw2o",
+      "id": "site_1775245653152_f9io0",
       "url": "https://en.wikipedia.org/wiki/Phil_Collins",
       "domain": "en.wikipedia.org",
       "title": "Phil Collins - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
-      "checkedAt": "2026-04-03T19:47:28.131Z"
+      "checkedAt": "2026-04-03T19:47:33.528Z"
     },
     {
-      "id": "site_1775245647822_w55hh",
+      "id": "site_1775245652197_sck4s",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bastards",
       "domain": "en.wikipedia.org",
       "title": "Battle of the Bastards - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 ",
-      "checkedAt": "2026-04-03T19:47:27.920Z"
+      "checkedAt": "2026-04-03T19:47:33.152Z"
     },
     {
-      "id": "site_1775245647677_7rlfh",
+      "id": "site_1775245651851_85es6",
       "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F",
       "domain": "en.wikipedia.org",
       "title": "When We All Fall Asleep, Where Do We Go? - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music",
-      "checkedAt": "2026-04-03T19:47:27.822Z"
+      "checkedAt": "2026-04-03T19:47:32.197Z"
     },
     {
-      "id": "site_1775245647195_zqeeg",
-      "url": "https://www.pari.com/int/blog/exercise-induced-shortness-breath-interview-fischer/",
-      "domain": "pari.com",
-      "title": "Exercise-induced shortness of breath: Interview with a lung specialist - PARI",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pari.com&sz=64",
-      "snippet": "Shortness of breath or just air hunger? Prof. Fischer explains what brings this on and the role of treatments, inhalation therapy and training.",
-      "checkedAt": "2026-04-03T19:47:27.677Z"
-    },
-    {
-      "id": "site_1775245637185_o3cql",
-      "url": "https://www.medicalpodcast.au/respiratory_conditions/",
-      "domain": "medicalpodcast.au",
-      "title": "medicalpodcast.au",
+      "id": "site_1775245641849_37nkf",
+      "url": "https://www.npr.org/transcripts/862963172",
+      "domain": "npr.org",
+      "title": "npr.org",
       "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=medicalpodcast.au&sz=64",
-      "checkedAt": "2026-04-03T19:47:27.195Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=npr.org&sz=64",
+      "checkedAt": "2026-04-03T19:47:31.851Z"
     },
     {
-      "id": "site_1775245636202_lcckl",
-      "url": "https://www.casebasix.com/pages/breathing-techniques-interviews",
-      "domain": "casebasix.com",
-      "title": "Breathing Techniques for Interviews - Presence Control",
+      "id": "site_1775245641219_qhdq2",
+      "url": "https://www.cnn.com/audio/podcasts/chasing-life/episodes/5a65b0b6-af5f-11f0-b3f6-4708f839833e",
+      "domain": "cnn.com",
+      "title": "Why You're Breathing Wrong, and How to Fix It - Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=casebasix.com&sz=64",
-      "snippet": "Breathing techniques for interviews that improve interview presence and help you control breathing during an interview with composure.",
-      "checkedAt": "2026-04-03T19:47:17.185Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=cnn.com&sz=64",
+      "snippet": "Chronic disease, anxiety, ADHD, and even the shape of a person",
+      "checkedAt": "2026-04-03T19:47:21.848Z"
     },
     {
-      "id": "site_1775245633557_3z4q8",
+      "id": "site_1775245640864_062w0",
+      "url": "https://www.sfijournal.org/article/breathing-from-the-inside-out-an-interview-with-robert-litman",
+      "domain": "sfijournal.org",
+      "title": "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=sfijournal.org&sz=64",
+      "snippet": "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal Purchase Current Edition Past Editions Articles About Resources Contact Learn About Rolfing SI Learn About Rolfing SI Breathing from the Inside Out - An Interview with Robert Litman Published: August 2023 ABSTRACT In this interview, Robert Litman shares the story of breath and integration, drawing on his deep background in breath and movement studies. He offers insight ",
+      "checkedAt": "2026-04-03T19:47:21.219Z"
+    },
+    {
+      "id": "site_1775245635245_l657b",
       "url": "https://en.wikipedia.org/wiki/Vomiting",
       "domain": "en.wikipedia.org",
       "title": "Vomiting - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Vomiting - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Complications Toggle Complications subsection 1.1 Aspiration ",
-      "checkedAt": "2026-04-03T19:47:13.758Z"
+      "checkedAt": "2026-04-03T19:47:15.900Z"
     },
     {
-      "id": "site_1775245633057_l3v7x",
-      "url": "https://en.wikipedia.org/wiki/Henry_VI%2C_Part_3",
-      "domain": "en.wikipedia.org",
-      "title": "Henry VI, Part 3 - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Henry VI, Part 3 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Characters 2 Synopsis 3 Sources 4 Date and text Toggl",
-      "checkedAt": "2026-04-03T19:47:13.557Z"
-    },
-    {
-      "id": "site_1775245632983_yn1v6",
+      "id": "site_1775245635073_w3cx6",
       "url": "https://en.wikipedia.org/wiki/Neiye",
       "domain": "en.wikipedia.org",
       "title": "Neiye - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Neiye - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Book Toggle Book subsection 1.1 Title 1.2 Literary form 1.3 Dati",
-      "checkedAt": "2026-04-03T19:47:13.057Z"
+      "checkedAt": "2026-04-03T19:47:15.244Z"
     },
     {
-      "id": "site_1775245632913_4jc5w",
+      "id": "site_1775245634884_3f55m",
       "url": "https://en.wikipedia.org/wiki/Xingqi_(circulating_breath)",
       "domain": "en.wikipedia.org",
       "title": "Xingqi (circulating breath) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Xingqi (circulating breath) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Textual examples Toggle Text",
-      "checkedAt": "2026-04-03T19:47:12.983Z"
+      "checkedAt": "2026-04-03T19:47:15.073Z"
     },
     {
-      "id": "site_1775245632751_gcxvq",
+      "id": "site_1775245634686_839ki",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6534396/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Dysfunctional breathing: what do we know? - PMC",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
+      "snippet": "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary",
+      "checkedAt": "2026-04-03T19:47:14.884Z"
+    },
+    {
+      "id": "site_1775245634522_tta88",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631149/",
       "domain": "pmc.ncbi.nlm.nih.gov",
       "title": "Underlying conditions contributing to breathlessness in the population - PMC",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=64",
       "snippet": "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
-      "checkedAt": "2026-04-03T19:47:12.913Z"
+      "checkedAt": "2026-04-03T19:47:14.686Z"
     },
     {
       "id": "site_1775245629548_8mugq",
@@ -665,21 +665,21 @@
     },
     {
       "id": 32,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6534396/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "title": "Dysfunctional breathing: what do we know? - PMC"
+    },
+    {
+      "id": 33,
       "url": "https://en.wikipedia.org/wiki/Xingqi_(circulating_breath)",
       "domain": "en.wikipedia.org",
       "title": "Xingqi (circulating breath) - Wikipedia"
     },
     {
-      "id": 33,
+      "id": 34,
       "url": "https://en.wikipedia.org/wiki/Neiye",
       "domain": "en.wikipedia.org",
       "title": "Neiye - Wikipedia"
-    },
-    {
-      "id": 34,
-      "url": "https://en.wikipedia.org/wiki/Henry_VI%2C_Part_3",
-      "domain": "en.wikipedia.org",
-      "title": "Henry VI, Part 3 - Wikipedia"
     },
     {
       "id": 35,
@@ -689,15 +689,15 @@
     },
     {
       "id": 36,
-      "url": "https://www.casebasix.com/pages/breathing-techniques-interviews",
-      "domain": "casebasix.com",
-      "title": "Breathing Techniques for Interviews - Presence Control"
+      "url": "https://www.sfijournal.org/article/breathing-from-the-inside-out-an-interview-with-robert-litman",
+      "domain": "sfijournal.org",
+      "title": "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal"
     },
     {
       "id": 37,
-      "url": "https://www.pari.com/int/blog/exercise-induced-shortness-breath-interview-fischer/",
-      "domain": "pari.com",
-      "title": "Exercise-induced shortness of breath: Interview with a lung specialist - PARI"
+      "url": "https://www.cnn.com/audio/podcasts/chasing-life/episodes/5a65b0b6-af5f-11f0-b3f6-4708f839833e",
+      "domain": "cnn.com",
+      "title": "Why You're Breathing Wrong, and How to Fix It - Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts"
     },
     {
       "id": 38,
@@ -733,11 +733,11 @@
     },
     {
       "citationId": 37,
-      "summary": "Shortness of breath or just air hunger? Prof. Fischer explains what brings this on and the role of treatments, inhalation therapy and training."
+      "summary": "Chronic disease, anxiety, ADHD, and even the shape of a person"
     },
     {
       "citationId": 36,
-      "summary": "Breathing techniques for interviews that improve interview presence and help you control breathing during an interview with composure."
+      "summary": "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal Purchase Current Edition Past Editions Articles About Resources Contact Learn About Rolfing SI Learn About Rolfing SI Breathing from the Inside Out - An Interview with Robert Litman Published: August 2023 ABSTRACT In this interview, Robert Litman shares the story of breath and integration, drawing on his deep background in breath and movement studies. He offers insight "
     },
     {
       "citationId": 35,
@@ -745,15 +745,15 @@
     },
     {
       "citationId": 34,
-      "summary": "Henry VI, Part 3 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Characters 2 Synopsis 3 Sources 4 Date and text Toggl"
-    },
-    {
-      "citationId": 33,
       "summary": "Neiye - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Book Toggle Book subsection 1.1 Title 1.2 Literary form 1.3 Dati"
     },
     {
-      "citationId": 32,
+      "citationId": 33,
       "summary": "Xingqi (circulating breath) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Textual examples Toggle Text"
+    },
+    {
+      "citationId": 32,
+      "summary": "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary"
     },
     {
       "citationId": 31,
@@ -882,26 +882,26 @@
   ],
   "events": [
     {
-      "id": "ev_1775245648131_6nbro",
-      "at": "2026-04-03T19:47:28.131Z",
+      "id": "ev_1775245653528_6x1xa",
+      "at": "2026-04-03T19:47:33.528Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 40."
     },
     {
-      "id": "ev_1775245633758_l5p4t",
-      "at": "2026-04-03T19:47:13.758Z",
+      "id": "ev_1775245635900_43ddq",
+      "at": "2026-04-03T19:47:15.900Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? expert interview"
     },
     {
-      "id": "ev_1775245633758_myota",
-      "at": "2026-04-03T19:47:13.758Z",
+      "id": "ev_1775245635900_tpvzb",
+      "at": "2026-04-03T19:47:15.900Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 35."
     },
     {
-      "id": "ev_1775245630633_aegbk",
-      "at": "2026-04-03T19:47:10.633Z",
+      "id": "ev_1775245631896_d9iv3",
+      "at": "2026-04-03T19:47:11.896Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? case study"
     },
@@ -1000,12 +1000,12 @@
     "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
     "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 ",
     "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music",
-    "Shortness of breath or just air hunger? Prof. Fischer explains what brings this on and the role of treatments, inhalation therapy and training.",
-    "Breathing techniques for interviews that improve interview presence and help you control breathing during an interview with composure.",
+    "Chronic disease, anxiety, ADHD, and even the shape of a person",
+    "Breathing from the Inside Out - An Interview with Robert Litman | SFI Journal Purchase Current Edition Past Editions Articles About Resources Contact Learn About Rolfing SI Learn About Rolfing SI Breathing from the Inside Out - An Interview with Robert Litman Published: August 2023 ABSTRACT In this interview, Robert Litman shares the story of breath and integration, drawing on his deep background in breath and movement studies. He offers insight ",
     "Vomiting - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Complications Toggle Complications subsection 1.1 Aspiration ",
-    "Henry VI, Part 3 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Characters 2 Synopsis 3 Sources 4 Date and text Toggl",
     "Neiye - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Book Toggle Book subsection 1.1 Title 1.2 Literary form 1.3 Dati",
     "Xingqi (circulating breath) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Textual examples Toggle Text",
+    "Dysfunctional breathing (DB) is a respiratory condition characterized by irregular breathing patterns that occur either in the absence of concurrent diseases or secondary to cardiopulmonary diseases. Although the primary",
     "Assessment of underlying conditions that contribute to breathlessness is fundamental for symptom management. This review aims to summarize the knowledge from the past two years on the most common underlying conditions am",
     "Random checkpoint - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Military use 2 Random security checkpoints Toggle Ra",
     "Kermit Gosnell - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Education and early career 2 Medical practice Toggle Me",
@@ -1018,7 +1018,7 @@
   ],
   "stats": {
     "sourcesAnalyzed": 40,
-    "tokensUsedEstimate": 3403,
+    "tokensUsedEstimate": 3423,
     "depthScore": 24,
     "queriesGenerated": 24,
     "iterations": 8,
