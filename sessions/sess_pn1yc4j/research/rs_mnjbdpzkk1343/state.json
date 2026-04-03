@@ -3,15 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:14.661Z",
-  "lastAdvancedAt": "2026-04-03T19:47:10.696Z",
+  "updatedAt": "2026-04-03T19:47:21.867Z",
+  "lastAdvancedAt": "2026-04-03T19:47:15.278Z",
   "phase": "analyzing",
-  "progress": 18,
-  "etaMinutes": 34,
+  "progress": 19,
+  "etaMinutes": 33,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? expert interview",
     "why do we hard breath sometimes? economics and costs",
     "why do we hard breath sometimes? timeline and adoption",
     "why do we hard breath sometimes? open source tools",
@@ -36,9 +35,60 @@
     "why do we hard breath sometimes? industry analysis 2025 2026",
     "why do we hard breath sometimes? benchmark comparison",
     "why do we hard breath sometimes? limitations and risks",
-    "why do we hard breath sometimes? case study"
+    "why do we hard breath sometimes? case study",
+    "why do we hard breath sometimes? expert interview"
   ],
   "websites": [
+    {
+      "id": "site_1775245641674_lupj4",
+      "url": "https://en.wikipedia.org/wiki/Maria_Callas",
+      "domain": "en.wikipedia.org",
+      "title": "Maria Callas - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam",
+      "checkedAt": "2026-04-03T19:47:21.867Z"
+    },
+    {
+      "id": "site_1775245641393_h07fh",
+      "url": "https://en.wikipedia.org/wiki/Phil_Collins",
+      "domain": "en.wikipedia.org",
+      "title": "Phil Collins - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
+      "checkedAt": "2026-04-03T19:47:21.674Z"
+    },
+    {
+      "id": "site_1775245640921_wgsq6",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bastards",
+      "domain": "en.wikipedia.org",
+      "title": "Battle of the Bastards - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 ",
+      "checkedAt": "2026-04-03T19:47:21.392Z"
+    },
+    {
+      "id": "site_1775245640677_djp1a",
+      "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F",
+      "domain": "en.wikipedia.org",
+      "title": "When We All Fall Asleep, Where Do We Go? - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music",
+      "checkedAt": "2026-04-03T19:47:20.921Z"
+    },
+    {
+      "id": "site_1775245639695_sy018",
+      "url": "https://www.felixhospital.com/blogs/expert-care-for-your-breathing-issues-know-about-pulmonologists",
+      "domain": "felixhospital.com",
+      "title": "Expert Care for Your Breathing Issues: Know About Pulmonologists",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=felixhospital.com&sz=64",
+      "snippet": "Pulmonologists are expert medical professionals who specialize in diagnosing and treating issues affecting the respiratory system.",
+      "checkedAt": "2026-04-03T19:47:20.677Z"
+    },
     {
       "id": "site_1775245634333_5v7ld",
       "url": "https://en.wikipedia.org/wiki/Comparison_of_Afrikaans_and_Dutch",
@@ -627,9 +677,59 @@
       "url": "https://en.wikipedia.org/wiki/Comparison_of_Afrikaans_and_Dutch",
       "domain": "en.wikipedia.org",
       "title": "Comparison of Afrikaans and Dutch - Wikipedia"
+    },
+    {
+      "id": 36,
+      "url": "https://www.felixhospital.com/blogs/expert-care-for-your-breathing-issues-know-about-pulmonologists",
+      "domain": "felixhospital.com",
+      "title": "Expert Care for Your Breathing Issues: Know About Pulmonologists"
+    },
+    {
+      "id": 37,
+      "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F",
+      "domain": "en.wikipedia.org",
+      "title": "When We All Fall Asleep, Where Do We Go? - Wikipedia"
+    },
+    {
+      "id": 38,
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bastards",
+      "domain": "en.wikipedia.org",
+      "title": "Battle of the Bastards - Wikipedia"
+    },
+    {
+      "id": 39,
+      "url": "https://en.wikipedia.org/wiki/Phil_Collins",
+      "domain": "en.wikipedia.org",
+      "title": "Phil Collins - Wikipedia"
+    },
+    {
+      "id": 40,
+      "url": "https://en.wikipedia.org/wiki/Maria_Callas",
+      "domain": "en.wikipedia.org",
+      "title": "Maria Callas - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 40,
+      "summary": "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam"
+    },
+    {
+      "citationId": 39,
+      "summary": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197"
+    },
+    {
+      "citationId": 38,
+      "summary": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 "
+    },
+    {
+      "citationId": 37,
+      "summary": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music"
+    },
+    {
+      "citationId": 36,
+      "summary": "Pulmonologists are expert medical professionals who specialize in diagnosing and treating issues affecting the respiratory system."
+    },
     {
       "citationId": 35,
       "summary": "Comparison of Afrikaans and Dutch - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Mutual intelligibility Toggle Mutual"
@@ -773,6 +873,18 @@
   ],
   "events": [
     {
+      "id": "ev_1775245641867_e5gxz",
+      "at": "2026-04-03T19:47:21.867Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 40."
+    },
+    {
+      "id": "ev_1775245635278_czutb",
+      "at": "2026-04-03T19:47:15.278Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? expert interview"
+    },
+    {
       "id": "ev_1775245634661_6unep",
       "at": "2026-04-03T19:47:14.661Z",
       "phase": "analyzing",
@@ -876,6 +988,11 @@
     }
   ],
   "learnedSoFar": [
+    "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam",
+    "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
+    "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 ",
+    "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music",
+    "Pulmonologists are expert medical professionals who specialize in diagnosing and treating issues affecting the respiratory system.",
     "Comparison of Afrikaans and Dutch - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Mutual intelligibility Toggle Mutual",
     "Vomiting - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Complications Toggle Complications subsection 1.1 Aspiration ",
     "Neiye - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Book Toggle Book subsection 1.1 Title 1.2 Literary form 1.3 Dati",
@@ -888,20 +1005,15 @@
     "Breathing problems can result from asthma, infections, heart issues, or allergies. Learn causes, symptoms, diagnostic tests, and how they're treated.",
     "Empire - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Definition 2 Characteristics 3 History Toggle History subsectio",
     "COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology Toggle Terminology subsection 1.1 Pandem",
-    "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2.",
-    "When Benchmarks Don’t Work | Working Knowledge Skip to Main Content Harvard Business School Harvard Business School Logo Working Knowledge Working Knowledge Distilling Harvard Business School research for leaders who make a difference Subscribe Lead with Research Managing the Business Artificial Intelligence Entrepreneurship Economics and Global Commerce Strategy and Innovation Faculty Experts All Collections All Academic Units Popular Research A",
-    "I just read “Why benchmarking is hard” and it does a great job explaining why benchmark numbers are way noisier than we understand. At a high level: a benchmark score isn’t just “model quality”, it’s the output of a whol",
-    "Microsoft Services Agreement This is the Trace Id: f0244e31a4260dfa3a2065b2d5b50f77 Skip to main content Microsoft Microsoft Services Agreement Microsoft Services Agreement Microsoft Services Agreement Home FAQ Microsoft Services Agreement Microsoft Privacy Statement Bing Suppliers Page More All Microsoft Global Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Software Software Windows Apps Outlook OneDrive Microsoft ",
-    "Key market opportunities in the inhaler solution market include the rising demand driven by increased respiratory disorders like asthma and COPD, expanding access to medicines in low and middle-income countries (LMICs), ",
-    "The global respiratory care devices market is projected to grow from USD 23.6 billion in 2025 to USD 33.6 billion by 2030, with a CAGR of 7.3%. This growth is driven by increasing respiratory diseases due to aging, smoki"
+    "Menstrual cup - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Use Toggle Use subsection 2.1 Insertion 2."
   ],
   "stats": {
-    "sourcesAnalyzed": 35,
-    "tokensUsedEstimate": 2915,
-    "depthScore": 22,
+    "sourcesAnalyzed": 40,
+    "tokensUsedEstimate": 3449,
+    "depthScore": 25,
     "queriesGenerated": 24,
-    "iterations": 7,
-    "uniqueDomains": 20
+    "iterations": 8,
+    "uniqueDomains": 21
   },
   "control": {
     "paused": false,
