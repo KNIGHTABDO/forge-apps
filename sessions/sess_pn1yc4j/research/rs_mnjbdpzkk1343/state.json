@@ -3,17 +3,14 @@
   "sessionId": "sess_pn1yc4j",
   "query": "why do we hard breath sometimes?",
   "createdAt": "2026-04-03T19:46:17.168Z",
-  "updatedAt": "2026-04-03T19:47:43.129Z",
-  "lastAdvancedAt": "2026-04-03T19:47:40.020Z",
+  "updatedAt": "2026-04-03T19:47:46.331Z",
+  "lastAdvancedAt": "2026-04-03T19:47:44.473Z",
   "phase": "analyzing",
-  "progress": 23,
-  "etaMinutes": 31,
+  "progress": 27,
+  "etaMinutes": 29,
   "planDraft": "1. Define Scope and Categorization: Establish a clear framework for the investigation by segmenting the causes of heavy breathing (dyspnea/tachypnea) into physiological, psychological, and pathological categories. Determine the physiological baseline for \"hard breathing\" by distinguishing between healthy exertional dyspnea (post-exercise) and symptomatic or anomalous heavy breathing occurring at rest or without commensurate effort.\n\n2. Execute Broad Information Retrieval: Conduct a multi-source search across peer-reviewed medical databases (such as PubMed and Cochrane Library), clinical guidelines (e.g., Mayo Clinic, Cleveland Clinic), and respiratory health journals. Use Boolean operators to capture a wide spectrum of triggers, ranging from acute emotional stress (hyperventilation/anxiety) and environmental factors (altitude/air quality) to underlying systemic conditions (cardiovascular issues, asthma, or metabolic imbalances).\n\n3. Analyze Mechanistic Data: Examine the biological feedback loops involved in respiration, specifically focusing on the roles of chemoreceptors, the autonomic nervous system, and blood gas concentrations (CO2/O2). Assess how the brain signals the diaphragm and intercostal muscles to increase ventilation rates in response to various internal and external stimuli, contrasting normal regulatory adjustments with dysfunctional breathing patterns.\n\n4. Identify Evidence Gaps and Uncertainties: Critically evaluate the collected data to isolate areas where consensus is lacking or where subjective patient reports conflict with objective clinical measures. Specifically, investigate the nuances of \"air hunger\" in patients with no diagnosable respiratory illness and determine the limits of current research regarding the correlation between sedentary lifestyle and intermittent respiratory distress.\n\n5. Synthesize and Verify Findings: Compile the research into a coherent summary that categorizes the \"why\" based on intensity and underlying etiology. Cross-reference the findings to differentiate between harmless, transient physiological responses and symptoms that necessitate medical evaluation. Finalize the output by prioritizing actionable, science-backed insights that explain the mechanisms behind why the body intermittently demands increased ventilation.",
   "planApproved": true,
   "pendingQueries": [
-    "why do we hard breath sometimes? enterprise usage",
-    "why do we hard breath sometimes? \"case study\"",
-    "why do we hard breath sometimes? metrics",
     "why do we hard breath sometimes? review",
     "why do we hard breath sometimes? \"pdf\"",
     "why do we hard breath sometimes? site:edu",
@@ -36,226 +33,370 @@
     "why do we hard breath sometimes? expert interview",
     "why do we hard breath sometimes? economics and costs",
     "why do we hard breath sometimes? timeline and adoption",
-    "why do we hard breath sometimes? open source tools"
+    "why do we hard breath sometimes? open source tools",
+    "why do we hard breath sometimes? enterprise usage",
+    "why do we hard breath sometimes? \"case study\"",
+    "why do we hard breath sometimes? metrics"
   ],
   "websites": [
     {
-      "id": "site_1775245663017_a81u3",
+      "id": "site_1775245666071_99im1",
+      "url": "https://en.wikipedia.org/wiki/List_of_musical_supergroups",
+      "domain": "en.wikipedia.org",
+      "title": "List of musical supergroups - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "List of musical supergroups - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 List of groups Toggle List of groups subse",
+      "checkedAt": "2026-04-03T19:47:46.331Z"
+    },
+    {
+      "id": "site_1775245665752_9ediv",
+      "url": "https://en.wikipedia.org/wiki/Shark",
+      "domain": "en.wikipedia.org",
+      "title": "Shark - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Shark - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Evolutionary history Toggle Evolutionary history sub",
+      "checkedAt": "2026-04-03T19:47:46.071Z"
+    },
+    {
+      "id": "site_1775245665590_ehvx2",
+      "url": "https://en.wikipedia.org/wiki/Font",
+      "domain": "en.wikipedia.org",
+      "title": "Font - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Font - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Spelling and etymology 2 Metal type 3 Characteristics Toggle Char",
+      "checkedAt": "2026-04-03T19:47:45.752Z"
+    },
+    {
+      "id": "site_1775245665386_bwwjd",
+      "url": "https://en.wikipedia.org/wiki/Meshuggah",
+      "domain": "en.wikipedia.org",
+      "title": "Meshuggah - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Meshuggah - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Formation and Contradi",
+      "checkedAt": "2026-04-03T19:47:45.590Z"
+    },
+    {
+      "id": "site_1775245665070_tpi9o",
+      "url": "https://cpraedcourse.com/blog/normal-respiratory-rate/",
+      "domain": "cpraedcourse.com",
+      "title": "Normal Respiratory Rate for Adults and Children",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=cpraedcourse.com&sz=64",
+      "snippet": "Research indicates abnormal respiratory rate is an even better predictor of patient decline than heart rate or blood pressure—but it&#039;s frequently the least monitored. Knowing what normal is for each age group is key",
+      "checkedAt": "2026-04-03T19:47:45.385Z"
+    },
+    {
+      "id": "site_1775245664371_pkce7",
+      "url": "https://en.wikipedia.org/wiki/The_Operative%3A_No_One_Lives_Forever",
+      "domain": "en.wikipedia.org",
+      "title": "The Operative: No One Lives Forever - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "The Operative: No One Lives Forever - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay 2 Plot 3 Production Toggl",
+      "checkedAt": "2026-04-03T19:47:44.473Z"
+    },
+    {
+      "id": "site_1775245663291_76np7",
+      "url": "https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic",
+      "domain": "en.wikipedia.org",
+      "title": "Face masks during the COVID-19 pandemic - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Face masks during the COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Types of masks Toggle Types of",
+      "checkedAt": "2026-04-03T19:47:44.371Z"
+    },
+    {
+      "id": "site_1775245663106_16kjv",
+      "url": "https://en.wikipedia.org/wiki/Iron_Man_2",
+      "domain": "en.wikipedia.org",
+      "title": "Iron Man 2 - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Iron Man 2 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsection 3.1 D",
+      "checkedAt": "2026-04-03T19:47:43.291Z"
+    },
+    {
+      "id": "site_1775245662875_wbsay",
+      "url": "https://en.wikipedia.org/wiki/Cremation",
+      "domain": "en.wikipedia.org",
+      "title": "Cremation - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Cremation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ancient 1.2 Middle Age",
+      "checkedAt": "2026-04-03T19:47:43.106Z"
+    },
+    {
+      "id": "site_1775245662726_gnxwo",
+      "url": "https://en.wikipedia.org/wiki/American_Anti-Slavery_Society",
+      "domain": "en.wikipedia.org",
+      "title": "American Anti-Slavery Society - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "American Anti-Slavery Society - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ba",
+      "checkedAt": "2026-04-03T19:47:42.875Z"
+    },
+    {
+      "id": "site_1775245660264_7dll4",
+      "url": "https://en.wikipedia.org/wiki/4_Minutes",
+      "domain": "en.wikipedia.org",
+      "title": "4 Minutes - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "4 Minutes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and inspiration 2 Recording and mixing 3 Composition",
+      "checkedAt": "2026-04-03T19:47:40.909Z"
+    },
+    {
+      "id": "site_1775245660075_8mu38",
+      "url": "https://en.wikipedia.org/wiki/Human_nature",
+      "domain": "en.wikipedia.org",
+      "title": "Human nature - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Human nature - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classical Greek philosophy Toggle Classical Greek philoso",
+      "checkedAt": "2026-04-03T19:47:40.264Z"
+    },
+    {
+      "id": "site_1775245659806_3bze4",
+      "url": "https://en.wikipedia.org/wiki/Reptile",
+      "domain": "en.wikipedia.org",
+      "title": "Reptile - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Reptile - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Classical ",
+      "checkedAt": "2026-04-03T19:47:40.075Z"
+    },
+    {
+      "id": "site_1775245659610_zo21r",
+      "url": "https://en.wikipedia.org/wiki/Superman",
+      "domain": "en.wikipedia.org",
+      "title": "Superman - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Superman - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Influences 2 Co",
+      "checkedAt": "2026-04-03T19:47:39.806Z"
+    },
+    {
+      "id": "site_1775245658516_v5pmw",
+      "url": "https://www.healthline.com/health/heavy-breathing",
+      "domain": "healthline.com",
+      "title": "Heavy Breathing: Causes, Symptoms, Treatment, and More",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=healthline.com&sz=64",
+      "snippet": "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions.",
+      "checkedAt": "2026-04-03T19:47:39.610Z"
+    },
+    {
+      "id": "site_1775245655053_81n44",
       "url": "https://en.wikipedia.org/wiki/Poetry_analysis",
       "domain": "en.wikipedia.org",
       "title": "Poetry analysis - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Poetry analysis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 Meter and Rhym",
-      "checkedAt": "2026-04-03T19:47:43.129Z"
+      "checkedAt": "2026-04-03T19:47:35.836Z"
     },
     {
-      "id": "site_1775245662602_li9b9",
+      "id": "site_1775245654864_92rrm",
       "url": "https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full)",
       "domain": "en.wikipedia.org",
       "title": "List of Latin phrases (full) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11",
-      "checkedAt": "2026-04-03T19:47:43.017Z"
+      "checkedAt": "2026-04-03T19:47:35.053Z"
     },
     {
-      "id": "site_1775245662354_y1nfz",
+      "id": "site_1775245654728_skh0r",
       "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons",
       "domain": "en.wikipedia.org",
       "title": "Dungeons & Dragons - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Dungeons &amp; Dragons - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Play overview Toggle Play overview subsection 1",
-      "checkedAt": "2026-04-03T19:47:42.602Z"
+      "checkedAt": "2026-04-03T19:47:34.864Z"
     },
     {
-      "id": "site_1775245662063_vmfpv",
+      "id": "site_1775245654585_8wgmo",
       "url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
       "domain": "en.wikipedia.org",
       "title": "Android (operating system) - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Android (operating system) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2000s",
-      "checkedAt": "2026-04-03T19:47:42.354Z"
+      "checkedAt": "2026-04-03T19:47:34.728Z"
     },
     {
-      "id": "site_1775245661091_wfqwv",
+      "id": "site_1775245654310_1zsdj",
       "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda",
       "domain": "en.wikipedia.org",
       "title": "The Legend of Zelda - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "The Legend of Zelda - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay Toggle Gameplay subsection 1.1 Overworld ",
-      "checkedAt": "2026-04-03T19:47:42.063Z"
+      "checkedAt": "2026-04-03T19:47:34.585Z"
     },
     {
-      "id": "site_1775245661091_5za9b",
+      "id": "site_1775245654309_7zlmn",
       "url": "https://elifesciences.org/articles/71647.pdf",
       "domain": "elifesciences.org",
       "title": "elifesciences.org",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=elifesciences.org&sz=64",
-      "checkedAt": "2026-04-03T19:47:41.091Z"
+      "checkedAt": "2026-04-03T19:47:34.309Z"
     },
     {
-      "id": "site_1775245659763_8ue8l",
+      "id": "site_1775245652187_40phq",
       "url": "https://en.wikipedia.org/wiki/Tartan",
       "domain": "en.wikipedia.org",
       "title": "Tartan - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Tartan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Weaving and design Toggle Weaving a",
-      "checkedAt": "2026-04-03T19:47:40.019Z"
+      "checkedAt": "2026-04-03T19:47:32.863Z"
     },
     {
-      "id": "site_1775245658862_vqo13",
-      "url": "https://en.wikipedia.org/wiki/Baby_bottle",
-      "domain": "en.wikipedia.org",
-      "title": "Baby bottle - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Baby bottle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Design considerations Toggle Design considerations subsect",
-      "checkedAt": "2026-04-03T19:47:39.763Z"
-    },
-    {
-      "id": "site_1775245658728_wzhmb",
+      "id": "site_1775245651720_rhv32",
       "url": "https://en.wikipedia.org/wiki/Sexual_Ecology",
       "domain": "en.wikipedia.org",
       "title": "Sexual Ecology - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Sexual Ecology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Summary 3 Reception Toggle Reception subse",
-      "checkedAt": "2026-04-03T19:47:38.862Z"
+      "checkedAt": "2026-04-03T19:47:32.187Z"
     },
     {
-      "id": "site_1775245658228_j49e6",
-      "url": "https://en.wikipedia.org/wiki/Ariana_Grande",
+      "id": "site_1775245651425_h5nmb",
+      "url": "https://en.wikipedia.org/wiki/Baby_bottle",
       "domain": "en.wikipedia.org",
-      "title": "Ariana Grande - Wikipedia",
+      "title": "Baby bottle - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20",
-      "checkedAt": "2026-04-03T19:47:38.728Z"
+      "snippet": "Baby bottle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Design considerations Toggle Design considerations subsect",
+      "checkedAt": "2026-04-03T19:47:31.719Z"
     },
     {
-      "id": "site_1775245657464_2e13b",
+      "id": "site_1775245651192_d59bu",
       "url": "https://en.wikipedia.org/wiki/Elton_John",
       "domain": "en.wikipedia.org",
       "title": "Elton John - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Elton John - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection ",
-      "checkedAt": "2026-04-03T19:47:38.228Z"
+      "checkedAt": "2026-04-03T19:47:31.425Z"
     },
     {
-      "id": "site_1775245656197_7j97a",
+      "id": "site_1775245651027_atsuh",
+      "url": "https://en.wikipedia.org/wiki/Ariana_Grande",
+      "domain": "en.wikipedia.org",
+      "title": "Ariana Grande - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20",
+      "checkedAt": "2026-04-03T19:47:31.192Z"
+    },
+    {
+      "id": "site_1775245648472_ja7vu",
       "url": "https://en.wikipedia.org/wiki/Fuzzy_concept",
       "domain": "en.wikipedia.org",
       "title": "Fuzzy concept - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Fuzzy concept - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins Toggle Origins subsection 1.1 Sorites paradox 1.",
-      "checkedAt": "2026-04-03T19:47:36.833Z"
+      "checkedAt": "2026-04-03T19:47:29.447Z"
     },
     {
-      "id": "site_1775245655636_281e2",
+      "id": "site_1775245648327_6910h",
       "url": "https://en.wikipedia.org/wiki/David_Irving",
       "domain": "en.wikipedia.org",
       "title": "David Irving - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "David Irving - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Student years Toggle Student years subsectio",
-      "checkedAt": "2026-04-03T19:47:36.197Z"
+      "checkedAt": "2026-04-03T19:47:28.472Z"
     },
     {
-      "id": "site_1775245655389_cazqz",
-      "url": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians",
-      "domain": "en.wikipedia.org",
-      "title": "Crazy Rich Asians - Wikipedia",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
-      "snippet": "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
-      "checkedAt": "2026-04-03T19:47:35.636Z"
-    },
-    {
-      "id": "site_1775245655280_tw6m4",
+      "id": "site_1775245648203_rsntw",
       "url": "https://en.wikipedia.org/wiki/Self-care",
       "domain": "en.wikipedia.org",
       "title": "Self-care - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c",
-      "checkedAt": "2026-04-03T19:47:35.389Z"
+      "checkedAt": "2026-04-03T19:47:28.327Z"
     },
     {
-      "id": "site_1775245655225_pdxb3",
+      "id": "site_1775245647847_k69fo",
+      "url": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians",
+      "domain": "en.wikipedia.org",
+      "title": "Crazy Rich Asians - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
+      "checkedAt": "2026-04-03T19:47:28.203Z"
+    },
+    {
+      "id": "site_1775245646282_cz448",
       "url": "https://4dmedical.com/breathing-easy-the-interplay-between-economic-stability-and-lung-health/",
       "domain": "4dmedical.com",
       "title": "Breathing Easy: The Interplay Between Economic Stability and Lung Health - 4DMedical",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=4dmedical.com&sz=64",
       "snippet": "The relationship between health and economic stability is multifaceted and profound, extending to virtually every aspect of our well-being. One area where this connection is particularly evident yet often overlooked is r",
-      "checkedAt": "2026-04-03T19:47:35.280Z"
+      "checkedAt": "2026-04-03T19:47:27.847Z"
     },
     {
-      "id": "site_1775245654342_gfsti",
+      "id": "site_1775245641674_lupj4",
+      "url": "https://en.wikipedia.org/wiki/Maria_Callas",
+      "domain": "en.wikipedia.org",
+      "title": "Maria Callas - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam",
+      "checkedAt": "2026-04-03T19:47:21.867Z"
+    },
+    {
+      "id": "site_1775245641393_h07fh",
       "url": "https://en.wikipedia.org/wiki/Phil_Collins",
       "domain": "en.wikipedia.org",
       "title": "Phil Collins - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
-      "checkedAt": "2026-04-03T19:47:34.627Z"
+      "checkedAt": "2026-04-03T19:47:21.674Z"
     },
     {
-      "id": "site_1775245654067_7i1n9",
+      "id": "site_1775245640921_wgsq6",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bastards",
       "domain": "en.wikipedia.org",
       "title": "Battle of the Bastards - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 ",
-      "checkedAt": "2026-04-03T19:47:34.342Z"
+      "checkedAt": "2026-04-03T19:47:21.392Z"
     },
     {
-      "id": "site_1775245652688_cebww",
+      "id": "site_1775245640677_djp1a",
       "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F",
       "domain": "en.wikipedia.org",
       "title": "When We All Fall Asleep, Where Do We Go? - Wikipedia",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
       "snippet": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music",
-      "checkedAt": "2026-04-03T19:47:34.067Z"
+      "checkedAt": "2026-04-03T19:47:20.921Z"
     },
     {
-      "id": "site_1775245652202_4jbki",
-      "url": "https://www.pari.com/int/blog/exercise-induced-shortness-breath-interview-fischer/",
-      "domain": "pari.com",
-      "title": "Exercise-induced shortness of breath: Interview with a lung specialist - PARI",
+      "id": "site_1775245639695_sy018",
+      "url": "https://www.felixhospital.com/blogs/expert-care-for-your-breathing-issues-know-about-pulmonologists",
+      "domain": "felixhospital.com",
+      "title": "Expert Care for Your Breathing Issues: Know About Pulmonologists",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=pari.com&sz=64",
-      "snippet": "Shortness of breath or just air hunger? Prof. Fischer explains what brings this on and the role of treatments, inhalation therapy and training.",
-      "checkedAt": "2026-04-03T19:47:32.688Z"
-    },
-    {
-      "id": "site_1775245642200_aahtf",
-      "url": "https://www.medicalpodcast.au/respiratory_conditions/",
-      "domain": "medicalpodcast.au",
-      "title": "medicalpodcast.au",
-      "status": "failed",
-      "favicon": "https://www.google.com/s2/favicons?domain=medicalpodcast.au&sz=64",
-      "checkedAt": "2026-04-03T19:47:32.202Z"
-    },
-    {
-      "id": "site_1775245642130_b7r8t",
-      "url": "https://www.casebasix.com/pages/breathing-techniques-interviews",
-      "domain": "casebasix.com",
-      "title": "Breathing Techniques for Interviews - Presence Control",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=casebasix.com&sz=64",
-      "snippet": "Breathing techniques for interviews that improve interview presence and help you control breathing during an interview with composure.",
-      "checkedAt": "2026-04-03T19:47:22.200Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=felixhospital.com&sz=64",
+      "snippet": "Pulmonologists are expert medical professionals who specialize in diagnosing and treating issues affecting the respiratory system.",
+      "checkedAt": "2026-04-03T19:47:20.677Z"
     },
     {
       "id": "site_1775245634333_5v7ld",
@@ -848,33 +989,33 @@
     },
     {
       "id": 36,
-      "url": "https://www.casebasix.com/pages/breathing-techniques-interviews",
-      "domain": "casebasix.com",
-      "title": "Breathing Techniques for Interviews - Presence Control"
+      "url": "https://www.felixhospital.com/blogs/expert-care-for-your-breathing-issues-know-about-pulmonologists",
+      "domain": "felixhospital.com",
+      "title": "Expert Care for Your Breathing Issues: Know About Pulmonologists"
     },
     {
       "id": 37,
-      "url": "https://www.pari.com/int/blog/exercise-induced-shortness-breath-interview-fischer/",
-      "domain": "pari.com",
-      "title": "Exercise-induced shortness of breath: Interview with a lung specialist - PARI"
-    },
-    {
-      "id": 38,
       "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F",
       "domain": "en.wikipedia.org",
       "title": "When We All Fall Asleep, Where Do We Go? - Wikipedia"
     },
     {
-      "id": 39,
+      "id": 38,
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bastards",
       "domain": "en.wikipedia.org",
       "title": "Battle of the Bastards - Wikipedia"
     },
     {
-      "id": 40,
+      "id": 39,
       "url": "https://en.wikipedia.org/wiki/Phil_Collins",
       "domain": "en.wikipedia.org",
       "title": "Phil Collins - Wikipedia"
+    },
+    {
+      "id": 40,
+      "url": "https://en.wikipedia.org/wiki/Maria_Callas",
+      "domain": "en.wikipedia.org",
+      "title": "Maria Callas - Wikipedia"
     },
     {
       "id": 41,
@@ -884,15 +1025,15 @@
     },
     {
       "id": 42,
-      "url": "https://en.wikipedia.org/wiki/Self-care",
-      "domain": "en.wikipedia.org",
-      "title": "Self-care - Wikipedia"
-    },
-    {
-      "id": 43,
       "url": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians",
       "domain": "en.wikipedia.org",
       "title": "Crazy Rich Asians - Wikipedia"
+    },
+    {
+      "id": 43,
+      "url": "https://en.wikipedia.org/wiki/Self-care",
+      "domain": "en.wikipedia.org",
+      "title": "Self-care - Wikipedia"
     },
     {
       "id": 44,
@@ -908,27 +1049,27 @@
     },
     {
       "id": 46,
-      "url": "https://en.wikipedia.org/wiki/Elton_John",
-      "domain": "en.wikipedia.org",
-      "title": "Elton John - Wikipedia"
-    },
-    {
-      "id": 47,
       "url": "https://en.wikipedia.org/wiki/Ariana_Grande",
       "domain": "en.wikipedia.org",
       "title": "Ariana Grande - Wikipedia"
     },
     {
-      "id": 48,
-      "url": "https://en.wikipedia.org/wiki/Sexual_Ecology",
+      "id": 47,
+      "url": "https://en.wikipedia.org/wiki/Elton_John",
       "domain": "en.wikipedia.org",
-      "title": "Sexual Ecology - Wikipedia"
+      "title": "Elton John - Wikipedia"
     },
     {
-      "id": 49,
+      "id": 48,
       "url": "https://en.wikipedia.org/wiki/Baby_bottle",
       "domain": "en.wikipedia.org",
       "title": "Baby bottle - Wikipedia"
+    },
+    {
+      "id": 49,
+      "url": "https://en.wikipedia.org/wiki/Sexual_Ecology",
+      "domain": "en.wikipedia.org",
+      "title": "Sexual Ecology - Wikipedia"
     },
     {
       "id": 50,
@@ -965,9 +1106,159 @@
       "url": "https://en.wikipedia.org/wiki/Poetry_analysis",
       "domain": "en.wikipedia.org",
       "title": "Poetry analysis - Wikipedia"
+    },
+    {
+      "id": 56,
+      "url": "https://www.healthline.com/health/heavy-breathing",
+      "domain": "healthline.com",
+      "title": "Heavy Breathing: Causes, Symptoms, Treatment, and More"
+    },
+    {
+      "id": 57,
+      "url": "https://en.wikipedia.org/wiki/Superman",
+      "domain": "en.wikipedia.org",
+      "title": "Superman - Wikipedia"
+    },
+    {
+      "id": 58,
+      "url": "https://en.wikipedia.org/wiki/Reptile",
+      "domain": "en.wikipedia.org",
+      "title": "Reptile - Wikipedia"
+    },
+    {
+      "id": 59,
+      "url": "https://en.wikipedia.org/wiki/Human_nature",
+      "domain": "en.wikipedia.org",
+      "title": "Human nature - Wikipedia"
+    },
+    {
+      "id": 60,
+      "url": "https://en.wikipedia.org/wiki/4_Minutes",
+      "domain": "en.wikipedia.org",
+      "title": "4 Minutes - Wikipedia"
+    },
+    {
+      "id": 61,
+      "url": "https://en.wikipedia.org/wiki/American_Anti-Slavery_Society",
+      "domain": "en.wikipedia.org",
+      "title": "American Anti-Slavery Society - Wikipedia"
+    },
+    {
+      "id": 62,
+      "url": "https://en.wikipedia.org/wiki/Cremation",
+      "domain": "en.wikipedia.org",
+      "title": "Cremation - Wikipedia"
+    },
+    {
+      "id": 63,
+      "url": "https://en.wikipedia.org/wiki/Iron_Man_2",
+      "domain": "en.wikipedia.org",
+      "title": "Iron Man 2 - Wikipedia"
+    },
+    {
+      "id": 64,
+      "url": "https://en.wikipedia.org/wiki/Face_masks_during_the_COVID-19_pandemic",
+      "domain": "en.wikipedia.org",
+      "title": "Face masks during the COVID-19 pandemic - Wikipedia"
+    },
+    {
+      "id": 65,
+      "url": "https://en.wikipedia.org/wiki/The_Operative%3A_No_One_Lives_Forever",
+      "domain": "en.wikipedia.org",
+      "title": "The Operative: No One Lives Forever - Wikipedia"
+    },
+    {
+      "id": 66,
+      "url": "https://cpraedcourse.com/blog/normal-respiratory-rate/",
+      "domain": "cpraedcourse.com",
+      "title": "Normal Respiratory Rate for Adults and Children"
+    },
+    {
+      "id": 67,
+      "url": "https://en.wikipedia.org/wiki/Meshuggah",
+      "domain": "en.wikipedia.org",
+      "title": "Meshuggah - Wikipedia"
+    },
+    {
+      "id": 68,
+      "url": "https://en.wikipedia.org/wiki/Font",
+      "domain": "en.wikipedia.org",
+      "title": "Font - Wikipedia"
+    },
+    {
+      "id": 69,
+      "url": "https://en.wikipedia.org/wiki/Shark",
+      "domain": "en.wikipedia.org",
+      "title": "Shark - Wikipedia"
+    },
+    {
+      "id": 70,
+      "url": "https://en.wikipedia.org/wiki/List_of_musical_supergroups",
+      "domain": "en.wikipedia.org",
+      "title": "List of musical supergroups - Wikipedia"
     }
   ],
   "notes": [
+    {
+      "citationId": 70,
+      "summary": "List of musical supergroups - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 List of groups Toggle List of groups subse"
+    },
+    {
+      "citationId": 69,
+      "summary": "Shark - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Evolutionary history Toggle Evolutionary history sub"
+    },
+    {
+      "citationId": 68,
+      "summary": "Font - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Spelling and etymology 2 Metal type 3 Characteristics Toggle Char"
+    },
+    {
+      "citationId": 67,
+      "summary": "Meshuggah - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Formation and Contradi"
+    },
+    {
+      "citationId": 66,
+      "summary": "Research indicates abnormal respiratory rate is an even better predictor of patient decline than heart rate or blood pressure—but it&#039;s frequently the least monitored. Knowing what normal is for each age group is key"
+    },
+    {
+      "citationId": 65,
+      "summary": "The Operative: No One Lives Forever - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay 2 Plot 3 Production Toggl"
+    },
+    {
+      "citationId": 64,
+      "summary": "Face masks during the COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Types of masks Toggle Types of"
+    },
+    {
+      "citationId": 63,
+      "summary": "Iron Man 2 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsection 3.1 D"
+    },
+    {
+      "citationId": 62,
+      "summary": "Cremation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ancient 1.2 Middle Age"
+    },
+    {
+      "citationId": 61,
+      "summary": "American Anti-Slavery Society - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ba"
+    },
+    {
+      "citationId": 60,
+      "summary": "4 Minutes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and inspiration 2 Recording and mixing 3 Composition"
+    },
+    {
+      "citationId": 59,
+      "summary": "Human nature - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classical Greek philosophy Toggle Classical Greek philoso"
+    },
+    {
+      "citationId": 58,
+      "summary": "Reptile - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Classical "
+    },
+    {
+      "citationId": 57,
+      "summary": "Superman - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Influences 2 Co"
+    },
+    {
+      "citationId": 56,
+      "summary": "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions."
+    },
     {
       "citationId": 55,
       "summary": "Poetry analysis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 Meter and Rhym"
@@ -994,19 +1285,19 @@
     },
     {
       "citationId": 49,
-      "summary": "Baby bottle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Design considerations Toggle Design considerations subsect"
-    },
-    {
-      "citationId": 48,
       "summary": "Sexual Ecology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Summary 3 Reception Toggle Reception subse"
     },
     {
+      "citationId": 48,
+      "summary": "Baby bottle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Design considerations Toggle Design considerations subsect"
+    },
+    {
       "citationId": 47,
-      "summary": "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20"
+      "summary": "Elton John - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection "
     },
     {
       "citationId": 46,
-      "summary": "Elton John - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection "
+      "summary": "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20"
     },
     {
       "citationId": 45,
@@ -1018,11 +1309,11 @@
     },
     {
       "citationId": 43,
-      "summary": "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio"
+      "summary": "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c"
     },
     {
       "citationId": 42,
-      "summary": "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c"
+      "summary": "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio"
     },
     {
       "citationId": 41,
@@ -1030,23 +1321,23 @@
     },
     {
       "citationId": 40,
-      "summary": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197"
+      "summary": "Maria Callas - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Life and career Toggle Life and career subsection 1.1 Fam"
     },
     {
       "citationId": 39,
-      "summary": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 "
+      "summary": "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197"
     },
     {
       "citationId": 38,
-      "summary": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music"
+      "summary": "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 "
     },
     {
       "citationId": 37,
-      "summary": "Shortness of breath or just air hunger? Prof. Fischer explains what brings this on and the role of treatments, inhalation therapy and training."
+      "summary": "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music"
     },
     {
       "citationId": 36,
-      "summary": "Breathing techniques for interviews that improve interview presence and help you control breathing during an interview with composure."
+      "summary": "Pulmonologists are expert medical professionals who specialize in diagnosing and treating issues affecting the respiratory system."
     },
     {
       "citationId": 35,
@@ -1191,50 +1482,86 @@
   ],
   "events": [
     {
-      "id": "ev_1775245663129_79x9l",
-      "at": "2026-04-03T19:47:43.129Z",
+      "id": "ev_1775245666331_orwt1",
+      "at": "2026-04-03T19:47:46.331Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 70."
+    },
+    {
+      "id": "ev_1775245664473_ocao5",
+      "at": "2026-04-03T19:47:44.473Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? metrics"
+    },
+    {
+      "id": "ev_1775245664473_5aiib",
+      "at": "2026-04-03T19:47:44.473Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 65."
+    },
+    {
+      "id": "ev_1775245662011_ymfq9",
+      "at": "2026-04-03T19:47:42.011Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? \"case study\""
+    },
+    {
+      "id": "ev_1775245660909_hvqbx",
+      "at": "2026-04-03T19:47:40.909Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 60."
+    },
+    {
+      "id": "ev_1775245656642_4v7tr",
+      "at": "2026-04-03T19:47:36.642Z",
+      "phase": "analyzing",
+      "message": "Running query: why do we hard breath sometimes? enterprise usage"
+    },
+    {
+      "id": "ev_1775245655836_ft640",
+      "at": "2026-04-03T19:47:35.836Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 55."
     },
     {
-      "id": "ev_1775245660020_934ar",
-      "at": "2026-04-03T19:47:40.020Z",
+      "id": "ev_1775245652864_ssg8x",
+      "at": "2026-04-03T19:47:32.864Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? open source tools"
     },
     {
-      "id": "ev_1775245660020_5tk7u",
-      "at": "2026-04-03T19:47:40.020Z",
+      "id": "ev_1775245652864_zunci",
+      "at": "2026-04-03T19:47:32.864Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 50."
     },
     {
-      "id": "ev_1775245656834_u5xfq",
-      "at": "2026-04-03T19:47:36.834Z",
+      "id": "ev_1775245649447_eaz6q",
+      "at": "2026-04-03T19:47:29.447Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? timeline and adoption"
     },
     {
-      "id": "ev_1775245656834_4d6x0",
-      "at": "2026-04-03T19:47:36.834Z",
+      "id": "ev_1775245649447_csshx",
+      "at": "2026-04-03T19:47:29.447Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 45."
     },
     {
-      "id": "ev_1775245654631_n9i6c",
-      "at": "2026-04-03T19:47:34.635Z",
+      "id": "ev_1775245644759_6mund",
+      "at": "2026-04-03T19:47:24.759Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? economics and costs"
     },
     {
-      "id": "ev_1775245654627_gpxrw",
-      "at": "2026-04-03T19:47:34.627Z",
+      "id": "ev_1775245641867_e5gxz",
+      "at": "2026-04-03T19:47:21.867Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 40."
     },
     {
-      "id": "ev_1775245641281_84boz",
-      "at": "2026-04-03T19:47:21.281Z",
+      "id": "ev_1775245635278_czutb",
+      "at": "2026-04-03T19:47:15.278Z",
       "phase": "analyzing",
       "message": "Running query: why do we hard breath sometimes? expert interview"
     },
@@ -1342,32 +1669,32 @@
     }
   ],
   "learnedSoFar": [
+    "List of musical supergroups - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 List of groups Toggle List of groups subse",
+    "Shark - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology 2 Evolutionary history Toggle Evolutionary history sub",
+    "Font - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Spelling and etymology 2 Metal type 3 Characteristics Toggle Char",
+    "Meshuggah - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Formation and Contradi",
+    "Research indicates abnormal respiratory rate is an even better predictor of patient decline than heart rate or blood pressure—but it&#039;s frequently the least monitored. Knowing what normal is for each age group is key",
+    "The Operative: No One Lives Forever - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay 2 Plot 3 Production Toggl",
+    "Face masks during the COVID-19 pandemic - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Types of masks Toggle Types of",
+    "Iron Man 2 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsection 3.1 D",
+    "Cremation - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ancient 1.2 Middle Age",
+    "American Anti-Slavery Society - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Ba",
+    "4 Minutes - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and inspiration 2 Recording and mixing 3 Composition",
+    "Human nature - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classical Greek philosophy Toggle Classical Greek philoso",
+    "Reptile - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Classification Toggle Classification subsection 1.1 Classical ",
+    "Superman - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Development Toggle Development subsection 1.1 Influences 2 Co",
+    "Learn causes for heavy breathing, including heavy breathing in sleep, plus treatments for these conditions.",
     "Poetry analysis - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Overview Toggle Overview subsection 1.1 Meter and Rhym",
     "List of Latin phrases (full) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 A 2 B 3 C 4 D 5 E 6 F 7 G 8 H 9 I 10 L 11",
-    "Dungeons &amp; Dragons - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Play overview Toggle Play overview subsection 1",
-    "Android (operating system) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 2000s",
-    "The Legend of Zelda - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Gameplay Toggle Gameplay subsection 1.1 Overworld ",
-    "Tartan - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Etymology and terminology 2 Weaving and design Toggle Weaving a",
-    "Baby bottle - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Design considerations Toggle Design considerations subsect",
-    "Sexual Ecology - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background 2 Summary 3 Reception Toggle Reception subse",
-    "Ariana Grande - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 2008–20",
-    "Elton John - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career Toggle Career subsection ",
-    "Fuzzy concept - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Origins Toggle Origins subsection 1.1 Sorites paradox 1.",
-    "David Irving - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Student years Toggle Student years subsectio",
-    "Crazy Rich Asians - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot 2 Cast 3 Production Toggle Production subsectio",
-    "Self-care - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Self-care and illness 3 Factors influencing self-c",
-    "The relationship between health and economic stability is multifaceted and profound, extending to virtually every aspect of our well-being. One area where this connection is particularly evident yet often overlooked is r",
-    "Phil Collins - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life 2 Career Toggle Career subsection 2.1 1963–197",
-    "Battle of the Bastards - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Plot Toggle Plot subsection 1.1 In Meereen 1.2 ",
-    "When We All Fall Asleep, Where Do We Go? - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Writing and recording 2 Music"
+    "Dungeons &amp; Dragons - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Play overview Toggle Play overview subsection 1"
   ],
   "stats": {
-    "sourcesAnalyzed": 55,
-    "tokensUsedEstimate": 5133,
-    "depthScore": 31,
+    "sourcesAnalyzed": 70,
+    "tokensUsedEstimate": 6865,
+    "depthScore": 37,
     "queriesGenerated": 24,
-    "iterations": 11,
-    "uniqueDomains": 23
+    "iterations": 14,
+    "uniqueDomains": 24
   },
   "control": {
     "paused": false,
