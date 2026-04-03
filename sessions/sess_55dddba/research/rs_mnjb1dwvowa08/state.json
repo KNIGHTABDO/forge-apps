@@ -1,0 +1,39 @@
+{
+  "id": "rs_mnjb1dwvowa08",
+  "sessionId": "sess_55dddba",
+  "query": "why do we hard breath sometimes?",
+  "createdAt": "2026-04-03T19:36:41.647Z",
+  "updatedAt": "2026-04-03T19:36:44.975Z",
+  "lastAdvancedAt": "2026-04-03T19:36:41.647Z",
+  "phase": "awaiting_plan",
+  "progress": 2,
+  "etaMinutes": 45,
+  "planDraft": "1. Define the Scope: Establish the physiological and psychological parameters of \"hard breathing\" (dyspnea) by distinguishing between acute exertion, medical pathology, and emotional triggers. Determine the focus areas, specifically the respiratory, cardiovascular, and nervous system responses to internal and external stimuli, to differentiate between normal homeostatic regulation and clinical dysfunction.\n\n2. Search Fan-Out: Conduct a multi-disciplinary search across medical databases (e.g., PubMed, Google Scholar) and clinical health resources. Utilize a combination of broad search terms (e.g., \"physiological mechanisms of dyspnea,\" \"autonomic nervous system and breathing\") and specific search terms (e.g., \"exercise-induced hyperpnea,\" \"anxiety-linked hyperventilation,\" \"chemoreceptor response to CO2\") to ensure a comprehensive information gathering process.\n\n3. Evidence Analysis: Evaluate the gathered literature to categorize the causes of hard breathing. Filter data by distinguishing between reflexive physiological responses (such as increased CO2 sensitivity during physical exertion) and psychogenic or pathological triggers (such as panic attacks, asthma, or cardiac issues). Validate findings by identifying the primary biological feedback loops, specifically the role of the brainstem in regulating respiration.\n\n4. Identify Evidence Gaps: Assess the depth of the research to pinpoint areas of ambiguity, such as the threshold where \"normal\" hard breathing transitions into \"pathological\" dyspnea for different demographics. Note any conflicting data regarding the psychological impact on breathing patterns, such as the specific neural pathways connecting the amygdala to the respiratory control center, and document these gaps to ensure the final report acknowledges ongoing clinical debates.\n\n5. Synthesis and Reporting: Synthesize the findings into a structured summary that explains the \"why\" by integrating physiological, neurological, and emotional factors. Construct a coherent narrative that provides a clear, evidence-based answer, ensuring the distinction between adaptive biological responses and potential warning signs for health concerns is clearly delineated for the user.",
+  "planApproved": false,
+  "pendingQueries": [],
+  "processedQueries": [],
+  "websites": [],
+  "citations": [],
+  "notes": [],
+  "events": [
+    {
+      "id": "ev_1775245004974_yq17s",
+      "at": "2026-04-03T19:36:44.974Z",
+      "phase": "awaiting_plan",
+      "message": "Research session created. Plan draft is ready for review."
+    }
+  ],
+  "learnedSoFar": [],
+  "stats": {
+    "sourcesAnalyzed": 0,
+    "tokensUsedEstimate": 0,
+    "depthScore": 0,
+    "queriesGenerated": 0,
+    "iterations": 0,
+    "uniqueDomains": 0
+  },
+  "control": {
+    "paused": false,
+    "stopped": false
+  }
+}
