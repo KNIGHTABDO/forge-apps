@@ -3,15 +3,14 @@
   "sessionId": "sess_id690uh",
   "query": "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible",
   "createdAt": "2026-04-05T13:44:59.059Z",
-  "updatedAt": "2026-04-05T13:46:21.739Z",
-  "lastAdvancedAt": "2026-04-05T13:46:19.404Z",
+  "updatedAt": "2026-04-05T13:46:24.546Z",
+  "lastAdvancedAt": "2026-04-05T13:46:22.426Z",
   "phase": "analyzing",
   "progress": 17,
   "etaMinutes": 34,
   "planDraft": "1. Define the parameters of the ultra-low-budget scope: Establish a daily spending baseline that mirrors Moroccan purchasing power (approx. 400–600 MAD per day), and identify the most affordable regions in Switzerland (e.g., Eastern Switzerland or the Jura mountains) while explicitly excluding high-cost hubs like Zurich, Geneva, or Zermatt to ensure the project remains grounded in reality.\n\n2. Execute a targeted search fan-out for high-utility, low-cost logistics: Source data on non-tourist-trap transport and accommodation, specifically focusing on the Swiss Youth Hostel network, suburban supermarket dining (Coop/Migros takeaway), and regional rail passes versus point-to-point ticketing to minimize mandatory fixed costs.\n\n3. Conduct a granular comparative analysis of seasonal and situational variables: Investigate how travel timing—specifically shoulder seasons—and the utilization of city-specific tourist cards or local supermarket \"Too Good To Go\" apps can drastically reduce the cost of entry for food and essential site-seeing, measuring these savings against the standard \"expensive Swiss\" baseline.\n\n4. Identify evidence gaps regarding \"efficient\" low-cost routing: Pinpoint missing data points regarding affordable cross-border transit options (e.g., entering via French or German regional trains) and the feasibility of self-catering versus cheap dining-out options, which are often the primary variables causing budget blowouts for travelers from lower-cost-of-living economies.\n\n5. Synthesize findings into a high-efficiency 5-day itinerary: Compile the gathered data into a tactical, day-by-day framework that prioritizes free natural landmarks (hiking, lake access) over paid attractions, providing a final budgetary estimation that serves as a reality-check roadmap for a Moroccan traveler attempting to navigate a high-cost environment on a restricted budget.",
   "planApproved": true,
   "pendingQueries": [
-    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible enterprise usage",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"case study\"",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible metrics",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible review",
@@ -36,9 +35,20 @@
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible expert interview",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible economics and costs",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible timeline and adoption",
-    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible open source tools"
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible open source tools",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible enterprise usage"
   ],
   "websites": [
+    {
+      "id": "site_1775396784485_k0cvr",
+      "url": "https://www.affordabletours.com/d/switzerland/length/5-7-days",
+      "domain": "affordabletours.com",
+      "title": "Best Switzerland 5 to 7 Days Tours 2026 / 2027 visiting places like Zurich and Basel - Save on Switzerland Vacations | 3522 Reviews",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=affordabletours.com&sz=64",
+      "snippet": "Explore Switzerland 5 to 7 Days for 2026 / 2027. Discover iconic sites, diverse cultures & save up to 40% with our low price guarantee. 3522 Reviews",
+      "checkedAt": "2026-04-05T13:46:24.546Z"
+    },
     {
       "id": "site_1775396781152_dtmg4",
       "url": "https://alionswitzerland.com/switzerland-on-a-budget/",
@@ -588,9 +598,19 @@
       "url": "https://alionswitzerland.com/switzerland-on-a-budget/",
       "domain": "alionswitzerland.com",
       "title": "Switzerland on a Budget - Ali on Switzerland"
+    },
+    {
+      "id": 33,
+      "url": "https://www.affordabletours.com/d/switzerland/length/5-7-days",
+      "domain": "affordabletours.com",
+      "title": "Best Switzerland 5 to 7 Days Tours 2026 / 2027 visiting places like Zurich and Basel - Save on Switzerland Vacations | 3522 Reviews"
     }
   ],
   "notes": [
+    {
+      "citationId": 33,
+      "summary": "Explore Switzerland 5 to 7 Days for 2026 / 2027. Discover iconic sites, diverse cultures & save up to 40% with our low price guarantee. 3522 Reviews"
+    },
     {
       "citationId": 32,
       "summary": "Switzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead."
@@ -721,6 +741,18 @@
     }
   ],
   "events": [
+    {
+      "id": "ev_1775396784546_ydpee",
+      "at": "2026-04-05T13:46:24.546Z",
+      "phase": "analyzing",
+      "message": "Analyzed 1 sources this iteration. Total: 33."
+    },
+    {
+      "id": "ev_1775396782426_fbrrk",
+      "at": "2026-04-05T13:46:22.426Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible enterprise usage"
+    },
     {
       "id": "ev_1775396781739_3apgc",
       "at": "2026-04-05T13:46:21.739Z",
@@ -873,6 +905,7 @@
     }
   ],
   "learnedSoFar": [
+    "Explore Switzerland 5 to 7 Days for 2026 / 2027. Discover iconic sites, diverse cultures & save up to 40% with our low price guarantee. 3522 Reviews",
     "Switzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead.",
     "International relations (1814–1919) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 1814–1830: Restoration and reactio",
     "Experience the perfect 5 days in Switzerland by visiting top attractions & places in your itinerary. Check out complete Switzerland itinerary 5 days.",
@@ -889,16 +922,15 @@
     "Generation Z - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Date and age range definitions 3 Arts and c",
     "Discover the country&#x27;s sophisticated cities, gorgeous lakes and breathtaking alpine vistas on one of our Switzerland Tour Packages. AARP discount available.",
     "Ready for a change? Our guide to the cost of living in Switzerland for everything you NEED TO KNOW before heading out!",
-    "Planning a tour of Switzerland? Let us help you choose the perfect Switzerland tour by coach or rail in our guide to choosing the best Switzerland tour.",
-    "2012 in science - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Events, discoveries and inventions Toggle Events, disc"
+    "Planning a tour of Switzerland? Let us help you choose the perfect Switzerland tour by coach or rail in our guide to choosing the best Switzerland tour."
   ],
   "stats": {
-    "sourcesAnalyzed": 32,
-    "tokensUsedEstimate": 2979,
-    "depthScore": 25,
+    "sourcesAnalyzed": 33,
+    "tokensUsedEstimate": 3049,
+    "depthScore": 26,
     "queriesGenerated": 24,
-    "iterations": 11,
-    "uniqueDomains": 21
+    "iterations": 12,
+    "uniqueDomains": 22
   },
   "control": {
     "paused": false,
