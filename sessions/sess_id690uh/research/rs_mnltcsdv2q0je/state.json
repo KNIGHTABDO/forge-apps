@@ -3,15 +3,14 @@
   "sessionId": "sess_id690uh",
   "query": "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible",
   "createdAt": "2026-04-05T13:44:59.059Z",
-  "updatedAt": "2026-04-05T13:46:33.025Z",
-  "lastAdvancedAt": "2026-04-05T13:46:31.426Z",
+  "updatedAt": "2026-04-05T13:46:36.562Z",
+  "lastAdvancedAt": "2026-04-05T13:46:34.428Z",
   "phase": "analyzing",
   "progress": 18,
   "etaMinutes": 34,
   "planDraft": "1. Define the parameters of the ultra-low-budget scope: Establish a daily spending baseline that mirrors Moroccan purchasing power (approx. 400–600 MAD per day), and identify the most affordable regions in Switzerland (e.g., Eastern Switzerland or the Jura mountains) while explicitly excluding high-cost hubs like Zurich, Geneva, or Zermatt to ensure the project remains grounded in reality.\n\n2. Execute a targeted search fan-out for high-utility, low-cost logistics: Source data on non-tourist-trap transport and accommodation, specifically focusing on the Swiss Youth Hostel network, suburban supermarket dining (Coop/Migros takeaway), and regional rail passes versus point-to-point ticketing to minimize mandatory fixed costs.\n\n3. Conduct a granular comparative analysis of seasonal and situational variables: Investigate how travel timing—specifically shoulder seasons—and the utilization of city-specific tourist cards or local supermarket \"Too Good To Go\" apps can drastically reduce the cost of entry for food and essential site-seeing, measuring these savings against the standard \"expensive Swiss\" baseline.\n\n4. Identify evidence gaps regarding \"efficient\" low-cost routing: Pinpoint missing data points regarding affordable cross-border transit options (e.g., entering via French or German regional trains) and the feasibility of self-catering versus cheap dining-out options, which are often the primary variables causing budget blowouts for travelers from lower-cost-of-living economies.\n\n5. Synthesize findings into a high-efficiency 5-day itinerary: Compile the gathered data into a tactical, day-by-day framework that prioritizes free natural landmarks (hiking, lake access) over paid attractions, providing a final budgetary estimation that serves as a reality-check roadmap for a Moroccan traveler attempting to navigate a high-cost environment on a restricted budget.",
   "planApproved": true,
   "pendingQueries": [
-    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"pdf\"",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible site:edu",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible site:gov",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"analysis\"",
@@ -36,7 +35,8 @@
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible enterprise usage",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"case study\"",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible metrics",
-    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible review"
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible review",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"pdf\""
   ],
   "websites": [
     {
@@ -782,6 +782,18 @@
   ],
   "events": [
     {
+      "id": "ev_1775396796562_esbaz",
+      "at": "2026-04-05T13:46:36.562Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 35."
+    },
+    {
+      "id": "ev_1775396794428_6qf24",
+      "at": "2026-04-05T13:46:34.428Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"pdf\""
+    },
+    {
       "id": "ev_1775396793025_83aho",
       "at": "2026-04-05T13:46:33.025Z",
       "phase": "analyzing",
@@ -1005,7 +1017,7 @@
     "tokensUsedEstimate": 3135,
     "depthScore": 29,
     "queriesGenerated": 24,
-    "iterations": 15,
+    "iterations": 16,
     "uniqueDomains": 23
   },
   "control": {
