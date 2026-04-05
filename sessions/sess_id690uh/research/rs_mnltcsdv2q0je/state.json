@@ -3,19 +3,622 @@
   "sessionId": "sess_id690uh",
   "query": "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible",
   "createdAt": "2026-04-05T13:44:59.059Z",
-  "updatedAt": "2026-04-05T13:45:36.046Z",
-  "lastAdvancedAt": "2026-04-05T13:44:59.059Z",
-  "phase": "query_fanout",
-  "progress": 2,
-  "etaMinutes": 45,
+  "updatedAt": "2026-04-05T13:45:58.471Z",
+  "lastAdvancedAt": "2026-04-05T13:45:55.960Z",
+  "phase": "analyzing",
+  "progress": 14,
+  "etaMinutes": 35,
   "planDraft": "1. Define the parameters of the ultra-low-budget scope: Establish a daily spending baseline that mirrors Moroccan purchasing power (approx. 400–600 MAD per day), and identify the most affordable regions in Switzerland (e.g., Eastern Switzerland or the Jura mountains) while explicitly excluding high-cost hubs like Zurich, Geneva, or Zermatt to ensure the project remains grounded in reality.\n\n2. Execute a targeted search fan-out for high-utility, low-cost logistics: Source data on non-tourist-trap transport and accommodation, specifically focusing on the Swiss Youth Hostel network, suburban supermarket dining (Coop/Migros takeaway), and regional rail passes versus point-to-point ticketing to minimize mandatory fixed costs.\n\n3. Conduct a granular comparative analysis of seasonal and situational variables: Investigate how travel timing—specifically shoulder seasons—and the utilization of city-specific tourist cards or local supermarket \"Too Good To Go\" apps can drastically reduce the cost of entry for food and essential site-seeing, measuring these savings against the standard \"expensive Swiss\" baseline.\n\n4. Identify evidence gaps regarding \"efficient\" low-cost routing: Pinpoint missing data points regarding affordable cross-border transit options (e.g., entering via French or German regional trains) and the feasibility of self-catering versus cheap dining-out options, which are often the primary variables causing budget blowouts for travelers from lower-cost-of-living economies.\n\n5. Synthesize findings into a high-efficiency 5-day itinerary: Compile the gathered data into a tactical, day-by-day framework that prioritizes free natural landmarks (hiking, lake access) over paid attractions, providing a final budgetary estimation that serves as a reality-check roadmap for a Moroccan traveler attempting to navigate a high-cost environment on a restricted budget.",
   "planApproved": true,
-  "pendingQueries": [],
-  "processedQueries": [],
-  "websites": [],
-  "citations": [],
-  "notes": [],
+  "pendingQueries": [
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible case study",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible expert interview",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible economics and costs",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible timeline and adoption",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible open source tools",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible enterprise usage",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"case study\"",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible metrics",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible review",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"pdf\"",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible site:edu",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible site:gov",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible \"analysis\"",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible opinion",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation \"case study\"",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation metrics",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation review",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation \"pdf\""
+  ],
+  "processedQueries": [
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible latest research paper",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible industry analysis 2025 2026",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible benchmark comparison",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible limitations and risks"
+  ],
+  "websites": [
+    {
+      "id": "site_1775396758423_tl2my",
+      "url": "https://www.budgetbucketlist.com/switzerland-budget-guide.html",
+      "domain": "budgetbucketlist.com",
+      "title": "Budget Travel Guide to Switzerland | Budget Bucket List",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=budgetbucketlist.com&sz=64",
+      "snippet": "Budget Travel Guide to Switzerland: Advice from a by-now-local",
+      "checkedAt": "2026-04-05T13:45:58.471Z"
+    },
+    {
+      "id": "site_1775396755918_0pa5s",
+      "url": "https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID}",
+      "domain": "help.askmediagroup.com",
+      "title": "help.askmediagroup.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=help.askmediagroup.com&sz=64",
+      "checkedAt": "2026-04-05T13:45:55.960Z"
+    },
+    {
+      "id": "site_1775396755907_g3u0n",
+      "url": "https://code.jquery.com/jquery-3.7.0.min.js",
+      "domain": "code.jquery.com",
+      "title": "code.jquery.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=code.jquery.com&sz=64",
+      "snippet": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
+      "checkedAt": "2026-04-05T13:45:55.918Z"
+    },
+    {
+      "id": "site_1775396755871_92jl5",
+      "url": "https://fonts.googleapis.com",
+      "domain": "fonts.googleapis.com",
+      "title": "fonts.googleapis.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=fonts.googleapis.com&sz=64",
+      "checkedAt": "2026-04-05T13:45:55.907Z"
+    },
+    {
+      "id": "site_1775396755865_z7rfj",
+      "url": "https://fonts.gstatic.com/",
+      "domain": "fonts.gstatic.com",
+      "title": "fonts.gstatic.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=fonts.gstatic.com&sz=64",
+      "checkedAt": "2026-04-05T13:45:55.871Z"
+    },
+    {
+      "id": "site_1775396755854_68i64",
+      "url": "https://postcardsfrom.co.uk/heres-a-budget-friendlyish-guide-to-5-days-exlporing-switzerlands-scenic-railways/",
+      "domain": "postcardsfrom.co.uk",
+      "title": "Here’s a budget friendly(ish) guide to 5 days exlporing Switzerland’s scenic railways | Postcards From",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=postcardsfrom.co.uk&sz=64",
+      "snippet": "Switzerland has been a country high on my bucket list to visit. It offers everything - good food, incredible scenic railway journeys, and some of the most breathtaking views. The downside? It&#039;s expensive. As soon as",
+      "checkedAt": "2026-04-05T13:45:55.865Z"
+    },
+    {
+      "id": "site_1775396753536_yzdno",
+      "url": "https://en.wikipedia.org/wiki/Criticism_of_capitalism",
+      "domain": "en.wikipedia.org",
+      "title": "Criticism of capitalism - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Criticism of capitalism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Criticism by different schools of th",
+      "checkedAt": "2026-04-05T13:45:53.555Z"
+    },
+    {
+      "id": "site_1775396753522_kyml6",
+      "url": "https://en.wikipedia.org/wiki/Generation_Z",
+      "domain": "en.wikipedia.org",
+      "title": "Generation Z - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "Generation Z - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Date and age range definitions 3 Arts and c",
+      "checkedAt": "2026-04-05T13:45:53.536Z"
+    },
+    {
+      "id": "site_1775396752921_g3e1c",
+      "url": "https://www.getours.com/destinations/europe/switzerland",
+      "domain": "getours.com",
+      "title": "Switzerland Tours & Packages - 2026 & 2027 | Grand European Travel",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=getours.com&sz=64",
+      "snippet": "Discover the country&#x27;s sophisticated cities, gorgeous lakes and breathtaking alpine vistas on one of our Switzerland Tour Packages. AARP discount available.",
+      "checkedAt": "2026-04-05T13:45:53.522Z"
+    },
+    {
+      "id": "site_1775396752895_apliu",
+      "url": "https://www.thebrokebackpacker.com/cost-of-living-in-switzerland/",
+      "domain": "thebrokebackpacker.com",
+      "title": "COST of Living in Switzerland in 2026 (Moving to Switzerland)",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=thebrokebackpacker.com&sz=64",
+      "snippet": "Ready for a change? Our guide to the cost of living in Switzerland for everything you NEED TO KNOW before heading out!",
+      "checkedAt": "2026-04-05T13:45:52.921Z"
+    },
+    {
+      "id": "site_1775396751851_gev1v",
+      "url": "https://holidaystoswitzerland.com/best-switzerland-tours/",
+      "domain": "holidaystoswitzerland.com",
+      "title": "Best Switzerland Tours for travel in 2026 | Holidays to Switzerland",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=holidaystoswitzerland.com&sz=64",
+      "snippet": "Planning a tour of Switzerland? Let us help you choose the perfect Switzerland tour by coach or rail in our guide to choosing the best Switzerland tour.",
+      "checkedAt": "2026-04-05T13:45:52.895Z"
+    },
+    {
+      "id": "site_1775396749855_hm4ef",
+      "url": "https://en.wikipedia.org/wiki/2012_in_science",
+      "domain": "en.wikipedia.org",
+      "title": "2012 in science - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "2012 in science - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Events, discoveries and inventions Toggle Events, disc",
+      "checkedAt": "2026-04-05T13:45:49.909Z"
+    },
+    {
+      "id": "site_1775396749809_2e8h4",
+      "url": "https://en.wikipedia.org/wiki/United_States_and_the_Paris_Agreement",
+      "domain": "en.wikipedia.org",
+      "title": "United States and the Paris Agreement - Wikipedia",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+      "snippet": "United States and the Paris Agreement - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background and ratification 2 Fi",
+      "checkedAt": "2026-04-05T13:45:49.855Z"
+    },
+    {
+      "id": "site_1775396749789_t52dp",
+      "url": "https://www.lonelyplanet.com/articles/the-best-things-in-schweiz-are-free-switzerland-on-a-budget",
+      "domain": "lonelyplanet.com",
+      "title": "Alpine life, for less: Switzerland on a budget - Lonely Planet",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=lonelyplanet.com&sz=64",
+      "snippet": "Switzerland is one of the world’s most expensive places, it’s true. Follow these tips to get the most out of this beautiful nation for less.",
+      "checkedAt": "2026-04-05T13:45:49.809Z"
+    },
+    {
+      "id": "site_1775396749156_ex3g9",
+      "url": "https://www.traveltourister.com/articles/switzerland-trip-cost/",
+      "domain": "traveltourister.com",
+      "title": "Switzerland Trip Cost: Complete 2026 Budget Breakdown",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=traveltourister.com&sz=64",
+      "snippet": "Planning a Switzerland trip Cost? Discover exact costs for hotels, food, transport & attractions. Complete budget breakdown with money-saving tips for 2026.",
+      "checkedAt": "2026-04-05T13:45:49.789Z"
+    },
+    {
+      "id": "site_1775396749143_srk1b",
+      "url": "https://roamingwiththericks.com/2025/11/13/5-days-switzerland-budget/",
+      "domain": "roamingwiththericks.com",
+      "title": "5 days in Switzerland on a budget: chocolate, mountains & campervan views &#8211; Roaming with the Ricks",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=roamingwiththericks.com&sz=64",
+      "snippet": "5 days in Switzerland on a budget: chocolate, mountains &amp; campervan views &#8211; Roaming with the Ricks :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gr",
+      "checkedAt": "2026-04-05T13:45:49.156Z"
+    },
+    {
+      "id": "site_1775396745211_ut96o",
+      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
+      "checkedAt": "2026-04-05T13:45:45.222Z"
+    },
+    {
+      "id": "site_1775396745206_ii3b3",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
+      "checkedAt": "2026-04-05T13:45:45.211Z"
+    },
+    {
+      "id": "site_1775396745201_ez3o9",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
+      "checkedAt": "2026-04-05T13:45:45.206Z"
+    },
+    {
+      "id": "site_1775396745194_n50cb",
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
+      "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
+      "checkedAt": "2026-04-05T13:45:45.201Z"
+    },
+    {
+      "id": "site_1775396744365_adxfr",
+      "url": "https://myfaultycompass.com/the-best-5-days-in-switzerland-5-day-itinerary/",
+      "domain": "myfaultycompass.com",
+      "title": "The best 5 days in Switzerland: 5-day itinerary! | My Faulty Compass",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=myfaultycompass.com&sz=64",
+      "snippet": "5 days in Switzerland are perfect to see the highlights of Central Switzerland and the Bernese Oberland region. Continue reading for a detailed 5 day Switzerland itinerary, including a budget, transportation, lodging and",
+      "checkedAt": "2026-04-05T13:45:45.194Z"
+    },
+    {
+      "id": "site_1775396744349_9y6rc",
+      "url": "https://www.reddit.com/r/Shoestring/comments/igadrd/my_guide_to_cheap_or_at_least_more_affordable/",
+      "domain": "reddit.com",
+      "title": "reddit.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
+      "checkedAt": "2026-04-05T13:45:44.365Z"
+    },
+    {
+      "id": "site_1775396741667_v76ct",
+      "url": "https://www.destinationdaydreamer.com/switzerland-trip-cost-breakdown-is-it-as-expensive-as-they-say/",
+      "domain": "destinationdaydreamer.com",
+      "title": "Switzerland Trip Cost Breakdown: Is It As Expensive as They Say? - Destination Daydreamer",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=destinationdaydreamer.com&sz=64",
+      "snippet": "Discover the true cost of visiting Switzerland with our personal Switzerland trip cost breakdown, including tips on how to save and splurge!",
+      "checkedAt": "2026-04-05T13:45:41.673Z"
+    },
+    {
+      "id": "site_1775396741335_0gdf9",
+      "url": "https://thetravellingtedaldi.com/switzerland-on-a-budget/",
+      "domain": "thetravellingtedaldi.com",
+      "title": "How To Visit Switzerland On A Budget By A Local (2026)",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=thetravellingtedaldi.com&sz=64",
+      "snippet": "Switzerland is notorious for being an expensive country to visit, but you can definitely visit Switzerland on a budget and not break the bank in the process",
+      "checkedAt": "2026-04-05T13:45:41.667Z"
+    },
+    {
+      "id": "site_1775396741167_zgj26",
+      "url": "https://www.tourradar.com/l/d-budget-switzerland",
+      "domain": "tourradar.com",
+      "title": "10 Best Cheap Switzerland Tours & Trips 2026/2027 - TourRadar",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=tourradar.com&sz=64",
+      "snippet": "Discover Budget tours and authentic experiences in Switzerland, visiting places like Zurich and Interlaken. All Major Brands. Biggest Selection. Best Prices.",
+      "checkedAt": "2026-04-05T13:45:41.335Z"
+    },
+    {
+      "id": "site_1775396741093_bxuez",
+      "url": "https://www.nomadicmatt.com/travel-guides/switzerland-travel-tips/",
+      "domain": "nomadicmatt.com",
+      "title": "Switzerland Budget Travel Guide (Updated 2026)",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=nomadicmatt.com&sz=64",
+      "snippet": "Switzerland Budget Travel Guide (Updated 2026) img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-index:1;",
+      "checkedAt": "2026-04-05T13:45:41.167Z"
+    },
+    {
+      "id": "site_1775396741034_k06ww",
+      "url": "https://findingalexx.com/5-day-switzerland-itinerary/",
+      "domain": "findingalexx.com",
+      "title": "The perfect 5-day Switzerland itinerary &ndash; Finding Alexx",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=findingalexx.com&sz=64",
+      "snippet": "The perfect 5-day Switzerland itinerary &ndash; Finding Alexx img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:0 0!important;padding:0!important}:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bo",
+      "checkedAt": "2026-04-05T13:45:41.093Z"
+    }
+  ],
+  "citations": [
+    {
+      "id": 1,
+      "url": "https://findingalexx.com/5-day-switzerland-itinerary/",
+      "domain": "findingalexx.com",
+      "title": "The perfect 5-day Switzerland itinerary &ndash; Finding Alexx"
+    },
+    {
+      "id": 2,
+      "url": "https://www.nomadicmatt.com/travel-guides/switzerland-travel-tips/",
+      "domain": "nomadicmatt.com",
+      "title": "Switzerland Budget Travel Guide (Updated 2026)"
+    },
+    {
+      "id": 3,
+      "url": "https://www.tourradar.com/l/d-budget-switzerland",
+      "domain": "tourradar.com",
+      "title": "10 Best Cheap Switzerland Tours & Trips 2026/2027 - TourRadar"
+    },
+    {
+      "id": 4,
+      "url": "https://thetravellingtedaldi.com/switzerland-on-a-budget/",
+      "domain": "thetravellingtedaldi.com",
+      "title": "How To Visit Switzerland On A Budget By A Local (2026)"
+    },
+    {
+      "id": 5,
+      "url": "https://www.destinationdaydreamer.com/switzerland-trip-cost-breakdown-is-it-as-expensive-as-they-say/",
+      "domain": "destinationdaydreamer.com",
+      "title": "Switzerland Trip Cost Breakdown: Is It As Expensive as They Say? - Destination Daydreamer"
+    },
+    {
+      "id": 6,
+      "url": "https://myfaultycompass.com/the-best-5-days-in-switzerland-5-day-itinerary/",
+      "domain": "myfaultycompass.com",
+      "title": "The best 5 days in Switzerland: 5-day itinerary! | My Faulty Compass"
+    },
+    {
+      "id": 7,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 8,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 9,
+      "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 10,
+      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
+    },
+    {
+      "id": 11,
+      "url": "https://roamingwiththericks.com/2025/11/13/5-days-switzerland-budget/",
+      "domain": "roamingwiththericks.com",
+      "title": "5 days in Switzerland on a budget: chocolate, mountains & campervan views &#8211; Roaming with the Ricks"
+    },
+    {
+      "id": 12,
+      "url": "https://www.traveltourister.com/articles/switzerland-trip-cost/",
+      "domain": "traveltourister.com",
+      "title": "Switzerland Trip Cost: Complete 2026 Budget Breakdown"
+    },
+    {
+      "id": 13,
+      "url": "https://www.lonelyplanet.com/articles/the-best-things-in-schweiz-are-free-switzerland-on-a-budget",
+      "domain": "lonelyplanet.com",
+      "title": "Alpine life, for less: Switzerland on a budget - Lonely Planet"
+    },
+    {
+      "id": 14,
+      "url": "https://en.wikipedia.org/wiki/United_States_and_the_Paris_Agreement",
+      "domain": "en.wikipedia.org",
+      "title": "United States and the Paris Agreement - Wikipedia"
+    },
+    {
+      "id": 15,
+      "url": "https://en.wikipedia.org/wiki/2012_in_science",
+      "domain": "en.wikipedia.org",
+      "title": "2012 in science - Wikipedia"
+    },
+    {
+      "id": 16,
+      "url": "https://holidaystoswitzerland.com/best-switzerland-tours/",
+      "domain": "holidaystoswitzerland.com",
+      "title": "Best Switzerland Tours for travel in 2026 | Holidays to Switzerland"
+    },
+    {
+      "id": 17,
+      "url": "https://www.thebrokebackpacker.com/cost-of-living-in-switzerland/",
+      "domain": "thebrokebackpacker.com",
+      "title": "COST of Living in Switzerland in 2026 (Moving to Switzerland)"
+    },
+    {
+      "id": 18,
+      "url": "https://www.getours.com/destinations/europe/switzerland",
+      "domain": "getours.com",
+      "title": "Switzerland Tours & Packages - 2026 & 2027 | Grand European Travel"
+    },
+    {
+      "id": 19,
+      "url": "https://en.wikipedia.org/wiki/Generation_Z",
+      "domain": "en.wikipedia.org",
+      "title": "Generation Z - Wikipedia"
+    },
+    {
+      "id": 20,
+      "url": "https://en.wikipedia.org/wiki/Criticism_of_capitalism",
+      "domain": "en.wikipedia.org",
+      "title": "Criticism of capitalism - Wikipedia"
+    },
+    {
+      "id": 21,
+      "url": "https://postcardsfrom.co.uk/heres-a-budget-friendlyish-guide-to-5-days-exlporing-switzerlands-scenic-railways/",
+      "domain": "postcardsfrom.co.uk",
+      "title": "Here’s a budget friendly(ish) guide to 5 days exlporing Switzerland’s scenic railways | Postcards From"
+    },
+    {
+      "id": 22,
+      "url": "https://code.jquery.com/jquery-3.7.0.min.js",
+      "domain": "code.jquery.com",
+      "title": "code.jquery.com"
+    },
+    {
+      "id": 23,
+      "url": "https://www.budgetbucketlist.com/switzerland-budget-guide.html",
+      "domain": "budgetbucketlist.com",
+      "title": "Budget Travel Guide to Switzerland | Budget Bucket List"
+    }
+  ],
+  "notes": [
+    {
+      "citationId": 23,
+      "summary": "Budget Travel Guide to Switzerland: Advice from a by-now-local"
+    },
+    {
+      "citationId": 22,
+      "summary": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r"
+    },
+    {
+      "citationId": 21,
+      "summary": "Switzerland has been a country high on my bucket list to visit. It offers everything - good food, incredible scenic railway journeys, and some of the most breathtaking views. The downside? It&#039;s expensive. As soon as"
+    },
+    {
+      "citationId": 20,
+      "summary": "Criticism of capitalism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Criticism by different schools of th"
+    },
+    {
+      "citationId": 19,
+      "summary": "Generation Z - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Date and age range definitions 3 Arts and c"
+    },
+    {
+      "citationId": 18,
+      "summary": "Discover the country&#x27;s sophisticated cities, gorgeous lakes and breathtaking alpine vistas on one of our Switzerland Tour Packages. AARP discount available."
+    },
+    {
+      "citationId": 17,
+      "summary": "Ready for a change? Our guide to the cost of living in Switzerland for everything you NEED TO KNOW before heading out!"
+    },
+    {
+      "citationId": 16,
+      "summary": "Planning a tour of Switzerland? Let us help you choose the perfect Switzerland tour by coach or rail in our guide to choosing the best Switzerland tour."
+    },
+    {
+      "citationId": 15,
+      "summary": "2012 in science - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Events, discoveries and inventions Toggle Events, disc"
+    },
+    {
+      "citationId": 14,
+      "summary": "United States and the Paris Agreement - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background and ratification 2 Fi"
+    },
+    {
+      "citationId": 13,
+      "summary": "Switzerland is one of the world’s most expensive places, it’s true. Follow these tips to get the most out of this beautiful nation for less."
+    },
+    {
+      "citationId": 12,
+      "summary": "Planning a Switzerland trip Cost? Discover exact costs for hotels, food, transport & attractions. Complete budget breakdown with money-saving tips for 2026."
+    },
+    {
+      "citationId": 11,
+      "summary": "5 days in Switzerland on a budget: chocolate, mountains &amp; campervan views &#8211; Roaming with the Ricks :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gr"
+    },
+    {
+      "citationId": 10,
+      "summary": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh"
+    },
+    {
+      "citationId": 9,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
+    },
+    {
+      "citationId": 8,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW"
+    },
+    {
+      "citationId": 7,
+      "summary": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+"
+    },
+    {
+      "citationId": 6,
+      "summary": "5 days in Switzerland are perfect to see the highlights of Central Switzerland and the Bernese Oberland region. Continue reading for a detailed 5 day Switzerland itinerary, including a budget, transportation, lodging and"
+    },
+    {
+      "citationId": 5,
+      "summary": "Discover the true cost of visiting Switzerland with our personal Switzerland trip cost breakdown, including tips on how to save and splurge!"
+    },
+    {
+      "citationId": 4,
+      "summary": "Switzerland is notorious for being an expensive country to visit, but you can definitely visit Switzerland on a budget and not break the bank in the process"
+    },
+    {
+      "citationId": 3,
+      "summary": "Discover Budget tours and authentic experiences in Switzerland, visiting places like Zurich and Interlaken. All Major Brands. Biggest Selection. Best Prices."
+    },
+    {
+      "citationId": 2,
+      "summary": "Switzerland Budget Travel Guide (Updated 2026) img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-index:1;"
+    },
+    {
+      "citationId": 1,
+      "summary": "The perfect 5-day Switzerland itinerary &ndash; Finding Alexx img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:0 0!important;padding:0!important}:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bo"
+    }
+  ],
   "events": [
+    {
+      "id": "ev_1775396758471_ogk9w",
+      "at": "2026-04-05T13:45:58.471Z",
+      "phase": "analyzing",
+      "message": "Analyzed 1 sources this iteration. Total: 23."
+    },
+    {
+      "id": "ev_1775396755960_43zy4",
+      "at": "2026-04-05T13:45:55.960Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible limitations and risks"
+    },
+    {
+      "id": "ev_1775396755960_wkd23",
+      "at": "2026-04-05T13:45:55.960Z",
+      "phase": "analyzing",
+      "message": "Analyzed 2 sources this iteration. Total: 22."
+    },
+    {
+      "id": "ev_1775396753555_c4ecd",
+      "at": "2026-04-05T13:45:53.555Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible benchmark comparison"
+    },
+    {
+      "id": "ev_1775396753555_ynp94",
+      "at": "2026-04-05T13:45:53.555Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 20."
+    },
+    {
+      "id": "ev_1775396749909_hxk0h",
+      "at": "2026-04-05T13:45:49.909Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible industry analysis 2025 2026"
+    },
+    {
+      "id": "ev_1775396749909_xh99a",
+      "at": "2026-04-05T13:45:49.909Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 15."
+    },
+    {
+      "id": "ev_1775396745222_nr430",
+      "at": "2026-04-05T13:45:45.222Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible latest research paper"
+    },
+    {
+      "id": "ev_1775396745222_29vxy",
+      "at": "2026-04-05T13:45:45.222Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 10."
+    },
+    {
+      "id": "ev_1775396741673_tkjnj",
+      "at": "2026-04-05T13:45:41.673Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation"
+    },
+    {
+      "id": "ev_1775396741673_9v3yz",
+      "at": "2026-04-05T13:45:41.673Z",
+      "phase": "analyzing",
+      "message": "Analyzed 5 sources this iteration. Total: 5."
+    },
+    {
+      "id": "ev_1775396740393_mbzk9",
+      "at": "2026-04-05T13:45:40.393Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible"
+    },
+    {
+      "id": "ev_1775396740393_6q1zr",
+      "at": "2026-04-05T13:45:40.393Z",
+      "phase": "query_fanout",
+      "message": "Generated 24 additional search vectors."
+    },
     {
       "id": "ev_1775396736045",
       "at": "2026-04-05T13:45:36.045Z",
@@ -29,14 +632,33 @@
       "message": "Research session created. Plan draft is ready for review."
     }
   ],
-  "learnedSoFar": [],
+  "learnedSoFar": [
+    "Budget Travel Guide to Switzerland: Advice from a by-now-local",
+    "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
+    "Switzerland has been a country high on my bucket list to visit. It offers everything - good food, incredible scenic railway journeys, and some of the most breathtaking views. The downside? It&#039;s expensive. As soon as",
+    "Criticism of capitalism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Criticism by different schools of th",
+    "Generation Z - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Date and age range definitions 3 Arts and c",
+    "Discover the country&#x27;s sophisticated cities, gorgeous lakes and breathtaking alpine vistas on one of our Switzerland Tour Packages. AARP discount available.",
+    "Ready for a change? Our guide to the cost of living in Switzerland for everything you NEED TO KNOW before heading out!",
+    "Planning a tour of Switzerland? Let us help you choose the perfect Switzerland tour by coach or rail in our guide to choosing the best Switzerland tour.",
+    "2012 in science - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Events, discoveries and inventions Toggle Events, disc",
+    "United States and the Paris Agreement - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Background and ratification 2 Fi",
+    "Switzerland is one of the world’s most expensive places, it’s true. Follow these tips to get the most out of this beautiful nation for less.",
+    "Planning a Switzerland trip Cost? Discover exact costs for hotels, food, transport & attractions. Complete budget breakdown with money-saving tips for 2026.",
+    "5 days in Switzerland on a budget: chocolate, mountains &amp; campervan views &#8211; Roaming with the Ricks :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gr",
+    ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
+    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
+    "5 days in Switzerland are perfect to see the highlights of Central Switzerland and the Bernese Oberland region. Continue reading for a detailed 5 day Switzerland itinerary, including a budget, transportation, lodging and"
+  ],
   "stats": {
-    "sourcesAnalyzed": 0,
-    "tokensUsedEstimate": 0,
-    "depthScore": 0,
-    "queriesGenerated": 0,
-    "iterations": 0,
-    "uniqueDomains": 0
+    "sourcesAnalyzed": 23,
+    "tokensUsedEstimate": 2064,
+    "depthScore": 17,
+    "queriesGenerated": 24,
+    "iterations": 6,
+    "uniqueDomains": 17
   },
   "control": {
     "paused": false,
