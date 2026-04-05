@@ -3,16 +3,14 @@
   "sessionId": "sess_id690uh",
   "query": "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible",
   "createdAt": "2026-04-05T13:44:59.059Z",
-  "updatedAt": "2026-04-05T13:46:57.036Z",
-  "lastAdvancedAt": "2026-04-05T13:46:55.459Z",
-  "phase": "analyzing",
-  "progress": 18,
-  "etaMinutes": 33,
+  "updatedAt": "2026-04-05T13:47:09.476Z",
+  "lastAdvancedAt": "2026-04-05T13:47:01.457Z",
+  "phase": "complete",
+  "progress": 100,
+  "etaMinutes": 0,
   "planDraft": "1. Define the parameters of the ultra-low-budget scope: Establish a daily spending baseline that mirrors Moroccan purchasing power (approx. 400–600 MAD per day), and identify the most affordable regions in Switzerland (e.g., Eastern Switzerland or the Jura mountains) while explicitly excluding high-cost hubs like Zurich, Geneva, or Zermatt to ensure the project remains grounded in reality.\n\n2. Execute a targeted search fan-out for high-utility, low-cost logistics: Source data on non-tourist-trap transport and accommodation, specifically focusing on the Swiss Youth Hostel network, suburban supermarket dining (Coop/Migros takeaway), and regional rail passes versus point-to-point ticketing to minimize mandatory fixed costs.\n\n3. Conduct a granular comparative analysis of seasonal and situational variables: Investigate how travel timing—specifically shoulder seasons—and the utilization of city-specific tourist cards or local supermarket \"Too Good To Go\" apps can drastically reduce the cost of entry for food and essential site-seeing, measuring these savings against the standard \"expensive Swiss\" baseline.\n\n4. Identify evidence gaps regarding \"efficient\" low-cost routing: Pinpoint missing data points regarding affordable cross-border transit options (e.g., entering via French or German regional trains) and the feasibility of self-catering versus cheap dining-out options, which are often the primary variables causing budget blowouts for travelers from lower-cost-of-living economies.\n\n5. Synthesize findings into a high-efficiency 5-day itinerary: Compile the gathered data into a tactical, day-by-day framework that prioritizes free natural landmarks (hiking, lake access) over paid attractions, providing a final budgetary estimation that serves as a reality-check roadmap for a Moroccan traveler attempting to navigate a high-cost environment on a restricted budget.",
   "planApproved": true,
-  "pendingQueries": [
-    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation \"pdf\""
-  ],
+  "pendingQueries": [],
   "processedQueries": [
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation",
@@ -36,7 +34,8 @@
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible opinion",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation \"case study\"",
     "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation metrics",
-    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation review"
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation review",
+    "A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation \"pdf\""
   ],
   "websites": [
     {
@@ -802,6 +801,30 @@
   ],
   "events": [
     {
+      "id": "ev_1775396829476_oniwe",
+      "at": "2026-04-05T13:47:09.476Z",
+      "phase": "complete",
+      "message": "Deep research completed with citable synthesis."
+    },
+    {
+      "id": "ev_1775396822005_bg73h",
+      "at": "2026-04-05T13:47:02.005Z",
+      "phase": "synthesizing",
+      "message": "Source depth reached. Synthesizing final report."
+    },
+    {
+      "id": "ev_1775396822005_nzalr",
+      "at": "2026-04-05T13:47:02.005Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 36."
+    },
+    {
+      "id": "ev_1775396821457_6qhqg",
+      "at": "2026-04-05T13:47:01.458Z",
+      "phase": "analyzing",
+      "message": "Running query: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible official documentation \"pdf\""
+    },
+    {
       "id": "ev_1775396817036_7yi85",
       "at": "2026-04-05T13:46:57.036Z",
       "phase": "analyzing",
@@ -1121,12 +1144,254 @@
     "tokensUsedEstimate": 3198,
     "depthScore": 30,
     "queriesGenerated": 24,
-    "iterations": 23,
+    "iterations": 24,
     "uniqueDomains": 24
   },
   "control": {
     "paused": false,
     "stopped": false
   },
-  "planFinal": "1. Define the parameters of the ultra-low-budget scope: Establish a daily spending baseline that mirrors Moroccan purchasing power (approx. 400–600 MAD per day), and identify the most affordable regions in Switzerland (e.g., Eastern Switzerland or the Jura mountains) while explicitly excluding high-cost hubs like Zurich, Geneva, or Zermatt to ensure the project remains grounded in reality.\n\n2. Execute a targeted search fan-out for high-utility, low-cost logistics: Source data on non-tourist-trap transport and accommodation, specifically focusing on the Swiss Youth Hostel network, suburban supermarket dining (Coop/Migros takeaway), and regional rail passes versus point-to-point ticketing to minimize mandatory fixed costs.\n\n3. Conduct a granular comparative analysis of seasonal and situational variables: Investigate how travel timing—specifically shoulder seasons—and the utilization of city-specific tourist cards or local supermarket \"Too Good To Go\" apps can drastically reduce the cost of entry for food and essential site-seeing, measuring these savings against the standard \"expensive Swiss\" baseline.\n\n4. Identify evidence gaps regarding \"efficient\" low-cost routing: Pinpoint missing data points regarding affordable cross-border transit options (e.g., entering via French or German regional trains) and the feasibility of self-catering versus cheap dining-out options, which are often the primary variables causing budget blowouts for travelers from lower-cost-of-living economies.\n\n5. Synthesize findings into a high-efficiency 5-day itinerary: Compile the gathered data into a tactical, day-by-day framework that prioritizes free natural landmarks (hiking, lake access) over paid attractions, providing a final budgetary estimation that serves as a reality-check roadmap for a Moroccan traveler attempting to navigate a high-cost environment on a restricted budget."
+  "planFinal": "1. Define the parameters of the ultra-low-budget scope: Establish a daily spending baseline that mirrors Moroccan purchasing power (approx. 400–600 MAD per day), and identify the most affordable regions in Switzerland (e.g., Eastern Switzerland or the Jura mountains) while explicitly excluding high-cost hubs like Zurich, Geneva, or Zermatt to ensure the project remains grounded in reality.\n\n2. Execute a targeted search fan-out for high-utility, low-cost logistics: Source data on non-tourist-trap transport and accommodation, specifically focusing on the Swiss Youth Hostel network, suburban supermarket dining (Coop/Migros takeaway), and regional rail passes versus point-to-point ticketing to minimize mandatory fixed costs.\n\n3. Conduct a granular comparative analysis of seasonal and situational variables: Investigate how travel timing—specifically shoulder seasons—and the utilization of city-specific tourist cards or local supermarket \"Too Good To Go\" apps can drastically reduce the cost of entry for food and essential site-seeing, measuring these savings against the standard \"expensive Swiss\" baseline.\n\n4. Identify evidence gaps regarding \"efficient\" low-cost routing: Pinpoint missing data points regarding affordable cross-border transit options (e.g., entering via French or German regional trains) and the feasibility of self-catering versus cheap dining-out options, which are often the primary variables causing budget blowouts for travelers from lower-cost-of-living economies.\n\n5. Synthesize findings into a high-efficiency 5-day itinerary: Compile the gathered data into a tactical, day-by-day framework that prioritizes free natural landmarks (hiking, lake access) over paid attractions, providing a final budgetary estimation that serves as a reality-check roadmap for a Moroccan traveler attempting to navigate a high-cost environment on a restricted budget.",
+  "report": {
+    "title": "Deep Research: A trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible",
+    "summary": "I’d say we did pretty darn good for this trip so I wanted to share our full itinerary with you. Where we stayed, exactly what we did, where we ate, and a few things I wish I’d known prior 4 or 5 days in Switzerland - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › 5 days in Switzerland Itinerary - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › <div class=\"crumb-and-userc",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "Executive Overview",
+        "body": "- I’d say we did pretty darn good for this trip so I wanted to share our full itinerary with you. Where we stayed, exactly what we did, where we ate, and a few things I wish I’d known prior\n- 4 or 5 days in Switzerland - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum ›\n- 5 days in Switzerland Itinerary - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › <div class=\"crumb-and-userc\n- Explore Switzerland 5 to 7 Days for 2026 / 2027. Discover iconic sites, diverse cultures & save up to 40% with our low price guarantee. 3522 Reviews\n- Switzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead.\n- International relations (1814–1919) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 1814–1830: Restoration and reactio"
+      },
+      {
+        "id": "evidence",
+        "title": "Evidence and Signals",
+        "body": "I’d say we did pretty darn good for this trip so I wanted to share our full itinerary with you. Where we stayed, exactly what we did, where we ate, and a few things I wish I’d known prior [36]\n\n4 or 5 days in Switzerland - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › [35]\n\n5 days in Switzerland Itinerary - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › <div class=\"crumb-and-userc [34]\n\nExplore Switzerland 5 to 7 Days for 2026 / 2027. Discover iconic sites, diverse cultures & save up to 40% with our low price guarantee. 3522 Reviews [33]\n\nSwitzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead. [32]\n\nInternational relations (1814–1919) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 1814–1830: Restoration and reactio [31]\n\nExperience the perfect 5 days in Switzerland by visiting top attractions & places in your itinerary. Check out complete Switzerland itinerary 5 days. [30]\n\nSwitzerland had always been that frightfully expensive destination that I thought I would never get to visit. However, a few months back when my parents and I were planning our annual international trip, we happened to c [29]\n\nReconstruction era - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Dating 2 Background Toggle Background subsection 2. [28]\n\nShare taxi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Operation Toggle Operation subsection 1.1 Terminus 1.2 Rout [27]\n\nAirline - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 The first airlines 1.2 E [26]\n\n11 Tips For Visiting Switzerland On A Budget in 2026 img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-in [25]\n\nSwitzerland on a budget. This is how you do it! img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:0 0!important;padding:0!important}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) cal [24]\n\nBudget Travel Guide to Switzerland: Advice from a by-now-local [23]\n\n/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r [22]\n\nSwitzerland has been a country high on my bucket list to visit. It offers everything - good food, incredible scenic railway journeys, and some of the most breathtaking views. The downside? It&#039;s expensive. As soon as [21]\n\nCriticism of capitalism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Criticism by different schools of th [20]\n\nGeneration Z - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Date and age range definitions 3 Arts and c [19]"
+      },
+      {
+        "id": "limits",
+        "title": "Limits and Open Questions",
+        "body": "This report is generated from publicly retrievable web pages and may omit paywalled/private data. Continue with follow-up prompts for deeper niche coverage."
+      }
+    ],
+    "citations": [
+      {
+        "id": 1,
+        "url": "https://findingalexx.com/5-day-switzerland-itinerary/",
+        "domain": "findingalexx.com",
+        "title": "The perfect 5-day Switzerland itinerary &ndash; Finding Alexx"
+      },
+      {
+        "id": 2,
+        "url": "https://www.nomadicmatt.com/travel-guides/switzerland-travel-tips/",
+        "domain": "nomadicmatt.com",
+        "title": "Switzerland Budget Travel Guide (Updated 2026)"
+      },
+      {
+        "id": 3,
+        "url": "https://www.tourradar.com/l/d-budget-switzerland",
+        "domain": "tourradar.com",
+        "title": "10 Best Cheap Switzerland Tours & Trips 2026/2027 - TourRadar"
+      },
+      {
+        "id": 4,
+        "url": "https://thetravellingtedaldi.com/switzerland-on-a-budget/",
+        "domain": "thetravellingtedaldi.com",
+        "title": "How To Visit Switzerland On A Budget By A Local (2026)"
+      },
+      {
+        "id": 5,
+        "url": "https://www.destinationdaydreamer.com/switzerland-trip-cost-breakdown-is-it-as-expensive-as-they-say/",
+        "domain": "destinationdaydreamer.com",
+        "title": "Switzerland Trip Cost Breakdown: Is It As Expensive as They Say? - Destination Daydreamer"
+      },
+      {
+        "id": 6,
+        "url": "https://myfaultycompass.com/the-best-5-days-in-switzerland-5-day-itinerary/",
+        "domain": "myfaultycompass.com",
+        "title": "The best 5 days in Switzerland: 5-day itinerary! | My Faulty Compass"
+      },
+      {
+        "id": 7,
+        "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
+        "domain": "s.yimg.com",
+        "title": "s.yimg.com"
+      },
+      {
+        "id": 8,
+        "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
+        "domain": "s.yimg.com",
+        "title": "s.yimg.com"
+      },
+      {
+        "id": 9,
+        "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
+        "domain": "s.yimg.com",
+        "title": "s.yimg.com"
+      },
+      {
+        "id": 10,
+        "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+        "domain": "s.yimg.com",
+        "title": "s.yimg.com"
+      },
+      {
+        "id": 11,
+        "url": "https://roamingwiththericks.com/2025/11/13/5-days-switzerland-budget/",
+        "domain": "roamingwiththericks.com",
+        "title": "5 days in Switzerland on a budget: chocolate, mountains & campervan views &#8211; Roaming with the Ricks"
+      },
+      {
+        "id": 12,
+        "url": "https://www.traveltourister.com/articles/switzerland-trip-cost/",
+        "domain": "traveltourister.com",
+        "title": "Switzerland Trip Cost: Complete 2026 Budget Breakdown"
+      },
+      {
+        "id": 13,
+        "url": "https://www.lonelyplanet.com/articles/the-best-things-in-schweiz-are-free-switzerland-on-a-budget",
+        "domain": "lonelyplanet.com",
+        "title": "Alpine life, for less: Switzerland on a budget - Lonely Planet"
+      },
+      {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/United_States_and_the_Paris_Agreement",
+        "domain": "en.wikipedia.org",
+        "title": "United States and the Paris Agreement - Wikipedia"
+      },
+      {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/2012_in_science",
+        "domain": "en.wikipedia.org",
+        "title": "2012 in science - Wikipedia"
+      },
+      {
+        "id": 16,
+        "url": "https://holidaystoswitzerland.com/best-switzerland-tours/",
+        "domain": "holidaystoswitzerland.com",
+        "title": "Best Switzerland Tours for travel in 2026 | Holidays to Switzerland"
+      },
+      {
+        "id": 17,
+        "url": "https://www.thebrokebackpacker.com/cost-of-living-in-switzerland/",
+        "domain": "thebrokebackpacker.com",
+        "title": "COST of Living in Switzerland in 2026 (Moving to Switzerland)"
+      },
+      {
+        "id": 18,
+        "url": "https://www.getours.com/destinations/europe/switzerland",
+        "domain": "getours.com",
+        "title": "Switzerland Tours & Packages - 2026 & 2027 | Grand European Travel"
+      },
+      {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Generation_Z",
+        "domain": "en.wikipedia.org",
+        "title": "Generation Z - Wikipedia"
+      },
+      {
+        "id": 20,
+        "url": "https://en.wikipedia.org/wiki/Criticism_of_capitalism",
+        "domain": "en.wikipedia.org",
+        "title": "Criticism of capitalism - Wikipedia"
+      },
+      {
+        "id": 21,
+        "url": "https://postcardsfrom.co.uk/heres-a-budget-friendlyish-guide-to-5-days-exlporing-switzerlands-scenic-railways/",
+        "domain": "postcardsfrom.co.uk",
+        "title": "Here’s a budget friendly(ish) guide to 5 days exlporing Switzerland’s scenic railways | Postcards From"
+      },
+      {
+        "id": 22,
+        "url": "https://code.jquery.com/jquery-3.7.0.min.js",
+        "domain": "code.jquery.com",
+        "title": "code.jquery.com"
+      },
+      {
+        "id": 23,
+        "url": "https://www.budgetbucketlist.com/switzerland-budget-guide.html",
+        "domain": "budgetbucketlist.com",
+        "title": "Budget Travel Guide to Switzerland | Budget Bucket List"
+      },
+      {
+        "id": 24,
+        "url": "https://www.opreismetco.nl/en/switzerland/switzerland-on-a-budget/",
+        "domain": "opreismetco.nl",
+        "title": "Switzerland on a budget. This is how you do it!"
+      },
+      {
+        "id": 25,
+        "url": "https://www.nomadicmatt.com/travel-blogs/backpack-switzerland-on-a-budget/",
+        "domain": "nomadicmatt.com",
+        "title": "11 Tips For Visiting Switzerland On A Budget in 2026"
+      },
+      {
+        "id": 26,
+        "url": "https://en.wikipedia.org/wiki/Airline",
+        "domain": "en.wikipedia.org",
+        "title": "Airline - Wikipedia"
+      },
+      {
+        "id": 27,
+        "url": "https://en.wikipedia.org/wiki/Share_taxi",
+        "domain": "en.wikipedia.org",
+        "title": "Share taxi - Wikipedia"
+      },
+      {
+        "id": 28,
+        "url": "https://en.wikipedia.org/wiki/Reconstruction_era",
+        "domain": "en.wikipedia.org",
+        "title": "Reconstruction era - Wikipedia"
+      },
+      {
+        "id": 29,
+        "url": "https://www.tripoto.com/switzerland/trips/the-ultimate-travel-tips-and-budget-hacks-to-make-your-trip-to-switzerland-easy-super-affordable-5dea2214a9501",
+        "domain": "tripoto.com",
+        "title": "The Ultimate Travel Tips and Budget Hacks to Make Your Trip to Switzerland Easy Super Affordable - Tripoto"
+      },
+      {
+        "id": 30,
+        "url": "https://www.swisstours.com/blog/switzerland-itinerary-5-days",
+        "domain": "swisstours.com",
+        "title": "Amazing 5 days Switzerland Itinerary by Swiss Travel Expert (2026)"
+      },
+      {
+        "id": 31,
+        "url": "https://en.wikipedia.org/wiki/International_relations_(1814%E2%80%931919)",
+        "domain": "en.wikipedia.org",
+        "title": "International relations (1814–1919) - Wikipedia"
+      },
+      {
+        "id": 32,
+        "url": "https://alionswitzerland.com/switzerland-on-a-budget/",
+        "domain": "alionswitzerland.com",
+        "title": "Switzerland on a Budget - Ali on Switzerland"
+      },
+      {
+        "id": 33,
+        "url": "https://www.affordabletours.com/d/switzerland/length/5-7-days",
+        "domain": "affordabletours.com",
+        "title": "Best Switzerland 5 to 7 Days Tours 2026 / 2027 visiting places like Zurich and Basel - Save on Switzerland Vacations | 3522 Reviews"
+      },
+      {
+        "id": 34,
+        "url": "https://community.ricksteves.com/travel-forum/switzerland/5-days-in-switzerland-itinerary",
+        "domain": "community.ricksteves.com",
+        "title": "5 days in Switzerland Itinerary - Rick Steves Travel Forum"
+      },
+      {
+        "id": 35,
+        "url": "https://community.ricksteves.com/travel-forum/switzerland/4-or-5-days-in-switzerland-f3ae74b5-5ed0-479a-96fd-024a95100fe7",
+        "domain": "community.ricksteves.com",
+        "title": "4 or 5 days in Switzerland - Rick Steves Travel Forum"
+      },
+      {
+        "id": 36,
+        "url": "https://www.dianamatuszak.com/blog/2022/08/01/2022-8-1-the-perfect-5-day-switzerland-itinerary",
+        "domain": "dianamatuszak.com",
+        "title": "The Perfect 5 Day Switzerland Itinerary &mdash; Diana Matuszak"
+      }
+    ],
+    "markdown": "# Deep Research Report\n\n## Query\nA trip to switzerland of 5 days , cheap but very efficient (moroccan prices). Crucial to be as cheap as possible\n\n## Executive Summary\nI’d say we did pretty darn good for this trip so I wanted to share our full itinerary with you. Where we stayed, exactly what we did, where we ate, and a few things I wish I’d known prior 4 or 5 days in Switzerland - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › 5 days in Switzerland Itinerary - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › <div class=\"crumb-and-userc Explore Switzerland 5 to 7 Days for 2026 / 2027. Discover iconic sites, diverse cultures & save up to 40% with our low price guarantee. 3522 Reviews Switzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead.\n\n## Executive Overview\n- I’d say we did pretty darn good for this trip so I wanted to share our full itinerary with you. Where we stayed, exactly what we did, where we ate, and a few things I wish I’d known prior\n- 4 or 5 days in Switzerland - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum ›\n- 5 days in Switzerland Itinerary - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › <div class=\"crumb-and-userc\n- Explore Switzerland 5 to 7 Days for 2026 / 2027. Discover iconic sites, diverse cultures & save up to 40% with our low price guarantee. 3522 Reviews\n- Switzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead.\n- International relations (1814–1919) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 1814–1830: Restoration and reactio\n\n## Evidence and Signals\nI’d say we did pretty darn good for this trip so I wanted to share our full itinerary with you. Where we stayed, exactly what we did, where we ate, and a few things I wish I’d known prior [36]\n\n4 or 5 days in Switzerland - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › [35]\n\n5 days in Switzerland Itinerary - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum › <div class=\"crumb-and-userc [34]\n\nExplore Switzerland 5 to 7 Days for 2026 / 2027. Discover iconic sites, diverse cultures & save up to 40% with our low price guarantee. 3522 Reviews [33]\n\nSwitzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead. [32]\n\nInternational relations (1814–1919) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 1814–1830: Restoration and reactio [31]\n\nExperience the perfect 5 days in Switzerland by visiting top attractions & places in your itinerary. Check out complete Switzerland itinerary 5 days. [30]\n\nSwitzerland had always been that frightfully expensive destination that I thought I would never get to visit. However, a few months back when my parents and I were planning our annual international trip, we happened to c [29]\n\nReconstruction era - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Dating 2 Background Toggle Background subsection 2. [28]\n\nShare taxi - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Operation Toggle Operation subsection 1.1 Terminus 1.2 Rout [27]\n\nAirline - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 The first airlines 1.2 E [26]\n\n11 Tips For Visiting Switzerland On A Budget in 2026 img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-in [25]\n\nSwitzerland on a budget. This is how you do it! img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:0 0!important;padding:0!important}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) cal [24]\n\nBudget Travel Guide to Switzerland: Advice from a by-now-local [23]\n\n/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r [22]\n\nSwitzerland has been a country high on my bucket list to visit. It offers everything - good food, incredible scenic railway journeys, and some of the most breathtaking views. The downside? It&#039;s expensive. As soon as [21]\n\nCriticism of capitalism - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Criticism by different schools of th [20]\n\nGeneration Z - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Terminology 2 Date and age range definitions 3 Arts and c [19]\n\n## Limits and Open Questions\nThis report is generated from publicly retrievable web pages and may omit paywalled/private data. Continue with follow-up prompts for deeper niche coverage.\n\n## Citations\n- [1] The perfect 5-day Switzerland itinerary &ndash; Finding Alexx (https://findingalexx.com/5-day-switzerland-itinerary/)\n- [2] Switzerland Budget Travel Guide (Updated 2026) (https://www.nomadicmatt.com/travel-guides/switzerland-travel-tips/)\n- [3] 10 Best Cheap Switzerland Tours & Trips 2026/2027 - TourRadar (https://www.tourradar.com/l/d-budget-switzerland)\n- [4] How To Visit Switzerland On A Budget By A Local (2026) (https://thetravellingtedaldi.com/switzerland-on-a-budget/)\n- [5] Switzerland Trip Cost Breakdown: Is It As Expensive as They Say? - Destination Daydreamer (https://www.destinationdaydreamer.com/switzerland-trip-cost-breakdown-is-it-as-expensive-as-they-say/)\n- [6] The best 5 days in Switzerland: 5-day itinerary! | My Faulty Compass (https://myfaultycompass.com/the-best-5-days-in-switzerland-5-day-itinerary/)\n- [7] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png)\n- [8] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png)\n- [9] s.yimg.com (https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png)\n- [10] s.yimg.com (https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css)\n- [11] 5 days in Switzerland on a budget: chocolate, mountains & campervan views &#8211; Roaming with the Ricks (https://roamingwiththericks.com/2025/11/13/5-days-switzerland-budget/)\n- [12] Switzerland Trip Cost: Complete 2026 Budget Breakdown (https://www.traveltourister.com/articles/switzerland-trip-cost/)\n- [13] Alpine life, for less: Switzerland on a budget - Lonely Planet (https://www.lonelyplanet.com/articles/the-best-things-in-schweiz-are-free-switzerland-on-a-budget)\n- [14] United States and the Paris Agreement - Wikipedia (https://en.wikipedia.org/wiki/United_States_and_the_Paris_Agreement)\n- [15] 2012 in science - Wikipedia (https://en.wikipedia.org/wiki/2012_in_science)\n- [16] Best Switzerland Tours for travel in 2026 | Holidays to Switzerland (https://holidaystoswitzerland.com/best-switzerland-tours/)\n- [17] COST of Living in Switzerland in 2026 (Moving to Switzerland) (https://www.thebrokebackpacker.com/cost-of-living-in-switzerland/)\n- [18] Switzerland Tours & Packages - 2026 & 2027 | Grand European Travel (https://www.getours.com/destinations/europe/switzerland)\n- [19] Generation Z - Wikipedia (https://en.wikipedia.org/wiki/Generation_Z)\n- [20] Criticism of capitalism - Wikipedia (https://en.wikipedia.org/wiki/Criticism_of_capitalism)\n- [21] Here’s a budget friendly(ish) guide to 5 days exlporing Switzerland’s scenic railways | Postcards From (https://postcardsfrom.co.uk/heres-a-budget-friendlyish-guide-to-5-days-exlporing-switzerlands-scenic-railways/)\n- [22] code.jquery.com (https://code.jquery.com/jquery-3.7.0.min.js)\n- [23] Budget Travel Guide to Switzerland | Budget Bucket List (https://www.budgetbucketlist.com/switzerland-budget-guide.html)\n- [24] Switzerland on a budget. This is how you do it! (https://www.opreismetco.nl/en/switzerland/switzerland-on-a-budget/)\n- [25] 11 Tips For Visiting Switzerland On A Budget in 2026 (https://www.nomadicmatt.com/travel-blogs/backpack-switzerland-on-a-budget/)\n- [26] Airline - Wikipedia (https://en.wikipedia.org/wiki/Airline)\n- [27] Share taxi - Wikipedia (https://en.wikipedia.org/wiki/Share_taxi)\n- [28] Reconstruction era - Wikipedia (https://en.wikipedia.org/wiki/Reconstruction_era)\n- [29] The Ultimate Travel Tips and Budget Hacks to Make Your Trip to Switzerland Easy Super Affordable - Tripoto (https://www.tripoto.com/switzerland/trips/the-ultimate-travel-tips-and-budget-hacks-to-make-your-trip-to-switzerland-easy-super-affordable-5dea2214a9501)\n- [30] Amazing 5 days Switzerland Itinerary by Swiss Travel Expert (2026) (https://www.swisstours.com/blog/switzerland-itinerary-5-days)\n- [31] International relations (1814–1919) - Wikipedia (https://en.wikipedia.org/wiki/International_relations_(1814%E2%80%931919))\n- [32] Switzerland on a Budget - Ali on Switzerland (https://alionswitzerland.com/switzerland-on-a-budget/)\n- [33] Best Switzerland 5 to 7 Days Tours 2026 / 2027 visiting places like Zurich and Basel - Save on Switzerland Vacations | 3522 Reviews (https://www.affordabletours.com/d/switzerland/length/5-7-days)\n- [34] 5 days in Switzerland Itinerary - Rick Steves Travel Forum (https://community.ricksteves.com/travel-forum/switzerland/5-days-in-switzerland-itinerary)\n- [35] 4 or 5 days in Switzerland - Rick Steves Travel Forum (https://community.ricksteves.com/travel-forum/switzerland/4-or-5-days-in-switzerland-f3ae74b5-5ed0-479a-96fd-024a95100fe7)\n- [36] The Perfect 5 Day Switzerland Itinerary &mdash; Diana Matuszak (https://www.dianamatuszak.com/blog/2022/08/01/2022-8-1-the-perfect-5-day-switzerland-itinerary)",
+    "generatedAt": "2026-04-05T13:47:09.476Z"
+  },
+  "completedAt": "2026-04-05T13:47:09.476Z"
 }
