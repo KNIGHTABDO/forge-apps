@@ -3,15 +3,14 @@
   "sessionId": "sess_id690uh",
   "query": "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices)",
   "createdAt": "2026-04-06T08:58:14.685Z",
-  "updatedAt": "2026-04-06T17:53:02.161Z",
-  "lastAdvancedAt": "2026-04-06T17:53:00.433Z",
+  "updatedAt": "2026-04-06T17:53:06.487Z",
+  "lastAdvancedAt": "2026-04-06T17:53:04.162Z",
   "phase": "analyzing",
   "progress": 16,
   "etaMinutes": 34,
   "planDraft": "1. Define scope and parameters: Establish the financial baseline for the traveler by converting the requested \"Moroccan prices\" (low-cost budget) into Swiss Franc (CHF) equivalent daily spending limits. Define the trip duration, preferred season, and key constraints such as reliance on public transport, hostel/budget accommodation preferences, and self-catering vs. restaurant dining.\n\n2. Execute targeted search fan-out: Utilize search queries focusing on budget-specific Swiss travel strategies, such as \"Switzerland budget travel hacks,\" \"cheapest Swiss cities for tourists,\" and \"low-cost transport passes for Switzerland.\" Identify resources like the SBB (Swiss Federal Railways) discount programs, grocery store chains (e.g., Migros/Coop) for food savings, and platforms listing hostels or camping sites.\n\n3. Conduct comparative cost analysis: Analyze data from travel forums and local blogs to create a cost-comparison table for the primary Swiss hubs (e.g., Zurich, Geneva, Interlaken, Lucerne). Evaluate the trade-offs between ticket costs (Swiss Travel Pass vs. point-to-point tickets), accommodation types, and free activities (hiking, public parks, walking tours) versus paid tourist attractions.\n\n4. Identify and bridge evidence gaps: Address specific missing information, such as current regional promotional offers for tourists, potential seasonal price spikes, and secondary city alternatives that offer the \"Swiss experience\" at a lower price point than major tourist centers. Verify the feasibility of \"budget\" in Switzerland against the high local cost of living to provide a realistic perspective.\n\n5. Synthesize into an actionable itinerary: Compile the findings into a clear, numbered 5-day or 7-day budget itinerary. Frame recommendations with transparent cost-saving tips per category (transport, lodging, food, activity) to ensure the user understands how to maintain a budget-conscious approach throughout the trip.",
   "planApproved": true,
   "pendingQueries": [
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"pdf\"",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) site:edu",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) site:gov",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"analysis\"",
@@ -36,9 +35,20 @@
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) enterprise usage",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"case study\"",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) metrics",
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) review"
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) review",
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"pdf\""
   ],
   "websites": [
+    {
+      "id": "site_1775497986368_46nqs",
+      "url": "https://budgettraveller.org/switzerland-on-a-budget-15-tips/",
+      "domain": "budgettraveller.org",
+      "title": "Switzerland on a budget: 15 tips - BudgetTraveller",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=budgettraveller.org&sz=64",
+      "snippet": "Switzerland on a budget: 15 tips - BudgetTraveller /* Kadence Base CSS */ :root{--global-palette1:rgba(254,76,77,0.7);--global-palette2:#fe4c4d;--global-palette3:#1e1e1e;--global-palette4:#000000;--global-palette5:#486c75;--global-palette6:#c7e2e2;--global-palette7:#e7e7e7;--global-palette8:#f8f8f8;--global-palette9:#ffffff;--global-palette10:oklch(from var(--global-palette1) calc(l + 0.10 * (1 - l)) calc(c * 1.00) calc(h + 180) / 100%);--global-",
+      "checkedAt": "2026-04-06T17:53:06.487Z"
+    },
     {
       "id": "site_1775497982141_oxby0",
       "url": "https://www.kayak.com/packages/switzerland",
@@ -540,9 +550,19 @@
       "url": "https://www.kayak.com/packages/switzerland",
       "domain": "kayak.com",
       "title": "kayak.com"
+    },
+    {
+      "id": 30,
+      "url": "https://budgettraveller.org/switzerland-on-a-budget-15-tips/",
+      "domain": "budgettraveller.org",
+      "title": "Switzerland on a budget: 15 tips - BudgetTraveller"
     }
   ],
   "notes": [
+    {
+      "citationId": 30,
+      "summary": "Switzerland on a budget: 15 tips - BudgetTraveller /* Kadence Base CSS */ :root{--global-palette1:rgba(254,76,77,0.7);--global-palette2:#fe4c4d;--global-palette3:#1e1e1e;--global-palette4:#000000;--global-palette5:#486c75;--global-palette6:#c7e2e2;--global-palette7:#e7e7e7;--global-palette8:#f8f8f8;--global-palette9:#ffffff;--global-palette10:oklch(from var(--global-palette1) calc(l + 0.10 * (1 - l)) calc(c * 1.00) calc(h + 180) / 100%);--global-"
+    },
     {
       "citationId": 29,
       "summary": ".react.react-st .UdJT{position:relative;background:#e5ebf0 no-repeat center;background-size:cover}.react.react-st .UdJT:before{content:\"\";position:absolute;top:0;left:0;height:100%;width:100%;background-color:#e5ebf0;transition:opacity 700ms ease;opacity:0}.react.react-st .UdJT-inline-image{display:none}.react.react-st .UdJT-image{position:absolute;height:100%;width:100%;object-fit:cover}.react.react-st .UdJT-image.UdJT-mod-image-position-bottom-"
@@ -661,6 +681,18 @@
     }
   ],
   "events": [
+    {
+      "id": "ev_1775497986487_ot9qo",
+      "at": "2026-04-06T17:53:06.487Z",
+      "phase": "analyzing",
+      "message": "Analyzed 1 sources this iteration. Total: 30."
+    },
+    {
+      "id": "ev_1775497984162_axn1a",
+      "at": "2026-04-06T17:53:04.162Z",
+      "phase": "analyzing",
+      "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"pdf\""
+    },
     {
       "id": "ev_1775497982161_kra12",
       "at": "2026-04-06T17:53:02.161Z",
@@ -867,6 +899,7 @@
     }
   ],
   "learnedSoFar": [
+    "Switzerland on a budget: 15 tips - BudgetTraveller /* Kadence Base CSS */ :root{--global-palette1:rgba(254,76,77,0.7);--global-palette2:#fe4c4d;--global-palette3:#1e1e1e;--global-palette4:#000000;--global-palette5:#486c75;--global-palette6:#c7e2e2;--global-palette7:#e7e7e7;--global-palette8:#f8f8f8;--global-palette9:#ffffff;--global-palette10:oklch(from var(--global-palette1) calc(l + 0.10 * (1 - l)) calc(c * 1.00) calc(h + 180) / 100%);--global-",
     ".react.react-st .UdJT{position:relative;background:#e5ebf0 no-repeat center;background-size:cover}.react.react-st .UdJT:before{content:\"\";position:absolute;top:0;left:0;height:100%;width:100%;background-color:#e5ebf0;transition:opacity 700ms ease;opacity:0}.react.react-st .UdJT-inline-image{display:none}.react.react-st .UdJT-image{position:absolute;height:100%;width:100%;object-fit:cover}.react.react-st .UdJT-image.UdJT-mod-image-position-bottom-",
     "Explore cheap flight deals from Morocco to Switzerland. Find the cheapest cities in Switzerland to fly to. Compare all routes and airlines flying from Morocco secure your tickets.",
     "Plan your Swiss holiday smartly. Discover Switzerland trip cost, budgeting tips & package options for an affordable Swiss vacation.",
@@ -883,16 +916,15 @@
     "The Switzerland travel and tourism market size was valued at USD 31,359.63 Million in 2025 to reach USD 50,322.07 Million by 2034 at a CAGR of 5.40% during 2026-2034.",
     "Switzerland trip costs 2026: flights, hotels, trains, food. Budget for Zurich, Geneva, Interlaken.",
     "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
-    ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
-    "11 Tips For Visiting Switzerland On A Budget in 2026 img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-in"
+    ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh"
   ],
   "stats": {
-    "sourcesAnalyzed": 29,
-    "tokensUsedEstimate": 2043,
-    "depthScore": 28,
+    "sourcesAnalyzed": 30,
+    "tokensUsedEstimate": 2168,
+    "depthScore": 29,
     "queriesGenerated": 24,
-    "iterations": 15,
-    "uniqueDomains": 24
+    "iterations": 16,
+    "uniqueDomains": 25
   },
   "control": {
     "paused": false,
