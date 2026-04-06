@@ -3,15 +3,14 @@
   "sessionId": "sess_id690uh",
   "query": "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices)",
   "createdAt": "2026-04-06T08:58:14.685Z",
-  "updatedAt": "2026-04-06T17:52:48.358Z",
-  "lastAdvancedAt": "2026-04-06T17:52:46.119Z",
+  "updatedAt": "2026-04-06T17:52:50.658Z",
+  "lastAdvancedAt": "2026-04-06T17:52:48.394Z",
   "phase": "analyzing",
   "progress": 15,
   "etaMinutes": 35,
   "planDraft": "1. Define scope and parameters: Establish the financial baseline for the traveler by converting the requested \"Moroccan prices\" (low-cost budget) into Swiss Franc (CHF) equivalent daily spending limits. Define the trip duration, preferred season, and key constraints such as reliance on public transport, hostel/budget accommodation preferences, and self-catering vs. restaurant dining.\n\n2. Execute targeted search fan-out: Utilize search queries focusing on budget-specific Swiss travel strategies, such as \"Switzerland budget travel hacks,\" \"cheapest Swiss cities for tourists,\" and \"low-cost transport passes for Switzerland.\" Identify resources like the SBB (Swiss Federal Railways) discount programs, grocery store chains (e.g., Migros/Coop) for food savings, and platforms listing hostels or camping sites.\n\n3. Conduct comparative cost analysis: Analyze data from travel forums and local blogs to create a cost-comparison table for the primary Swiss hubs (e.g., Zurich, Geneva, Interlaken, Lucerne). Evaluate the trade-offs between ticket costs (Swiss Travel Pass vs. point-to-point tickets), accommodation types, and free activities (hiking, public parks, walking tours) versus paid tourist attractions.\n\n4. Identify and bridge evidence gaps: Address specific missing information, such as current regional promotional offers for tourists, potential seasonal price spikes, and secondary city alternatives that offer the \"Swiss experience\" at a lower price point than major tourist centers. Verify the feasibility of \"budget\" in Switzerland against the high local cost of living to provide a realistic perspective.\n\n5. Synthesize into an actionable itinerary: Compile the findings into a clear, numbered 5-day or 7-day budget itinerary. Frame recommendations with transparent cost-saving tips per category (transport, lodging, food, activity) to ensure the user understands how to maintain a budget-conscious approach throughout the trip.",
   "planApproved": true,
   "pendingQueries": [
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) open source tools",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) enterprise usage",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"case study\"",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) metrics",
@@ -36,7 +35,8 @@
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) case study",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) expert interview",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) economics and costs",
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) timeline and adoption"
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) timeline and adoption",
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) open source tools"
   ],
   "websites": [
     {
@@ -622,6 +622,18 @@
   ],
   "events": [
     {
+      "id": "ev_1775497970658_iv0pe",
+      "at": "2026-04-06T17:52:50.658Z",
+      "phase": "analyzing",
+      "message": "Analyzed 0 sources this iteration. Total: 27."
+    },
+    {
+      "id": "ev_1775497968394_sqgjn",
+      "at": "2026-04-06T17:52:48.394Z",
+      "phase": "analyzing",
+      "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) open source tools"
+    },
+    {
       "id": "ev_1775497968358_1ogar",
       "at": "2026-04-06T17:52:48.358Z",
       "phase": "analyzing",
@@ -789,9 +801,9 @@
   "stats": {
     "sourcesAnalyzed": 27,
     "tokensUsedEstimate": 1870,
-    "depthScore": 23,
+    "depthScore": 24,
     "queriesGenerated": 24,
-    "iterations": 10,
+    "iterations": 11,
     "uniqueDomains": 22
   },
   "control": {
