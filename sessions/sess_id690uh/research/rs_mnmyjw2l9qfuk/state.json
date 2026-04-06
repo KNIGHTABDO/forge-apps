@@ -3,15 +3,14 @@
   "sessionId": "sess_id690uh",
   "query": "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices)",
   "createdAt": "2026-04-06T08:58:14.685Z",
-  "updatedAt": "2026-04-06T17:52:55.153Z",
-  "lastAdvancedAt": "2026-04-06T17:52:54.371Z",
+  "updatedAt": "2026-04-06T17:52:58.999Z",
+  "lastAdvancedAt": "2026-04-06T17:52:57.363Z",
   "phase": "analyzing",
-  "progress": 15,
-  "etaMinutes": 35,
+  "progress": 16,
+  "etaMinutes": 34,
   "planDraft": "1. Define scope and parameters: Establish the financial baseline for the traveler by converting the requested \"Moroccan prices\" (low-cost budget) into Swiss Franc (CHF) equivalent daily spending limits. Define the trip duration, preferred season, and key constraints such as reliance on public transport, hostel/budget accommodation preferences, and self-catering vs. restaurant dining.\n\n2. Execute targeted search fan-out: Utilize search queries focusing on budget-specific Swiss travel strategies, such as \"Switzerland budget travel hacks,\" \"cheapest Swiss cities for tourists,\" and \"low-cost transport passes for Switzerland.\" Identify resources like the SBB (Swiss Federal Railways) discount programs, grocery store chains (e.g., Migros/Coop) for food savings, and platforms listing hostels or camping sites.\n\n3. Conduct comparative cost analysis: Analyze data from travel forums and local blogs to create a cost-comparison table for the primary Swiss hubs (e.g., Zurich, Geneva, Interlaken, Lucerne). Evaluate the trade-offs between ticket costs (Swiss Travel Pass vs. point-to-point tickets), accommodation types, and free activities (hiking, public parks, walking tours) versus paid tourist attractions.\n\n4. Identify and bridge evidence gaps: Address specific missing information, such as current regional promotional offers for tourists, potential seasonal price spikes, and secondary city alternatives that offer the \"Swiss experience\" at a lower price point than major tourist centers. Verify the feasibility of \"budget\" in Switzerland against the high local cost of living to provide a realistic perspective.\n\n5. Synthesize into an actionable itinerary: Compile the findings into a clear, numbered 5-day or 7-day budget itinerary. Frame recommendations with transparent cost-saving tips per category (transport, lodging, food, activity) to ensure the user understands how to maintain a budget-conscious approach throughout the trip.",
   "planApproved": true,
   "pendingQueries": [
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) metrics",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) review",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"pdf\"",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) site:edu",
@@ -36,9 +35,20 @@
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) timeline and adoption",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) open source tools",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) enterprise usage",
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"case study\""
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) \"case study\"",
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) metrics"
   ],
   "websites": [
+    {
+      "id": "site_1775497978980_njpm4",
+      "url": "https://guidetoeurope.eu/switzerland/best-flights/from-morocco",
+      "domain": "guidetoeurope.eu",
+      "title": "Flights from Morocco to Switzerland | Guide to Europe",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=guidetoeurope.eu&sz=64",
+      "snippet": "Explore cheap flight deals from Morocco to Switzerland. Find the cheapest cities in Switzerland to fly to. Compare all routes and airlines flying from Morocco secure your tickets.",
+      "checkedAt": "2026-04-06T17:52:58.999Z"
+    },
     {
       "id": "site_1775497965757_z9zvm",
       "url": "https://www.swisstours.com/blog/switzerland-trip-cost",
@@ -508,9 +518,19 @@
       "url": "https://www.swisstours.com/blog/switzerland-trip-cost",
       "domain": "swisstours.com",
       "title": "Switzerland Trip Cost Breakdown: Plan Your Perfect Affordable Vacation"
+    },
+    {
+      "id": 28,
+      "url": "https://guidetoeurope.eu/switzerland/best-flights/from-morocco",
+      "domain": "guidetoeurope.eu",
+      "title": "Flights from Morocco to Switzerland | Guide to Europe"
     }
   ],
   "notes": [
+    {
+      "citationId": 28,
+      "summary": "Explore cheap flight deals from Morocco to Switzerland. Find the cheapest cities in Switzerland to fly to. Compare all routes and airlines flying from Morocco secure your tickets."
+    },
     {
       "citationId": 27,
       "summary": "Plan your Swiss holiday smartly. Discover Switzerland trip cost, budgeting tips & package options for an affordable Swiss vacation."
@@ -621,6 +641,18 @@
     }
   ],
   "events": [
+    {
+      "id": "ev_1775497978999_jyaah",
+      "at": "2026-04-06T17:52:58.999Z",
+      "phase": "analyzing",
+      "message": "Analyzed 1 sources this iteration. Total: 28."
+    },
+    {
+      "id": "ev_1775497977363_kg7qa",
+      "at": "2026-04-06T17:52:57.363Z",
+      "phase": "analyzing",
+      "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) metrics"
+    },
     {
       "id": "ev_1775497975153_r1q0x",
       "at": "2026-04-06T17:52:55.153Z",
@@ -803,6 +835,7 @@
     }
   ],
   "learnedSoFar": [
+    "Explore cheap flight deals from Morocco to Switzerland. Find the cheapest cities in Switzerland to fly to. Compare all routes and airlines flying from Morocco secure your tickets.",
     "Plan your Swiss holiday smartly. Discover Switzerland trip cost, budgeting tips & package options for an affordable Swiss vacation.",
     "Budget trip to Switzerland requires cost consideration in food, accommodation, and travel. Check out our itinerary for your budget trip package.",
     "Follow these simple money-saving tips when planning your trip and you’ll see how it really is possible to travel Switzerland on a budget!",
@@ -819,16 +852,15 @@
     "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
     ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
     "11 Tips For Visiting Switzerland On A Budget in 2026 img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-in",
-    "To show what to expect for a Morocco trip cost, travelers run down current rates for food, drink, accommodation, and getting around on a tour.",
-    "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��"
+    "To show what to expect for a Morocco trip cost, travelers run down current rates for food, drink, accommodation, and getting around on a tour."
   ],
   "stats": {
-    "sourcesAnalyzed": 27,
-    "tokensUsedEstimate": 1870,
-    "depthScore": 25,
+    "sourcesAnalyzed": 28,
+    "tokensUsedEstimate": 1928,
+    "depthScore": 26,
     "queriesGenerated": 24,
-    "iterations": 13,
-    "uniqueDomains": 22
+    "iterations": 14,
+    "uniqueDomains": 23
   },
   "control": {
     "paused": false,
