@@ -3,14 +3,16 @@
   "sessionId": "sess_id690uh",
   "query": "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices)",
   "createdAt": "2026-04-06T08:58:14.685Z",
-  "updatedAt": "2026-04-06T17:52:41.831Z",
-  "lastAdvancedAt": "2026-04-06T17:52:36.330Z",
+  "updatedAt": "2026-04-06T17:52:46.642Z",
+  "lastAdvancedAt": "2026-04-06T17:52:45.583Z",
   "phase": "analyzing",
-  "progress": 15,
+  "progress": 14,
   "etaMinutes": 35,
   "planDraft": "1. Define scope and parameters: Establish the financial baseline for the traveler by converting the requested \"Moroccan prices\" (low-cost budget) into Swiss Franc (CHF) equivalent daily spending limits. Define the trip duration, preferred season, and key constraints such as reliance on public transport, hostel/budget accommodation preferences, and self-catering vs. restaurant dining.\n\n2. Execute targeted search fan-out: Utilize search queries focusing on budget-specific Swiss travel strategies, such as \"Switzerland budget travel hacks,\" \"cheapest Swiss cities for tourists,\" and \"low-cost transport passes for Switzerland.\" Identify resources like the SBB (Swiss Federal Railways) discount programs, grocery store chains (e.g., Migros/Coop) for food savings, and platforms listing hostels or camping sites.\n\n3. Conduct comparative cost analysis: Analyze data from travel forums and local blogs to create a cost-comparison table for the primary Swiss hubs (e.g., Zurich, Geneva, Interlaken, Lucerne). Evaluate the trade-offs between ticket costs (Swiss Travel Pass vs. point-to-point tickets), accommodation types, and free activities (hiking, public parks, walking tours) versus paid tourist attractions.\n\n4. Identify and bridge evidence gaps: Address specific missing information, such as current regional promotional offers for tourists, potential seasonal price spikes, and secondary city alternatives that offer the \"Swiss experience\" at a lower price point than major tourist centers. Verify the feasibility of \"budget\" in Switzerland against the high local cost of living to provide a realistic perspective.\n\n5. Synthesize into an actionable itinerary: Compile the findings into a clear, numbered 5-day or 7-day budget itinerary. Frame recommendations with transparent cost-saving tips per category (transport, lodging, food, activity) to ensure the user understands how to maintain a budget-conscious approach throughout the trip.",
   "planApproved": true,
   "pendingQueries": [
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) case study",
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) expert interview",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) economics and costs",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) timeline and adoption",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) open source tools",
@@ -34,296 +36,283 @@
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) latest research paper",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) industry analysis 2025 2026",
     "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) benchmark comparison",
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) limitations and risks",
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) case study",
-    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) expert interview"
+    "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) limitations and risks"
   ],
   "websites": [
     {
-      "id": "site_1775497961643_5o317",
-      "url": "https://ordinarytraveler.com/switzerland-budget-travel-tips",
-      "domain": "ordinarytraveler.com",
-      "title": "How to Plan a Trip to Switzerland on a Budget | Ordinary Traveler",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=ordinarytraveler.com&sz=64",
-      "snippet": "Follow these simple money-saving tips when planning your trip and you’ll see how it really is possible to travel Switzerland on a budget!",
-      "checkedAt": "2026-04-06T17:52:41.831Z"
-    },
-    {
-      "id": "site_1775497955339_um19h",
-      "url": "https://www.tourradar.com/l/d-budget-switzerland",
-      "domain": "tourradar.com",
-      "title": "10 Best Cheap Switzerland Tours & Trips 2026/2027 - TourRadar",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=tourradar.com&sz=64",
-      "snippet": "Discover Budget tours and authentic experiences in Switzerland, visiting places like Zurich and Interlaken. All Major Brands. Biggest Selection. Best Prices.",
-      "checkedAt": "2026-04-06T17:52:35.530Z"
-    },
-    {
-      "id": "site_1775497955120_opdmk",
-      "url": "https://alionswitzerland.com/switzerland-on-a-budget/",
-      "domain": "alionswitzerland.com",
-      "title": "Switzerland on a Budget - Ali on Switzerland",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=alionswitzerland.com&sz=64",
-      "snippet": "Switzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead.",
-      "checkedAt": "2026-04-06T17:52:35.339Z"
-    },
-    {
-      "id": "site_1775497951573_0fcmr",
+      "id": "site_1775497966193_pgqlb",
       "url": "https://www.euronews.com/travel/2024/03/14/switzerland-on-a-budget-yes-it-is-possible-heres-how",
       "domain": "euronews.com",
       "title": "Switzerland on a budget? Yes, it is possible - here’s how | Euronews",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=euronews.com&sz=64",
       "snippet": "The alpine nation is infamously expensive and attracts the mega rich year-round - but there are ways to make a trip there affordable.",
-      "checkedAt": "2026-04-06T17:52:32.340Z"
+      "checkedAt": "2026-04-06T17:52:46.642Z"
     },
     {
-      "id": "site_1775497949627_0nrtj",
-      "url": "https://www.skyscanner.com/routes/ma/ch/morocco-to-switzerland.html",
-      "domain": "skyscanner.com",
-      "title": "Cheap flights from Morocco to Switzerland from $72 | Skyscanner",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=skyscanner.com&sz=64",
-      "snippet": "Compare prices on hundreds of flights to Switzerland from Morocco. Skyscanner helps you find the best deal available for your next trip.",
-      "checkedAt": "2026-04-06T17:52:30.943Z"
-    },
-    {
-      "id": "site_1775497949622_9mv8v",
+      "id": "site_1775497966184_o91gi",
       "url": "https://www.destinationdaydreamer.com/switzerland-trip-cost-breakdown-is-it-as-expensive-as-they-say/",
       "domain": "destinationdaydreamer.com",
       "title": "Switzerland Trip Cost Breakdown: Is It As Expensive as They Say? - Destination Daydreamer",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=destinationdaydreamer.com&sz=64",
       "snippet": "Discover the true cost of visiting Switzerland with our personal Switzerland trip cost breakdown, including tips on how to save and splurge!",
-      "checkedAt": "2026-04-06T17:52:29.626Z"
+      "checkedAt": "2026-04-06T17:52:46.193Z"
     },
     {
-      "id": "site_1775497948817_fb1nf",
+      "id": "site_1775497965416_h4twd",
       "url": "https://community.ricksteves.com/travel-forum/budget-tips/so-uh-just-how-expensive-is-switzerland-any-general-advice-or-tips",
       "domain": "community.ricksteves.com",
       "title": "So, uh.... just how expensive is Switzerland? Any general advice or tips? - Rick Steves Travel Forum",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=community.ricksteves.com&sz=64",
-      "snippet": "So, uh.... just how expensive is Switzerland? Any general advice or tips? - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum ›<",
-      "checkedAt": "2026-04-06T17:52:29.622Z"
+      "snippet": "So, uh.... just how expensive is Switzerland? Any general advice or tips? - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum ›</sp",
+      "checkedAt": "2026-04-06T17:52:45.583Z"
     },
     {
-      "id": "site_1775497946912_22uc5",
-      "url": "https://www.tourlane.com/europe/switzerland/travel-cost/",
-      "domain": "tourlane.com",
-      "title": "How Much Does a Trip to Switzerland Cost? 2026 Budget Guide",
+      "id": "site_1775497965335_q16dj",
+      "url": "https://www.mylifeelsewhere.com/cost-of-living/switzerland/morocco",
+      "domain": "mylifeelsewhere.com",
+      "title": "Cost of living in Switzerland compared to Morocco",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=tourlane.com&sz=64",
-      "snippet": "How much does a trip to Switzerland cost in 2026? From daily food prices to hotel rates in USD, our guide breaks down the average travel budget for every traveler.",
-      "checkedAt": "2026-04-06T17:52:28.817Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=mylifeelsewhere.com&sz=64",
+      "snippet": "Cost of living in Switzerland compared to Morocco. We provide several metrics to compare the cost of living including cost of groceries, transportation, and more.",
+      "checkedAt": "2026-04-06T17:52:45.416Z"
     },
     {
-      "id": "site_1775497943784_4hx92",
-      "url": "https://madejournalmag.com/travel/travel-trends-2026/",
-      "domain": "madejournalmag.com",
-      "title": "12 Travel Trends That Will Shape 2026, According to the Experts - MADE Journal",
+      "id": "site_1775497965318_5nxn7",
+      "url": "https://guidetoeurope.eu/switzerland/best-flights/from-morocco",
+      "domain": "guidetoeurope.eu",
+      "title": "Flights from Morocco to Switzerland | Guide to Europe",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=madejournalmag.com&sz=64",
-      "snippet": "Travel experts, journalists and analysts reveal the trends, destinations and tips shaping the future of travel in 2026 and beyond.",
-      "checkedAt": "2026-04-06T17:52:25.035Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=guidetoeurope.eu&sz=64",
+      "snippet": "Explore cheap flight deals from Morocco to Switzerland. Find the cheapest cities in Switzerland to fly to. Compare all routes and airlines flying from Morocco secure your tickets.",
+      "checkedAt": "2026-04-06T17:52:45.335Z"
     },
     {
-      "id": "site_1775497943116_bx6yh",
-      "url": "https://www.imarcgroup.com/switzerland-travel-tourism-market",
-      "domain": "imarcgroup.com",
-      "title": "Switzerland Travel and Tourism Market Size and Share 2034",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=imarcgroup.com&sz=64",
-      "snippet": "The Switzerland travel and tourism market size was valued at USD 31,359.63 Million in 2025 to reach USD 50,322.07 Million by 2034 at a CAGR of 5.40% during 2026-2034.",
-      "checkedAt": "2026-04-06T17:52:23.783Z"
-    },
-    {
-      "id": "site_1775497942949_pbyoo",
-      "url": "https://simbye.com/blogs/blog/how-much-does-trip-to-switzerland-cost-2026-budget-breakdown?srsltid=AfmBOoodYD5D9mbxMrl6sucT4wJ6CaFDLMyvBGgOQ39RZ07yTV9EASJr",
-      "domain": "simbye.com",
-      "title": "Switzerland Trip Cost 2026: Budget Breakdown",
-      "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=simbye.com&sz=64",
-      "snippet": "Switzerland trip costs 2026: flights, hotels, trains, food. Budget for Zurich, Geneva, Interlaken.",
-      "checkedAt": "2026-04-06T17:52:23.116Z"
-    },
-    {
-      "id": "site_1775497941089_j0xkm",
+      "id": "site_1775497964710_h4n96",
       "url": "https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID}",
       "domain": "help.askmediagroup.com",
       "title": "help.askmediagroup.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=help.askmediagroup.com&sz=64",
-      "checkedAt": "2026-04-06T17:52:21.131Z"
+      "checkedAt": "2026-04-06T17:52:44.760Z"
     },
     {
-      "id": "site_1775497941073_faqwt",
+      "id": "site_1775497964694_xz99n",
       "url": "https://code.jquery.com/jquery-3.7.0.min.js",
       "domain": "code.jquery.com",
       "title": "code.jquery.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=code.jquery.com&sz=64",
       "snippet": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
-      "checkedAt": "2026-04-06T17:52:21.089Z"
+      "checkedAt": "2026-04-06T17:52:44.710Z"
     },
     {
-      "id": "site_1775497941041_txmhd",
+      "id": "site_1775497964667_2v0kx",
       "url": "https://fonts.googleapis.com",
       "domain": "fonts.googleapis.com",
       "title": "fonts.googleapis.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=fonts.googleapis.com&sz=64",
-      "checkedAt": "2026-04-06T17:52:21.073Z"
+      "checkedAt": "2026-04-06T17:52:44.694Z"
     },
     {
-      "id": "site_1775497941026_caodr",
+      "id": "site_1775497964656_0mw0x",
       "url": "https://fonts.gstatic.com/",
       "domain": "fonts.gstatic.com",
       "title": "fonts.gstatic.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=fonts.gstatic.com&sz=64",
-      "checkedAt": "2026-04-06T17:52:21.041Z"
+      "checkedAt": "2026-04-06T17:52:44.667Z"
     },
     {
-      "id": "site_1775497941018_g5lcg",
+      "id": "site_1775497963435_rxkla",
+      "url": "https://madejournalmag.com/travel/travel-trends-2026/",
+      "domain": "madejournalmag.com",
+      "title": "12 Travel Trends That Will Shape 2026, According to the Experts - MADE Journal",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=madejournalmag.com&sz=64",
+      "snippet": "Travel experts, journalists and analysts reveal the trends, destinations and tips shaping the future of travel in 2026 and beyond.",
+      "checkedAt": "2026-04-06T17:52:44.656Z"
+    },
+    {
+      "id": "site_1775497962727_19eb4",
+      "url": "https://www.imarcgroup.com/switzerland-travel-tourism-market",
+      "domain": "imarcgroup.com",
+      "title": "Switzerland Travel and Tourism Market Size and Share 2034",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=imarcgroup.com&sz=64",
+      "snippet": "The Switzerland travel and tourism market size was valued at USD 31,359.63 Million in 2025 to reach USD 50,322.07 Million by 2034 at a CAGR of 5.40% during 2026-2034.",
+      "checkedAt": "2026-04-06T17:52:43.435Z"
+    },
+    {
+      "id": "site_1775497962135_1y3qg",
       "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
-      "checkedAt": "2026-04-06T17:52:21.026Z"
+      "checkedAt": "2026-04-06T17:52:42.153Z"
     },
     {
-      "id": "site_1775497940942_na57l",
-      "url": "https://www.nomadicmatt.com/travel-blogs/backpack-switzerland-on-a-budget/",
-      "domain": "nomadicmatt.com",
-      "title": "11 Tips For Visiting Switzerland On A Budget in 2026",
+      "id": "site_1775497962061_qjpn6",
+      "url": "https://www.summertimeinswitzerland.com/post/trip-to-switzerland-cost",
+      "domain": "summertimeinswitzerland.com",
+      "title": "summertimeinswitzerland.com",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=nomadicmatt.com&sz=64",
-      "snippet": "11 Tips For Visiting Switzerland On A Budget in 2026 img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-in",
-      "checkedAt": "2026-04-06T17:52:21.018Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=summertimeinswitzerland.com&sz=64",
+      "snippet": "--> .PVTOEq{bottom:0;left:0;position:absolute;right:0;top:0;width:100%}.JbQvCF{transform:translateY(-100%);transition:.2s ease-in}.LvGYRg{transition:.2s}._C88Up{opacity:0;transition:.2s ease-in}._C88Up.RLRBWe{z-index:-1!important}.DPp8M_{opacity:1;transition:.2s}.Ze1d3J{height:auto}.E2Gu_X,.Ze1d3J{position:relative;width:100%}:host(:not(.device-mobile-optimized)) .ql53Bl,body:not(.device-mobile-optimized) .ql53Bl{margin-left:calc((100% - var(--si",
+      "checkedAt": "2026-04-06T17:52:42.135Z"
     },
     {
-      "id": "site_1775497940800_evjlo",
-      "url": "https://www.cheapestdestinationsblog.com/2023/03/15/morocco-trip-cost/",
-      "domain": "cheapestdestinationsblog.com",
-      "title": "How Much Will a Morocco Trip Cost?",
+      "id": "site_1775497961535_a8b7w",
+      "url": "https://travellersworldwide.com/trip-to-switzerland-cost",
+      "domain": "travellersworldwide.com",
+      "title": "💲 What a Trip to Switzerland Costs in 2026 | Average Prices",
       "status": "analyzed",
-      "favicon": "https://www.google.com/s2/favicons?domain=cheapestdestinationsblog.com&sz=64",
-      "snippet": "To show what to expect for a Morocco trip cost, travelers run down current rates for food, drink, accommodation, and getting around on a tour.",
-      "checkedAt": "2026-04-06T17:52:20.942Z"
+      "favicon": "https://www.google.com/s2/favicons?domain=travellersworldwide.com&sz=64",
+      "snippet": "We&#039;ll show you what the average trip to Switzerland costs, including how to save big on flights, accommodations, and food while you&#039;re there.",
+      "checkedAt": "2026-04-06T17:52:42.061Z"
     },
     {
-      "id": "site_1775497936961_rbv0s",
+      "id": "site_1775497961135_vrtek",
+      "url": "https://www.neverendingfootsteps.com/cost-of-travel-switzerland-budget/",
+      "domain": "neverendingfootsteps.com",
+      "title": "The Cost of Travel in Switzerland: My 2025 Budget Breakdown",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=neverendingfootsteps.com&sz=64",
+      "snippet": "Is Switzerland expensive? This European country has a reputation for being one of the most expensive countries on the planet, but how accurate are the",
+      "checkedAt": "2026-04-06T17:52:41.535Z"
+    },
+    {
+      "id": "site_1775497961097_1r16k",
+      "url": "https://championtraveler.com/price/cost-of-a-trip-to-switzerland/",
+      "domain": "championtraveler.com",
+      "title": "championtraveler.com",
+      "status": "failed",
+      "favicon": "https://www.google.com/s2/favicons?domain=championtraveler.com&sz=64",
+      "checkedAt": "2026-04-06T17:52:41.135Z"
+    },
+    {
+      "id": "site_1775497960539_saa82",
+      "url": "https://www.traveltourister.com/articles/switzerland-trip-cost/",
+      "domain": "traveltourister.com",
+      "title": "Switzerland Trip Cost: Complete 2026 Budget Breakdown",
+      "status": "analyzed",
+      "favicon": "https://www.google.com/s2/favicons?domain=traveltourister.com&sz=64",
+      "snippet": "Planning a Switzerland trip Cost? Discover exact costs for hotels, food, transport & attractions. Complete budget breakdown with money-saving tips for 2026.",
+      "checkedAt": "2026-04-06T17:52:41.097Z"
+    },
+    {
+      "id": "site_1775497953604_zrmok",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_120.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
-      "checkedAt": "2026-04-06T17:52:16.964Z"
+      "checkedAt": "2026-04-06T17:52:33.608Z"
     },
     {
-      "id": "site_1775497936954_2t7mq",
+      "id": "site_1775497953597_fthun",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_114.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-      "checkedAt": "2026-04-06T17:52:16.961Z"
+      "checkedAt": "2026-04-06T17:52:33.604Z"
     },
     {
-      "id": "site_1775497936107_m7u0e",
+      "id": "site_1775497953037_l7xgl",
       "url": "https://www.amigosim.com/blog/what-is-the-real-cost-of-a-trip-to-switzerland",
       "domain": "amigosim.com",
       "title": "What is the real cost of a trip to Switzerland? - 2026 Guide | Amigo",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=amigosim.com&sz=64",
       "snippet": "What&#039;s the real cost of a trip to Switzerland? Our 2026 guide provides a realistic budget breakdown and tips for saving money in this beautiful country.",
-      "checkedAt": "2026-04-06T17:52:16.954Z"
+      "checkedAt": "2026-04-06T17:52:33.597Z"
     },
     {
-      "id": "site_1775497936042_aii54",
+      "id": "site_1775497952958_ksjdr",
       "url": "https://www.lonelyplanet.com/articles/the-best-things-in-schweiz-are-free-switzerland-on-a-budget",
       "domain": "lonelyplanet.com",
       "title": "Alpine life, for less: Switzerland on a budget - Lonely Planet",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=lonelyplanet.com&sz=64",
       "snippet": "Switzerland is one of the world’s most expensive places, it’s true. Follow these tips to get the most out of this beautiful nation for less.",
-      "checkedAt": "2026-04-06T17:52:16.107Z"
+      "checkedAt": "2026-04-06T17:52:33.037Z"
     },
     {
-      "id": "site_1775497931180_319uw",
+      "id": "site_1775497952950_mtnhd",
       "url": "https://postcardsfrom.co.uk/heres-a-budget-friendlyish-guide-to-5-days-exlporing-switzerlands-scenic-railways/",
       "domain": "postcardsfrom.co.uk",
       "title": "Here’s a budget friendly(ish) guide to 5 days exlporing Switzerland’s scenic railways | Postcards From",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=postcardsfrom.co.uk&sz=64",
       "snippet": "Switzerland has been a country high on my bucket list to visit. It offers everything - good food, incredible scenic railway journeys, and some of the most breathtaking views. The downside? It&#039;s expensive. As soon as",
-      "checkedAt": "2026-04-06T17:52:16.042Z"
+      "checkedAt": "2026-04-06T17:52:32.958Z"
     },
     {
-      "id": "site_1775497930710_98yaz",
+      "id": "site_1775497952281_zlf47",
       "url": "https://s.yimg.com/pv/static/img/aol_touch_icon_dkblue_76.png",
       "domain": "s.yimg.com",
       "title": "s.yimg.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=s.yimg.com&sz=64",
       "snippet": "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000L\u0000\u0000\u0000L\b\u0002\u0000\u0000\u0000H��|\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:80\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000L\u0000\u0000\u0000\u0000�[��\u0000\u0000 8IDATx�ݛyP\u001b�\u0019��w�\u001a�!l�؉c{|%����9�d�4i�f2����LfzL'ij�i�Ms���I�\u0002:\u0010\u0012� \u0018s�I\u0013_\u0010;fW�\u0013Y\u0012␰ BB�\u0002 \u001d����V6��JB\u0012\u0018��a�������w>hs�\u001f�P����\"\u0016��\bJro\u0014��'Z\u00156�w~´L �����Kق�$�Q�F�o�鮸����ܿ=3�`!E�\u001c%�Q�F突( ��!Ñ�C��\u001ae�*����5H�] ���!#�H�q��/�A3W�Q�+",
-      "checkedAt": "2026-04-06T17:52:10.719Z"
+      "checkedAt": "2026-04-06T17:52:32.293Z"
     },
     {
-      "id": "site_1775497930643_ybeg0",
+      "id": "site_1775497951594_rq8ec",
       "url": "https://www.nomadicmatt.com/travel-guides/switzerland-travel-tips/",
       "domain": "nomadicmatt.com",
       "title": "Switzerland Budget Travel Guide (Updated 2026)",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=nomadicmatt.com&sz=64",
       "snippet": "Switzerland Budget Travel Guide (Updated 2026) img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-index:1;",
-      "checkedAt": "2026-04-06T17:52:10.710Z"
+      "checkedAt": "2026-04-06T17:52:32.281Z"
     },
     {
-      "id": "site_1775497930497_8jrki",
+      "id": "site_1775497951443_71r3x",
       "url": "https://www.alpenwild.com/staticpage/budget-travel-in-switzerland/",
       "domain": "alpenwild.com",
       "title": "Budget Travel | Money-saving tips",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=alpenwild.com&sz=64",
       "snippet": "Switzerland can be affordable if you know how travel smart and use these money-saving tips",
-      "checkedAt": "2026-04-06T17:52:10.643Z"
+      "checkedAt": "2026-04-06T17:52:31.594Z"
     },
     {
-      "id": "site_1775497930391_6f2ui",
+      "id": "site_1775497951382_uio6l",
       "url": "https://www.budgetbucketlist.com/switzerland-budget-guide.html",
       "domain": "budgetbucketlist.com",
       "title": "Budget Travel Guide to Switzerland | Budget Bucket List",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=budgetbucketlist.com&sz=64",
       "snippet": "Budget Travel Guide to Switzerland: Advice from a by-now-local",
-      "checkedAt": "2026-04-06T17:52:10.497Z"
+      "checkedAt": "2026-04-06T17:52:31.443Z"
     },
     {
-      "id": "site_1775497930377_88c29",
+      "id": "site_1775497951368_i1cdb",
       "url": "https://www.reddit.com/r/Shoestring/comments/igadrd/my_guide_to_cheap_or_at_least_more_affordable/",
       "domain": "reddit.com",
       "title": "reddit.com",
       "status": "failed",
       "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=64",
-      "checkedAt": "2026-04-06T17:52:10.391Z"
+      "checkedAt": "2026-04-06T17:52:31.381Z"
     },
     {
-      "id": "site_1775497929914_skdtq",
+      "id": "site_1775497950872_ln5dz",
       "url": "https://us.trip.com/flights/cheap-flights-to-switzerland-80/71-ma-to-ch/",
       "domain": "us.trip.com",
       "title": "Cheap Flights From Morocco to Switzerland From $31 - Trip.com",
       "status": "analyzed",
       "favicon": "https://www.google.com/s2/favicons?domain=us.trip.com&sz=64",
       "snippet": "Discover cheap flights from Morocco to Switzerland starting at $31. Compare hundreds of flights from major airlines to secure the best prices. Get real-time flight prices from Morocco to Switzerland in seconds on Trip.co",
-      "checkedAt": "2026-04-06T17:52:10.377Z"
+      "checkedAt": "2026-04-06T17:52:31.368Z"
     }
   ],
   "citations": [
@@ -389,33 +378,33 @@
     },
     {
       "id": 11,
-      "url": "https://www.cheapestdestinationsblog.com/2023/03/15/morocco-trip-cost/",
-      "domain": "cheapestdestinationsblog.com",
-      "title": "How Much Will a Morocco Trip Cost?"
+      "url": "https://www.traveltourister.com/articles/switzerland-trip-cost/",
+      "domain": "traveltourister.com",
+      "title": "Switzerland Trip Cost: Complete 2026 Budget Breakdown"
     },
     {
       "id": 12,
-      "url": "https://www.nomadicmatt.com/travel-blogs/backpack-switzerland-on-a-budget/",
-      "domain": "nomadicmatt.com",
-      "title": "11 Tips For Visiting Switzerland On A Budget in 2026"
+      "url": "https://www.neverendingfootsteps.com/cost-of-travel-switzerland-budget/",
+      "domain": "neverendingfootsteps.com",
+      "title": "The Cost of Travel in Switzerland: My 2025 Budget Breakdown"
     },
     {
       "id": 13,
-      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
-      "domain": "s.yimg.com",
-      "title": "s.yimg.com"
+      "url": "https://travellersworldwide.com/trip-to-switzerland-cost",
+      "domain": "travellersworldwide.com",
+      "title": "💲 What a Trip to Switzerland Costs in 2026 | Average Prices"
     },
     {
       "id": 14,
-      "url": "https://code.jquery.com/jquery-3.7.0.min.js",
-      "domain": "code.jquery.com",
-      "title": "code.jquery.com"
+      "url": "https://www.summertimeinswitzerland.com/post/trip-to-switzerland-cost",
+      "domain": "summertimeinswitzerland.com",
+      "title": "summertimeinswitzerland.com"
     },
     {
       "id": 15,
-      "url": "https://simbye.com/blogs/blog/how-much-does-trip-to-switzerland-cost-2026-budget-breakdown?srsltid=AfmBOoodYD5D9mbxMrl6sucT4wJ6CaFDLMyvBGgOQ39RZ07yTV9EASJr",
-      "domain": "simbye.com",
-      "title": "Switzerland Trip Cost 2026: Budget Breakdown"
+      "url": "https://s.yimg.com/zz/combo?pv/static/lib/srp-header-css-aol_80ba7c395bb940c4efdde92c3a29a66a.css&pv/static/lib/srp-core-css-light-us_09ef477d6ac530cfeae79a3d9a4d184e.css&pv/static/lib/master-atomic-desktop_3afb7ad2b6b8059a07bac8a6a51f3380.css",
+      "domain": "s.yimg.com",
+      "title": "s.yimg.com"
     },
     {
       "id": 16,
@@ -431,85 +420,65 @@
     },
     {
       "id": 18,
-      "url": "https://www.tourlane.com/europe/switzerland/travel-cost/",
-      "domain": "tourlane.com",
-      "title": "How Much Does a Trip to Switzerland Cost? 2026 Budget Guide"
+      "url": "https://code.jquery.com/jquery-3.7.0.min.js",
+      "domain": "code.jquery.com",
+      "title": "code.jquery.com"
     },
     {
       "id": 19,
+      "url": "https://guidetoeurope.eu/switzerland/best-flights/from-morocco",
+      "domain": "guidetoeurope.eu",
+      "title": "Flights from Morocco to Switzerland | Guide to Europe"
+    },
+    {
+      "id": 20,
+      "url": "https://www.mylifeelsewhere.com/cost-of-living/switzerland/morocco",
+      "domain": "mylifeelsewhere.com",
+      "title": "Cost of living in Switzerland compared to Morocco"
+    },
+    {
+      "id": 21,
       "url": "https://community.ricksteves.com/travel-forum/budget-tips/so-uh-just-how-expensive-is-switzerland-any-general-advice-or-tips",
       "domain": "community.ricksteves.com",
       "title": "So, uh.... just how expensive is Switzerland? Any general advice or tips? - Rick Steves Travel Forum"
     },
     {
-      "id": 20,
+      "id": 22,
       "url": "https://www.destinationdaydreamer.com/switzerland-trip-cost-breakdown-is-it-as-expensive-as-they-say/",
       "domain": "destinationdaydreamer.com",
       "title": "Switzerland Trip Cost Breakdown: Is It As Expensive as They Say? - Destination Daydreamer"
     },
     {
-      "id": 21,
-      "url": "https://www.skyscanner.com/routes/ma/ch/morocco-to-switzerland.html",
-      "domain": "skyscanner.com",
-      "title": "Cheap flights from Morocco to Switzerland from $72 | Skyscanner"
-    },
-    {
-      "id": 22,
+      "id": 23,
       "url": "https://www.euronews.com/travel/2024/03/14/switzerland-on-a-budget-yes-it-is-possible-heres-how",
       "domain": "euronews.com",
       "title": "Switzerland on a budget? Yes, it is possible - here’s how | Euronews"
-    },
-    {
-      "id": 23,
-      "url": "https://alionswitzerland.com/switzerland-on-a-budget/",
-      "domain": "alionswitzerland.com",
-      "title": "Switzerland on a Budget - Ali on Switzerland"
-    },
-    {
-      "id": 24,
-      "url": "https://www.tourradar.com/l/d-budget-switzerland",
-      "domain": "tourradar.com",
-      "title": "10 Best Cheap Switzerland Tours & Trips 2026/2027 - TourRadar"
-    },
-    {
-      "id": 25,
-      "url": "https://ordinarytraveler.com/switzerland-budget-travel-tips",
-      "domain": "ordinarytraveler.com",
-      "title": "How to Plan a Trip to Switzerland on a Budget | Ordinary Traveler"
     }
   ],
   "notes": [
     {
-      "citationId": 25,
-      "summary": "Follow these simple money-saving tips when planning your trip and you’ll see how it really is possible to travel Switzerland on a budget!"
-    },
-    {
-      "citationId": 24,
-      "summary": "Discover Budget tours and authentic experiences in Switzerland, visiting places like Zurich and Interlaken. All Major Brands. Biggest Selection. Best Prices."
-    },
-    {
       "citationId": 23,
-      "summary": "Switzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead."
-    },
-    {
-      "citationId": 22,
       "summary": "The alpine nation is infamously expensive and attracts the mega rich year-round - but there are ways to make a trip there affordable."
     },
     {
-      "citationId": 21,
-      "summary": "Compare prices on hundreds of flights to Switzerland from Morocco. Skyscanner helps you find the best deal available for your next trip."
-    },
-    {
-      "citationId": 20,
+      "citationId": 22,
       "summary": "Discover the true cost of visiting Switzerland with our personal Switzerland trip cost breakdown, including tips on how to save and splurge!"
     },
     {
+      "citationId": 21,
+      "summary": "So, uh.... just how expensive is Switzerland? Any general advice or tips? - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum ›</sp"
+    },
+    {
+      "citationId": 20,
+      "summary": "Cost of living in Switzerland compared to Morocco. We provide several metrics to compare the cost of living including cost of groceries, transportation, and more."
+    },
+    {
       "citationId": 19,
-      "summary": "So, uh.... just how expensive is Switzerland? Any general advice or tips? - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum ›<"
+      "summary": "Explore cheap flight deals from Morocco to Switzerland. Find the cheapest cities in Switzerland to fly to. Compare all routes and airlines flying from Morocco secure your tickets."
     },
     {
       "citationId": 18,
-      "summary": "How much does a trip to Switzerland cost in 2026? From daily food prices to hotel rates in USD, our guide breaks down the average travel budget for every traveler."
+      "summary": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r"
     },
     {
       "citationId": 17,
@@ -521,23 +490,23 @@
     },
     {
       "citationId": 15,
-      "summary": "Switzerland trip costs 2026: flights, hotels, trains, food. Budget for Zurich, Geneva, Interlaken."
-    },
-    {
-      "citationId": 14,
-      "summary": "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r"
-    },
-    {
-      "citationId": 13,
       "summary": ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh"
     },
     {
+      "citationId": 14,
+      "summary": "--> .PVTOEq{bottom:0;left:0;position:absolute;right:0;top:0;width:100%}.JbQvCF{transform:translateY(-100%);transition:.2s ease-in}.LvGYRg{transition:.2s}._C88Up{opacity:0;transition:.2s ease-in}._C88Up.RLRBWe{z-index:-1!important}.DPp8M_{opacity:1;transition:.2s}.Ze1d3J{height:auto}.E2Gu_X,.Ze1d3J{position:relative;width:100%}:host(:not(.device-mobile-optimized)) .ql53Bl,body:not(.device-mobile-optimized) .ql53Bl{margin-left:calc((100% - var(--si"
+    },
+    {
+      "citationId": 13,
+      "summary": "We&#039;ll show you what the average trip to Switzerland costs, including how to save big on flights, accommodations, and food while you&#039;re there."
+    },
+    {
       "citationId": 12,
-      "summary": "11 Tips For Visiting Switzerland On A Budget in 2026 img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-in"
+      "summary": "Is Switzerland expensive? This European country has a reputation for being one of the most expensive countries on the planet, but how accurate are the"
     },
     {
       "citationId": 11,
-      "summary": "To show what to expect for a Morocco trip cost, travelers run down current rates for food, drink, accommodation, and getting around on a tour."
+      "summary": "Planning a Switzerland trip Cost? Discover exact costs for hotels, food, transport & attractions. Complete budget breakdown with money-saving tips for 2026."
     },
     {
       "citationId": 10,
@@ -582,104 +551,80 @@
   ],
   "events": [
     {
-      "id": "ev_1775497961831_f7n44",
-      "at": "2026-04-06T17:52:41.831Z",
+      "id": "ev_1775497966642_5bsds",
+      "at": "2026-04-06T17:52:46.642Z",
       "phase": "analyzing",
-      "message": "Analyzed 1 sources this iteration. Total: 25."
+      "message": "Analyzed 2 sources this iteration. Total: 23."
     },
     {
-      "id": "ev_1775497956330_16du0",
-      "at": "2026-04-06T17:52:36.330Z",
-      "phase": "analyzing",
-      "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) expert interview"
-    },
-    {
-      "id": "ev_1775497955530_j230z",
-      "at": "2026-04-06T17:52:35.530Z",
-      "phase": "analyzing",
-      "message": "Analyzed 2 sources this iteration. Total: 24."
-    },
-    {
-      "id": "ev_1775497953315_0vkbq",
-      "at": "2026-04-06T17:52:33.315Z",
-      "phase": "analyzing",
-      "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) case study"
-    },
-    {
-      "id": "ev_1775497952340_4mg1n",
-      "at": "2026-04-06T17:52:32.340Z",
-      "phase": "analyzing",
-      "message": "Analyzed 1 sources this iteration. Total: 22."
-    },
-    {
-      "id": "ev_1775497950943_mgpvd",
-      "at": "2026-04-06T17:52:30.943Z",
+      "id": "ev_1775497965583_wekfj",
+      "at": "2026-04-06T17:52:45.583Z",
       "phase": "analyzing",
       "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) limitations and risks"
     },
     {
-      "id": "ev_1775497950943_8sin4",
-      "at": "2026-04-06T17:52:30.943Z",
+      "id": "ev_1775497965583_5lhjj",
+      "at": "2026-04-06T17:52:45.583Z",
       "phase": "analyzing",
-      "message": "Analyzed 4 sources this iteration. Total: 21."
+      "message": "Analyzed 3 sources this iteration. Total: 21."
     },
     {
-      "id": "ev_1775497945035_v71xz",
-      "at": "2026-04-06T17:52:25.035Z",
+      "id": "ev_1775497964760_qkzj0",
+      "at": "2026-04-06T17:52:44.760Z",
       "phase": "analyzing",
       "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) benchmark comparison"
     },
     {
-      "id": "ev_1775497945035_6bf4t",
-      "at": "2026-04-06T17:52:25.035Z",
+      "id": "ev_1775497964760_1zzoq",
+      "at": "2026-04-06T17:52:44.760Z",
       "phase": "analyzing",
-      "message": "Analyzed 3 sources this iteration. Total: 17."
+      "message": "Analyzed 3 sources this iteration. Total: 18."
     },
     {
-      "id": "ev_1775497941131_zke2v",
-      "at": "2026-04-06T17:52:21.131Z",
+      "id": "ev_1775497962153_3og6v",
+      "at": "2026-04-06T17:52:42.153Z",
       "phase": "analyzing",
       "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) industry analysis 2025 2026"
     },
     {
-      "id": "ev_1775497941131_0apmn",
-      "at": "2026-04-06T17:52:21.131Z",
+      "id": "ev_1775497962153_ad7y5",
+      "at": "2026-04-06T17:52:42.153Z",
       "phase": "analyzing",
-      "message": "Analyzed 4 sources this iteration. Total: 14."
+      "message": "Analyzed 5 sources this iteration. Total: 15."
     },
     {
-      "id": "ev_1775497936964_j0rec",
-      "at": "2026-04-06T17:52:16.964Z",
+      "id": "ev_1775497953608_gsyoz",
+      "at": "2026-04-06T17:52:33.608Z",
       "phase": "analyzing",
       "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) latest research paper"
     },
     {
-      "id": "ev_1775497936964_q69y1",
-      "at": "2026-04-06T17:52:16.964Z",
+      "id": "ev_1775497953608_vqvv9",
+      "at": "2026-04-06T17:52:33.608Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 10."
     },
     {
-      "id": "ev_1775497930719_pyp6z",
-      "at": "2026-04-06T17:52:10.719Z",
+      "id": "ev_1775497952293_vrcdo",
+      "at": "2026-04-06T17:52:32.293Z",
       "phase": "analyzing",
       "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices) official documentation"
     },
     {
-      "id": "ev_1775497930719_gfx3r",
-      "at": "2026-04-06T17:52:10.719Z",
+      "id": "ev_1775497952293_1uj2x",
+      "at": "2026-04-06T17:52:32.293Z",
       "phase": "analyzing",
       "message": "Analyzed 5 sources this iteration. Total: 5."
     },
     {
-      "id": "ev_1775497929374_8ibmp",
-      "at": "2026-04-06T17:52:09.374Z",
+      "id": "ev_1775497950373_u70t4",
+      "at": "2026-04-06T17:52:30.373Z",
       "phase": "analyzing",
       "message": "Running query: Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices)"
     },
     {
-      "id": "ev_1775497929374_e1dah",
-      "at": "2026-04-06T17:52:09.374Z",
+      "id": "ev_1775497950373_7g81e",
+      "at": "2026-04-06T17:52:30.373Z",
       "phase": "query_fanout",
       "message": "Generated 24 additional search vectors."
     },
@@ -703,32 +648,32 @@
     }
   ],
   "learnedSoFar": [
-    "Follow these simple money-saving tips when planning your trip and you’ll see how it really is possible to travel Switzerland on a budget!",
-    "Discover Budget tours and authentic experiences in Switzerland, visiting places like Zurich and Interlaken. All Major Brands. Biggest Selection. Best Prices.",
-    "Switzerland is a famously expensive country, but there are ways to save on costs with the travel budget if you are careful and research ahead.",
     "The alpine nation is infamously expensive and attracts the mega rich year-round - but there are ways to make a trip there affordable.",
-    "Compare prices on hundreds of flights to Switzerland from Morocco. Skyscanner helps you find the best deal available for your next trip.",
     "Discover the true cost of visiting Switzerland with our personal Switzerland trip cost breakdown, including tips on how to save and splurge!",
-    "So, uh.... just how expensive is Switzerland? Any general advice or tips? - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum ›<",
-    "How much does a trip to Switzerland cost in 2026? From daily food prices to hotel rates in USD, our guide breaks down the average travel budget for every traveler.",
+    "So, uh.... just how expensive is Switzerland? Any general advice or tips? - Rick Steves Travel Forum Go! My Account Tour Account › Travel Forum ›</sp",
+    "Cost of living in Switzerland compared to Morocco. We provide several metrics to compare the cost of living including cost of groceries, transportation, and more.",
+    "Explore cheap flight deals from Morocco to Switzerland. Find the cheapest cities in Switzerland to fly to. Compare all routes and airlines flying from Morocco secure your tickets.",
+    "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
     "Travel experts, journalists and analysts reveal the trends, destinations and tips shaping the future of travel in 2026 and beyond.",
     "The Switzerland travel and tourism market size was valued at USD 31,359.63 Million in 2025 to reach USD 50,322.07 Million by 2034 at a CAGR of 5.40% during 2026-2034.",
-    "Switzerland trip costs 2026: flights, hotels, trains, food. Budget for Zurich, Geneva, Interlaken.",
-    "/*! jQuery v3.7.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\"jQuery requires a window with a document\");return t(e)}:t(e)}(\"undefined\"!=typeof window?window:this,function(ie,e){\"use strict\";var oe=[],r=Object.getPrototypeOf,ae=oe.slice,g=oe.flat?function(e){r",
     ".ie.v6_0 #sticky-hd,.ie.v7_0 #sticky-hd{position:relative}#sticky-hd{position:absolute;top:0;width:100%;min-width:1000px;background-color:#fafafc;z-index:15000}#sticky-hd.active{border-bottom:solid 1px #ccc;box-shadow:0 0 9px 0 #ccc;-webkit-box-shadow:0 0 9px 0 #ccc;-moz-box-shadow:0 0 9px 0 #ccc;position:fixed;padding-bottom:8px;top:-78px}.ie.v6_0 #sticky-hd ~ #bd,.ie.v7_0 #sticky-hd ~ #bd{margin-top:13px}#sticky-hd ~ #bd{margin-top:83px}#doc.uh",
-    "11 Tips For Visiting Switzerland On A Budget in 2026 img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}.kb-row-layout-wrap{position:relative;border:0 solid transparent}.kb-row-layout-wrap:before{clear:both;display:table;content:\"\"}.kt-row-column-wrap{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--global-row-gutter-md,2rem) var(--global-row-gutter-md,2rem);grid-auto-rows:minmax(min-content,max-content);z-in",
-    "To show what to expect for a Morocco trip cost, travelers run down current rates for food, drink, accommodation, and getting around on a tour.",
+    "--> .PVTOEq{bottom:0;left:0;position:absolute;right:0;top:0;width:100%}.JbQvCF{transform:translateY(-100%);transition:.2s ease-in}.LvGYRg{transition:.2s}._C88Up{opacity:0;transition:.2s ease-in}._C88Up.RLRBWe{z-index:-1!important}.DPp8M_{opacity:1;transition:.2s}.Ze1d3J{height:auto}.E2Gu_X,.Ze1d3J{position:relative;width:100%}:host(:not(.device-mobile-optimized)) .ql53Bl,body:not(.device-mobile-optimized) .ql53Bl{margin-left:calc((100% - var(--si",
+    "We&#039;ll show you what the average trip to Switzerland costs, including how to save big on flights, accommodations, and food while you&#039;re there.",
+    "Is Switzerland expensive? This European country has a reputation for being one of the most expensive countries on the planet, but how accurate are the",
+    "Planning a Switzerland trip Cost? Discover exact costs for hotels, food, transport & attractions. Complete budget breakdown with money-saving tips for 2026.",
     "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000�\u0000\u0000\u0000�\b\u0002\u0000\u0000\u0000h�N\u0007\u0000\u0000 IDATx���oS�\u0019��_�?T\u0002�R+� QU-\b��U;ѪC�j�t\"e@�U�ZZ�\u0016�VJ�u]ǆ�J��\u001b�$M�\u0014HB�\u001dǎ\u0013ǎ�8q�ĉ�81~��$�x\u000fx3i��{}��G�\u001f@�~;�{�s�s��ܬ�d\u0016�,�Uaz�t\u0007UR7\u0006�̆ʒ\b�\\0J\u00010U�\u001f����/��R#mq���:,\u0007\u0003˸s��67��7�%gpV?N\u001b\u001a�\u000f/X%d\u0010�����J[\u0019�C�}R1h�{����@����3��E���%ԁ\u001aQ�A �p�exm���,�>8o\u0011��/\u001c�isnȣ��[���Re�� }}yp].m}���O\u000e� ��� ����\u001eڈ)���ŏA���5���:��鋤��Ӥ ���\u001b�_\u0014\u001bh��+�D\u0000��=w���A:ۑB[� 7�Q\u0014����g ��4Z�X\u0012�:+�׹�`�\u001b>�`{�6���O���\u0001�5i��#㈏�\u0001m\u001ay��@\u001f�,P\u0006J�X�\u0000W @\u0019Ȥ � �@I=��",
     "�PNG \u001a \u0000\u0000\u0000 IHDR\u0000\u0000\u0000r\u0000\u0000\u0000r\b\u0002\u0000\u0000\u0000\u0000�\u0012*\u0000\u0000\u0000�eXIfMM\u0000*\u0000\u0000\u0000\b\u0000\u0007\u0001\u0012\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0001\u001a\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000b\u0001\u001b\u0000\u0005\u0000\u0000\u0000\u0001\u0000\u0000\u0000j\u0001(\u0000\u0003\u0000\u0000\u0000\u0001\u0000\u0002\u0000\u0000\u00011\u0000\u0002\u0000\u0000\u0000\u000f\u0000\u0000\u0000r\u00012\u0000\u0002\u0000\u0000\u0000\u0014\u0000\u0000\u0000��i\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000\u0000\u0000H\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000\u0000\u0000\u0001Pixelmator 3.9\u0000\u00002020:01:24 11:01:47\u0000\u0000\u0002�\u0002\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r�\u0003\u0000\u0004\u0000\u0000\u0000\u0001\u0000\u0000\u0000r\u0000\u0000\u0000\u0000�&8�\u0000\u0000\u0012�IDATx��yt�U���� ��� \u0016k\u0002k�n�R��bO`�e]@�s�\u001dN�+�5�Cuk\u0016�68���\u0013X#��.��l\u0002!\u0001\u0012X#�)\u0014f�b��\u0012\u0001 ��HU �h@g \u0010�K` ��%�\u001d��b4�\u0012Xc\u0019\u0007X�\u0000\u0001K\u0002k�R��?R�\u001c\u0018O`�e�O��-o�\u001f5&�ƲΣ0�|Y>f��\u0017+ Q�\u0016A\u0019n�璙_�P�\u0003ꫨ�µ\u0017c�e>5��Zr7$\u000f,��i��. \u0004����\u000e��\u0011/�)\u0018�R��pM��5͇&գW",
-    "What&#039;s the real cost of a trip to Switzerland? Our 2026 guide provides a realistic budget breakdown and tips for saving money in this beautiful country."
+    "What&#039;s the real cost of a trip to Switzerland? Our 2026 guide provides a realistic budget breakdown and tips for saving money in this beautiful country.",
+    "Switzerland is one of the world’s most expensive places, it’s true. Follow these tips to get the most out of this beautiful nation for less.",
+    "Switzerland has been a country high on my bucket list to visit. It offers everything - good food, incredible scenic railway journeys, and some of the most breathtaking views. The downside? It&#039;s expensive. As soon as"
   ],
   "stats": {
-    "sourcesAnalyzed": 25,
-    "tokensUsedEstimate": 1766,
-    "depthScore": 21,
+    "sourcesAnalyzed": 23,
+    "tokensUsedEstimate": 1692,
+    "depthScore": 19,
     "queriesGenerated": 24,
-    "iterations": 8,
-    "uniqueDomains": 21
+    "iterations": 6,
+    "uniqueDomains": 20
   },
   "control": {
     "paused": false,
