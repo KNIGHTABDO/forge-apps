@@ -3,7 +3,7 @@
   "sessionId": "sess_id690uh",
   "query": "Make me a trip recommendations to switzerland 🇨🇭 with lowest possible costs (moroccan prices)",
   "createdAt": "2026-04-06T08:58:14.685Z",
-  "updatedAt": "2026-04-06T08:58:24.848Z",
+  "updatedAt": "2026-04-06T08:59:05.764Z",
   "lastAdvancedAt": "2026-04-06T08:58:14.685Z",
   "phase": "query_fanout",
   "progress": 2,
@@ -16,6 +16,12 @@
   "citations": [],
   "notes": [],
   "events": [
+    {
+      "id": "ev_1775465945764",
+      "at": "2026-04-06T08:59:05.764Z",
+      "phase": "query_fanout",
+      "message": "Research plan approved. Launching query fan-out."
+    },
     {
       "id": "ev_1775465904848",
       "at": "2026-04-06T08:58:24.848Z",
